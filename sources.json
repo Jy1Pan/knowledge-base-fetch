@@ -1,23 +1,29 @@
 {
-  "_comment": "每一行一个取数面。cadence: daily | weekly | monthly。kind: page(HTML 列表页) | api(机读) | rss。note 里写清它为什么用这条入口。付费全文一律不抓，标 library_only。",
-  "_generated": "2026-10-16, 由知识库会话写出，供 JyPan 的 Actions 仓库使用",
-
+  "_comment": "每一行一个取数面。cadence: daily | weekly | monthly。kind: page(HTML 列表页) | api(机读) | rss。note 里写清它为什么用这条入口。付费全文一律不抓，标 library_only。 可选字段：ext 覆盖默认扩展名；headers 追加请求头；min_bytes（默认 512）与 min_text（HTML 默认 200）是内容闸门的下限。",
+  "_generated": "2026-10-16, 由知识库会话写出，供 JyPan 的 Actions 仓库使用；2026-10-16 晚第二版：EUR-Lex 两面改走 Cellar，线编号对齐协议第二节，新增可选字段 ext / headers / min_bytes / min_text",
   "sources": [
     {
       "slug": "eurlex-32023R1542",
       "line": "L9-eu-battery-reg",
-      "kind": "api",
+      "kind": "page",
       "cadence": "daily",
-      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1542",
-      "note": "电池法合并版正文。它的合并版在每次修订后会变，所以它本身就是一个 diff 面：正文变了说明有授权法案并进来了。"
+      "url": "http://publications.europa.eu/resource/celex/32023R1542",
+      "note": "电池法原始正文，走欧盟出版署 Cellar 的内容协商而不是 eur-lex.europa.eu。后者 2026-10-16 在 Actions 上返回 202 空响应（防护或异步应答），Cellar 是同一份法规的机读出口。注意这是原始版不是合并版，合并版的变化看下一面里的 consolidates 关系。未实测，第二版第一次运行即验证。",
+      "ext": "html",
+      "headers": {
+        "Accept": "application/xhtml+xml;q=1.0, text/html;q=0.9",
+        "Accept-Language": "eng"
+      }
     },
     {
       "slug": "eurlex-search-1542-amendments",
       "line": "L9-eu-battery-reg",
       "kind": "api",
       "cadence": "daily",
-      "url": "https://eur-lex.europa.eu/search.html?scope=EURLEX&text=%222023%2F1542%22&lang=en&type=quick&DTS_SUBDOM=LEGISLATION&sortOne=DD&sortOneOrder=desc",
-      "note": "按发布日倒序搜 2023/1542，新授权法案出现在第一页。第 7 条碳足迹法案与第 8 条回收含量法案的通过都会在这里先出现。"
+      "url": "https://publications.europa.eu/webapi/rdf/sparql?query=PREFIX+cdm%3A+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fontology%2Fcdm%23%3E%0APREFIX+owl%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23%3E%0ASELECT+DISTINCT+%3Frel+%3Fcelex+%3Fdate+WHERE+%7B%0A++%3Ft+owl%3AsameAs+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fresource%2Fcelex%2F32023R1542%3E+.%0A++%7B+%3Fw+cdm%3Aresource_legal_amends_resource_legal+%3Ft+.+BIND%28%22amends%22+AS+%3Frel%29+%7D%0A++UNION+%7B+%3Fw+cdm%3Aresource_legal_based_on_resource_legal+%3Ft+.+BIND%28%22based_on%22+AS+%3Frel%29+%7D%0A++UNION+%7B+%3Fw+cdm%3Aresource_legal_corrects_resource_legal+%3Ft+.+BIND%28%22corrects%22+AS+%3Frel%29+%7D%0A++UNION+%7B+%3Fw+cdm%3Aact_consolidated_consolidates_resource_legal+%3Ft+.+BIND%28%22consolidates%22+AS+%3Frel%29+%7D%0A++%3Fw+cdm%3Aresource_legal_id_celex+%3Fcelex+.%0A++OPTIONAL+%7B+%3Fw+cdm%3Awork_date_document+%3Fdate+%7D%0A%7D%0AORDER+BY+DESC%28%3Fdate%29+%3Fcelex%0ALIMIT+500&format=application%2Fsparql-results%2Bjson",
+      "note": "Cellar SPARQL：列出修订（amends）、以它为依据（based_on，授权法案与实施法案走这一条）、更正（corrects）、合并版（consolidates）四种关系指向 32023R1542 的全部文件，按日期倒序。第 7 条与第 8 条授权法案一旦发布就会作为 based_on 出现。替代 2026-10-16 返回 202 空响应的 eur-lex 搜索页。谓词名按 CDM 本体写，未实测，第二版第一次运行即验证；若返回零行而状态 200，先怀疑谓词名而不是没有新法案。",
+      "ext": "json",
+      "min_bytes": 200
     },
     {
       "slug": "eu-have-your-say-batteries",
@@ -109,7 +115,7 @@
     },
     {
       "slug": "crossref-giurco",
-      "line": "L17-phd-targets",
+      "line": "L4-research-workflow-phd-targets",
       "kind": "api",
       "cadence": "weekly",
       "url": "https://api.crossref.org/works?rows=30&sort=created&order=desc&query.author=Giurco&select=DOI,title,created,author,container-title",
@@ -117,7 +123,7 @@
     },
     {
       "slug": "crossref-wen-li-lca",
-      "line": "L17-phd-targets",
+      "line": "L4-research-workflow-phd-targets",
       "kind": "api",
       "cadence": "weekly",
       "url": "https://api.crossref.org/works?rows=30&sort=created&order=desc&query.author=Wen+Li&query.bibliographic=life+cycle+assessment&select=DOI,title,created,author,container-title",
@@ -157,7 +163,7 @@
     },
     {
       "slug": "batteriepasswerk-comparison",
-      "line": "L16-compliance-biz",
+      "line": "L17-compliance-biz",
       "kind": "page",
       "cadence": "weekly",
       "url": "https://www.batteriepasswerk.com/en/comparison",
@@ -172,7 +178,6 @@
       "note": "顺手结清知识库挂了三十天的 arXiv 缺口。它在知识库容器里三条路全部 403，而在 Actions 上是开放 API。"
     }
   ],
-
   "manual_only": [
     {
       "slug": "fastmarkets",
@@ -187,8 +192,25 @@
     {
       "slug": "liepin-boss",
       "reason": "猎聘与 BOSS 直聘需要登录，而且反自动化。只能由 JyPan 在自己的 Chrome 里跑，知识库负责记账与关键词清单。",
-      "keywords": ["欧盟电池法", "循环经济碳核算", "产品碳足迹", "电池回收 业务", "绿电交易", "电池护照"],
-      "cities": ["上海", "深圳", "广州", "杭州", "武汉", "北京", "常州", "无锡", "宁德"]
+      "keywords": [
+        "欧盟电池法",
+        "循环经济碳核算",
+        "产品碳足迹",
+        "电池回收 业务",
+        "绿电交易",
+        "电池护照"
+      ],
+      "cities": [
+        "上海",
+        "深圳",
+        "广州",
+        "杭州",
+        "武汉",
+        "北京",
+        "常州",
+        "无锡",
+        "宁德"
+      ]
     }
   ]
 }

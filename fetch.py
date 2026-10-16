@@ -22,11 +22,19 @@
 
 5. 付费与需登录的源不在这里，它们在 sources.json 的 manual_only 里。
    这个脚本不碰付费墙，也不伪装登录。
+
+6. 「返回 200」不等于「取到了」。2026-10-16 第一次运行把两份 202 空响应、一份 3 字节的页面
+   和三个只有前端壳的页面全部记成了成功，提交标题写 ok 15/16 而真正可用的只有 9 个。
+   所以从第二版起每一行另记 content_ok：状态必须是 200，正文字节数不低于 min_bytes，
+   HTML 面去掉脚本与样式后的可见文字不低于 min_text。不合格的那一版只进 history/
+   以便诊断，不覆盖 latest/，于是 latest/ 里永远是最后一次合格的那一版。
+   提交标题里的 ok 数从此按 content_ok 计。
 """
 
 from __future__ import annotations
 
 import hashlib
+import re
 import json
 import os
 import pathlib
@@ -41,10 +49,23 @@ LATEST = ROOT / "latest"
 HISTORY = ROOT / "history"
 MANIFEST = ROOT / "manifest.jsonl"
 
-UA = "jypan-kb-fetcher/1.0 (personal research; contact via repo issues)"
+UA = "jypan-kb-fetcher/2.0 (personal research; contact via repo issues)"
 TIMEOUT = 45
 
 EXT = {"api": "json", "rss": "xml", "page": "html"}
+
+# 第二版的内容闸门，单个源可在 sources.json 里用 min_bytes / min_text 覆盖
+MIN_BYTES = 512
+MIN_TEXT = 200
+
+
+def visible_chars(body: bytes) -> int:
+    """HTML 去掉 script、style、标签与空白之后剩下的字符数。前端壳页面这个数只有几十。"""
+    t = body.decode("utf-8", "replace")
+    t = re.sub(r"(?is)<(script|style|noscript)\b.*?</\1>", " ", t)
+    t = re.sub(r"(?s)<[^>]+>", " ", t)
+    t = re.sub(r"&[#\w]+;", " ", t)
+    return len("".join(t.split()))
 
 
 def now_iso() -> str:
@@ -71,7 +92,7 @@ def due(cadence: str) -> bool:
 def fetch_one(src: dict) -> dict:
     slug = src["slug"]
     url = src["url"]
-    ext = EXT.get(src.get("kind", "page"), "txt")
+    ext = src.get("ext") or EXT.get(src.get("kind", "page"), "txt")
     rec = {
         "slug": slug,
         "line": src.get("line", ""),
@@ -82,9 +103,13 @@ def fetch_one(src: dict) -> dict:
         "bytes": None,
         "sha256": None,
         "path": None,
+        "content_ok": False,
+        "visible_chars": None,
         "error": None,
     }
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
+    headers = {"User-Agent": UA, "Accept": "*/*"}
+    headers.update(src.get("headers", {}))
+    req = urllib.request.Request(url, headers=headers)
     try:
         with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
             body = resp.read()
@@ -100,18 +125,35 @@ def fetch_one(src: dict) -> dict:
         _append(rec)
         return rec
 
-    rel = f"latest/{slug}.{ext}"
-    (LATEST).mkdir(parents=True, exist_ok=True)
-    (LATEST / f"{slug}.{ext}").write_bytes(body)
+    rec["bytes"] = len(body)
+    rec["sha256"] = hashlib.sha256(body).hexdigest()
 
-    # 历史副本按日期留一份，便于以后把某一天那一版原样取回重算
+    # 内容闸门（设计依据第 6 条）
+    why = []
+    if rec["status"] != 200:
+        why.append(f"status {rec['status']}")
+    if len(body) < src.get("min_bytes", MIN_BYTES):
+        why.append(f"bytes {len(body)} < {src.get('min_bytes', MIN_BYTES)}")
+    if ext == "html":
+        rec["visible_chars"] = visible_chars(body)
+        if rec["visible_chars"] < src.get("min_text", MIN_TEXT):
+            why.append(f"visible_chars {rec['visible_chars']} < {src.get('min_text', MIN_TEXT)}，疑似前端壳")
+    rec["content_ok"] = not why
+    if why:
+        rec["error"] = "content_gate: " + "; ".join(why)
+
+    # 历史副本按日期留一份，合格与否都留，便于诊断与以后原样重算
     hdir = HISTORY / slug
     hdir.mkdir(parents=True, exist_ok=True)
     (hdir / f"{today()}.{ext}").write_bytes(body)
 
-    rec["bytes"] = len(body)
-    rec["sha256"] = hashlib.sha256(body).hexdigest()
-    rec["path"] = rel
+    if rec["content_ok"]:
+        rel = f"latest/{slug}.{ext}"
+        LATEST.mkdir(parents=True, exist_ok=True)
+        (LATEST / f"{slug}.{ext}").write_bytes(body)
+        rec["path"] = rel
+    else:
+        rec["path"] = f"history/{slug}/{today()}.{ext}"
     _append(rec)
     return rec
 
@@ -129,12 +171,12 @@ def main() -> int:
     ok = fail = 0
     for s in srcs:
         r = fetch_one(s)
-        if r["sha256"]:
+        if r["content_ok"]:
             ok += 1
             print(f"  OK   {r['slug']:<34} {r['status']} {r['bytes']:>9} {r['sha256'][:12]}")
         else:
             fail += 1
-            print(f"  FAIL {r['slug']:<34} {r['status']} {r['error']}")
+            print(f"  FAIL {r['slug']:<34} {r['status']} {r['bytes']} {r['error']}")
         time.sleep(2)  # 对每个站点客气一点
 
     print(f"[{now_iso()}] 成功 {ok} 失败 {fail}")
