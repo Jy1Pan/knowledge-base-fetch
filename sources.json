@@ -44,10 +44,10 @@
     {
       "slug": "miit-news",
       "line": "L10-cn-battery-reg",
-      "kind": "page",
+      "kind": "api",
       "cadence": "daily",
-      "url": "https://www.miit.gov.cn/jgsj/zbes/wjfb/index.html",
-      "note": "工信部装备工业一司文件发布。动力电池碳足迹申报与白名单批次走这里。"
+      "url": "https://www.miit.gov.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=buildstatic&webId=8d828e408d90447786ddbe128d495e9e&tplSetId=209741b2109044b5b7695700b2bec37e&pageType=column&tagId=%E5%BD%93%E5%89%8D%E6%A0%8F%E7%9B%AE_list&editType=null&pageId=28ac65269a12494f81b5a832bce5f51c",
+      "note": "装备工业一司（zbys，主管汽车与动力电池）文件发布栏目的列表接口，返回 JSON，列表在 data.html 里。2026-10-16 改：原先抓的是 /jgsj/zbes/wjfb/，那是装备工业二司（重大技术装备），司别选错了，而且页面本身是前端壳。本接口是在 JyPan 的 Chrome 里从 /jgsj/zbys/wjfb/index.html 的网络请求里读到的，当日列表首条为第 411 批《道路机动车辆生产企业及产品》（2026-10-16）。Actions 的出口能不能取到它尚未实测，下一次运行看 content_ok。"
     },
     {
       "slug": "miit-eidc-cfp-platform",
