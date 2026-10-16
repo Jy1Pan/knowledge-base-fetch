@@ -42,13 +42,14 @@ jobs:
             exit 0
           fi
           # 提交标题里带当天的成功/失败计数，这样下游不读内容也能看出这次跑成了没有。
+          # 第二版起按 content_ok 计（状态 200 且过了内容闸门），见 fetch.py 设计依据第 6 条。
           OK=$(python - <<'PY'
           import json,pathlib,datetime
           d=datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d')
           p=pathlib.Path('manifest.jsonl')
           rows=[json.loads(l) for l in p.read_text(encoding='utf-8').splitlines() if l.strip()]
           rows=[r for r in rows if r['fetched_at_utc'].startswith(d)]
-          print(f"{sum(1 for r in rows if r.get('sha256'))}/{len(rows)}")
+          print(f"{sum(1 for r in rows if r.get('content_ok'))}/{len(rows)}")
           PY
           )
           git commit -m "fetch $(date -u +%F): ok ${OK}"
