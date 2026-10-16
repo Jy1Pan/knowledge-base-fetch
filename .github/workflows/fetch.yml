@@ -31,12 +31,25 @@ jobs:
       - name: fetch all due sources
         run: python fetch.py
 
+      # 三方分工里 API 那一环。只对今天变了的源调模型，没变的与第一次抓到的零花费。
+      # 密钥只从仓库 Secrets 读，不进任何文件。没设密钥时它记一行 skipped_no_key 然后正常结束。
+      # continue-on-error：digest 出任何意外都不能挡住下一步把 fetch 的结果提交上去，
+      # 与 fetch.py「一个源失败不让整次运行失败」是同一条原则。
+      - name: digest changed sources with the API
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          KB_MODEL: ${{ vars.KB_MODEL }}
+          KB_MAX_CALLS: ${{ vars.KB_MAX_CALLS || '25' }}
+        run: python digest.py
+
       - name: commit if anything changed
         run: |
           set -euo pipefail
           git config user.name  "kb-fetcher"
           git config user.email "kb-fetcher@users.noreply.github.com"
           git add -A latest history manifest.jsonl
+          if [ -d digest ]; then git add -A digest; fi
           if git diff --cached --quiet; then
             echo "nothing changed"
             exit 0
@@ -52,5 +65,6 @@ jobs:
           print(f"{sum(1 for r in rows if r.get('content_ok'))}/{len(rows)}")
           PY
           )
-          git commit -m "fetch $(date -u +%F): ok ${OK}"
+          DG=$(python -c "import json;d=json.load(open('digest/latest.json'));print(f\"{d['candidates_verified']}/{d['candidates']} {d['run']['status']}\")" 2>/dev/null || echo "n/a")
+          git commit -m "fetch $(date -u +%F): ok ${OK}; digest ${DG}"
           git push
