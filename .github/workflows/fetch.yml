@@ -1,0 +1,55 @@
+name: fetch
+
+# 每天 UTC 21:30 跑一次。刻意排在知识库定时任务（UTC 22:00）之前半小时，
+# 这样知识库每次读到的都是当天刚抓的那一版，而不是前一天的。
+# 这个相位差是故意的，知识库那边记了三次「相位差」的坑，这里一次解掉。
+on:
+  schedule:
+    - cron: "30 21 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: fetch all due sources
+        run: python fetch.py
+
+      - name: commit if anything changed
+        run: |
+          set -euo pipefail
+          git config user.name  "kb-fetcher"
+          git config user.email "kb-fetcher@users.noreply.github.com"
+          git add -A latest history manifest.jsonl
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+            exit 0
+          fi
+          # 提交标题里带当天的成功/失败计数，这样下游不读内容也能看出这次跑成了没有。
+          OK=$(python - <<'PY'
+          import json,pathlib,datetime
+          d=datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d')
+          p=pathlib.Path('manifest.jsonl')
+          rows=[json.loads(l) for l in p.read_text(encoding='utf-8').splitlines() if l.strip()]
+          rows=[r for r in rows if r['fetched_at_utc'].startswith(d)]
+          print(f"{sum(1 for r in rows if r.get('sha256'))}/{len(rows)}")
+          PY
+          )
+          git commit -m "fetch $(date -u +%F): ok ${OK}"
+          git push
