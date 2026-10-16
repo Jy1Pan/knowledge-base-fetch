@@ -1,0 +1,26 @@
+{
+  "name": "record_candidates",
+  "description": "交出今天新增文字里值得知识库人工复核的候选。没有就交空列表。",
+  "input_schema": {
+    "type": "object",
+    "properties": {
+      "candidates": {
+        "type": "array",
+        "maxItems": 10,
+        "items": {
+          "type": "object",
+          "properties": {
+            "quote": {"type": "string", "description": "从新增文字逐字复制，20 到 200 字"},
+            "title": {"type": "string", "description": "中文一句话，不超过 40 字，只用 quote 里的信息"},
+            "date": {"type": ["string", "null"], "description": "quote 里出现的日期，照抄；没有填 null"},
+            "link": {"type": ["string", "null"], "description": "新增文字里出现的完整网址，照抄；没有填 null"},
+            "relevance": {"type": "string", "enum": ["high", "medium", "low"]},
+            "why": {"type": "string"}
+          },
+          "required": ["quote", "title", "date", "link", "relevance", "why"]
+        }
+      }
+    },
+    "required": ["candidates"]
+  }
+}
