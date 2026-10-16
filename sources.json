@@ -1,0 +1,194 @@
+{
+  "_comment": "每一行一个取数面。cadence: daily | weekly | monthly。kind: page(HTML 列表页) | api(机读) | rss。note 里写清它为什么用这条入口。付费全文一律不抓，标 library_only。",
+  "_generated": "2026-10-16, 由知识库会话写出，供 JyPan 的 Actions 仓库使用",
+
+  "sources": [
+    {
+      "slug": "eurlex-32023R1542",
+      "line": "L9-eu-battery-reg",
+      "kind": "api",
+      "cadence": "daily",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1542",
+      "note": "电池法合并版正文。它的合并版在每次修订后会变，所以它本身就是一个 diff 面：正文变了说明有授权法案并进来了。"
+    },
+    {
+      "slug": "eurlex-search-1542-amendments",
+      "line": "L9-eu-battery-reg",
+      "kind": "api",
+      "cadence": "daily",
+      "url": "https://eur-lex.europa.eu/search.html?scope=EURLEX&text=%222023%2F1542%22&lang=en&type=quick&DTS_SUBDOM=LEGISLATION&sortOne=DD&sortOneOrder=desc",
+      "note": "按发布日倒序搜 2023/1542，新授权法案出现在第一页。第 7 条碳足迹法案与第 8 条回收含量法案的通过都会在这里先出现。"
+    },
+    {
+      "slug": "eu-have-your-say-batteries",
+      "line": "L9-eu-battery-reg",
+      "kind": "page",
+      "cadence": "daily",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives?topic=ENER&status=OPEN",
+      "note": "草案公示。授权法案在通过之前先在这里挂反馈期，所以它比 EUR-Lex 早。"
+    },
+    {
+      "slug": "jrc-eplca",
+      "line": "L11-pcf-method",
+      "kind": "page",
+      "cadence": "weekly",
+      "url": "https://eplca.jrc.ec.europa.eu/",
+      "note": "JRC 的 CFB-EV 规则与 PEF 的 CFF 公式都从这里发。节奏慢，每周一次够。"
+    },
+    {
+      "slug": "miit-news",
+      "line": "L10-cn-battery-reg",
+      "kind": "page",
+      "cadence": "daily",
+      "url": "https://www.miit.gov.cn/jgsj/zbes/wjfb/index.html",
+      "note": "工信部装备工业一司文件发布。动力电池碳足迹申报与白名单批次走这里。"
+    },
+    {
+      "slug": "miit-eidc-cfp-platform",
+      "line": "L10-cn-battery-reg",
+      "kind": "page",
+      "cadence": "daily",
+      "url": "https://tzjhs.miit-eidc.org.cn/websites/",
+      "note": "汽车动力电池碳足迹信息平台。2026 试运行、2027-01-01 常态化这两个日期的任何变化在这里首发。"
+    },
+    {
+      "slug": "mee-news",
+      "line": "L12-grid-factor",
+      "kind": "page",
+      "cadence": "daily",
+      "url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk01/",
+      "note": "生态环境部文件。年度电力排放因子那五种口径从这里发。"
+    },
+    {
+      "slug": "nea-green-certificate",
+      "line": "L12-grid-factor",
+      "kind": "page",
+      "cadence": "monthly",
+      "url": "https://www.nea.gov.cn/xwzx/nyzx.htm",
+      "note": "国家能源局新闻。绿证月度交易量与均价按月发。注意这个域在知识库容器里连 DNS 都解析不了，所以它只能走本仓库。"
+    },
+    {
+      "slug": "crossref-rcr",
+      "line": "L11-pcf-method",
+      "kind": "api",
+      "cadence": "daily",
+      "url": "https://api.crossref.org/journals/0921-3449/works?rows=40&sort=created&order=desc&select=DOI,title,created,author,volume,page,abstract",
+      "note": "Resources, Conservation & Recycling。Crossref 的公开 API 就是给这个用途的，不碰出版社付费墙。全文标 library_only。"
+    },
+    {
+      "slug": "crossref-ijlca",
+      "line": "L11-pcf-method",
+      "kind": "api",
+      "cadence": "daily",
+      "url": "https://api.crossref.org/journals/0948-3349/works?rows=40&sort=created&order=desc&select=DOI,title,created,author,volume,page,abstract",
+      "note": "International Journal of Life Cycle Assessment。"
+    },
+    {
+      "slug": "crossref-jclepro",
+      "line": "L11-pcf-method",
+      "kind": "api",
+      "cadence": "daily",
+      "url": "https://api.crossref.org/journals/0959-6526/works?rows=40&sort=created&order=desc&select=DOI,title,created,author,volume,page,abstract",
+      "note": "Journal of Cleaner Production。它刊量很大，所以下游要按关键词过滤再看。"
+    },
+    {
+      "slug": "crossref-est",
+      "line": "L11-pcf-method",
+      "kind": "api",
+      "cadence": "daily",
+      "url": "https://api.crossref.org/journals/0013-936X/works?rows=40&sort=created&order=desc&select=DOI,title,created,author,volume,page,abstract",
+      "note": "Environmental Science & Technology。"
+    },
+    {
+      "slug": "crossref-natcomms-battery",
+      "line": "L11-pcf-method",
+      "kind": "api",
+      "cadence": "daily",
+      "url": "https://api.crossref.org/journals/2041-1723/works?rows=40&sort=created&order=desc&query.bibliographic=battery+carbon+footprint&select=DOI,title,created,author,abstract",
+      "note": "Nature Communications 刊量太大，这里按题录关键词先收窄。"
+    },
+    {
+      "slug": "crossref-giurco",
+      "line": "L17-phd-targets",
+      "kind": "api",
+      "cadence": "weekly",
+      "url": "https://api.crossref.org/works?rows=30&sort=created&order=desc&query.author=Giurco&select=DOI,title,created,author,container-title",
+      "note": "Giurco 的新论文。按作者名查会有同名噪声，下游要按机构与期刊再筛。"
+    },
+    {
+      "slug": "crossref-wen-li-lca",
+      "line": "L17-phd-targets",
+      "kind": "api",
+      "cadence": "weekly",
+      "url": "https://api.crossref.org/works?rows=30&sort=created&order=desc&query.author=Wen+Li&query.bibliographic=life+cycle+assessment&select=DOI,title,created,author,container-title",
+      "note": "Wen Li 是一个高频重名，所以必须加题录关键词收窄，而且下游仍要人看一眼。"
+    },
+    {
+      "slug": "metal-com-scrap",
+      "line": "L14-recycling",
+      "kind": "page",
+      "cadence": "daily",
+      "url": "https://news.metal.com/list/industry/scraps-secondary",
+      "note": "上海有色网再生金属栏目。只取列表页题录与日期，不取正文详情页，避免越过它的使用条款。"
+    },
+    {
+      "slug": "electrive-rss",
+      "line": "L13-plants",
+      "kind": "rss",
+      "cadence": "daily",
+      "url": "https://www.electrive.com/feed/",
+      "note": "electrive 自己发布的 RSS，取它是它的本意。电芯厂与电池包厂的新建扩产多半先在这里出现。"
+    },
+    {
+      "slug": "battery-news-rss",
+      "line": "L13-plants",
+      "kind": "rss",
+      "cadence": "daily",
+      "url": "https://battery-news.de/feed/",
+      "note": "德语电池产业新闻，工厂与产能消息密度高。若这条 404 就改用站内 sitemap.xml。"
+    },
+    {
+      "slug": "pv-magazine-au-rss",
+      "line": "L12-grid-factor",
+      "kind": "rss",
+      "cadence": "daily",
+      "url": "https://www.pv-magazine-australia.com/feed/",
+      "note": "绿电与购电协议那一侧的澳洲视角，另对他在墨尔本的就业面有用。"
+    },
+    {
+      "slug": "batteriepasswerk-comparison",
+      "line": "L16-compliance-biz",
+      "kind": "page",
+      "cadence": "weekly",
+      "url": "https://www.batteriepasswerk.com/en/comparison",
+      "note": "电池护照软件比价页。它是一个厂商页面，节奏慢，每周一次；价格变化是这条线最硬的信号。"
+    },
+    {
+      "slug": "arxiv-kb-lines",
+      "line": "L4-research-workflow",
+      "kind": "api",
+      "cadence": "daily",
+      "url": "http://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.DL&sortBy=submittedDate&sortOrder=descending&max_results=100",
+      "note": "顺手结清知识库挂了三十天的 arXiv 缺口。它在知识库容器里三条路全部 403，而在 Actions 上是开放 API。"
+    }
+  ],
+
+  "manual_only": [
+    {
+      "slug": "fastmarkets",
+      "reason": "付费商业数据，硬抓既违反条款也拿不到数。要用就订阅或走墨大图书馆。",
+      "url": "https://www.fastmarkets.com/"
+    },
+    {
+      "slug": "sciencedirect-springer-fulltext",
+      "reason": "付费全文。题录与 DOI 走 Crossref，全文一律标 library_only，由 JyPan 在 Chrome 里用墨大账号打开。",
+      "url": "https://www.sciencedirect.com/"
+    },
+    {
+      "slug": "liepin-boss",
+      "reason": "猎聘与 BOSS 直聘需要登录，而且反自动化。只能由 JyPan 在自己的 Chrome 里跑，知识库负责记账与关键词清单。",
+      "keywords": ["欧盟电池法", "循环经济碳核算", "产品碳足迹", "电池回收 业务", "绿电交易", "电池护照"],
+      "cities": ["上海", "深圳", "广州", "杭州", "武汉", "北京", "常州", "无锡", "宁德"]
+    }
+  ]
+}
