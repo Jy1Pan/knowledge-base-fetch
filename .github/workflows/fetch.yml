@@ -23,7 +23,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1   # 2026-10-16 起：工作流里没有任何一步读 git 历史，浅克隆就够
 
       - uses: actions/setup-python@v5
         with:

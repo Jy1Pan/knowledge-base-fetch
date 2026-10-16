@@ -36,7 +36,8 @@ GitHub Actions 的 runner 没有这个限制。
 
 ```
 latest/<slug>.json|xml|html     稳定路径。知识库按它比字节数与 sha256。
-history/<slug>/<YYYY-MM-DD>.*   当天那一版的副本。用来把某一天的读数原样取回重算。
+history/<slug>/<YYYY-MM-DD>.*   内容变了（或内容闸门判失败）那天的副本。2026-10-16 起没变的日子不再写。
+                                取回某一天那一版：找日期不晚于它、sha256 与 manifest 那一行相同的最近一份。
 manifest.jsonl                  append-only，一行一次抓取。
 ```
 
@@ -55,10 +56,9 @@ manifest.jsonl                  append-only，一行一次抓取。
 **稳定路径与历史副本都留。** 只留稳定路径，就没法把某一天那一版取回来用新算法重算；
 只留历史副本，就没法做「这一版对上一版」的 diff。知识库两种需求都有过。
 
-**付费与需登录的源不在这里。** 它们在 `sources.json` 的 `manual_only` 段里，带不抓的理由：
-Fastmarkets 是付费商业数据；ScienceDirect 与 Springer 的全文付费，题录走 Crossref 公开 API，
-全文标 `library_only` 由你在 Chrome 里用墨大账号打开；猎聘与 BOSS 要登录且反自动化，
-只能你自己在 Chrome 里跑，仓库里只放关键词与城市清单。
+**付费与需登录的源不在这里。** Fastmarkets 是付费商业数据；ScienceDirect 与 Springer 的全文付费，题录走 Crossref 公开 API，
+全文由 JyPan 在 Chrome 里用墨大账号打开；猎聘与 BOSS 要登录且反自动化，只能他自己在 Chrome 里跑。
+2026-10-16 起这份清单（连同关键词与城市）只留在知识库 Project 里，不放进这个公开仓库。
 **这个脚本不碰付费墙，也不伪装登录。**
 
 **`sleep(2)`。** 对每个站点客气一点，二十来个源一次跑完也就一分钟。

@@ -20,7 +20,7 @@
 
 4. 不写「预测」只写实测。每一行的 bytes 与 sha256 都是这次真的落盘之后算的。
 
-5. 付费与需登录的源不在这里，它们在 sources.json 的 manual_only 里。
+5. 付费与需登录的源不在这里。2026-10-16 起它们的清单只留在知识库 Project 里，不放进这个公开仓库。
    这个脚本不碰付费墙，也不伪装登录。
 
 6. 「返回 200」不等于「取到了」。2026-10-16 第一次运行把两份 202 空响应、一份 3 字节的页面
@@ -142,10 +142,17 @@ def fetch_one(src: dict) -> dict:
     if why:
         rec["error"] = "content_gate: " + "; ".join(why)
 
-    # 历史副本按日期留一份，合格与否都留，便于诊断与以后原样重算
-    hdir = HISTORY / slug
-    hdir.mkdir(parents=True, exist_ok=True)
-    (hdir / f"{today()}.{ext}").write_bytes(body)
+    # 历史副本：2026-10-16 起只在内容变了、或内容闸门判失败时才写一份。
+    # 没变的那天 manifest 里照样有一行（带 sha256），要取回某一天那一版，
+    # 就找 history/<slug>/ 里日期不晚于它、sha256 与那一行相同的最近一份。
+    # 这样仓库文件数只随真实变化增长，而任何一天的读数仍能逐字节取回。
+    prev_latest = LATEST / f"{slug}.{ext}"
+    unchanged = (rec["content_ok"] and prev_latest.exists()
+                 and hashlib.sha256(prev_latest.read_bytes()).hexdigest() == rec["sha256"])
+    if not unchanged:
+        hdir = HISTORY / slug
+        hdir.mkdir(parents=True, exist_ok=True)
+        (hdir / f"{today()}.{ext}").write_bytes(body)
 
     if rec["content_ok"]:
         rel = f"latest/{slug}.{ext}"

@@ -1,5 +1,5 @@
 {
-  "_comment": "每一行一个取数面。cadence: daily | weekly | monthly。kind: page(HTML 列表页) | api(机读) | rss。note 里写清它为什么用这条入口。付费全文一律不抓，标 library_only。 可选字段：ext 覆盖默认扩展名；headers 追加请求头；min_bytes（默认 512）与 min_text（HTML 默认 200）是内容闸门的下限。",
+  "_comment": "每一行一个取数面。cadence: daily | weekly | monthly。kind: page(HTML 列表页) | api(机读) | rss。note 里写清它为什么用这条入口。付费全文一律不抓，标 library_only。 可选字段：ext 覆盖默认扩展名；headers 追加请求头；min_bytes（默认 512）与 min_text（HTML 默认 200）是内容闸门的下限。 2026-10-16 起按线分层：L9、L10、L12、L13 每日；L4、L11、L14、L17 每周（UTC 周一）；L15 每周；L12 绿证月度。付费与需登录的源清单不在本公开仓库，留在知识库 Project 里。",
   "_generated": "2026-10-16, 由知识库会话写出，供 JyPan 的 Actions 仓库使用；2026-10-16 晚第二版：EUR-Lex 两面改走 Cellar，线编号对齐协议第二节，新增可选字段 ext / headers / min_bytes / min_text",
   "sources": [
     {
@@ -77,7 +77,7 @@
       "slug": "crossref-rcr",
       "line": "L11-pcf-method",
       "kind": "api",
-      "cadence": "daily",
+      "cadence": "weekly",
       "url": "https://api.crossref.org/journals/0921-3449/works?rows=40&sort=created&order=desc&select=DOI,title,created,author,volume,page,abstract",
       "note": "Resources, Conservation & Recycling。Crossref 的公开 API 就是给这个用途的，不碰出版社付费墙。全文标 library_only。"
     },
@@ -85,7 +85,7 @@
       "slug": "crossref-ijlca",
       "line": "L11-pcf-method",
       "kind": "api",
-      "cadence": "daily",
+      "cadence": "weekly",
       "url": "https://api.crossref.org/journals/0948-3349/works?rows=40&sort=created&order=desc&select=DOI,title,created,author,volume,page,abstract",
       "note": "International Journal of Life Cycle Assessment。"
     },
@@ -93,7 +93,7 @@
       "slug": "crossref-jclepro",
       "line": "L11-pcf-method",
       "kind": "api",
-      "cadence": "daily",
+      "cadence": "weekly",
       "url": "https://api.crossref.org/journals/0959-6526/works?rows=40&sort=created&order=desc&select=DOI,title,created,author,volume,page,abstract",
       "note": "Journal of Cleaner Production。它刊量很大，所以下游要按关键词过滤再看。"
     },
@@ -101,7 +101,7 @@
       "slug": "crossref-est",
       "line": "L11-pcf-method",
       "kind": "api",
-      "cadence": "daily",
+      "cadence": "weekly",
       "url": "https://api.crossref.org/journals/0013-936X/works?rows=40&sort=created&order=desc&select=DOI,title,created,author,volume,page,abstract",
       "note": "Environmental Science & Technology。"
     },
@@ -109,7 +109,7 @@
       "slug": "crossref-natcomms-battery",
       "line": "L11-pcf-method",
       "kind": "api",
-      "cadence": "daily",
+      "cadence": "weekly",
       "url": "https://api.crossref.org/journals/2041-1723/works?rows=40&sort=created&order=desc&query.bibliographic=battery+carbon+footprint&select=DOI,title,created,author,abstract",
       "note": "Nature Communications 刊量太大，这里按题录关键词先收窄。"
     },
@@ -133,7 +133,7 @@
       "slug": "metal-com-scrap",
       "line": "L14-recycling",
       "kind": "page",
-      "cadence": "daily",
+      "cadence": "weekly",
       "url": "https://news.metal.com/list/industry/scraps-secondary",
       "note": "上海有色网再生金属栏目。只取列表页题录与日期，不取正文详情页，避免越过它的使用条款。"
     },
@@ -173,44 +173,9 @@
       "slug": "arxiv-kb-lines",
       "line": "L4-research-workflow",
       "kind": "api",
-      "cadence": "daily",
+      "cadence": "weekly",
       "url": "http://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.DL&sortBy=submittedDate&sortOrder=descending&max_results=100",
       "note": "顺手结清知识库挂了三十天的 arXiv 缺口。它在知识库容器里三条路全部 403，而在 Actions 上是开放 API。"
-    }
-  ],
-  "manual_only": [
-    {
-      "slug": "fastmarkets",
-      "reason": "付费商业数据，硬抓既违反条款也拿不到数。要用就订阅或走墨大图书馆。",
-      "url": "https://www.fastmarkets.com/"
-    },
-    {
-      "slug": "sciencedirect-springer-fulltext",
-      "reason": "付费全文。题录与 DOI 走 Crossref，全文一律标 library_only，由 JyPan 在 Chrome 里用墨大账号打开。",
-      "url": "https://www.sciencedirect.com/"
-    },
-    {
-      "slug": "liepin-boss",
-      "reason": "猎聘与 BOSS 直聘需要登录，而且反自动化。只能由 JyPan 在自己的 Chrome 里跑，知识库负责记账与关键词清单。",
-      "keywords": [
-        "欧盟电池法",
-        "循环经济碳核算",
-        "产品碳足迹",
-        "电池回收 业务",
-        "绿电交易",
-        "电池护照"
-      ],
-      "cities": [
-        "上海",
-        "深圳",
-        "广州",
-        "杭州",
-        "武汉",
-        "北京",
-        "常州",
-        "无锡",
-        "宁德"
-      ]
     }
   ]
 }

@@ -126,6 +126,18 @@ def added_lines(old: str, new: str) -> list[str]:
     return out
 
 
+def find_history(slug: str, ext: str, want_sha: str, not_after: str):
+    """2026-10-16 起 fetch.py 只在内容变了时写 history/，所以上一版那天未必有文件。
+    在 history/<slug>/ 里找日期不晚于 not_after、sha256 等于 want_sha 的最近一份。"""
+    d = HISTORY / slug
+    if not d.is_dir():
+        return None
+    for f in sorted(d.glob(f"*.{ext}"), reverse=True):
+        if f.stem <= not_after and sha(f.read_bytes()) == want_sha:
+            return f
+    return None
+
+
 def load_manifest() -> list[dict]:
     if not MANIFEST.exists():
         return []
@@ -240,7 +252,7 @@ def main() -> int:
         # 否则按 kind 推。两边不一致时 prev 找不到，而且是每天安静地跳过。
         ext = s.get("ext") or EXT.get(kind, "txt")
         new_raw = (ROOT / t["cur"]["path"]).read_bytes() if (ROOT / t["cur"]["path"]).exists() else b""
-        prev_file = HISTORY / t["slug"] / f"{t['prev']['fetched_at_utc'][:10]}.{ext}"
+        prev_file = find_history(t["slug"], ext, t["prev"]["sha256"], t["prev"]["fetched_at_utc"][:10])
         rec = {"type": "source", "slug": t["slug"], "line": t["cur"].get("line"), "state": "changed",
                "prev_sha256": t["prev"]["sha256"], "cur_sha256": t["cur"]["sha256"],
                "cur_path": t["cur"]["path"], "called": False}
@@ -248,7 +260,7 @@ def main() -> int:
         if not new_raw or sha(new_raw) != t["cur"]["sha256"]:
             rec["skip"] = "latest_mismatch_manifest"
             recs.append(rec); continue
-        if not prev_file.exists() or sha(prev_file.read_bytes()) != t["prev"]["sha256"]:
+        if prev_file is None or sha(prev_file.read_bytes()) != t["prev"]["sha256"]:
             rec["skip"] = "prev_history_missing_or_mismatch"
             recs.append(rec); continue
         new_txt = to_text(new_raw, kind)
