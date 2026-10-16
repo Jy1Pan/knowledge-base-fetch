@@ -136,7 +136,9 @@ def pick_changed(rows: list[dict], d: str) -> list[dict]:
     """对每个 slug：今天最后一次成功的抓取，对比它之前最后一次成功且日期不同的抓取。"""
     by = {}
     for r in rows:
-        if r.get("sha256"):
+        # 2026-10-16 修：内容闸门判失败的那一版（前端壳、空响应）不能当 prev 也不能当 cur。
+        # 默认 True 是为了让第二版之前、还没有 content_ok 字段的旧行仍然可用。
+        if r.get("sha256") and r.get("content_ok", True):
             by.setdefault(r["slug"], []).append(r)
     out = []
     for slug, rs in by.items():
@@ -234,7 +236,9 @@ def main() -> int:
     for t in changed:
         s = srcs.get(t["slug"], {})
         kind = t["cur"].get("kind", "page")
-        ext = EXT.get(kind, "txt")
+        # 2026-10-16 修：与 fetch.py 第 95 行同一条逻辑，sources.json 里设了 ext 就以它为准，
+        # 否则按 kind 推。两边不一致时 prev 找不到，而且是每天安静地跳过。
+        ext = s.get("ext") or EXT.get(kind, "txt")
         new_raw = (ROOT / t["cur"]["path"]).read_bytes() if (ROOT / t["cur"]["path"]).exists() else b""
         prev_file = HISTORY / t["slug"] / f"{t['prev']['fetched_at_utc'][:10]}.{ext}"
         rec = {"type": "source", "slug": t["slug"], "line": t["cur"].get("line"), "state": "changed",

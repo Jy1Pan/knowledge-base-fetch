@@ -1,11 +1,12 @@
 name: fetch
 
-# 每天 UTC 21:30 跑一次。刻意排在知识库定时任务（UTC 22:00）之前半小时，
+# 每天 UTC 20:30 跑一次。刻意排在知识库定时任务（UTC 22:00）之前九十分钟，
 # 这样知识库每次读到的都是当天刚抓的那一版，而不是前一天的。
 # 这个相位差是故意的，知识库那边记了三次「相位差」的坑，这里一次解掉。
+# 2026-10-16 从 21:30 提前到 20:30：GitHub 的计划任务在高峰时段会被推迟，三十分钟余量不够。
 on:
   schedule:
-    - cron: "30 21 * * *"
+    - cron: "30 20 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -62,6 +63,8 @@ jobs:
           p=pathlib.Path('manifest.jsonl')
           rows=[json.loads(l) for l in p.read_text(encoding='utf-8').splitlines() if l.strip()]
           rows=[r for r in rows if r['fetched_at_utc'].startswith(d)]
+          # 2026-10-16 修：同一天手动跑多次时只算每个源当天最后一行，否则分母是当天全部运行的行数之和（曾出现 ok 11/48，实为 11/16）
+          rows=list({r['slug']: r for r in rows}.values())
           print(f"{sum(1 for r in rows if r.get('content_ok'))}/{len(rows)}")
           PY
           )
