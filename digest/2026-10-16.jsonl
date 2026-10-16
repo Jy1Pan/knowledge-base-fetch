@@ -1,0 +1,16 @@
+{"type": "run", "date": "2026-10-16", "started_utc": "2026-10-16T22:56:42Z", "temperature": 0, "prompt_sha256": "ca74bd9490cb1701e70ad05cce1dfd8209bb9dddf59c02a9a733ea39a1c94071", "schema_sha256": "e535cfd076742634844dfbcff8e7f0cba59932930297308124fec25c9ab09c25", "lines_sha256": "4aa1f41822b0b74b1f8e121ee0ab4e927071b27e5f68812c9a49efda7e950ca4", "mock": false, "model": null, "model_selected_by": null, "calls": 0, "input_tokens": 0, "output_tokens": 0, "status": "ok", "error": null, "finished_utc": "2026-10-16T22:56:42Z"}
+{"type": "source", "slug": "eurlex-32023R1542", "state": "baseline", "called": false}
+{"type": "source", "slug": "eurlex-search-1542-amendments", "state": "baseline", "called": false}
+{"type": "source", "slug": "eu-have-your-say-batteries", "state": "baseline", "called": false}
+{"type": "source", "slug": "miit-news", "state": "baseline", "called": false}
+{"type": "source", "slug": "miit-eidc-cfp-platform", "state": "baseline", "called": false}
+{"type": "source", "slug": "mee-news", "state": "baseline", "called": false}
+{"type": "source", "slug": "crossref-rcr", "state": "baseline", "called": false}
+{"type": "source", "slug": "crossref-ijlca", "state": "baseline", "called": false}
+{"type": "source", "slug": "crossref-jclepro", "state": "baseline", "called": false}
+{"type": "source", "slug": "crossref-est", "state": "baseline", "called": false}
+{"type": "source", "slug": "crossref-natcomms-battery", "state": "baseline", "called": false}
+{"type": "source", "slug": "electrive-rss", "state": "baseline", "called": false}
+{"type": "source", "slug": "battery-news-rss", "state": "baseline", "called": false}
+{"type": "source", "slug": "pv-magazine-au-rss", "state": "baseline", "called": false}
+{"type": "source", "slug": "arxiv-kb-lines", "state": "baseline", "called": false}
