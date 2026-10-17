@@ -1,28 +1,28 @@
 {
- "date": "2026-10-16",
+ "date": "2026-10-17",
  "run": {
   "type": "run",
-  "date": "2026-10-16",
-  "started_utc": "2026-10-16T22:56:42Z",
+  "date": "2026-10-17",
+  "started_utc": "2026-10-17T22:30:32Z",
   "temperature": 0,
   "prompt_sha256": "ca74bd9490cb1701e70ad05cce1dfd8209bb9dddf59c02a9a733ea39a1c94071",
   "schema_sha256": "e535cfd076742634844dfbcff8e7f0cba59932930297308124fec25c9ab09c25",
   "lines_sha256": "4aa1f41822b0b74b1f8e121ee0ab4e927071b27e5f68812c9a49efda7e950ca4",
   "mock": false,
-  "model": null,
-  "model_selected_by": null,
+  "model": "claude-haiku-5-5",
+  "model_selected_by": "/v1/models 实时列表里 created_at 最新的 haiku（共 13 个模型）",
   "calls": 0,
   "input_tokens": 0,
   "output_tokens": 0,
   "status": "ok",
   "error": null,
-  "finished_utc": "2026-10-16T22:56:42Z"
+  "finished_utc": "2026-10-17T22:30:32Z"
  },
- "sources_changed": 0,
- "sources_unchanged": 0,
- "sources_baseline": 15,
+ "sources_changed": 2,
+ "sources_unchanged": 4,
+ "sources_baseline": 0,
  "candidates": 0,
  "candidates_verified": 0,
  "candidates_rejected": 0,
- "file": "digest/2026-10-16.jsonl"
+ "file": "digest/2026-10-17.jsonl"
 }
