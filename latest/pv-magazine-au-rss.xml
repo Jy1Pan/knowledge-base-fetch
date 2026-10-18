@@ -12,7 +12,7 @@
 	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.pv-magazine-australia.com/</link>
 	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
-	<lastBuildDate>Fri, 16 Oct 2026 06:04:01 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 18 Oct 2026 22:18:17 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,75 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>BloombergNEF forecasts 584 GW of solar installations in 2026</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/19/bloombergnef-forecasts-584-gw-of-solar-installations-in-2026/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/19/bloombergnef-forecasts-584-gw-of-solar-installations-in-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Sun, 18 Oct 2026 22:19:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18186</guid>
+
+					<description><![CDATA[BloombergNEF has cut its 2026 global solar installation forecast to 584 GW, down 10.8% from 2025, driven by a sharper-than-expected slowdown in China. Solar installations outside China are projected to grow to 313 GW, supported by expanding residential and commercial markets.]]></description>
+										<content:encoded><![CDATA[
+<p>In December 2025, BloombergNEF<a href="https://pv-magazine-usa.com/2025/12/22/bnef-sees-2026-solar-slowdown-with-china-slowing-the-world-growing/"> projected a pullback</a> in global solar installations, with China slowing and the rest of the world growing. Ten months later, China has slowed more than expected. The rest of the world has grown slightly faster.</p>
+
+
+
+<p>BloombergNEF now projects 584 GW of solar installations in 2026. That is a 10.8% decline from 655 GW in 2025. In December, it forecast 649 GW. In the<a href="https://pv-magazine-usa.com/2025/03/19/global-solar-installations-could-reach-1-terawatt-next-year/"> first quarter of 2025</a>, it expected 753 GW. That earlier 2026 figure is 29% higher than today’s forecast.</p>
+
+
+
+<p>When asked whether there have been any surprises in the solar industry in 2026 – any <a href="https://www.pv-magazine.com/2026/08/04/distributed-solar-supplied-27-of-pakistans-electricity-in-2025/">Pakistan’s for instance</a> – BloombergNEF CleanTech Analyst Jenny Chase said, “Honestly, none so far, a big theme has been no major booms. I don’t think it has anything to do with Chinese politics or pricing.”</p>
+
+
+
+<p>BloombergNEF estimates China installed 383 GW in 2025. It now expects 271 GW in 2026, a 29% decline. In the group’s 2025 Q4 projection, China had been forecast for 2026 was 341 GW.</p>
+
+
+
+<p>In December, BloombergNEF CleanTech Analyst Jenny Chase said growth in China “cannot continue at its historical breakneck pace.” She now attributes the deeper slowdown to saturation. “We doubt that either batteries or EVs will halt this, they just slow it down a little,” Chase told <strong>pv magazine</strong>.</p>
+
+
+
+<p>Last year China deployed 383 GW of solar capacity, of which Chase noted the “breakneck” pace. The nation-state is projected to decline a massive 29% to 271 GW deployed. Through the end of June 2026, China installed about 71.8 GW of PV, down from 212.2 GW in the same period of 2025, <a href="https://www.pv-magazine.com/2026/09/03/chinas-solar-capacity-hits-1-28-tw-accounts-for-31-5-of-total-power-capacity/">a even sharper decline of roughly 66%</a>.</p>
+
+
+
+<p>The decline came as part of a shift in policy and a&nbsp; <a href="https://www.pv-magazine.com/2026/08/05/china-puts-battery-storage-at-center-of-renewable-energy-strategy/">new five year plan</a> taking attention off of capacity, and focusing on energy storage.</p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="963" height="724" src="https://pv-magazine-usa.com/wp-content/uploads/2026/10/image-16.png" alt="" class="wp-image-148193" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/image-16.png 963w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/image-16-300x226.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/image-16-768x577.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/image-16-260x195.png 260w" sizes="(max-width: 963px) 100vw, 963px" /></figure>
+
+
+
+<p><strong>Outside of China, non-utility, and batteries</strong></p>
+
+
+
+<p>The world has slightly outperformed BloombergNEF’s projections. 2025’s deployment capacity of 272 GW was projected to grow to 308 GW – a 13% pop. Current projections put global capacity at 313 GW deployed, well within the end of 2025’s margin of error.</p>
+
+
+
+<p>Growth is coming from markets like India, “chugging along”, the Philippines, Nigeria and Malaysia. Regarding both Nigeria and the Philippines, Chase pointed out that the growth in those markets was almost entirely residential and commercial based.</p>
+
+
+
+<p>This aligns with a recent report, shown in the above BloombergNEF chart, that with the pullback in utility scale solar in China – non-utility solar is now the largest sector of global renewable energy investment.</p>
+
+
+
+<p><strong><a href="https://pv-magazine-usa.com/">From pv magazine USA</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/19/bloombergnef-forecasts-584-gw-of-solar-installations-in-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Valo to deliver 1.6 GWh battery storage system using Wärtsilä GridSolve technology</title>
 		<link>https://www.pv-magazine-australia.com/2026/10/16/valo-to-deliver-1-6-gwh-battery-storage-system-using-wartsila-gridsolve-technology/</link>
 					<comments>https://www.pv-magazine-australia.com/2026/10/16/valo-to-deliver-1-6-gwh-battery-storage-system-using-wartsila-gridsolve-technology/#respond</comments>
@@ -54,7 +123,7 @@
 
 
 
-<figure class="wp-block-image alignleft size-large is-resized"><img fetchpriority="high" decoding="async" width="768" height="1024" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-768x1024.jpg" alt="" class="wp-image-148233" style="width:375px;height:auto" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-768x1024.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-225x300.jpg 225w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-1152x1536.jpg 1152w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-1536x2048.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-217x290.jpg 217w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">Valo Australia Managing Director Suraj Narayan  | <i>Image: Valo</i></figcaption></figure>
+<figure class="wp-block-image alignleft size-large is-resized"><img decoding="async" width="768" height="1024" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-768x1024.jpg" alt="" class="wp-image-148233" style="width:375px;height:auto" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-768x1024.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-225x300.jpg 225w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-1152x1536.jpg 1152w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-1536x2048.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-217x290.jpg 217w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">Valo Australia Managing Director Suraj Narayan  | <i>Image: Valo</i></figcaption></figure>
 
 
 
@@ -826,75 +895,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/15/up-the-ante-on-ambition-250-million-solar-sunshot-round-3-now-open/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>EVX unveils Australian-made DC fast charger for EVs</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/14/evx-unveils-australian-made-dc-fast-charger-for-evs/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/14/evx-unveils-australian-made-dc-fast-charger-for-evs/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 04:58:00 +0000</pubDate>
-				<category><![CDATA[Technology & Products]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18117</guid>
-
-					<description><![CDATA[Australian electric vehicle infrastructure company EVX is expanding into locally manufactured DC fast-charging technology, unveiling plans to launch a new 40–50 kW pole-mounted charger early next year.]]></description>
-										<content:encoded><![CDATA[
-<p>Sydney-headquartered electric vehicle (EV) charger manufacturer EVX has announced plans to launch a new pole-mounted DC fast charger specifically designed for Australian conditions, building on its existing kerbside AC charging technology.</p>
-
-
-
-<p>“We have already demonstrated that public EV charging infrastructure can be designed and manufactured locally and deployed at meaningful scale,” EVX Chief Executive Officer Andrew Forster said.</p>
-
-
-
-<p>“Polecharger Rapid is the next step, taking that capability into DC charging and creating a product specifically for the places and conditions in which Australian councils, networks and communities need it to operate.”</p>
-
-
-
-<p>EVX said the new Australian-designed and manufactured product will complement its existing AC pole-mounted charging technology, including the 22 kW dual-charging Polecharger, providing EV drivers with a faster charging option.</p>
-
-
-
-<p>“Unlike AC kerbside chargers, where charging speeds are generally limited by the vehicle&#8217;s onboard charger to 7–11 kW, or sometimes 22 kW, DC charging bypasses this limitation and enables compatible vehicles to receive power at significantly higher rates,” the company said.</p>
-
-
-
-<p>“At 40–50kW, Polecharger Rapid is designed to provide a faster charging option for public locations, with compatible EVs potentially able to charge in an hour or less, depending on battery capacity and charging conditions.”</p>
-
-
-
-<p>EVX said it is currently progressing detailed engineering, certification and manufacturing details for Polecharger Rapid, adding it plans to release further technical specifications, manufacturing and deployment details closer to a commercial release.</p>
-
-
-
-<p>The company is targeting initial deployments in early 2027 in strategically selected locations across urban activity centres and regional and rural communities.</p>
-
-
-
-<p>Forster said the new Polecharger Rapid marks the next stage in EVX’s Australian manufacturing program and will build on the company’s established manufacturing and supply-chain capabilities.</p>
-
-
-
-<p>&#8220;Local manufacturing is not simply about where the hardware gets made. It is about retaining the engineering knowledge, intellectual property, supply-chain capability and technical support required to keep critical infrastructure operating over its full life,” he said. &#8220;We want Australian customers to have an Australian manufacturer standing behind the product.&#8221;</p>
-
-
-
-<p>The unveiling of the new product comes as the uptake of EVs in Australia continues to accelerate.</p>
-
-
-
-<p>A record 157,957 EVs were sold across Australia in the first six months of 2026, a 117% increase on the same period last year, according to the Electric Vehicle Council.</p>
-
-
-
-<p>EVs accounted for one in four new cars sold in the first half of 2026, with their market share more than doubling from 12.1% in the first half of 2025 to 25.8% over the same period this year.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/14/evx-unveils-australian-made-dc-fast-charger-for-evs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
