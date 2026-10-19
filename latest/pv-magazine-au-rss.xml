@@ -12,7 +12,7 @@
 	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.pv-magazine-australia.com/</link>
 	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
-	<lastBuildDate>Sun, 18 Oct 2026 22:18:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Oct 2026 21:34:43 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,509 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>JinkoSolar unveils 28%-efficient back-contact TOPCon solar cell with amorphous silicon HJT passivation</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/20/jinkosolar-unveils-28-efficient-back-contact-topcon-solar-cell-with-amorphous-silicon-hjt-passivation/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/20/jinkosolar-unveils-28-efficient-back-contact-topcon-solar-cell-with-amorphous-silicon-hjt-passivation/#respond</comments>
+		
+		<dc:creator><![CDATA[Vincent Shaw]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 23:10:00 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[cells & modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18198</guid>
+
+					<description><![CDATA[JinkoSolar has unveiled its first back-contact solar cell technology, combining TOPCon and heterojunction passivation in a new architecture called TAC. The Chinese manufacturer reported a peak cell conversion efficiency of 28%.]]></description>
+										<content:encoded><![CDATA[
+<p>Chinese PV module maker JinkoSolar unveiled its TOPCon-based Amorphous-Si Passivating Cell (TAC) technology at its Global Tech Day event in Shanghai on Oct. 17. According to a technical white paper published by the company, the architecture combines TOPCon electron-selective contacts with heterojunction (HJT) hole-selective contacts and a rear-electrode layout.</p>
+
+
+
+<p>The design uses an n-type crystalline silicon wafer with two alternating carrier-selective contact regions on the rear surface. Both positive and negative electrodes are located on the rear, eliminating front-side metallisation and the associated optical shading losses.</p>
+
+
+
+<p>The electron-collecting n-type region retains the contact structure used in TOPCon cells, consisting of an approximately 1 nm to 2 nm silicon oxide tunneling layer and heavily doped polycrystalline silicon. This structure enables selective electron transport with low contact resistance while suppressing carrier recombination.</p>
+
+
+
+<p>The hole-collecting p-type region uses intrinsic and doped hydrogenated amorphous silicon (a-Si), drawing on HJT cell technology. JinkoSolar said the configuration improves surface passivation and open-circuit voltage. A transparent conductive oxide (TCO) layer facilitates lateral carrier transport, while the amorphous silicon passivation process takes place at temperatures below 200 C.</p>
+
+
+
+<p>High-precision laser patterning and dielectric isolation separate the two contact regions. JinkoSolar describes the architecture as a “2+1” design, combining TOPCon electron contacts, HJT hole contacts and a rear-electrode structure.</p>
+
+
+
+<p>TAC belongs to the broader back-contact (BC) cell category, which includes architectures using different passivation and carrier-selective contact technologies. Unlike conventional front-contact TOPCon cells, TAC eliminates front-side metal contacts to reduce shading losses. Its distinguishing feature among BC technologies is the integration of TOPCon and amorphous silicon heterojunction contacts on the same wafer.</p>
+
+
+
+<p>JinkoSolar has also developed a full-area passivation approach, called the Global Passivation Process (GPP), to reduce recombination losses across the contact regions. Another process, Multi-Dimensional Charge Passivation (MCP 2.0), targets carrier recombination at cut-cell edges. It uses a cut-before-passivation sequence, followed by chemical, field-effect and hydrogen passivation of the exposed surfaces.</p>
+
+
+
+<p>Other cell-level features include high-purity, low-oxygen n-type silicon wafers and a light-trapping structure combining surface texturing, antireflection coatings and rear reflection. The white paper specifies a bulk minority-carrier lifetime exceeding 2 ms and a bulk recombination current density below 5 fA/cm² for the silicon substrate.</p>
+
+
+
+<p>JinkoSolar said TAC production cell efficiency has exceeded 27%, with a peak efficiency of 28%. The company’s Oct. 17 announcement identifies the 28% figure as peak cell efficiency. However, the white paper does not specify a third-party certification, test area or average production-line efficiency for the result.</p>
+
+
+
+<p>In its first-half 2026 financial report, JinkoSolar separately reported a third-party-certified conversion efficiency of 27.2% for an n-type BC research cell. The company, however, did not identify that result as a TAC measurement.</p>
+
+
+
+<p>JinkoSolar identified low-temperature metallisation, copper-containing contact materials and the potential use of TAC as a bottom-cell platform for perovskite-silicon tandem devices as areas for further development.</p>
+
+
+
+<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/20/jinkosolar-unveils-28-efficient-back-contact-topcon-solar-cell-with-amorphous-silicon-hjt-passivation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Leapting launches autonomous forklift for solar module transport</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/20/leapting-launches-autonomous-forklift-for-solar-module-transport/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/20/leapting-launches-autonomous-forklift-for-solar-module-transport/#respond</comments>
+		
+		<dc:creator><![CDATA[Lior Kahana]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 22:07:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18197</guid>
+
+					<description><![CDATA[The Chinese robotics manufacturer has introduced an autonomous tracked forklift capable of transporting solar module pallets weighing up to 3,000 kg. The battery-powered machine features a maximum lifting height of three metres, a 30-degree climbing capability and a navigation system combining GNSS-RTK, laser SLAM and computer vision.]]></description>
+										<content:encoded><![CDATA[
+<p>China’s <a href="https://www.pv-magazine.com/2025/02/03/leapting-rolls-out-pv-module-mounting-robot/">Leapting</a>, a developer of robotic automation solutions for the PV industry, has unveiled a new autonomous forklift for utility-scale solar construction sites.</p>
+
+
+
+<p>Dubbed Auto-Navigation Forklift Robot (AFR), the system can transport pallets of solar modules weighing up to 3,000 kg from laydown yards to installation rows without a human operator.</p>
+
+
+
+<p>“The AFR combines GPS-RTK, laser-based simultaneous localisation and mapping (SLAM), and 3D computer vision to locate pallets, identify fork-hole coordinates in real time, and auto-plan insertion paths,” the company said in a statement. “It further features 360-degree multi-line LiDAR, intelligent obstacle avoidance, and a three-tier braking system.”</p>
+
+
+
+<p>The navigation system combines high-precision GNSS-RTK positioning with SLAM for local perception and positioning corrections. According to the manufacturer, the system can identify pallet locations, orientation angles and the three-dimensional coordinates of fork openings in real time. It then automatically calculates insertion and extraction paths and adjusts the mast and forks for pallet handling.</p>
+
+
+
+<p>The company said the system can also detect whether pallets contain materials and recognise common pallet standards, including European EUR/EPAL and Japanese JIS specifications.</p>
+
+
+
+<p>The AFR measures 4.8 m × 1.8 m × 2.15 m and weighs 5,500 kg. It has a standard load centre distance of 600 mm and a maximum lifting height of three metres. Its two-stage, full-free-lift mast features laterally adjustable forks for precise pallet alignment, the company said.</p>
+
+
+
+<p>The forklift uses a tracked chassis with two independently driven 4 kW motors. It reaches a maximum speed of 3 km/h when fully loaded and 4 km/h when unloaded, with adjustable driving speeds. Differential track steering allows the machine to rotate on the spot.</p>
+
+
+
+<p>“High-strength engineering-grade steel tracks, with low ground contact pressure, are suitable for diverse complex road conditions and provide stable loads,” the company said.</p>
+
+
+
+<p>According to the technical datasheet, the AFR can negotiate gradients of at least 30 degrees on hard surfaces and has a maximum wading depth of 0.3 m. It also supports a maximum forward inclination angle of 4 degrees and a maximum pitch angle of 11 degrees. The manufacturer said the machine is suitable for hard roads, desert terrain, gravel surfaces and lightly uneven or muddy ground.</p>
+
+
+
+<p>The AFR is powered by a 48 V, 400 Ah lithium battery, providing a nominal energy capacity of 19.2 kWh and at least eight hours of operation under standard conditions. It supports automatic charging and manual fast charging, with AC 220 V and AC 380 V charging connections. In addition to fully autonomous operation, users can select semi-automatic or manual remote-control modes.</p>
+
+
+
+<p>For safety, the forklift incorporates multi-line LiDAR sensors for 360-degree obstacle detection, along with audible and visual warnings. Its three-tier braking system combines electronic, mechanical and parking brakes. Emergency stop buttons are installed at several points on the vehicle exterior.</p>
+
+
+
+<p>An integrated inertial measurement unit (IMU) continuously monitors the vehicle’s tilt angle and triggers an alarm and automatic stop if a preset threshold is exceeded.</p>
+
+
+
+<p>The AFR offers an IP67 ingress protection rating, depending on the configuration. The company specifies an operating temperature range of -10 C to 50 C and a storage temperature range of -20 C to 60 C.</p>
+
+
+
+<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/20/leapting-launches-autonomous-forklift-for-solar-module-transport/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tender success creates pathway to progress up to 13 GW of renewables</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 03:56:00 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18190</guid>
+
+					<description><![CDATA[The South Australian government has selected four proposed renewable energy projects with a combined generation capacity of almost 13 GW to progress near the industrial centre of Whyalla in the state’s Upper Spencer Gulf region.]]></description>
+										<content:encoded><![CDATA[
+<p>Four proposed solar, wind, and battery energy storage projects that would add a combined 12.66 GW of new generation capacity to the grid have been successful in the South Australian government’s competitive tender process for land released under the state’s renewable energy framework.</p>
+
+
+
+<p>The successful proposals have now secured the right to apply for a renewable energy feasibility licence&nbsp;in the Whyalla West release area, part of more than 11,000 square kilometres of <a href="https://www.pv-magazine-australia.com/2026/04/07/south-australia-opens-up-new-areas-for-renewable-energy-opportunities/">land opened by the state government</a> earlier this year for the potential development of large-scale renewables projects.</p>
+
+
+
+<p>The successful projects include a 4.7 GW wind and solar proposal from South Australia-based Altra Energy, a 360 MW solar proposal from French developer Neoen, and a 1.6 GW wind project proposed by Heron Energy. Australian developer Windlab has proposed the largest project, combining up to 6 GW of solar and wind energy generation. The project’s first stage is expected to comprise up to 1 GW of wind generation and battery energy storage.</p>
+
+
+
+<p>South Australian Energy Minister Tom Koutsantonis said the scale of the proposed developments represents one of the largest renewable energy opportunities released in the state, adding the projects could underpin the next era of green industrial growth in the Upper Spencer Gulf region.</p>
+
+
+
+<p>“This is an extraordinary opportunity for Whyalla and the Upper Spencer Gulf, with almost 13 GW of proposed renewable energy generation that could help shape the region’s industrial future,” he said.</p>
+
+
+
+<p>“For generations, Whyalla has been one of South Australia’s great industrial centres. We want to build on that strength, attracting new investment and creating opportunities for the next generation of industry.”</p>
+
+
+
+<p>Koutsantonis acknowledged that all four projects are at an early stage, and that there is significant work ahead, but said their success in the tender process is an important step towards unlocking the region’s renewable energy potential.</p>
+
+
+
+<p>The successful companies can now apply for renewable energy feasibility licences. These would allow developers to undertake detailed technical, commercial and environmental investigations. Any construction and operation would require a separate renewable energy infrastructure licence.</p>
+
+
+
+<p>Windlab Chief Development Officer Nathan Blundell said the region’s renewable resources and established industrial sector make it especially compelling for development.</p>
+
+
+
+<p>“Whyalla West combines exceptional renewable energy resources, significant development scale and proximity to established and emerging industrial demand,” he said.</p>
+
+
+
+<p>Altra Energy Director Andrew Newman said there is an opportunity to power the next generation of industry in the region, which has been heavily impacted by the recent closure of the Whyalla Steelworks.</p>
+
+
+
+<p>“The Upper Spencer Gulf has always been a place with a strong industrial history, and this is a chance to power the next generation of that industry,” he said. “We’re already working with major energy users on how this energy will be used.”&nbsp;</p>
+
+
+
+<p>The announcement of the successful tender applicants, comes after the state government earlier this month announced the pipeline of large-scale renewable energy and storage projects under construction or with development approval in South Australia has rocketed in value to more than $32 billion, with almost $7 billion worth of projects already up and running,</p>
+
+
+
+<p>South Australia is targeting 100% net renewables by the end of 2027 although Koutsantonis recently hinted the state might not achieve its goal.</p>
+
+
+
+<p>&#8220;I think we are going to get to 100%. I am confident we can meet that target, but the question for us is going to be is when in 2027 we hit that target&#8221; he said during a press conference marking the start of construction on Tilt Renewables’ 288 MW Palmer wind farm 70 kilometres east of Adelaide.</p>
+
+
+
+<p>&#8220;If we overshoot it a bit, it gets into a little bit of 2028, fine. But the ambition is what&#8217;s important. The ambition is what drives the government&#8217;s agenda here.&#8221;</p>
+
+
+
+<p>Government data shows renewables, primarily solar and wind, accounted for 77.1% of the South Australia&#8217;s net electricity generation in the 2025 calendar year.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JV partners flick switch on largest solar farm on NZ’s South Island</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/19/jv-partners-flick-switch-on-largest-solar-farm-on-nzs-south-island/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/19/jv-partners-flick-switch-on-largest-solar-farm-on-nzs-south-island/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 02:37:00 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18182</guid>
+
+					<description><![CDATA[The largest solar farm on New Zealand’s South Island has been officially opened with joint venture partners Lightsource bp and Contact Energy announcing the launch of the 150 MW Kōwhai Park PV plant.]]></description>
+										<content:encoded><![CDATA[
+<p>New Zealand’s solar journey has reached a new milestone with the Kōwhai Park solar farm at Christchurch on the South Island now operational, adding 150 MW of renewable generation capacity to the country’s electricity system.</p>
+
+
+
+<p>Developed through New Zealand generator and retailer Contact Energy and Lightsource bp’s joint venture (JV) partnership, the Kōwhai Park solar farm features more than 300,000 panels spread across a 230-hectare site adjacent to and leased from Christchurch Airport.</p>
+
+
+
+<p>The 150 MW facility, owned and operated by the JV partners,&nbsp;is expected to generate 275 GWh of renewable energy a year. Long‑term power purchase agreements (PPAs) for the output have been signed with both Christchurch Airport and New Zealand dairy processor Synlait.</p>
+
+
+
+<p>Contact Chief Executive Officer Mike Fuge said the $222 million (NZD 273 million) <a href="https://www.pv-magazine-australia.com/2024/08/19/lightsource-bp-lands-financing-package-for-150-mw-nz-solar-farm/">Kōwhai Park project</a> demonstrates the opportunity renewable energy presents for New Zealand. </p>
+
+
+
+<p>“We have huge aspirations for what renewable energy can deliver for this country,” he said. “Building new generation at scale gives businesses the confidence to electrify and strengthens our security of supply. That means a more resilient energy system, with more home-grown generation.”</p>
+
+
+
+<p>Lightsource bp Asia-Pacific Chief Operating Officer Adam Pegg said the Kōwhai Park project forms part of the JV partners’ broader efforts to accelerate utility-scale solar deployment across New Zealand.&nbsp;</p>
+
+
+
+<p>“We see significant opportunity for large-scale renewables to support New Zealand’s growing electricity needs, industrial electrification and long-term energy security,” he said. “Kōwhai Park demonstrates the scale of what can be achieved, and we look forward to building on that momentum.”</p>
+
+
+
+<p>Kōwhai Park is the first solar project to be completed by the Contact and Lightsource bp JV that was <a href="https://www.pv-magazine-australia.com/2022/04/22/lightsource-bp-partners-with-contact-energy-to-pursue-large-scale-solar-in-new-zealand/">launched</a> in 2022. Other projects in the JV’s development pipeline include a 175 MW solar farm north of Auckland, and a 160 MW solar farm in Taranaki, adjacent to Contact’s Stratford power station.</p>
+
+
+
+<p>The launch of the Kōwhai Park solar farm adds to New Zealand’s growing <a href="https://www.pv-magazine.com/2026/08/21/utility-scale-projects-drive-new-zealands-solar-rollout/">solar portfolio</a>.</p>
+
+
+
+<p>A recent report released by the country’s Ministry of Business, Innovation &amp; Employment (MBIE) shows New Zealand’s solar capacity increased by 52% during 2025, reached 830 MW by the end of the year, up from 545 MW at the end of 2024.</p>
+
+
+
+<p>The country’s cumulative solar capacity now stands in excess of 1 GW with the <a href="https://www.pv-magazine-australia.com/2026/07/15/new-zealands-largest-yet-solar-farm-successfully-energised/" target="_blank" rel="noreferrer noopener">150 MW Tauhei Solar Farm</a> and <a href="https://www.pv-magazine-australia.com/2026/07/27/new-38-mw-solar-farm-added-to-new-zealand-grid/" target="_blank" rel="noreferrer noopener">38 MW Omeheu Solar Farm</a> also switched on this year.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/19/jv-partners-flick-switch-on-largest-solar-farm-on-nzs-south-island/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Australia leading way to electrification of everything</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/19/australia-leading-way-to-electrification-of-everything/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/19/australia-leading-way-to-electrification-of-everything/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 01:27:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18185</guid>
+
+					<description><![CDATA[COP31 aims to increase electricity’s share of global final energy demand from 20% to 35% by 2035, accelerating the transition to clean, affordable energy through electrification. Australia is leading with rapid growth in solar, wind, batteries and EVs, demonstrating how renewable energy can lower electricity costs, reduce fossil fuel dependence and support decarbonisation.]]></description>
+										<content:encoded><![CDATA[
+<p>The UN Climate Change Conference COP31 will take place in Türkiye in November 2026. A flagship target is to raise the share of final energy demand met by electricity <a href="https://cop31.tr/news-detail/bonn-electrification-target-2026">from 20% today to 35% by 2035</a>.</p>
+
+
+
+<p>Rising electricity demand signals rising affluence in developing countries, and progress towards “electrification of everything” via solar and wind. Dramatically cheaper, cleaner and more reliable domestic energy is a result.</p>
+
+
+
+<p>Most industrial economies (including USA, China, the European Union, Japan and Australia) have annual per capita electricity consumption in the range 6-12 MWh compared with the global average of 4 MWh. For Latin America, India and ASEAN the figure is 1-3 MWh.</p>
+
+
+
+<p>In an affluent advanced economy, about 20 MWh of clean electricity per person per year is required for decarbonisation of land transport, heating and cooling in buildings, water heating, and industrial process heat. This is relatively straightforward using off-the-shelf technology.</p>
+
+
+
+<p>Another 5-25 MWh per person per year is required for decarbonisation of the chemical industry, which includes metals, plastics, cement, precursor chemicals, and synthetic shipping &amp; aviation fuels. This needs substantial technology development over the next decade.</p>
+
+
+
+<p>The “final energy” mentioned in the COP31 target refers to energy products delivered to the consumer, including vehicle fuel, natural gas and electricity. This is a silly measure of energy because it conflates chemical energy with electrical energy. The electricity used in a heat pump or electric vehicle is 3-5 times smaller than fossil fuel energy delivering the same service.</p>
+
+
+
+<h3 class="wp-block-heading">Rapid domestic electrification in Australia</h3>
+
+
+
+<p>COP31 is led jointly by Türkiye and Australia. Australia has a good electrification story to tell.</p>
+
+
+
+<p>Australia is the global No.1 for per capita solar generation, and No.8 for wind. The government target for 2030 is 82% of electricity from renewables (mostly solar and wind), up from 50% today.</p>
+
+
+
+<p>The state of South Australia is tracking towards 100% net supply of electricity from solar and wind in 2028. South Australia has become an attractive destination for companies wishing to manufacture using clean energy.</p>
+
+
+
+<p>More than 40% of Australian dwellings have rooftop solar (global No.1 per capita), tracking towards 50% by 2030. The average size of new systems is 10 kW with turnkey cost of $10,000. This low cost arises from very smooth government approvals, an experienced workforce, and absence of tariffs.</p>
+
+
+
+<p>About 7% of Australian dwellings have home batteries, which is expected to triple by 2030, making Australia the global No.1 per capita. The typical size of new home batteries is 25 kWh. Home battery uptake is driven by government support, which is gradually reducing as it does its job of kick-starting the industry.</p>
+
+
+
+<p>A revolution in domestic energy is underway. Home batteries coupled with rooftop solar, heat pumps and an EV allows families to enjoy abundant, clean, reliable and permanently cheap domestic energy: below $800 per year for electricity (and zero natural gas and vehicle fuel bills).</p>
+
+
+
+<p>Completion of the 350 GWh Snowy 2.0 system around 2029 will deliver 13 kWh of long duration rechargeable pumped hydro energy storage per person (global No.1).</p>
+
+
+
+<p>EV uptake is rising rapidly, driven by the war on Iran. It’s currently at one quarter of new car sales (similar to the global average), although well behind the global leader Norway at 98%.</p>
+
+
+
+<p>The rise of solar and batteries is having a remarkable effect on wholesale electricity prices. The graph shows inflation-adjusted average wholesale spot market prices in Australia’s national electricity market since 2012 (blue bars) and the renewable energy fraction of generation (red line). Expensive fossil gas is being pushed out of the market for both ancillary services and peak period power – gas dropped from 13% of generation a decade ago to 3% today.</p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="940" height="669" src="https://www.pv-magazine.com/wp-content/uploads/2026/10/price.png" alt="" class="wp-image-148248" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/price.png 940w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/price-300x214.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/price-768x547.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/price-260x185.png 260w" sizes="(max-width: 940px) 100vw, 940px" /></figure>
+
+
+
+<p><em>Authors: Prof. Ricardo Rüther (UFSC) <a href="mailto:rruther@gmail.com">rruther@gmail.com</a>, Prof. Andrew Blakers (ANU)</em> <a href="mailto:Andrew.blakers@anu.edu.au">Andrew.blakers@anu.edu.au</a></p>
+
+
+
+<p><em><a href="http://www.ises.org/" target="_blank" rel="noreferrer noopener">ISES</a>, the <a href="http://www.ises.org/" target="_blank" rel="noreferrer noopener">International Solar Energy Society</a> is a UN-accredited membership NGO founded in 1954 working towards a world with 100% renewable energy for all, used efficiently and wisely.</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/19/australia-leading-way-to-electrification-of-everything/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Atmos adds BayWa r.e. projects to expanding renewables portfolio</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/19/atmos-adds-baywa-r-e-projects-to-expanding-renewables-portfolio/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/19/atmos-adds-baywa-r-e-projects-to-expanding-renewables-portfolio/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Sun, 18 Oct 2026 23:58:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18181</guid>
+
+					<description><![CDATA[Australian clean energy company Atmos Renewables has acquired a portfolio of operating and developing solar and wind projects from BayWa r.e. as the German developer shifts its focus to core European markets.]]></description>
+										<content:encoded><![CDATA[
+<p>Atmos Renewables, the renewable energy arm of investment manager Igneo Infrastructure Partners,&nbsp;announced it has taken full ownership of the operating Yatpool and Hughenden solar farms, the advanced Bullawah wind project and a number of earlier stage development projects&nbsp;from BayWa r.e..</p>
+
+
+
+<p>Sydney-headquartered Atmos said the acquisition increases its operational portfolio to 19 solar, wind and battery energy storage assets and lifts its operating and in-construction capacity beyond 2 GW, placing it among Australia’s larger renewable energy owner-operators. &nbsp;</p>
+
+
+
+<p>The 106 MW Yatpool Solar Farm is located in northwest Victoria and entered into commercial operation in 2021 with its revenue supported by an offtake arrangement with Australian electricity retailer&nbsp;Flow Power. The asset is about six kilometres from the 112.5 MW Karadoc Solar Farm that Atmos <a href="https://www.pv-magazine-australia.com/2023/08/16/atmos-adds-112-mw-solar-farm-to-renewables-portfolio/">acquired from BayWa r.e.</a> in 2023. </p>
+
+
+
+<p>The 20 MW Hughenden Solar Farm is in central Queensland and has been operating since 2018. The project has a power purchase agreement (PPA) in place with Queensland government-owned gen-tailer CS Energy. &nbsp;</p>
+
+
+
+<p>Atmos has also acquired the Bullawah Wind Farm project proposed for southwest New South Wales (NSW) and several earlier stage developments. The Bullawah project includes plans for up to 800 MW of wind generation alongside a 359 MW two-hour battery but currently only has access rights for a 262 MW wind stage.</p>
+
+
+
+<p>Atmos Chief Executive Officer Nigel Baker said together, the projects add further scale and diversity to the company’s growing portfolio.</p>
+
+
+
+<p>“This acquisition strengthens our portfolio in two important ways,” he said. “Yatpool and Hughenden add further diversity to our operating portfolio, while the 262 MW Bullawah project positions the company to deliver its first NSW wind farm in the near term, given the advanced state of that project and the REZ access rights it holds.” &nbsp;</p>
+
+
+
+<p>“This allows us to expand the Atmos operating portfolio immediately, while investing in a significant wind project in the NEM region of greatest customer demand.” &nbsp;</p>
+
+
+
+<p>The acquisition follows Atmos&#8217; announcement earlier this month that it had reached <a href="https://www.pv-magazine-australia.com/2026/10/05/atmos-reaches-financial-close-on-870-mw-of-renewables-projects/">financial close</a> on two large-scale projects that will deliver a combined 870 MW of new renewable energy capacity. The projects include the 400 MW / 1,600 MWh <a href="https://www.pv-magazine-australia.com/2026/10/16/valo-to-deliver-1-6-gwh-battery-storage-system-using-wartsila-gridsolve-technology/">Teebar Battery Energy Storage System</a> in Queensland and the 470 MW Parron Maam Marang Farm in Western Australia.</p>
+
+
+
+<p>For BayWa, the transaction comes as it presses ahead with a “strategic realignment” revealed earlier this year. In March, the company <a href="https://www.baywa-re.com.au/en/news/baywa-r-e-presses-ahead-with-strategic-realignment">announced</a> it would turn its focus to “specific core markets” in Europe due to “significantly clouded market conditions” for the renewable energy sector.</p>
+
+
+
+<p><a href="https://www.pv-magazine-australia.com/2024/07/08/baywa-seeks-federal-approval-for-combined-1-2-gwh-of-big-batteries/">BayWa </a>Chief Operating Officer said  Daniel Gäfke the transaction highlights the company’s expertise in identifying, advancing and mitigating risk in large-scale renewable energy developments.</p>
+
+
+
+<p>“The successful transfer to Atmos Renewables highlights the strength of high-quality, investment-ready assets and the continued interest in renewable energy infrastructure opportunities,” he said. “We are convinced that these projects will continue to generate significant value under the new owner.” &nbsp;</p>
+
+
+
+<p>Baker said BayWa is now working closely with Atmos to ensure a smooth transition, adding that existing PPAs, landowner agreements and stakeholder commitments will be honoured.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/19/atmos-adds-baywa-r-e-projects-to-expanding-renewables-portfolio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>1Komma5° announces record investment in AI-based energy management system</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/19/1komma5-announces-record-investment-in-ai-based-energy-management-system/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/19/1komma5-announces-record-investment-in-ai-based-energy-management-system/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Sun, 18 Oct 2026 23:02:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Residential]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18189</guid>
+
+					<description><![CDATA[1Komma5° has vowed to invest more than $160 million in its energy optimisation platform Heartbeat AI in 2027 as it seeks to expand the capabilities and reach of the energy management system.]]></description>
+										<content:encoded><![CDATA[
+<p>Germany-based home energy and electrification company 1Komma5° has announced it will invest more than $160 million (EUR 100 million) in its AI-based energy management system Heartbeat AI next year after raising more than $110 million in its latest financing round.</p>
+
+
+
+<p>1Komma5° co-founder and Chief Executive Officer (CEO) Philipp Schröder said the new funds add to the company’s existing investment budget and will support AI development, software capabilities and faster market expansion.</p>
+
+
+
+<p>“The objective is clear,” he said. “The energy system needs a universal energy AI that works as an end-to-end operating system. Our ambition is for <a href="https://www.pv-magazine-australia.com/2026/03/06/1komma5-home-energy-ecosystem-optimised-with-new-ai-platform/">Heartbeat AI</a> to become exactly that and to bring clean, affordable energy to millions of people.”&nbsp;</p>
+
+
+
+<p>Heartbeat AI is an optimisation layer that connects and controls home energy systems, including solar panels, batteries, heat pumps and electric vehicle chargers. 1Komma5° said the fully automated platform has access to wholesale electricity prices, weather forecasts and grid demand in real time, and automatically decides when to store, use or sell household energy to deliver the best return for customers.</p>
+
+
+
+<p>The platform, which is pitched by 1komma5° as an alternative to “conventional” virtual power plant (VPP) programs, is part of the company’s <a href="https://www.pv-magazine-australia.com/2025/06/04/1komma5-unveils-vpp-ready-solar-and-battery-solution/">suite of software and hardware products</a>.&nbsp;1komma5° said it is already compatible with a wide range of energy systems, aggregating more than 1 GW of flexibility capacity in five markets globally, including Australia where the company has attracted more than 60,000 customers since entering the market in 2022.</p>
+
+
+
+<p>1Komma5° Australia CEO Luke Stronach said the record investment in Heartbeat AI will enable the continued evolution of the platform, ensuring optimised access to the country’s volatile wholesale electricity market.  </p>
+
+
+
+<p>“Wholesale market volatility will continue to be an issue, but Hearbeat AI&#8217;s sole focus is on allowing Australian consumers to benefit from this volatility,&#8221; he said. “Heartbeat AI is a key element of our vision to deliver the cheapest and cleanest energy possible for everyday Australians.&#8221;</p>
+
+
+
+<p>1Komma5° said this funding round was led by Japanese cleantech growth fund Marunouchi Innovation Partners (MIP), while existing shareholders including CalSTRS, eCapital, G2 Venture Partners and Eurazeo also participated.&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/19/1komma5-announces-record-investment-in-ai-based-energy-management-system/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>BloombergNEF forecasts 584 GW of solar installations in 2026</title>
 		<link>https://www.pv-magazine-australia.com/2026/10/19/bloombergnef-forecasts-584-gw-of-solar-installations-in-2026/</link>
 					<comments>https://www.pv-magazine-australia.com/2026/10/19/bloombergnef-forecasts-584-gw-of-solar-installations-in-2026/#respond</comments>
@@ -68,7 +571,7 @@
 
 
 
-<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="963" height="724" src="https://pv-magazine-usa.com/wp-content/uploads/2026/10/image-16.png" alt="" class="wp-image-148193" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/image-16.png 963w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/image-16-300x226.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/image-16-768x577.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/image-16-260x195.png 260w" sizes="(max-width: 963px) 100vw, 963px" /></figure>
+<figure class="wp-block-image"><img decoding="async" width="963" height="724" src="https://pv-magazine-usa.com/wp-content/uploads/2026/10/image-16.png" alt="" class="wp-image-148193" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/image-16.png 963w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/image-16-300x226.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/image-16-768x577.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/image-16-260x195.png 260w" sizes="(max-width: 963px) 100vw, 963px" /></figure>
 
 
 
@@ -123,7 +626,7 @@
 
 
 
-<figure class="wp-block-image alignleft size-large is-resized"><img decoding="async" width="768" height="1024" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-768x1024.jpg" alt="" class="wp-image-148233" style="width:375px;height:auto" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-768x1024.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-225x300.jpg 225w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-1152x1536.jpg 1152w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-1536x2048.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-217x290.jpg 217w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">Valo Australia Managing Director Suraj Narayan  | <i>Image: Valo</i></figcaption></figure>
+<figure class="wp-block-image alignleft size-large is-resized"><img loading="lazy" decoding="async" width="768" height="1024" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-768x1024.jpg" alt="" class="wp-image-148233" style="width:375px;height:auto" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-768x1024.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-225x300.jpg 225w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-1152x1536.jpg 1152w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-1536x2048.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-217x290.jpg 217w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Wartsila_ESO_Suraj-Narayan_1-cropped-scaled.jpg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">Valo Australia Managing Director Suraj Narayan  | <i>Image: Valo</i></figcaption></figure>
 
 
 
@@ -301,600 +804,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/16/large-scale-solar-sets-annual-financial-investment-decision-record-at-3-5-gw/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Sunergise partners with Cook Islands to install rooftop solar on public buildings</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/16/sunergise-partners-with-cook-islands-to-install-rooftop-solar-on-public-buildings/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/16/sunergise-partners-with-cook-islands-to-install-rooftop-solar-on-public-buildings/#respond</comments>
-		
-		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
-		<pubDate>Fri, 16 Oct 2026 03:25:03 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Markets & Policy]]></category>
-		<category><![CDATA[Commercial & industrial]]></category>
-		<category><![CDATA[Modules]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18165</guid>
-
-					<description><![CDATA[New Zealand solar developer Sunergise has partnered with the Cook Islands Investment Corporation to establish a framework for installing rooftop solar on public buildings across the main island of Rarotonga.]]></description>
-										<content:encoded><![CDATA[
-<p>New Zealand solar developer Sunergise has partnered with the Cook Islands Investment Corporation (CIIC) to establish a framework for installing rooftop solar systems on public buildings across the main island of <a href="https://www.pv-magazine-australia.com/2020/09/09/solar-plus-storage-for-the-cook-islands/" target="_blank" rel="noreferrer noopener">Rarotonga</a>.</p>
-
-
-
-<p>Located approximately 5,000 kilometres northeast of Sydney in the South Pacific Ocean, Rarotonga has a population of approximately 11,000 people who are reliant on diesel generators as a primary power source, and like many <a href="https://www.pv-magazine-australia.com/press-releases/7-29-million-to-strengthen-pacific-energy-security/" target="_blank" rel="noreferrer noopener">Pacific</a> islands is sensitive to global shipping delays, fuel price fluctuations and regional supply pressures.</p>
-
-
-
-<p>Formalising a rooftop licence agreement is the first step for the solar systems to be progressively installed across existing public assets to generate renewable energy and aid in reducing the island’s dependence on imported fuels.</p>
-
-
-
-<p>Beyond clean energy generation, the installations will support the Cook Islands&#8217; sustainability and renewable energy objectives, which include transitioning all 12 inhabited islands from diesel-fuelled generators to clean solar and <a href="https://www.pv-magazine-australia.com/2026/05/15/solomons-plan-grid-scale-solar-project-as-pacific-nations-push-for-faster-transition/" target="_blank" rel="noreferrer noopener">battery </a>hybrid systems.</p>
-
-
-
-<p>Sunergise will also collaborate on <a href="https://www.pv-magazine-australia.com/2026/04/10/all-female-team-installs-microgrid-for-remote-fijian-island-school/" target="_blank" rel="noreferrer noopener">educational opportunities</a> it already delivers elsewhere in the Pacific, to inspire the next generation in renewable energy and STEM.</p>
-
-
-
-<p>As suitable sites are identified and assessed, the programme will progress in consultation with stakeholders, ensuring installations are practical, safe and aligned with operational requirements.</p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/16/sunergise-partners-with-cook-islands-to-install-rooftop-solar-on-public-buildings/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Lead-acid battery pilot switched on at Victorian university testing facility</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/16/lead-acid-battery-pilot-switched-on-at-victorian-university-testing-facility/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/16/lead-acid-battery-pilot-switched-on-at-victorian-university-testing-facility/#respond</comments>
-		
-		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
-		<pubDate>Fri, 16 Oct 2026 01:23:00 +0000</pubDate>
-				<category><![CDATA[Research & Development]]></category>
-		<category><![CDATA[Technology & Products]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Commercial & industrial]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18166</guid>
-
-					<description><![CDATA[New Zealand-based energy storage company ArcActive, in collaboration with Origin Zero, has switched on its lead-acid battery system pilot connected to Deakin University's 7.25 MW microgrid and Origin's virtual power plant.]]></description>
-										<content:encoded><![CDATA[
-<p>New Zealand-headquartered energy storage company ArcActive has switched on a lead-acid <a href="https://www.pv-magazine-australia.com/2024/04/18/arcactive-targets-australia-with-re-engineered-lead-acid-battery-technology/" target="_blank" rel="noreferrer noopener">battery system pilot </a>installed at Deakin University&#8217;s Waurn Ponds campus 7.25 MW microgrid battery testing facility.</p>
-
-
-
-<p>ArcActive&#8217;s system combines its proprietary fabric electrode technology with a bipolar battery architecture to create a new generation of lead-acid batteries, building on lead-acid technology already in use to support critical infrastructure, including telecommunications, hospitals and data centres. </p>
-
-
-
-<p>The system consists of bipolar batteries built as a stack of repeating cells, with each cell layered directly on top of the next. Rather than connecting individual cells using conventional straps and inter-cell connections, a bipolar plate forms the boundary between neighbouring cells while also carrying current directly from one cell to the next, ArcActive said.<br><br>The result is a compact, sandwich-like structure in which the electrodes, separators and bipolar plates are arranged as parallel layers. </p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="727" height="465" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-103827.png" alt="" class="wp-image-148221" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-103827.png 727w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-103827-300x192.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-103827-260x166.png 260w" sizes="auto, (max-width: 727px) 100vw, 727px" /></figure>
-
-
-
-<p>ArcActive said as current flows directly through the thickness of the battery, it&#8217;s more uniformly distributed across the electrode area, reducing electrical resistance compared with traditional lead-acid battery designs.<br><br>The stacked construction also allows the electrodes to be maintained under high, uniform compression, which is beneficial for the positive electrode, where compression helps support the active material, reduce shedding and extend cycle life. </p>
-
-
-
-<p>Excessive compression of conventional negative electrodes, however, can reduce porosity, restricting electrolyte access and limiting performance.The result is a safe, highly recyclable and long-life energy storage solution, which leverages established lead-acid materials and processes and a practical pathway to cost-effective energy storage at scale.</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="797" height="595" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Deakin-Pilot-e1792109329652.jpg" alt="" class="wp-image-148223" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Deakin-Pilot-e1792109329652.jpg 797w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Deakin-Pilot-e1792109329652-300x224.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Deakin-Pilot-e1792109329652-768x573.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Deakin-Pilot-e1792109329652-260x194.jpg 260w" sizes="auto, (max-width: 797px) 100vw, 797px" /><figcaption class="wp-element-caption">The pilot operates within Deakin’s renewable energy <a href="https://www.pv-magazine-australia.com/2024/03/15/researchers-link-multiple-microgrids-with-v2g-for-more-flexible-economic-system/" target="_blank" rel="noreferrer noopener">microgrid</a>, which provides electricity generation and storage for operational use.</figcaption></figure>
-
-
-
-<p>ArcActive Chief Executive Stuart McKenzie said lead-acid technology is a technology that engineers, approval authorities and insurers already know. </p>
-
-
-
-<p>&#8220;There are established pathways for approving and insuring these installations, which is an important starting point when you want to put batteries alongside businesses and occupied buildings,&#8221; McKenzie said.</p>
-
-
-
-<p>“We want businesses to be able to deploy storage through a more standardised, repeatable process, with greater confidence about the cost, the approval requirements and the financial return.&#8221;</p>
-
-
-
-<p>“The cost of installing a battery goes beyond the battery itself. Businesses also need to account for engineering work, approvals, insurance and safety measures. If they don’t know what their site will need or how much it will cost, they can be reluctant to invest,&#8221; McKenzie said.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="621" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Deakin-University-Microgrid-1-1024x621.jpg" alt="" class="wp-image-148220" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Deakin-University-Microgrid-1-1024x621.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Deakin-University-Microgrid-1-300x182.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Deakin-University-Microgrid-1-768x465.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Deakin-University-Microgrid-1-260x158.jpg 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Deakin-University-Microgrid-1.jpg 1485w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Deakin University Waurn Ponds microgrid | <i>Image: BECA</i></figcaption></figure>
-
-
-
-<p>Supported by Origin Zero and also connected to Origin’s Virtual Power Plant (VPP), the pilot project aims to solve common issue faced by commercial sites like factories, warehouses, and shopping centres, that can benefit from storing cheap solar energy to cut power bills, but are deterred by high upfront costs, complex installation approvals, and insurance hurdles.</p>
-
-
-
-<p>Origin Group Manager for Customer Solution Development and Emerging Technology Bill Truscott said trials such as this offered opportunities to learn about emerging technologies and their potential applications for customers.</p>
-
-
-
-<p>“We’re interested in how new technologies could help our commercial and industrial customers innovate and manage their energy needs,” Truscott said.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/16/lead-acid-battery-pilot-switched-on-at-victorian-university-testing-facility/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Scientists develop moth-eye-inspired antireflective surfaces for PV modules</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/16/scientists-develop-moth-eye-inspired-antireflective-surfaces-for-pv-modules/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/16/scientists-develop-moth-eye-inspired-antireflective-surfaces-for-pv-modules/#respond</comments>
-		
-		<dc:creator><![CDATA[Lior Kahana]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 21:52:31 +0000</pubDate>
-				<category><![CDATA[Research & Development]]></category>
-		<category><![CDATA[cells & modules]]></category>
-		<category><![CDATA[Modules]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18163</guid>
-
-					<description><![CDATA[Researchers in Portugal have investigated the mechanical durability of moth-eye-inspired antireflective silicon surfaces for photovoltaic applications. They found that repeated sliding causes nanopillar fracture and material compaction, with higher mechanical loads leading to increased friction and wear.]]></description>
-										<content:encoded><![CDATA[
-<p>Researchers in Portugal have investigated the friction and wear behavior of moth-eye-inspired <a href="https://www.pv-magazine-australia.com/2026/09/08/scientists-turn-end-of-life-pv-silicon-into-high-value-silicon-nitride/" target="_blank" rel="noreferrer noopener">silicon</a> surfaces designed to reduce light reflection and improve light absorption in solar cells. The study examined, in particular, how these antireflective nanostructures withstand mechanical stress relevant to solar module operation.</p>
-
-
-
-<p>“If we want to integrate these nanostructures into the outer surfaces of photovoltaic modules, we also need to understand how they respond to mechanical contact, cleaning operations, and other environmental challenges,” corresponding author Vítor Lopes told <strong>pv magazine</strong>. </p>
-
-
-
-<p>“Rather than focusing only on optical performance, we investigated how these structures respond to friction and repeated mechanical loading, and how their morphology evolves as damage accumulates.”</p>
-
-
-
-<p>Lopes said the team believes that applying a tribological perspective to light-management nanostructures is an important step toward understanding their durability and supporting their development for practical PV applications. </p>
-
-
-
-<p>“Coming from a mechanical engineering background and now working in photovoltaic research, I saw an opportunity to approach this problem from a different perspective,” he added.</p>
-
-
-
-<p>The researchers fabricated moth-eye-inspired silicon surfaces measuring approximately 2.5 cm × 2.5 cm, with nanopillars averaging 434 nm in height and about 100 nm in diametre. They produced a silicon master mold through reactive ion etching, using gold nanoparticles formed by thermal dewetting as an etching mask. They then replicated the pattern onto an intermediate polymer stamp and imprinted it onto resist-coated silicon wafers using nanoimprint lithography, before transferring the pattern into the silicon through reactive ion etching.</p>
-
-
-
-<p>To assess friction and wear, the team slid a 5 mm-diameter steel ball across the patterned surfaces without lubrication, applying loads of 0.1 N and 0.5 N at a sliding speed of 5 mm/s for up to 50 cycles. Each test condition was repeated three times.</p>
-
-
-
-<p>The researchers recorded the friction coefficient throughout testing, measured wear-track widths using optical microscopy, and examined nanopillar fracture, collapse, and compaction using scanning electron microscopy (SEM). They also measured initial reflectance across wavelengths of 300 nm to 1,100 nm, but did not assess reflectance after wear testing.</p>
-
-
-
-<p>“One of the most interesting findings was that the friction coefficient remained relatively stable under lower mechanical loading, even though SEM images revealed clear structural modifications to the nanostructures,” said Lopes. “This tells us that friction measurements alone may not be enough to assess the integrity of these surfaces.”</p>
-
-
-
-<p>After 50 sliding cycles, the average wear-track width reached approximately 252 µm under the 0.1 N load and 388 µm under the 0.5 N load. The friction coefficient ranged from 0.40 to 0.56 under the lower load but exceeded 1.0 by the 50th cycle under the higher load. The researchers also observed changes in wear mechanisms as mechanical loading and the number of sliding cycles increased.</p>
-
-
-
-<p>“While the initial damage was mainly characterised by nanopillar fracture, continued sliding led to the accumulation and compaction of fractured material, progressively changing the original surface morphology,” Lopes said. “Under higher loads, this transformation was accompanied by a noticeable increase in friction.”</p>
-
-
-
-<p>The findings are presented in <a href="https://www.sciencedirect.com/science/article/pii/S2468023026024260" target="_blank" rel="noreferrer noopener">Exploring the mechanical resilience of light-management nanostructures: Wear and degradation analysis of silicon moth-eye-inspired surfaces for photovoltaic applications</a>, published in <em>Surfaces and Interfaces</em>. The research team included scientists from Portugal’s <a href="https://www.pv-magazine.com/2026/09/17/scientists-build-17-efficient-semi-transparent-perovskite-solar-cell-based-on-sputter-resistant-aluminum-oxide-layer/" target="_blank" rel="noreferrer noopener">International Iberian Nanotechnology Laboratory</a>, the <a href="https://www.pv-magazine.com/2010/09/14/professor-green-i-would-like-to-see-a-date-fixed-for-rohs-compliance_10001019/" target="_blank" rel="noreferrer noopener">University of Minho</a>, LABBELS – Associate Laboratory, and the University of Aveiro.</p>
-
-
-
-<p>From <a href="https://www.pv-magazine.com/" target="_blank" rel="noreferrer noopener">pv magazine Global</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/16/scientists-develop-moth-eye-inspired-antireflective-surfaces-for-pv-modules/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Cheaper industrial decarbonisation linked to shared use of renewables</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/15/cheaper-industrial-decarbonisation-linked-to-shared-use-of-renewables/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/15/cheaper-industrial-decarbonisation-linked-to-shared-use-of-renewables/#respond</comments>
-		
-		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 05:12:28 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Markets & Policy]]></category>
-		<category><![CDATA[Research & Development]]></category>
-		<category><![CDATA[Commercial & industrial]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18148</guid>
-
-					<description><![CDATA[A new report from Monash University’s Climateworks Centre has found industries that coordinate by sharing infrastructure and using electricity more flexibly, require smaller, smarter and cheaper clean energy systems.]]></description>
-										<content:encoded><![CDATA[
-<p>A new <a href="https://climateworkscentre.org/wp-content/uploads/2026/10/Strengthening-industrial-prosperity-through-coordinated-energy-planning-a-Gladstone-case-study-Climateworks-Centre-October-2026.pdf" target="_blank" rel="noreferrer noopener">report</a> from Monash University’s Climateworks Centre has found industries that coordinate by sharing infrastructure and using electricity more flexibly, require smaller, smarter and cheaper clean energy systems.</p>
-
-
-
-<p>The collective approach to energy also reduces the cost of systems and electricity prices for industries by 20% compared to a scenario where an industry player transitions its energy <a href="https://www.pv-magazine-australia.com/2026/03/25/rio-tinto-deal-to-deliver-7-5-billion-renewables-investment-in-queensland/" target="_blank" rel="noreferrer noopener">alone</a>.</p>
-
-
-
-<p>Cost savings are the result of avoiding unnecessary infrastructure build-out, reducing the amount of solar capacity needed by 22%, wind by 9% and battery storage by 50%.</p>
-
-
-
-<p>A coordinated approach results in efficiencies that lead to 40% less electricity curtailed and wasted, the report found.</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="767" height="379" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-155215-e1792040691286.png" alt="" class="wp-image-148139" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-155215-e1792040691286.png 767w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-155215-e1792040691286-300x148.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-155215-e1792040691286-260x128.png 260w" sizes="auto, (max-width: 767px) 100vw, 767px" /><figcaption class="wp-element-caption">Comparison of electricity costs in Climateworks&#8217; &#8216;Independent transition&#8217; scenario to the Australian Energy Market Commission&#8217;s modelled wholesale costs in Queensland | <i>Image: Monash University, Climateworks Centre</i></figcaption></figure>
-
-
-
-<p>The &#8216;Strengthening Industrial Prosperity Through Coordinated Energy Planning&#8217; report follows a case study of an <a href="https://www.pv-magazine-australia.com/2026/03/12/clean-industry-transition-is-300-billion-opportunity-in-the-making/" target="_blank" rel="noreferrer noopener">industrial precinct</a> energy plan (IPEP) in Central Queensland, using modelling of two pathways for a clean energy transition in Gladstone.</p>
-
-
-
-<p>One pathway where companies build their own renewable generation, batteries and supporting infrastructure is compared to a scenario where industries share infrastructure and coordinate when and how they use electricity.</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="782" height="546" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-155243.png" alt="" class="wp-image-148138" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-155243.png 782w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-155243-300x209.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-155243-768x536.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-155243-260x182.png 260w" sizes="auto, (max-width: 782px) 100vw, 782px" /><figcaption class="wp-element-caption">Reduced infrastructure costs and asset build-out in the &#8216;Coordinated&#8217; scenario compared to the &#8216;Independent transition&#8217; scenario | <i>Image: Monash University, Climateworks Centre</i></figcaption></figure>
-
-
-
-<p>Climateworks Centre Chief Executive Officer Anna Skarbek said the difference is significant.</p>
-
-
-
-<p>“Both pathways beat business as usual, and coordination delivers the lowest-cost outcome, with potential electricity savings of up to 50%, outcompeting business-as-usual Queensland grid prices from the early 2030s.”</p>
-
-
-
-<p>Using Gladstone as a case study, the research proposes the approach could be rolled out across Australia&#8217;s industrial regions including Kwinana, <a href="https://www.pv-magazine-australia.com/2026/07/22/idemitsu-plans-eight-hour-vanadium-flow-battery-for-nsw-hunter/" target="_blank" rel="noreferrer noopener">Hunter</a>, Whyalla, and the Pilbara.</p>
-
-
-
-<p>Energy Efficiency Council Head of Policy Jeremy Sung said Australia faces a critical decision in determining how to best build the energy infrastructure that will power the nation&#8217;s future economy.</p>
-
-
-
-<p>“We can choose to build in an uncoordinated way and bear the extra costs, or optimise energy use to deliver infrastructure faster, cheaper and with lower impacts on the environment,&#8217; Sung said.</p>
-
-
-
-<p>“A joined-up approach to developing energy infrastructure in Australia&#8217;s key industrial hubs makes complete sense.”</p>
-
-
-
-<p>Australian Industry Group Director of Climate Change and Energy Tennant Reed said the report helps put industrial energy needs front and centre in electricity system development.</p>
-
-
-
-<p>“Reducing what needs to be built through shared infrastructure slashes costs and should unlock faster regulatory approvals too. That&#8217;s a good recipe for competitiveness and unlocking growth and energy system planning should take this perspective on board as fast as possible,” Reed said.</p>
-
-
-
-<p>Climateworks recommends developing IPEPs to complement national energy planning and establish a shared view of future regional electricity demand and identify the least-cost pathway for generation, storage and transmission, through opportunities for industries to share infrastructure and use energy more flexibly.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/15/cheaper-industrial-decarbonisation-linked-to-shared-use-of-renewables/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Acciona, GenusPlus, UGL contracted to unlock 2.3 GW of renewable energy in WA</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/15/acciona-genusplus-ugl-contracted-to-unlock-2-3-gw-of-renewable-energy-in-wa/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/15/acciona-genusplus-ugl-contracted-to-unlock-2-3-gw-of-renewable-energy-in-wa/#respond</comments>
-		
-		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 03:17:57 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Markets & Policy]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18145</guid>
-
-					<description><![CDATA[Acciona, GenusPlus and UGL Engineering have been selected by the Western Australian government to deliver the state's Clean Energy Link - East transmission line project, which will help unlock the equivalent renewable energy used of a million homes.]]></description>
-										<content:encoded><![CDATA[
-<p>Unlocking the equivalent power usage of 1 million homes, or 2.3 GW of renewable energy, Spanish clean energy developer Acciona, Western Australia (WA)-based engineering and construction company  GenusPlus, and Sydney-based CIMIC Group&#8217;s UGL Engineering have been awarded a major contract to build the Clean Energy Link (CEL) &#8211; East transmission project in WA.</p>
-
-
-
-<p>The CEL &#8211; East will expand the state&#8217;s transmission network east of Collie, which is located approximately 200 kilometres south of Perth, to increase access to renewable energy solar and wind projects as state-owned coal fired power stations retire by 2030.</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="727" height="455" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-101514.png" alt="" class="wp-image-145263" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-101514.png 727w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-101514-300x188.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-101514-260x163.png 260w" sizes="auto, (max-width: 727px) 100vw, 727px" /><figcaption class="wp-element-caption">Clean Energy Link projects. | <i>Image: Beyond Zero Emissions</i></figcaption></figure>
-
-
-
-<p>Stage 1 of the project includes new and upgraded transmission lines between Collie and Darkan, connecting renewable energy zones (REZ) in eastern and south-eastern region of the South West Interconnectedc System (SWIS).</p>
-
-
-
-<p>Critical infrastructure to be delivered include a new 330 kV terminal at Cordering, expansion of Shotts and Muja terminals, 38 km of 330 kV transmission lines from Shotts to Cordering, and 54 km of 330 kV transmisson lines from Muja to Cordering.</p>
-
-
-
-<p>CIMIC Group Chief Executive Officer Jason Spears said as Australia accelerates its transition to a lower-carbon future, the need for large-scale transmission infrastructure has never been greater.</p>
-
-
-
-<p>“UGL&#8217;s proven ability to deliver complex energy and utility projects, backed by the strength and resources of CIMIC Group, positions us to help customers deliver the networks needed to connect renewable generation and power communities. We are proud to contribute our expertise to this landmark investment in Western Australia&#8217;s energy future,&#8221; Spears said.</p>
-
-
-
-<p>UGL<strong> </strong>Managing Director Sam Goldsmith said UGL is proud to continue supporting Western Power on one of Western Australia’s largest infrastructure transformations in its history.</p>
-
-
-
-<p>“As leaders in critical energy infrastructure, projects like Clean Energy Link &#8211; East demonstrate the critical role UGL plays in shaping Australia&#8217;s energy future. Drawing on decades of experience delivering complex transmission, power and utility infrastructure, we have the people, technical expertise and integrated delivery capability to successfully execute projects of this scale,&#8221; Goldsmith said.</p>
-
-
-
-<p>UGL&#8217;s contract is approximately $478 million.</p>
-
-
-
-<p>Collie-Preston Member of the Legislative Assembly Jodie Hanns said Collie has powered WA for generations, and the CEL &#8211; East expansion shows it will keep playing a vital role in our energy system for generations to come.</p>
-
-
-
-<p>&#8220;The expansion of the Muja and Shotts terminals and the new 330kV transmission lines from both sites will keep Collie at the heart of the South West Interconnected System,&#8221; Hanns said.</p>
-
-
-
-<p>&#8220;As more renewable energy comes online, Collie will continue to play its part in powering homes, businesses and industry across WA.&#8221;</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="622" height="481" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-140703.png" alt="" class="wp-image-148134" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-140703.png 622w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-140703-300x232.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-140703-260x201.png 260w" sizes="auto, (max-width: 622px) 100vw, 622px" /><figcaption class="wp-element-caption">WA Minister for Energy Amber-Jade Sanderson (2nd from right), at the contract announcement, 14 October 2026. | <i>Image: GenusPlus Group</i></figcaption></figure>
-
-
-
-<p><em>Updated 15/10/2026, 2.25pm</em></p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/15/acciona-genusplus-ugl-contracted-to-unlock-2-3-gw-of-renewable-energy-in-wa/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Lack of consumer energy resources retailer memberships skew EWON complaint data</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/15/lack-of-consumer-energy-resources-retailer-memberships-skew-ewon-complaint-data/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/15/lack-of-consumer-energy-resources-retailer-memberships-skew-ewon-complaint-data/#respond</comments>
-		
-		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
-		<pubDate>Thu, 15 Oct 2026 02:31:54 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<category><![CDATA[Modules]]></category>
-		<category><![CDATA[Residential]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18139</guid>
-
-					<description><![CDATA[The true number of consumer complaints about residential or business rooftop solar or battery energy storage system installations in New South Wales, is hidden from the state’s energy ombudsman due to a lack of retailer memberships.]]></description>
-										<content:encoded><![CDATA[
-<p>A lack of consumer energy resources retailer memberships with the Energy &amp; Water Ombudsman NSW (EWON) is impacting consumer protections against faulty household and businesses rooftop solar and battery energy storage systems.</p>
-
-
-
-<p>The release of its <a href="https://www.ewon.com.au/content/Document/Annual%20Reports/AnnualReport2026.pdf" target="_blank" rel="noreferrer noopener">annual report</a>, indicates consumer energy resource complaints increased from 301 in FY25 to 677 in FY26, however do not tell the full story as EWON does not have jurisdiction over non-member providers.</p>
-
-
-
-<figure class="wp-block-image alignleft size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Janine-Young-EWON-Ombudsman-683x1024.jpg" alt="" class="wp-image-148126" style="width:357px;height:auto" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Janine-Young-EWON-Ombudsman-683x1024.jpg 683w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Janine-Young-EWON-Ombudsman-200x300.jpg 200w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Janine-Young-EWON-Ombudsman-768x1151.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Janine-Young-EWON-Ombudsman-1025x1536.jpg 1025w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Janine-Young-EWON-Ombudsman-1366x2048.jpg 1366w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Janine-Young-EWON-Ombudsman-193x290.jpg 193w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Janine-Young-EWON-Ombudsman-scaled.jpg 1708w" sizes="auto, (max-width: 683px) 100vw, 683px" /><figcaption class="wp-element-caption">Energy and Water Ombudsman Janine Young | <i>Energy and Water Ombudsman NSW</i></figcaption></figure>
-
-
-
-<p>EWON Ombudsman Janine Young said the organisation can only resolve solar and <a href="https://www.google.com/search?q=residential+batteries+pv+magazine+Australia&amp;sca_esv=b806ac0cce3d6a6a&amp;rlz=1C1CHBF_en-GBAU1055AU1055&amp;sxsrf=APpeQnsMEYklQrzkRg2br4Ebu0586Am99Q%3A1792030734252&amp;ei=DjjQau7cDpmPvr0P5sDOwAo&amp;uact=5&amp;oq=residential+batteries+pv+magazine+Australia&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiK3Jlc2lkZW50aWFsIGJhdHRlcmllcyBwdiBtYWdhemluZSBBdXN0cmFsaWEyCBAhGKABGMMEMggQIRigARjDBEiLElAAWK8RcAB4AJABAJgBpAKgAZEjqgEEMi0xObgBA8gBAPgBAZgCAaAC8AGYAwCSBwMyLTGgB_pHsgcDMi0xuAfwAcIHAzItMcgHA4AIAQ&amp;sclient=gws-wiz-serp" target="_blank" rel="noreferrer noopener">battery</a> complaints when retailers are EWON members, which limits access for consumers to EWON’s free and independent service.</p>
-
-
-
-<p>“Consumers and small businesses deserve a one-stop shop that provides consistent, timely and fair advice and dispute resolution, and EWON is best placed to do this across NSW,” Young said.</p>
-
-
-
-<p>“As supported by the Australian Competition and Consumer Commission (ACCC) in their June Inquiry into the National Electricity Market (NEM) report, EWON’s long term goal is to have jurisdiction to take complaints about all retailers of solar, battery, virtual power plants (VPP) and electric vehicle (EV) residential charging, so that we can fully address this consumer protection gap.”</p>
-
-
-
-<p>EWON received 27,011 complaints across FY26, with 677 consumer energy resources complaints recorded in FY26, showing a jump of 125% or a doubling of complaints year-on-year to FY26.</p>
-
-
-
-<p>Of the 677 complaints, 245 regarded system performance, 81, smart energy services, 192, installation and/or connection, 60, CER payment plans, 55, complaint handling and 44, for system activation.</p>
-
-
-
-<p>However, complaints about residential and small business <a href="https://www.pv-magazine-australia.com/2026/10/12/rooftop-solar-reaches-new-highs-across-nem/" target="_blank" rel="noreferrer noopener">rooftop solar</a> and battery sales and installation were a small percentage of the total complaints, which Young said would be higher if EWON had jurisdiction over all related complaints.</p>
-
-
-
-<p>“The Commonwealth Government’s Cheaper Home Battery Program (CHBP) is making investment in solar, and home batteries mainstream for many people, and consumer protections need to catch up,” Young said.</p>
-
-
-
-<p>Young said access to external dispute resolution is fragmented, with customers getting caught in referral loops, resulting in varying levels of resolution.</p>
-
-
-
-<p>“The energy market is transforming, and NSW is leading the way towards a cleaner energy future, but many households still struggle to afford to heat or cool their homes and keep appliances running.,” Young said.</p>
-
-
-
-<p>The Ombudsman added that the energy transition reinforces the need for independent dispute resolution and access to home solar and batteries to help customers afford their energy bills.</p>
-
-
-
-<p>“The challenges facing consumers today are complex, ranging from rising costs and payment difficulties to new technologies and energy products,” Young said.</p>
-
-
-
-<p>Clean Energy Regulator (CER) figures show a national total of 401,185 home batteries had been recorded as installed nationally from 1 July 2025 to 31 May 2026 under the small-scale renewable energy scheme (SRES), and the CHBP, with <a href="https://www.pv-magazine-australia.com/press-releases/renewable-power-to-2-7-million-nsw-homes-on-track-as-firsttransmission-lines-strung-in-central-west/" target="_blank" rel="noreferrer noopener">175,000 of those in NSW</a>.</p>
-
-
-
-<p>As of mid-2026 NSW had over 1.17 million rooftop solar systems installed across all-time, and by October 2026, 4,532,178 rooftop solar installations have been installed on homes and businesses nationally.</p>
-
-
-
-<p>EWON ‘s figure of 677 complaints in FY 2026 represent just 0.05% of the combined 1.35 million solar and battery installated in NSW.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="716" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-115632-1024x716.png" alt="" class="wp-image-148128" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-115632-1024x716.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-115632-300x210.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-115632-768x537.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-115632-260x182.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-115632.png 1295w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/15/lack-of-consumer-energy-resources-retailer-memberships-skew-ewon-complaint-data/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Up the ante on ambition: $250 million Solar Sunshot Round 3 now open</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/15/up-the-ante-on-ambition-250-million-solar-sunshot-round-3-now-open/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/15/up-the-ante-on-ambition-250-million-solar-sunshot-round-3-now-open/#respond</comments>
-		
-		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 22:52:03 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Markets & Policy]]></category>
-		<category><![CDATA[Research & Development]]></category>
-		<category><![CDATA[Technology & Products]]></category>
-		<category><![CDATA[Modules]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18131</guid>
-
-					<description><![CDATA[The Australian Renewable Energy Agency has opened the $250 million Solar Sunshot Round 3, for local and global companies to develop product, manufacture, or scale-up technology capable of reducing large-scale solar costs and speeding up solar build times in Australia.]]></description>
-										<content:encoded><![CDATA[
-<p>Targeting equipment, manufacturing processes and deployment technologies, the Australian Renewable Energy Agency (ARENA) has opened the $250 million (USD 174 million) Solar Sunshot Round 3 inviting Australian and international companies with commercially mature technologies to apply.</p>
-
-
-
-<p>Round 3 is focused on the commercial-scale manufacture of solar balance of plant and deployment technologies, which could include racking and tracking systems, robotics, advanced automation, prefabrication and other technologies, and which must contribute to achieving ARENA’s ultra low-cost solar (ULCS) goals, such as the 30-30-30 target to achieve 30% module efficiency at an installed cost of 30 cents per watt by 2030.</p>
-
-
-
-<p>ARENA General Manager Solar Dan Sturrock told <strong>pv magazine</strong> Round 3 signals Australia is open for business with the world’s best solar innovators that want opportunities to develop or manufacture products at scale in Australia.&nbsp;</p>
-
-
-
-<p>“We think the next decade is a really exciting time to bring the best innovation from around the world here to Australia and show those products can be produced at scale to drive down the costs and increase the efficiency of how we build large-scale solar in Australia,” Sturrock said.</p>
-
-
-
-<p>“We’re coming out now with Round 3 to be able to extend the ambition already demonstrated through Rounds 1 and 2. Round 2 has been running for about 12 months and we’ve got a couple of projects we’ve been able to announce, plus a strong pipeline of other projects coming through that round, and we expect to fully allocate the <a href="https://www.pv-magazine-australia.com/2025/09/04/150-million-round-2-solar-sunshot-targets-solar-supply-chain-technologies/">$150 million</a> that we made available.”</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/06/culcairn-solar-farm-neoen.png" alt="" class="wp-image-139194" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/06/culcairn-solar-farm-neoen.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/06/culcairn-solar-farm-neoen-300x200.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/06/culcairn-solar-farm-neoen-768x512.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/06/culcairn-solar-farm-neoen-260x173.png 260w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Sturrock said with SunShot Solar Round 3 ARENA is more ambitious, wanting to work with a broader range of companies but also asking those companies to be equally ambitious with their ability to go larger at scale.</p>
-
-
-
-<p>“Not just to manufacture product but to also really focus on product development, because when you think about recent Solar Sunshot Round 2 recipients, Built Robotics and Luminous Robotics, most of the product development happens in the US at the moment, so there’s an opportunity to bring product development expertise to Australia and really think about what’s the right product for this market,” Sturrock said.</p>
-
-
-
-<p>Projects and products under Round 3 must also deliver value to the end user the builds or owns utility-scale solar farms. &nbsp;</p>
-
-
-
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="828" height="1024" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/STUR-Head-Shot-828x1024.jpg" alt="" class="wp-image-148122" style="width:293px;height:auto" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/STUR-Head-Shot-828x1024.jpg 828w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/STUR-Head-Shot-242x300.jpg 242w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/STUR-Head-Shot-768x950.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/STUR-Head-Shot-1241x1536.jpg 1241w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/STUR-Head-Shot-234x290.jpg 234w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/STUR-Head-Shot.jpg 1492w" sizes="auto, (max-width: 828px) 100vw, 828px" /><figcaption class="wp-element-caption">ARENA General Manager Solar Dan Sturrock | <i>Image: ARENA</i></figcaption></figure>
-
-
-
-<p>“We expect these projects to reduce the cost of solar farms, and it’s also about product quality, so if you’re building a quality product hopefully it’s lower cost but overall we expect these technologies to lower costs in the long term as we build out 10 GW of large-scale solar a year, rather than the current 5 GW.”</p>
-
-
-
-<p>“We obviously look at value for money to the taxpayer, ultimately. Applicants do need to bring their own private investment. We generally expect in all of these projects that we’re not funding more than 50% of the total project cost,” Sturrock said.</p>
-
-
-
-<p>“Sometimes a project is looking for a capital subsidy to reduce the cost of building a factory and sometimes they’re looking for a production subsidy to make their first batch of whatever the product is, to be cost effective and be able to break into the market at scale.”</p>
-
-
-
-<p>“We’re hoping once established successful applicants are not only build a strong business in Australia but there’s absolutely no reason why they shouldn’t then be able to export those products or services to other markets in the region, whether that’s New Zealand, South East Asia, or further afield,” Sturrock said.</p>
-
-
-
-<p>“When you look through the short term challenges in lots of different areas, we’re very optimistic that in 10 years’ time the solar industry will have grown massively and there’ll be really big changes in the way we build and operate solar farms in Australia with all the new technologies that are available,” Sturrock said.</p>
-
-
-
-<p>Expressions of interest for Solar Sunshot Round 3 open on 2 November 2026.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="508" src="https://www.pv-magazine-australia.com/wp-content/uploads/2025/04/250325-Bouygues-Construction-Australia-has-partnered-with-Built-Robotics-to-trial-cut-scaled-e1745974267328-1024x508.jpg" alt="" class="wp-image-71967" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2025/04/250325-Bouygues-Construction-Australia-has-partnered-with-Built-Robotics-to-trial-cut-scaled-e1745974267328-1024x508.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2025/04/250325-Bouygues-Construction-Australia-has-partnered-with-Built-Robotics-to-trial-cut-scaled-e1745974267328-300x149.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2025/04/250325-Bouygues-Construction-Australia-has-partnered-with-Built-Robotics-to-trial-cut-scaled-e1745974267328-768x381.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2025/04/250325-Bouygues-Construction-Australia-has-partnered-with-Built-Robotics-to-trial-cut-scaled-e1745974267328-1536x761.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2025/04/250325-Bouygues-Construction-Australia-has-partnered-with-Built-Robotics-to-trial-cut-scaled-e1745974267328-2048x1015.jpg 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2025/04/250325-Bouygues-Construction-Australia-has-partnered-with-Built-Robotics-to-trial-cut-scaled-e1745974267328-260x129.jpg 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2025/04/250325-Bouygues-Construction-Australia-has-partnered-with-Built-Robotics-to-trial-cut-scaled-e1745974267328-600x297.jpg 600w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p><strong>Solar Sunshot Round 2</strong></p>
-
-
-
-<p>ARENA announced on 13 October 2026 Round 2 successful applicants US-based Built Robotics and Luminous Robotics, respectively receiving grants of $14.5 million and $17.8 million to establish new manufacturing facilities.</p>
-
-
-
-<p>“Luminous Robotics has only been around for about three years, but they came to us early and received a small amount of funding and then saw a great opportunity to come in and scale up their business in Australia,” Sturrock said.</p>
-
-
-
-<p>“They’re a really exciting company, high growth, big ambitions and now looking to manufacture their <a href="https://www.pv-magazine.com/2026/10/13/arena-pumps-32-3-million-into-solar-robotics-manufacturing-projects/">LUMI robots</a> at scale in Melbourne, and they’re a great example, because we worked with them at the smaller scale when they demonstrated the robots at Goorambat and Culcairn solar farms in the last year or so.”</p>
-
-
-
-<p>ARENA also worked with Californian start-up Built Robotics when they came to Australia to test their product.</p>
-
-
-
-<p>“Like Luminous they are now seeing a great opportunity to scale up their piling robots in Brisbane and are building a large facility there where they’ve currently just got a small workshop,” Sturrock said.</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="965" height="638" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-092309.png" alt="" class="wp-image-148121" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-092309.png 965w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-092309-300x198.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-092309-768x508.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-092309-260x172.png 260w" sizes="auto, (max-width: 965px) 100vw, 965px" /><figcaption class="wp-element-caption">Quinbrook-owned company Solquartz received  million to support feasibility studies geared toward scaling up domestic solar PV manufacturing from the Solar Sunshot Round 1B | <i>Image: Quinbrook Infrastructure Partners</i></figcaption></figure>
-
-
-
-<p><strong>Solar Sunshot Round 1</strong></p>
-
-
-
-<p>Applications for the $50 million <a href="https://www.pv-magazine-australia.com/2026/08/24/quinbrook-advances-plans-for-polysilicon-production-plant/" target="_blank" rel="noreferrer noopener">Round 1B</a> for upstream solar manufacturing feasibility studies and front end engineering and design (FEED) has been extended to 12 November 2027.</p>
-
-
-
-<p>“We’re extending Round 1B to give an opportunity to both new entrants to come to us but also for companies to apply for second stage support. It is a bit of a ‘watch this space’, because we really need to come to an understanding of what does success look like in that upstream space because it is a difficult one and one that is rapidly evolving based on what is going on in the US and China, in particular, because a lot of these businesses will rely on a large buyer being willing to pay a non-China premium,” Sturrock said.</p>
-
-
-
-<p>Rounds 1 and 2 funded projects include South Australian solar panel manufacturer <a href="https://www.pv-magazine-australia.com/2025/08/06/tindo-to-scale-up-production-capacity-with-solar-sunshot-support/" target="_blank" rel="noreferrer noopener">Tindo</a> Solar, Sydney-based solar technology company 5B and China-headquartered Sunman, founded by solar pioneer and University of New South Wales (UNSW) alumnus Dr Zhengrong Shi, which is building a 500 MW per annum solar module manufacturing facility in the Hunter Valley, New South Wales (NSW) backed by $171 million in federal and state government funding.</p>
-
-
-
-<p>The Australian Renewable Energy Agency (ARENA) is delivering the $850 million Solar Sunshot program, launched in March 2024, to support innovation in Australia’s solar PV manufacturing industry. </p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/15/up-the-ante-on-ambition-250-million-solar-sunshot-round-3-now-open/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,6 +1,7 @@
 
 { "head": { "link": [], "vars": ["rel", "celex", "date"] },
   "results": { "distinct": false, "ordered": true, "bindings": [
+    { "rel": { "type": "literal", "value": "corrects" }	, "celex": { "type": "literal", "datatype": "http://www.w3.org/2001/XMLSchema#string", "value": "32023R1542R(15)" }	, "date": { "type": "literal", "datatype": "http://www.w3.org/2001/XMLSchema#date", "value": "2026-10-19" }},
     { "rel": { "type": "literal", "value": "based_on" }	, "celex": { "type": "literal", "datatype": "http://www.w3.org/2001/XMLSchema#string", "value": "52026DC0470" }	, "date": { "type": "literal", "datatype": "http://www.w3.org/2001/XMLSchema#date", "value": "2026-09-11" }},
     { "rel": { "type": "literal", "value": "consolidates" }	, "celex": { "type": "literal", "datatype": "http://www.w3.org/2001/XMLSchema#string", "value": "02023R1542-20260813" }	, "date": { "type": "literal", "datatype": "http://www.w3.org/2001/XMLSchema#date", "value": "2026-08-13" }},
     { "rel": { "type": "literal", "value": "corrects" }	, "celex": { "type": "literal", "datatype": "http://www.w3.org/2001/XMLSchema#string", "value": "32023R1542R(14)" }	, "date": { "type": "literal", "datatype": "http://www.w3.org/2001/XMLSchema#date", "value": "2026-07-28" }},
