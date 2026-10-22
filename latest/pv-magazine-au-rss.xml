@@ -12,7 +12,7 @@
 	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.pv-magazine-australia.com/</link>
 	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
-	<lastBuildDate>Tue, 20 Oct 2026 22:15:58 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Oct 2026 22:12:48 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,722 +28,871 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Call for greater focus on maintenance as rooftop solar fleet grows</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/21/call-for-greater-focus-on-maintenance-as-rooftop-solar-fleet-grows/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/21/call-for-greater-focus-on-maintenance-as-rooftop-solar-fleet-grows/#respond</comments>
+		<title>No roof left behind: how advanced solar technology can bring difficult commercial buildings into Australia&#8217;s energy transition</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/23/no-roof-left-behind-how-advanced-solar-technology-can-bring-difficult-commercial-buildings-into-australias-energy-transition/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/23/no-roof-left-behind-how-advanced-solar-technology-can-bring-difficult-commercial-buildings-into-australias-energy-transition/#respond</comments>
 		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 23:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 23:15:00 +0000</pubDate>
 				<category><![CDATA[Applications & Installations]]></category>
 		<category><![CDATA[Commercial & industrial]]></category>
-		<category><![CDATA[Modules]]></category>
-		<category><![CDATA[Residential]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18205</guid>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18275</guid>
 
-					<description><![CDATA[As Australia’s rooftop solar fleet continues to grow and age, concerns about how existing solar installations are being maintained are on the rise.]]></description>
+					<description><![CDATA[A new 1.3 MW rooftop system at the Melbourne Sports and Aquatic Centre shows what is possible when advanced module technology meets site-specific engineering. Installed across a curved, partially shaded roof, it is about 53% larger than the 850 kW tender – and around 60% larger than a conventional, shade-avoiding design would have allowed.]]></description>
 										<content:encoded><![CDATA[
-<p>Australia leads the world in rooftop solar per capita with more than <a href="https://www.pv-magazine-australia.com/2026/02/04/rooftop-solar-hits-28-3-gw-as-home-battery-uptake-straps-on-a-rocket/">28 GW installed</a> but an industry expert says inadequate inspection and maintenance programs mean many of these assets could fail to deliver the performance and longevity they were designed for.</p>
+<p><strong>The clean-energy transition can&#8217;t stop at the easy roofs</strong></p>
 
 
 
-<p>Rooftop solar systems have been deployed across about 4 million Australian homes and small businesses – about 36% of households have a system – and the country’s enthusiasm for PV panels is only building with 2026 on track to be a record year of installations. About 181,000 rooftop solar systems were installed during the first half of the year, a 35% increase on the same period in 2025, and the strongest six-month total since 2021.</p>
+<p>Australia has installed around 22 GW of rooftop solar on homes but only about 5.6 GW on commercial and industrial (C&amp;I) buildings – even though businesses use more electricity than households, and use much of it during daylight hours when solar is generating.</p>
 
 
 
-<p>Andrew Barrington, founder and managing director of New South Wales-headquartered solar maintenance company Solar Shine Australia, said rather than just focusing on installing new solar, the industry needs to make sure the solar already installed continues to perform, delivers its intended returns and lasts as long as it should.</p>
+<p>The Institute for Energy Economics and Financial Analysis (IEEFA) estimates the technical rooftop potential across C&amp;I buildings at close to 40 GW, rising above 80 GW when agricultural buildings are included. Yet forecasts suggest the sector may reach only 17–31 GW by 2050.</p>
 
 
 
-<p>&#8220;We&#8217;re putting solar panels on just about every roof we can, but who&#8217;s checking whether they&#8217;re still working properly five years later?&#8221; he said.</p>
+<p>Policy, tariffs, connection processes and finance all contribute to that gap. But another barrier gets far less attention: many commercial roofs are curved, shaded, structurally constrained or architecturally sensitive. </p>
 
 
 
-<p>&#8220;We don&#8217;t need to keep replacing things that could have been maintained. We need to start treating solar like the valuable infrastructure it is.&#8221;</p>
+<p>These buildings shouldn&#8217;t be left out of Australia&#8217;s energy transition – they need a different design approach.</p>
 
 
 
-<p>Barrington has called for a greater focus on proactive inspection and maintenance practices, saying they are critical to extending the lifespan of Australia’s rooftop solar fleet, reducing avoidable losses and minimising premature <a href="https://www.pv-magazine-australia.com/2026/07/07/australias-solar-waste-challenge-is-billion-dollar-opportunity/">solar waste</a>.</p>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="768" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/AIKO-Comet-ABC-panels-on-MSAC-curved-roof-1024x768.jpg" alt="" class="wp-image-148753" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/AIKO-Comet-ABC-panels-on-MSAC-curved-roof-1024x768.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/AIKO-Comet-ABC-panels-on-MSAC-curved-roof-300x225.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/AIKO-Comet-ABC-panels-on-MSAC-curved-roof-768x576.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/AIKO-Comet-ABC-panels-on-MSAC-curved-roof-260x195.jpg 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/AIKO-Comet-ABC-panels-on-MSAC-curved-roof.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Because tilted racking would have cut across the curved roofline, a flush-mount system that follows the curve – preserves the building&#8217;s profile and increases panel density. | <i>Image: AIKO</i></figcaption></figure>
 
 
 
-<p>While solar panels are generally designed to operate for 25 years or more, damage, neglected maintenance and undetected faults can affect their performance and potentially shorten their useful life.</p>
+<p><strong>The easy-roof economy</strong></p>
 
 
 
-<p>“Like anything we want to last for decades, it needs to be maintained,” Barrington said. “Identifying and rectifying minor faults early saves production levels, expensive repairs when the faults stack up or cause a major issue and prevents risk of fire/electrocution.”</p>
+<p>The commercial solar market has good reasons to favour simple roofs. A flat or low-pitch metal roof with clear access, minimal shading and spare structural capacity can often be designed from an established template, using standard mounting systems and predictable installation methods. Engineering risk is low and margins are easy to protect.</p>
 
 
 
-<p>“On a bigger picture level, if we are decommissioning solar before its expected lifecycle due to poor maintenance, we are creating more avoidable solar waste than the recycling sector can handle. That means more solar in landfill. As a sustainable industry, that really matters and needs to be addressed.”</p>
+<p>Complex roofs are rarely rejected outright. More often, they are designed down: the array is confined to the clear, unshaded section, and curved, shaded or load-limited areas are excluded. The project may be technically sound, but it is materially smaller than the site could support.</p>
 
 
 
-<p><a href="https://www.pv-magazine.com/2026/07/07/solar-shine-backs-proactive-maintenance-to-reduce-premature-pv-waste/">Solar Shine Australia</a>, which works across residential, commercial and industrial solar installations, said issues like dirt buildup, loose wiring, cracked panels, and monitoring equipment that isn&#8217;t being actively checked can lead to reduced energy output. Physical module damage can increase the risk of moisture ingress and progressive deterioration, while also affecting the long-term reliability and performance of the system.</p>
+<p>For businesses, solar is a significant capital investment, and a system sized well below daytime demand leaves the site exposed to grid prices for the next 25–30 years. As business capital and public incentives flow into the C&amp;I segment, design decisions like these will determine how much each project returns – and how much of the sector&#8217;s 40 GW potential is ever realised.</p>
 
 
 
-<p>Barrington said he is increasingly seeing the consequences of inadequate maintenance planning but pointed to education as the key to reversing the trend.</p>
+<p><strong>A different design pathway</strong></p>
 
 
 
-<p>“In most cases, the education around maintenance is not there for consumers and even installers, manufacturers, and solar sales teams,” he said. “For 25 years this rumour has been circulating that solar is no maintenance, self-cleaning or the rain cleans solar panels … that is simply not true.”</p>
+<p>The Melbourne Sports and Aquatic Centre (MSAC) shows how a complex roof can be approached differently.</p>
 
 
 
-<p>“And that misinformation, unfortunately, is partly spread by manufacturers of solar and sales teams.”</p>
+<p>The venue&#8217;s roof is curved and partially shaded by surrounding towers and cables. Structural and aesthetic requirements also limited the suitability of conventional tilted mounting, and a tilted system would have needed wider row spacing to manage inter-row shading, further reducing the usable area. Under a conventional design approach, the project was expected to deliver around 800–850 kW.</p>
 
 
 
-<p>“The positive thing is that public opinion is changing and people are realising that it is an essential part of running solar efficiently, and sustainably.”</p>
+<p>Melbourne EPC Next Green Group took a different path, designing around the building&#8217;s structural and architectural requirements rather than a standard template.</p>
 
 
 
-<p>“Solar is low maintenance, not no maintenance.”</p>
+<p><strong>Power density</strong></p>
 
 
 
-<p>Solar maintenance will be discussed at All Energy Australia 2026 in Melbourne next week, where Barrington will chair a panel of specialists examining what needs to change.</p>
+<p>The team selected AIKO <a href="https://www.pv-magazine-australia.com/2025/12/23/aiko-achieves-24-8-efficiency-in-commercial-solar-module-production/" target="_blank" rel="noreferrer noopener">Comet</a> All Back Contact (ABC) mono-glass modules to maximise generation from the usable roof area. With all electrical contacts moved to the rear of the cell, the front surface has no busbars or grid lines to block light, lifting power density per square metre. On a roof where usable area is the binding constraint, more watts per module means more kilowatts on the same footprint.</p>
 
 
 
-<p>The session, Maximising Solar Asset Performance Through Maintenance, Monitoring &amp; Stewardship, will bring together different areas of the maintenance industry to share practical experiences and discuss how solar asset owners can get more from their systems.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/21/call-for-greater-focus-on-maintenance-as-rooftop-solar-fleet-grows/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Longi researchers reveal how edge masking reduces recombination losses in solar cells</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/21/longi-researchers-reveal-how-edge-masking-reduces-recombination-losses-in-solar-cells/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/21/longi-researchers-reveal-how-edge-masking-reduces-recombination-losses-in-solar-cells/#respond</comments>
-		
-		<dc:creator><![CDATA[Emiliano Bellini]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 22:15:00 +0000</pubDate>
-				<category><![CDATA[Research & Development]]></category>
-		<category><![CDATA[cells & modules]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18206</guid>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/NGG-engineering-increased-capacity-from-800-kW-to-1.3-MW-by-using-AIKO-partial-shade-1024x768.jpg" alt="" class="wp-image-148754" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/NGG-engineering-increased-capacity-from-800-kW-to-1.3-MW-by-using-AIKO-partial-shade-1024x768.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/NGG-engineering-increased-capacity-from-800-kW-to-1.3-MW-by-using-AIKO-partial-shade-300x225.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/NGG-engineering-increased-capacity-from-800-kW-to-1.3-MW-by-using-AIKO-partial-shade-768x576.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/NGG-engineering-increased-capacity-from-800-kW-to-1.3-MW-by-using-AIKO-partial-shade-1536x1152.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/NGG-engineering-increased-capacity-from-800-kW-to-1.3-MW-by-using-AIKO-partial-shade-2048x1536.jpg 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/NGG-engineering-increased-capacity-from-800-kW-to-1.3-MW-by-using-AIKO-partial-shade-260x195.jpg 260w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">NGC engineerng increased capacity from 800 kW to 1.3 MW by using AIKO partial shade | <i>Image: AIKO</i></figcaption></figure>
 
-					<description><![CDATA[Longi researchers found that edge masking improves the measured efficiency of heterojunction back-contact solar cells by suppressing edge recombination, with an optimal masking width of 5 mm. Their simulations suggest that selective metallisation could further increase efficiency from 26.85% to a theoretical maximum of 27.39%.]]></description>
-										<content:encoded><![CDATA[
-<p>Researchers at Chinese solar manufacturer <a href="http://www.pv-magazine.com/2025/04/18/longi-achieves-34-85-efficiency-for-two-terminal-tandem-perovskite-solar-cell/">Longi</a> have investigated the physical mechanisms behind edge masking in high-efficiency solar cells, finding that the technique suppresses edge recombination by restricting lateral carrier transport.</p>
 
 
+<p><strong>Weight</strong></p>
 
-<p>Edge masking is a laboratory measurement technique in which the perimeter of a solar cell is covered with an opaque material to prevent illumination of its edges, thereby reducing recombination losses and potentially increasing measured conversion efficiency.</p>
 
 
+<p>The Comet single-glass modules weigh 28 kg each, giving a high power-to-weight ratio. That mattered: the installation placed 2,016 modules and four kilometres of rail – more than 56 tonnes of equipment – on a steep, curved roof, so every kilogram per module counted against the structure&#8217;s limits.</p>
 
-<p>“Our starting point was a practical concern about how efficiencies are measured,” Longi researcher Genshun Wang told <strong>pv magazine</strong>. “In an earlier study on high-efficiency back contact cells, we found that the wafer edge was a major channel of current loss, and that masking the edge during testing appreciably raised the measured efficiency – 26.74% over the total area versus 27.09% over the designated illumination area.”</p>
 
 
+<p><strong>Shade tolerance</strong></p>
 
-<p>Wang explained that although edge masking is widely used in record solar cell efficiency measurements, particularly for small-area devices, its underlying physical mechanisms have not been fully understood.</p>
 
 
+<p>In conventional modules, cells are wired in series and grouped behind bypass diodes, typically three per module. A single shaded cell can switch out a whole cell group – about a third of the module – and cause further mismatch losses along the string, while shaded cells that aren&#8217;t bypassed can develop hot-spots. That is why designers generally leave shaded roof areas empty.</p>
 
-<p>“Earlier work had treated the masked region as geometric shielding, or as a parallel dark sink in a lumped equivalent circuit, with little said at the carrier-transport level,” he said. “Clarifying it provides design guidance, as it allows the optimum masking width to be quantified so that a suitable grid design can deliver a higher masking gain.”</p>
 
 
+<p>AIKO&#8217;s ABC modules manage shading at the level of individual cells. TÜV NORD testing found they produced up to 30% more electricity than TOPCon modules with a single cell fully shaded, and in separate TÜV NORD hot-spot testing, shaded ABC cells stabilised below 100°C compared with around 170°C for TOPCon. The modules also hold TÜV Rheinland Class A certification for partial-shading resistance. For NGG, that meant the shaded parts of the roof could be designed as generating area.</p>
 
-<p>In the paper “<a href="https://www.sciencedirect.com/science/article/abs/pii/S0927024826005805">The influence of edge masking on the optoelectronic performance in back contact silicon solar cells</a>,” published in <em>Solar Energy Materials and Solar Cells</em>, the researchers demonstrated that masking creates a dark, electrically resistive region that limits carrier movement toward the cell perimeter.</p>
 
 
+<p>These characteristics don&#8217;t eliminate the roof&#8217;s constraints. But they improve the economics of using areas where shading is unavoidable, and give the EPC more design flexibility to use more of the roof and pursue a larger system.</p>
 
-<p>“This study shows that masking drives a light-to-dark transition in the masked region, which becomes a resistive dark area and reinforces what we call a ‘resistive barrier’,” Wang said. “That barrier hinders the lateral transport of carriers towards the physical edge, thereby suppressing edge recombination and delivering a higher efficiency.”</p>
 
 
+<p><strong>From flexibility to a buildable design</strong></p>
 
-<p>The researchers also investigated whether changes to the metallization layout could further improve cell performance. “Our model further predicts that removing the metallisation in the masked area, i.e. selective metallisation, cuts the remaining path along the grid and isolates the dark edge load, with gains in both fill factor and open-circuit voltage,” Wang said.</p>
 
 
+<p>Next Green Group turned that advantage into a buildable design. The team ran a trial installation on the roof&#8217;s sharpest curves and completed wind and dead-load testing before full installation. Because tilted racking would have cut across the curved roofline, it installed a flush-mount system that follows the curve – preserving the building&#8217;s profile and increasing panel density, since flush-mounted panels don&#8217;t need the gaps left between tilted rows.</p>
 
-<p>Wang stressed, however, that the approach is intended for laboratory characterisation rather than commercial manufacturing. “It is worth stressing that this is not a production technology,” he said. “Selective metallisation adds process complexity, and the masked area generates no power, so the utilisation of the total cell area decreases. In practice it is a laboratory test method: by removing the edge contribution, it allows other loss factors to be assessed more reliably.”</p>
 
 
+<p>Flush mounting has a thermal trade-off: with less airflow behind the modules, arrays run hotter, and output falls as cell temperature rises. In independent CEA testing, AIKO&#8217;s ABC modules recorded a Pmax temperature coefficient of –0.26%/°C, compared with around –0.29%/°C typical of TOPCon – a difference that applies to every hour of generation over the system&#8217;s life.</p>
 
-<p>Through their analysis, the researchers found that masking the cell perimeter reduces edge recombination losses and improves power conversion efficiency, primarily through an increase in fill factor. The effect was more pronounced in cells without edge passivation, which showed an efficiency improvement of approximately 0.2 percentage points.</p>
 
 
+<p>The completed 1.3 MW array is about 500 kW larger than the roughly 800 kW a conventional, shade-avoiding layout would have allowed – around 60% more capacity from the same roof.</p>
 
-<p>The experiments identified an optimal masking width of 5 mm, while wider masks of 10 mm and 15 mm reduced efficiency because of the growing inactive area and associated electrical losses. The researchers also found that short-circuit current density initially increased with masking width, while open-circuit voltage declined.</p>
 
 
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><em>&#8220;</em>A complex roof does not necessarily have low solar potential. In many cases, it needs a more site-specific engineering response, paired with modules that can improve the capacity, weight and shading trade-offs.&#8221; <em>– <strong>Nathaniel Galindo, Executive General Manager – Integrated Energy Solutions, Next Green Group</strong></em></p>
+</blockquote>
 
-<p>Using Quokka 3 simulations, the team demonstrated that masking creates a transition from an illuminated, conductive region to a dark, resistive area near the cell perimeter. This strengthens a resistive barrier that restricts lateral carrier transport toward the physical edge, thereby suppressing recombination losses.</p>
 
 
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="628" height="405" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-23-035213.png" alt="" class="wp-image-148756" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-23-035213.png 628w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-23-035213-300x193.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-23-035213-260x168.png 260w" sizes="auto, (max-width: 628px) 100vw, 628px" /></figure>
 
-<p>Further simulations showed that carriers can still reach the masked region through metal grid lines, limiting the efficiency gains. To address this, the researchers proposed selectively removing metallisation from the masked area to electrically isolate the edge.</p>
 
 
+<p><strong>Generation where the load is</strong></p>
 
-<p>The research team included scientists from Shenzhen Campus of Sun Yat-sen University in China.</p>
 
 
+<p>The additional capacity serves MSAC&#8217;s energy-intensive daytime load: pools, water treatment, heating and cooling, ventilation, lighting, courts and scoreboards.</p>
 
-<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/21/longi-researchers-reveal-how-edge-masking-reduces-recombination-losses-in-solar-cells/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Akaysha secures $1.75 billion finance package to grow battery platform</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/20/akaysha-secures-1-75-billion-finance-package-to-grow-battery-platform/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/20/akaysha-secures-1-75-billion-finance-package-to-grow-battery-platform/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 03:11:00 +0000</pubDate>
-				<category><![CDATA[Markets & Policy]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<category><![CDATA[finance]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18204</guid>
 
-					<description><![CDATA[Akaysha Energy has locked in a $1.75 billion portfolio financing platform to support the company’s next phase of large-scale battery development, including an estimated 25 GWh pipeline of projects across Australia’s National Electricity Market.]]></description>
-										<content:encoded><![CDATA[
-<p>Akaysha Energy, the battery storage developer owned by United States investment giant BlackRock,&nbsp;has refinanced its project-level debt into a $1.75 billion (USD 1.22 billion) portfolio-level financing facility that will support the next stage of its Australian growth.</p>
 
+<p>The system is expected to generate more than 1 GWh of renewable electricity a year – equivalent to about 254 homes – meeting around one-quarter of the venue&#8217;s electricity needs and saving an estimated $70,000 (USD 49,129) a year, according to the Victorian Government.</p>
 
 
-<p>The company said the facility refinances existing project-level debt across its Brendale, Orana, Ulinda Park and Elaine battery energy storage systems (BESS) into a single portfolio-level financing structure.</p>
 
+<p>The SEC owns and operates the system under an agreement with the State Sport Centres Trust. That gives the project a broader public-interest dimension: a higher-capacity rooftop system creates greater value for a major community venue, not just for an individual building owner.</p>
 
 
-<p>The 155 MW / 298 MWh Ulinda Park and 205 MW / 410 MWh Brendale batteries in Queensland, and the 415 MW / 1,660 MWh <a href="https://www.pv-magazine-australia.com/2026/07/01/akaysha-reaches-commercial-milestone-with-1660-mwh-battery/">Orana BESS</a> in New South Wales (NSW) are part of Akaysha’s operational battery energy storage capacity. The 311 MW / 1,244 MWh <a href="https://www.pv-magazine-australia.com/2025/11/06/akaysha-energy-closes-460-million-construction-financing-the-elaine-bess/">Elaine</a> BESS is currently being built in Victoria and is on track to complete in the second half of 2027.</p>
 
+<p>The project also marks a practical shift in how MSAC manages energy. A room beside the main switchboard that once housed a 20-year-old gas cogeneration unit now holds nine 110 kW GoodWe HT Series inverters and the PV distribution board – existing infrastructure repurposed for on-site renewable generation.</p>
 
 
-<p>Andrew Wegman, managing director and chief financial and investment officer at Akaysha, said the financing package has also been designed to provide flexibility as the company progresses an almost 6 GW / 25 GWh development pipeline of large-scale BESS projects across the National Electricity Market (NEM).</p>
 
+<p><strong>Beyond the easy roofs</strong></p>
 
 
-<p>“This is an important milestone for Akaysha and it was pleasing to see continued strong support from lenders for our operating portfolio, our pipeline and Australia’s energy transition,” he said.</p>
 
+<p>MSAC is a case study in how detailed engineering and advanced solar technology can overcome roof constraints to deliver materially larger, more valuable solar systems.</p>
 
 
-<p>“As well as refinancing our existing operating and construction assets, this portfolio-level facility gives us the flexibility to accelerate our next wave of projects while we continue deploying capital where we see the strongest opportunities across the pipeline.”</p>
 
+<p>For commercial rooftops, the question isn&#8217;t simply whether solar can fit. It&#8217;s whether the system has been designed to get the full value from the available roof space.</p>
 
 
-<p>The transaction comes after Akaysha recently achieved <a href="https://www.pv-magazine-australia.com/2026/09/28/waratah-super-battery-reaches-full-commercial-operations/">full commercial operations</a> at the 850 MW / 1,680 MWh Waratah Super Battery in NSW.</p>
 
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><em>&#8220;Many of Australia&#8217;s most energy-intensive community and commercial assets have complex roofs. Our aim is to make solar more accessible to these sites, so they can benefit from clean energy rather than being left behind because a conventional design cannot fully respond to their constraints.&#8221; – <strong>Thomas Bywater, Head of AIKO Australia and New Zealand</strong></em></p>
+</blockquote>
 
 
-<p>Akaysha’s development pipeline includes the 275 MW / 1,100 MWh Deer Park battery project, the 400 MW / 1, 600 MWh Glenrowan, and the 1,000 MW / 4,000 MWh Connewarren BESS project, all in Victoria. It is also progressing the 250 MW / 1,000 MWh Oaky Creek BESS in Queensland and the 100 MW / 200 MWh Palmerston project in Tasmania. The company’s South Australian projects include the 150 MW / 600 MWh Mobilong and 250 MW / 1,000 MWh Brinkworth BESS.</p>
 
+<p>Australia&#8217;s energy transition won&#8217;t be complete if businesses miss out on the benefits of clean energy because their roofs have constraints. </p>
 
 
-<p>The new financing was supported by a consortium of 11 banks, including ANZ, Commonwealth Bank of Australia, BNP Paribas, Bank of China, CIBC, Deutsche Bank, DNB, ING, Mizuho, MUFG and Rabobank.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/20/akaysha-secures-1-75-billion-finance-package-to-grow-battery-platform/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Engie secures financial close for Hazelwood battery expansion</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/20/engie-secures-financial-close-for-hazelwood-battery-expansion/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/20/engie-secures-financial-close-for-hazelwood-battery-expansion/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 01:34:00 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18202</guid>
 
-					<description><![CDATA[French renewables developer Engie has reached financial close on a 150 MW / 300 MWh expansion of the Hazelwood battery energy storage system in Victoria with the new addition expected to commence operations in 2028.]]></description>
-										<content:encoded><![CDATA[
-<p>Engie has announced the successful financial close for a major expansion of the Hazelwood battery energy storage system (BESS) built at the site of the retired Hazelwood coal-fired power station in Victoria’s Latrobe Valley.</p>
+<p>Nor will the full value of the C&amp;I market be realised if systems are designed around what is quickest and most profitable to sell and install, rather than the building&#8217;s energy needs and the full potential of its roof.</p>
 
 
 
-<p>The milestone comes after Victorian Energy Minister Jaclyn Symes last week declared Hazelwood BESS Line Co Pty Ltd a Declared Transmission System Operator, allowing the project to utilise existing transmission infrastructure. As an established power generation site, Hazelwood has access to 1.6 GW of transmission capacity.</p>
-
-
-
-<p>The expansion will add a 150 MW / 300 MWh BESS to the Hazelwood site, building on the existing 150 MW / 150 MWh battery that was developed by Engie and storage specialist Eku Energy and has been <a href="https://www.pv-magazine-australia.com/2023/06/14/australia-commissions-first-big-battery-at-a-former-coal-site/">operating since 2023</a>. Engie secured complete <a href="https://www.pv-magazine-australia.com/2026/01/22/engie-buys-out-eku-to-achieve-100-ownership-of-hazelwood-bess/">ownership</a> of the Hazelwood BESS earlier this year, acquiring Eku Energy’s 30% stake.</p>
-
-
-
-<p>Symes said the project will increase the site&#8217;s total installed battery capacity to 300 MW / 450 MWh, reinforcing Hazelwood&#8217;s role as a major source of flexible energy infrastructure for Victoria and the National Electricity Market (NEM).</p>
-
-
-
-<p>“The expansion of the Hazelwood Battery Energy Storage System is another important step in Victoria&#8217;s energy transition, helping to store more of our abundant clean, renewable energy,” she said.</p>
-
-
-
-<p>Laura Caspari, chief executive officer and managing director of renewables and batteries at <a href="https://www.pv-magazine-australia.com/2026/08/10/engie-commissions-victorias-biggest-yet-solar-farm/">Engie Australia</a>, said the expansion is underpinned by strong customer demand for battery storage, driven by its ability to store low-cost solar generation during the day and dispatch it during periods of higher evening demand.</p>
-
-
-
-<p>“The Hazelwood battery has already demonstrated the value that energy storage can bring to the electricity system,” she said. “Expanding the facility allows us to build on that success while making use of existing infrastructure, enabling the continued growth of renewable energy across Victoria,”</p>
-
-
-
-<p>Chinese inverter and storage system manufacturer <a href="https://www.pv-magazine.com/2026/09/14/sungrow-raises-inverter-storage-prices-by-up-to-15/">Sungrow</a>&nbsp;has been tapped to supply the battery technology for the project, while Spanish infrastructure development group Elecnor will deliver the balance-of-plant and associated infrastructure works.</p>
-
-
-
-<p>Engie said key contracts have been executed, with construction commencing later this year and commercial operations targeted from 2028.</p>
-
-
-
-<p>The project is expected to generate up to 370 jobs during the construction phase.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/20/engie-secures-financial-close-for-hazelwood-battery-expansion/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>NZ utility adds 200 MWh BESS to energy portfolio</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/20/nz-utility-adds-200-mwh-bess-to-energy-portfolio/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/20/nz-utility-adds-200-mwh-bess-to-energy-portfolio/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 00:16:00 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18191</guid>
-
-					<description><![CDATA[Genesis Energy has flicked the switch on a 100 MW / 200 MWh battery energy storage system designed to strengthen the resilience and reliability of New Zealand’s electricity system.]]></description>
-										<content:encoded><![CDATA[
-<p>New Zealand government-backed utility Genesis Energy has officially opened its first grid-scale battery at the Huntly power station site on the North Island with the 100 MW / 200 MWh battery energy storage system (BESS) now live.</p>
-
-
-
-<p>Genesis Chief Operating Officer Tracey Hickman said the BESS, built alongside the 1.2 GW coal- and gas-fired Huntly power station, adds greater flexibility to the power plant’s role in the company’s energy portfolio and will help support the country’s electricity system during periods of high demand.</p>
-
-
-
-<p>“As New Zealand’s electricity supply becomes more renewable and subject to weather, this battery will help smooth out fluctuations in supply, ensuring supply remains reliable and secure,” she said.</p>
-
-
-
-<p>“The BESS can be turned on almost immediately, making it the fastest-starting asset at Huntly power station and allowing it to respond quickly when extra supply is needed.”</p>
-
-
-
-<p>The Huntly BESS is the first phase of a planned multi-stage development that is expected to deliver up to 400 MW / 800 MWh of energy storage capacity at the site, about 100 kilometres south of Auckland.</p>
-
-
-
-<p>Genesis said Huntly is an ideal location for a BESS, close to the high-demand centres of Hamilton, Auckland and Tauranga and connected to the national grid directly via Transpower’s Huntley substation.</p>
-
-
-
-<p>A second 100 MW / 200 MWh BESS has already been approved for the site with construction expected to begin later this year with full operation due in 2028.</p>
-
-
-
-<p>Hickman said the project will drive greater portfolio and system flexibility and security, provide support for Genesis’ customer book, and complement the <a href="https://www.pv-magazine-australia.com/2026/03/18/genesis-begins-building-117-mw-solar-plant-in-new-zealands-north/">solar farms</a> the company is developing across the country, including a site at Rangiriri just north of Huntly.</p>
-
-
-
-<p>French firm Saft, which supplied the 70 battery units for the first stage of the Huntley BESS installed by New Zealand electricity distribution and infrastructure company Northpower, has been engaged to deliver the deliver the next phase of the project.</p>
-
-
-
-<p>Genesis said the first stage of the Huntley BESS was delivered just 14 months after <a href="https://www.pv-magazine-australia.com/2025/06/09/genesis-begins-battery-build-at-thermal-power-station-site/">construction started</a> at a cost of about $105.4 million (NZD 130 million), more than $4 million below budget.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/20/nz-utility-adds-200-mwh-bess-to-energy-portfolio/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>JinkoSolar unveils 28%-efficient back-contact TOPCon solar cell with amorphous silicon HJT passivation</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/20/jinkosolar-unveils-28-efficient-back-contact-topcon-solar-cell-with-amorphous-silicon-hjt-passivation/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/20/jinkosolar-unveils-28-efficient-back-contact-topcon-solar-cell-with-amorphous-silicon-hjt-passivation/#respond</comments>
-		
-		<dc:creator><![CDATA[Vincent Shaw]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 23:10:00 +0000</pubDate>
-				<category><![CDATA[Research & Development]]></category>
-		<category><![CDATA[cells & modules]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18198</guid>
-
-					<description><![CDATA[JinkoSolar has unveiled its first back-contact solar cell technology, combining TOPCon and heterojunction passivation in a new architecture called TAC. The Chinese manufacturer reported a peak cell conversion efficiency of 28%.]]></description>
-										<content:encoded><![CDATA[
-<p>Chinese PV module maker JinkoSolar unveiled its TOPCon-based Amorphous-Si Passivating Cell (TAC) technology at its Global Tech Day event in Shanghai on Oct. 17. According to a technical white paper published by the company, the architecture combines TOPCon electron-selective contacts with heterojunction (HJT) hole-selective contacts and a rear-electrode layout.</p>
-
-
-
-<p>The design uses an n-type crystalline silicon wafer with two alternating carrier-selective contact regions on the rear surface. Both positive and negative electrodes are located on the rear, eliminating front-side metallisation and the associated optical shading losses.</p>
-
-
-
-<p>The electron-collecting n-type region retains the contact structure used in TOPCon cells, consisting of an approximately 1 nm to 2 nm silicon oxide tunneling layer and heavily doped polycrystalline silicon. This structure enables selective electron transport with low contact resistance while suppressing carrier recombination.</p>
-
-
-
-<p>The hole-collecting p-type region uses intrinsic and doped hydrogenated amorphous silicon (a-Si), drawing on HJT cell technology. JinkoSolar said the configuration improves surface passivation and open-circuit voltage. A transparent conductive oxide (TCO) layer facilitates lateral carrier transport, while the amorphous silicon passivation process takes place at temperatures below 200 C.</p>
-
-
-
-<p>High-precision laser patterning and dielectric isolation separate the two contact regions. JinkoSolar describes the architecture as a “2+1” design, combining TOPCon electron contacts, HJT hole contacts and a rear-electrode structure.</p>
-
-
-
-<p>TAC belongs to the broader back-contact (BC) cell category, which includes architectures using different passivation and carrier-selective contact technologies. Unlike conventional front-contact TOPCon cells, TAC eliminates front-side metal contacts to reduce shading losses. Its distinguishing feature among BC technologies is the integration of TOPCon and amorphous silicon heterojunction contacts on the same wafer.</p>
-
-
-
-<p>JinkoSolar has also developed a full-area passivation approach, called the Global Passivation Process (GPP), to reduce recombination losses across the contact regions. Another process, Multi-Dimensional Charge Passivation (MCP 2.0), targets carrier recombination at cut-cell edges. It uses a cut-before-passivation sequence, followed by chemical, field-effect and hydrogen passivation of the exposed surfaces.</p>
-
-
-
-<p>Other cell-level features include high-purity, low-oxygen n-type silicon wafers and a light-trapping structure combining surface texturing, antireflection coatings and rear reflection. The white paper specifies a bulk minority-carrier lifetime exceeding 2 ms and a bulk recombination current density below 5 fA/cm² for the silicon substrate.</p>
-
-
-
-<p>JinkoSolar said TAC production cell efficiency has exceeded 27%, with a peak efficiency of 28%. The company’s Oct. 17 announcement identifies the 28% figure as peak cell efficiency. However, the white paper does not specify a third-party certification, test area or average production-line efficiency for the result.</p>
-
-
-
-<p>In its first-half 2026 financial report, JinkoSolar separately reported a third-party-certified conversion efficiency of 27.2% for an n-type BC research cell. The company, however, did not identify that result as a TAC measurement.</p>
-
-
-
-<p>JinkoSolar identified low-temperature metallisation, copper-containing contact materials and the potential use of TAC as a bottom-cell platform for perovskite-silicon tandem devices as areas for further development.</p>
-
-
-
-<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="634" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/1.3-MW-system-designed-and-installed-by-Next-Green-Group-at-MSAC-1024x634.jpg" alt="" class="wp-image-148755" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/1.3-MW-system-designed-and-installed-by-Next-Green-Group-at-MSAC-1024x634.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/1.3-MW-system-designed-and-installed-by-Next-Green-Group-at-MSAC-300x186.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/1.3-MW-system-designed-and-installed-by-Next-Green-Group-at-MSAC-768x476.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/1.3-MW-system-designed-and-installed-by-Next-Green-Group-at-MSAC-1536x952.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/1.3-MW-system-designed-and-installed-by-Next-Green-Group-at-MSAC-260x161.jpg 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/1.3-MW-system-designed-and-installed-by-Next-Green-Group-at-MSAC.jpg 1743w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/20/jinkosolar-unveils-28-efficient-back-contact-topcon-solar-cell-with-amorphous-silicon-hjt-passivation/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/23/no-roof-left-behind-how-advanced-solar-technology-can-bring-difficult-commercial-buildings-into-australias-energy-transition/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Leapting launches autonomous forklift for solar module transport</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/20/leapting-launches-autonomous-forklift-for-solar-module-transport/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/20/leapting-launches-autonomous-forklift-for-solar-module-transport/#respond</comments>
+		<title>China proposes ban on exports of perovskite, tandem solar manufacturing technology</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/23/china-proposes-ban-on-exports-of-perovskite-tandem-solar-manufacturing-technology/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/23/china-proposes-ban-on-exports-of-perovskite-tandem-solar-manufacturing-technology/#respond</comments>
 		
-		<dc:creator><![CDATA[Lior Kahana]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 22:07:00 +0000</pubDate>
-				<category><![CDATA[Technology & Products]]></category>
-		<category><![CDATA[Commercial & industrial]]></category>
+		<dc:creator><![CDATA[Vincent Shaw]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 21:45:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Cells]]></category>
+		<category><![CDATA[Highlights]]></category>
+		<category><![CDATA[Modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18273</guid>
+
+					<description><![CDATA[China has proposed banning exports of selected high-efficiency perovskite and tandem solar manufacturing technologies, alongside new restrictions on advanced polysilicon, wafer and crystalline-silicon cell production processes. The proposed measures would cover 12 photovoltaic technologies, with public consultation open until 15 November 2026.]]></description>
+										<content:encoded><![CDATA[
+<p>China’s <a href="https://www.pv-magazine.com/2026/05/08/eu-ban-on-chinese-inverters-sparks-strong-response-from-beijing/" target="_blank" rel="noreferrer noopener">Ministry of Commerce </a>(Mofcom) and Ministry of Science and Technology have proposed prohibiting exports of selected high-efficiency perovskite and tandem solar manufacturing technologies, alongside new restrictions on advanced polysilicon, wafer and crystalline-silicon cell production know-how.</p>
+
+
+
+<p>The proposals, published on 16 October 2026 under Joint Announcement No. 48 of 2026, would add 12 photovoltaic technologies to China’s Catalogue of Technologies Prohibited or Restricted from Export. </p>
+
+
+
+<p>They are part of a broader consultation covering 40 technologies across sectors including solar energy, artificial intelligence and biomedicine. The public consultation runs until 15 November 2026.</p>
+
+
+
+<p>The proposed export bans cover production processes and related equipment manufacturing technologies for perovskite-silicon tandem solar cells based on wafers measuring at least 182 mm and achieving conversion <a href="https://www.pv-magazine-australia.com/2026/01/20/chinese-scientists-build-31-13-efficient-perovskite-silicon-tandem-solar-cell-via-2d-seeding-agent/" target="_blank" rel="noreferrer noopener">efficiencies</a> of 30% or higher. They also include slot-die coating processes for perovskites with coating widths of at least 1.1 metres.</p>
+
+
+
+<p>Additional thresholds apply to large-area modules, including single-junction perovskite modules measuring at least 1 square metre with conversion efficiencies of 18% or higher, and perovskite tandem modules of the same minimum area with efficiencies of at least 28%. </p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>The proposed controls target manufacturing technologies meeting these specifications rather than exports of finished modules.</p>
+</blockquote>
+
+
+
+<p>Other technologies proposed for prohibition include cold-hydrogenation fluidised-bed processes for trichlorosilane production with annual single-line capacities of at least 250,000 metric tons, and silane-based fluidized-bed processes with annual capacities of at least 20,000 metric tons. </p>
+
+
+
+<p>The draft also covers processes for manufacturing silicon wafers no thicker than 70 micrometres and certain edge-passivation technologies for thin crystalline-silicon cells, along with related equipment <a href="https://www.pv-magazine-australia.com/2026/02/10/china-expects-up-to-287-gw-of-new-pv-capacity-additions-in-2026/" target="_blank" rel="noreferrer noopener">manufacturing</a> know-how.</p>
+
+
+
+<p>The proposed restricted-export category includes polysilicon plant engineering technologies for production lines with annual capacities of at least 30,000 metric tons, as well as advanced crystal-pulling and wafer-cutting processes.</p>
+
+
+
+<p>It also covers specified high-performance manufacturing processes for tunnel oxide passivated contact (TOPCon), back-contact (BC) and heterojunction (HJT) solar cells, including deposition, passivation, diffusion and metallisation technologies. </p>
+
+
+
+<p>The HJT provisions include certain p-type technologies evaluated under air mass zero (AM0) illumination conditions relevant to space applications.</p>
+
+
+
+<p>Under China’s technology import and export regulations, prohibited technologies cannot be exported, while restricted technologies can be transferred overseas only with government approval and the necessary licenses.</p>
+
+
+
+<p>The proposed export bans and licensing requirements have not yet taken effect. However, a separate interim registration requirement took effect on 16 October 2026 when the announcement was issued.</p>
+
+
+
+<p>Companies must register planned exports of the listed technologies, including qualifying key equipment, through the Mofcom’s online system before transfer. </p>
+
+
+
+<p>The requirement covers intellectual property transfers, overseas technology licensing, changes in ownership or control involving foreign entities, and transactions that are underway but have not yet been completed.</p>
+
+
+
+<p>The Mofcom said the proposals address national security concerns as photovoltaic technologies increasingly find applications in aerospace, defense and other sensitive sectors. </p>
+
+
+
+<p>The ministry said technologies that fall below the specified thresholds, as well as finished products manufactured using controlled technologies, are outside the proposed scope. It added that the measures do not target any particular country, region or company.</p>
+
+
+
+<p>If adopted, the controls could reinforce China’s position in advanced PV manufacturing by limiting overseas access to some of its most sophisticated production technologies.</p>
+
+
+
+<p>Although exports of finished solar cells and modules would not be directly affected, transfers of controlled manufacturing know-how through technology licensing, overseas production-line installation and commissioning, equipment exports and on-site technical support could be prohibited or subject to government approval.</p>
+
+
+
+<p>In the near term, the measures could delay <a href="https://www.pv-magazine-australia.com/2026/01/14/stellar-reveals-scale-of-2-gw-solar-ingot-and-wafer-manufacturing-plant/" target="_blank" rel="noreferrer noopener">overseas</a> PV manufacturing projects, increase compliance costs and limit the deployment of advanced Chinese production technologies abroad. </p>
+
+
+
+<p>Over the longer term, the restrictions could strengthen <a href="https://www.pv-magazine-australia.com/2026/02/10/china-expects-up-to-287-gw-of-new-pv-capacity-additions-in-2026/" target="_blank" rel="noreferrer noopener">China</a>’s influence over the international diffusion of next-generation PV manufacturing technologies, potentially slowing efforts by overseas manufacturers to close the technological gap.</p>
+
+
+
+<p>However, tighter controls could also complicate Chinese manufacturers’ international expansion plans and heighten trade tensions or prompt retaliatory measures.</p>
+
+
+
+<p>From <a href="https://www.pv-magazine.com/" target="_blank" rel="noreferrer noopener"><em>pv magazine Global</em></a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/23/china-proposes-ban-on-exports-of-perovskite-tandem-solar-manufacturing-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>80.9 GW quarterly pipeline of clean energy projects surpasses current 77 GW capacity</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/22/80-9-gw-quarterly-pipeline-of-clean-energy-projects-surpasses-current-77-gw-capacity/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/22/80-9-gw-quarterly-pipeline-of-clean-energy-projects-surpasses-current-77-gw-capacity/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 06:00:00 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Energy Storage]]></category>
 		<category><![CDATA[Modules]]></category>
 		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18197</guid>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18257</guid>
 
-					<description><![CDATA[The Chinese robotics manufacturer has introduced an autonomous tracked forklift capable of transporting solar module pallets weighing up to 3,000 kg. The battery-powered machine features a maximum lifting height of three metres, a 30-degree climbing capability and a navigation system combining GNSS-RTK, laser SLAM and computer vision.]]></description>
+					<description><![CDATA[For the first time, the pipeline of clean energy generation and storage projects progressing through the National Electricity Market connection process, equal to a combined capacity of 80.9 GW, surpasses current capacity of 77 GW.]]></description>
 										<content:encoded><![CDATA[
-<p>China’s <a href="https://www.pv-magazine.com/2025/02/03/leapting-rolls-out-pv-module-mounting-robot/">Leapting</a>, a developer of robotic automation solutions for the PV industry, has unveiled a new autonomous forklift for utility-scale solar construction sites.</p>
+<p>The Australian Energy Market Operator’s (AEMOs) September quarter Connections <a href="https://www.aemo.com.au/-/media/files/electricity/nem/network_connections/connections-scorecard/2026/september-2026.pdf?rev=6c53006e7d9b40968a31223d3c378fd3&amp;sc_lang=en" target="_blank" rel="noreferrer noopener">Scorecard</a> shows the pipeline of clean energy generation and storage projects, at 80.9 GW, has surpassed existing capacity (77 GW), for the first time.</p>
 
 
 
-<p>Dubbed Auto-Navigation Forklift Robot (AFR), the system can transport pallets of solar modules weighing up to 3,000 kg from laydown yards to installation rows without a human operator.</p>
+<p>Leading the way are battery energy storage systems (BESS), which account for over half of capacity in the end-to-end connection process from application to commissioning, at 55%.</p>
 
 
 
-<p>“The AFR combines GPS-RTK, laser-based simultaneous localisation and mapping (SLAM), and 3D computer vision to locate pallets, identify fork-hole coordinates in real time, and auto-plan insertion paths,” the company said in a statement. “It further features 360-degree multi-line LiDAR, intelligent obstacle avoidance, and a three-tier braking system.”</p>
+<p>Hybrid solar and battery projects at 19% then lead wind (15%), standalone solar (5%), hydro (5%) and gas (1%).</p>
 
 
 
-<p>The navigation system combines high-precision GNSS-RTK positioning with SLAM for local perception and positioning corrections. According to the manufacturer, the system can identify pallet locations, orientation angles and the three-dimensional coordinates of fork openings in real time. It then automatically calculates insertion and extraction paths and adjusts the mast and forks for pallet handling.</p>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="897" height="577" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-165645.png" alt="" class="wp-image-148652" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-165645.png 897w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-165645-300x193.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-165645-768x494.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-165645-260x167.png 260w" sizes="auto, (max-width: 897px) 100vw, 897px" /></figure>
 
 
 
-<p>The company said the system can also detect whether pallets contain materials and recognise common pallet standards, including European EUR/EPAL and Japanese JIS specifications.</p>
+<p>AEMO received 25 new connection applications totalling 7.5 GW during the quarter, with 19 battery projects accounting for 5.8 GW, or 76% of new capacity seeking connection.</p>
 
 
 
-<p>The AFR measures 4.8 m × 1.8 m × 2.15 m and weighs 5,500 kg. It has a standard load centre distance of 600 mm and a maximum lifting height of three metres. Its two-stage, full-free-lift mast features laterally adjustable forks for precise pallet alignment, the company said.</p>
+<p>The Scorecard shows 23 projects totalling 4.5 GW received application approval, including 17 batteries (3.6 GW), four solar hybrid (0.4 GW), and one solar (0.3 GW).</p>
 
 
 
-<p>The forklift uses a tracked chassis with two independently driven 4 kW motors. It reaches a maximum speed of 3 km/h when fully loaded and 4 km/h when unloaded, with adjustable driving speeds. Differential track steering allows the machine to rotate on the spot.</p>
+<p>Four battery projects were registered in the quarter, and connected to the National Electricity Market (NEM), with total discharge capacity of 1 GW and storage capacity of 3.4 GWh.</p>
 
 
 
-<p>“High-strength engineering-grade steel tracks, with low ground contact pressure, are suitable for diverse complex road conditions and provide stable loads,” the company said.</p>
+<p>Six connection projects and one alteration reached full output this quarter, including three BESS in Victoria with a combined capacity of 0.8 GW / 1.3 GWh, and one 0.25 GW / 0.5 GWh BESS, two solar projects totalling 225 MW, and an existing battery added 180 MW capacity, with total combined  <a href="https://www.pv-magazine.com/2026/09/23/australias-first-grid-connected-sodium-sulfur-battery-goes-online/" target="_blank" rel="noreferrer noopener">full output</a> reaching 1.3 GW.</p>
 
 
 
-<p>According to the technical datasheet, the AFR can negotiate gradients of at least 30 degrees on hard surfaces and has a maximum wading depth of 0.3 m. It also supports a maximum forward inclination angle of 4 degrees and a maximum pitch angle of 11 degrees. The manufacturer said the machine is suitable for hard roads, desert terrain, gravel surfaces and lightly uneven or muddy ground.</p>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="597" height="537" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-164401.png" alt="" class="wp-image-148650" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-164401.png 597w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-164401-300x270.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-164401-260x234.png 260w" sizes="auto, (max-width: 597px) 100vw, 597px" />5 new applications totalling approximately 7.5 GW were received in the September quarter, including 0.8 GW of solar with battery | <i>Image: AEMO</i></figcaption></figure>
 
 
 
-<p>The AFR is powered by a 48 V, 400 Ah lithium battery, providing a nominal energy capacity of 19.2 kWh and at least eight hours of operation under standard conditions. It supports automatic charging and manual fast charging, with AC 220 V and AC 380 V charging connections. In addition to fully autonomous operation, users can select semi-automatic or manual remote-control modes.</p>
+<p>AEMO Group Manager Onboarding &amp; Connections James Lindley said together with more battery projects there is also an increase in the number of longer-duration storage.</p>
 
 
 
-<p>For safety, the forklift incorporates multi-line LiDAR sensors for 360-degree obstacle detection, along with audible and visual warnings. Its three-tier braking system combines electronic, mechanical and parking brakes. Emergency stop buttons are installed at several points on the vehicle exterior.</p>
+<p>“[This includes] nearly 40% of battery projects that can provide between three and 10 hours of storage. This can enhance energy resilience when renewable generation output is low,” Lindley said.</p>
 
 
 
-<p>An integrated inertial measurement unit (IMU) continuously monitors the vehicle’s tilt angle and triggers an alarm and automatic stop if a preset threshold is exceeded.</p>
+<p>Total capacity by connection stage shows that 88% of the pipeline remains in the early application and proponent implementation stages, with capacity growing 101% to 38.5 GW and 42% to 32.3 GW, respectively.</p>
 
 
 
-<p>The AFR offers an IP67 ingress protection rating, depending on the configuration. The company specifies an operating temperature range of -10 C to 50 C and a storage temperature range of -20 C to 60 C.</p>
+<p>Lindley said it is critical for electricity reliability that projects continue advancing to commissioning in the lead up to 15 GW of generation being scheduled to retire in the coming decade and electricity consumption forecast to increase by more than 40%.</p>
+
+
+
+<p>“The figures demonstrate strong investor interest in new energy infrastructure, while highlighting the importance of progressing <a href="https://www.pv-magazine-australia.com/2026/06/25/solar-and-batteries-dominate-308-gw-least-cost-energy-transition-target-to-2050/" target="_blank" rel="noreferrer noopener">viable projects</a> through to commissioning,” Lindley said.</p>
+
+
+
+<p>To help streamline registration processes, enhance technical frameworks and improve transparency and predictability of connection outcomes, AEMO and the industry are progressing initiatives such as the Connections Reform Initiative Phase 2.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/22/80-9-gw-quarterly-pipeline-of-clean-energy-projects-surpasses-current-77-gw-capacity/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ampt string optimiser technology chosen for Victoria hybrid solar and battery project</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/22/ampt-string-optimiser-technology-chosen-for-victoria-hybrid-solar-and-battery-project/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/22/ampt-string-optimiser-technology-chosen-for-victoria-hybrid-solar-and-battery-project/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 03:30:29 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18255</guid>
+
+					<description><![CDATA[DC optimiser provider Ampt been selected for a new 8.2 MWdc / 20 MWh mid-scale solar-plus-storage project in Victoria.]]></description>
+										<content:encoded><![CDATA[
+<p>United States-headquartered DC optimiser provider <a href="https://www.pv-magazine-australia.com/2025/10/28/solar-plus-storage-system-to-power-green-hydrogen-agriculture-project/" target="_blank" rel="noreferrer noopener">Ampt</a> been selected for a new 8.2 MWdc / 20 MWh mid-scale solar-plus-storage project in Victoria.</p>
+
+
+
+<p>The 8.2 MWdc of solar generation is paired with 4.95 MW of power conversion capacity and 20 MWh of <a href="https://www.pv-magazine-australia.com/2026/07/29/worlds-battery-storage-capacity-to-grow-sixfold-by-2030-says-globaldata/" target="_blank" rel="noreferrer noopener">battery storage</a>.</p>
+
+
+
+<p>Ampt’s string optimiser technology will connect the solar array directly to a shared DC bus between the battery and battery inverter contributing to lower upfront costs by eliminating the need for central DC/DC converters, solar inverters, or transformers.</p>
+
+
+
+<p>The direct-to-battery (D2B) architecture helps increase production along with revenue by mitigating losses due to electrical mismatch caused by module degradation and other sources of imbalance such as temperature, shade, and soiling.</p>
+
+
+
+<p><a href="https://www.pv-magazine-australia.com/2025/10/28/solar-plus-storage-system-to-power-green-hydrogen-agriculture-project/" target="_blank" rel="noreferrer noopener">Ampt Australia</a> Country Director Russell French said by deploying distribution-connected mid-scale systems directly into the existing local grid, close to where power is consumed, developers add renewable energy capacity while reducing the need for costly infrastructure upgrades.</p>
+
+
+
+<p>“When battery storage is co-located with <a href="https://www.pv-magazine-australia.com/2026/08/04/new-100-million-program-to-unlock-missing-middle-of-renewable-energy-shift/" target="_blank" rel="noreferrer noopener">mid-scale solar</a>, these hybrid systems can capture excess daytime generation and dispatch it during the evening peak, helping stabilise the local network rather than overloading it,” French said.</p>
+
+
+
+<p>The D2B architecture also enables the fast grid response that contingency frequency control ancillary services (FCAS) markets require.</p>
+
+
+
+<p>With 4.95 MW of inverter capacity, the Victoria project is the “missing middle” type of <a href="https://www.pv-magazine-australia.com/2026/06/23/australias-hybrid-projects-serving-as-blueprint-for-global-energy-transition/" target="_blank" rel="noreferrer noopener">hybrid</a> solar and battery project up to 5 MW that the $100 million (USD 70.2 million) Clean Energy Finance Corporation (CEFC) commitment to the Distribution Connected Accelerator Program (DCAP), is designed to advance.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/22/ampt-string-optimiser-technology-chosen-for-victoria-hybrid-solar-and-battery-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SAJ all-in-one home energy system receives CEC approval</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/22/saj-all-in-one-home-energy-system-receives-cec-approval/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/22/saj-all-in-one-home-energy-system-receives-cec-approval/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 01:27:27 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18251</guid>
+
+					<description><![CDATA[Chinese smart energy solutions company SAJ has received Clean Energy Council approval for it's EK70 HS5 and EK90 HS5 all-in-one energy solution.]]></description>
+										<content:encoded><![CDATA[
+<p>China-headquartered smart energy solutions company <a href="https://www.pv-magazine-australia.com/2026/09/16/saj-launches-residential-battery-energy-storage-system-in-australia/" target="_blank" rel="noreferrer noopener">SAJ</a> has received Clean Energy <a href="https://www.pv-magazine-australia.com/2026/05/26/batteries-boom-as-report-reveals-challenging-times-for-solar-and-wind-investment/" target="_blank" rel="noreferrer noopener">Council</a> (CEC) approval for it&#8217;s EK70 HS5 and EK90 HS5 all-in-one energy solution.<a href="https://www.pv-magazine-australia.com/2026/09/16/saj-launches-residential-battery-energy-storage-system-in-australia/" target="_blank" rel="noreferrer noopener"> </a></p>
+
+
+
+<p>The CEC certification makes SAJ the first brand to be listed under the SA TS 5398:2025 Australian technical specification for electrical energy storage (EES) equipment safety.</p>
+
+
+
+<p>The EK70 combines hybrid inverter, LFP battery and whole-home backup in one unit, utilitising modular 6, 7 and 9 kWh battery block stacks to suit household sizing. Modules use blind-mate connectors, no complex external cabling, wireless-pro meter, providing longer range, more stable connectivity, and wiring-free installation.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="600" height="399" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/20261021084547EDT_image_1.jpg" alt="" class="wp-image-148643" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/20261021084547EDT_image_1.jpg 600w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/20261021084547EDT_image_1-300x200.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/20261021084547EDT_image_1-260x173.jpg 260w" sizes="auto, (max-width: 600px) 100vw, 600px" /></figure>
+
+
+
+<p>The EK90 provides a premium tier, with 12,000 cycles, a nine-layer safety protection, edge artificial intelligence (AI) and a 15-year warranty.</p>
+
+
+
+<p>CEC certificates for the EK70 and EK90 HS5s will be formally presented to SAJ during All Energy Australia, 28 October, 2pm, Stand M143.</p>
+
+
+
+<p>SAJ Electric Australia Sales Director Alan Li said All Energy is where the industry sees what&#8217;s next, and for SAJ that&#8217;s the EK70 HS5 and EK90 HS5.</p>
+
+
+
+<p>&#8220;Installers told us they want one integrated system that&#8217;s faster to install and that they can stand behind. Being the first brand listed under SA TS 5398 is the proof,&#8221; Li said.</p>
+
+
+
+<p>The company will also be signing a strategic cooperation agreement covering safety, quality and compliance, with global solar testing and certification body DEKRA.</p>
+
+
+
+<p>Other products being exhibited during All Energy will be the B2S and H2 modular storage, along with the latest in SAJ&#8217;s <a href="https://www.pv-magazine-australia.com/2026/09/29/rooftop-solar-home-battery-installs-hit-record-highs/" target="_blank" rel="noreferrer noopener">residential range</a> and the AI-assisted energy management app elekeeper 5.0, which offers a five-minute app commissioning and remote diagnosis service.</p>
+
+
+
+<p>Commercial and industrial (C&amp;I) solutions will also be on display.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/22/saj-all-in-one-home-energy-system-receives-cec-approval/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>S-5! challenges metal roof off-purlin solar mounting assumptions</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/22/s-5-challenges-metal-roof-off-purlin-solar-mounting-assumptions/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/22/s-5-challenges-metal-roof-off-purlin-solar-mounting-assumptions/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 22 Oct 2026 00:45:20 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18250</guid>
+
+					<description><![CDATA[S-5! is challenging assumptions about metal roof off-purlin solar mounting in a new white paper it says conclusively demonstrates metal roof panels possess the structural capacity for mounting solar between purlins.
+]]></description>
+										<content:encoded><![CDATA[
+<p>A new United States-headquartered metal roof engineering company S-5! white paper challenges the assumption solar attachment points must be directly located over purlins to ensure structural adequacy.</p>
+
+
+
+<p>The &#8216;Solar Mounting Off Purlin on Metal Roof Sheeting&#8217; <a href="https://3482954.fs1.hubspotusercontent-na1.net/hubfs/3482954/Research%20and%20Development/White%20Paper%20-%20Solar%20Mounting%20Off%20Purlin%20on%20Metal%20Roof%20Sheeting/Solar%20Mounting%20Off%20Purlin%20White%20Paper%202026.pdf" target="_blank" rel="noreferrer noopener">technical paper</a> investigates the assumption via laboratory testing for Australian building codes and standards and documented field performance. </p>
+
+
+
+<p>The paper presents evidence that metal roof sheeting can reliably support solar attachments between purlins when systems are property engineered and installed.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/S-5-Metal-Roof-Solar-Project-Survives-Hurricane-Otis-1024x576.jpg" alt="" class="wp-image-148639" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/S-5-Metal-Roof-Solar-Project-Survives-Hurricane-Otis-1024x576.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/S-5-Metal-Roof-Solar-Project-Survives-Hurricane-Otis-300x169.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/S-5-Metal-Roof-Solar-Project-Survives-Hurricane-Otis-768x432.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/S-5-Metal-Roof-Solar-Project-Survives-Hurricane-Otis-260x146.jpg 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/S-5-Metal-Roof-Solar-Project-Survives-Hurricane-Otis.jpg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">S-5! Clamps Protect Mexico Superstore Roof During Category 5 Hurricane Otis | <i>Image: Energia Real</i></figcaption></figure>
+
+
+
+<p>Wind uplift resistance, load distribution and the structural role of roof panels are all examined in the paper, supported by static and cyclic load testing results, full-assembly testing and examples of solar installations that have withstood extreme hurricane conditions.</p>
+
+
+
+<p>The paper points to utilising proper load distribution and not just proximity to structural purlins as key to evaluating the complete load path, including roof sheeting, solar fixings, and supporting structure.</p>
+
+
+
+<p>&#8220;Metal roofs come in two distinct styles, each with a different method of attachment: standing seam (or concealed-fix), and exposed-fastened (exposed-fix). In both roof types, the seams or ribs that run from the eave to the ridge act as structural elements,&#8221; the paper says.</p>
+
+
+
+<p>The paper&#8217;s findings support the integrity of <a href="https://www.pv-magazine-australia.com/press-releases/s-5-launches-new-saa-accredited-training-and-hits-the-road-with-solar-cutters-in-2026/" target="_blank" rel="noreferrer noopener">S-5!</a>&#8216;s PVKIT 3.0 rail-less solar mounting system and Facet Mount.</p>
+
+
+
+<p>&#8220;Clamps or brackets are attached to the seams or ribs with an interface called the PVKIT® to secure the PV module frames, eliminating the need for rails. The clamps and brackets can be attached anywhere along the seams or ribs, as well as directly over the purlins,&#8221; the paper explains.</p>
+
+
+
+<p>The PVKIT 3.0 is available in standard and optional integrated 50 mm riser configurations, providing additional space for wire routing, module-level power electronics and other balance of system components.</p>
+
+
+
+<p>The S-5! high-pressure cast aluminium Facet Mount offers 16 fastening locations designed for flexibility and increased load distribution while preserving single-ply membrance roof integrity.</p>
+
+
+
+<p>S-5! will be exhibiting at All Energy Australia, October 28-29, in Melbourne at Stand Q101.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/22/s-5-challenges-metal-roof-off-purlin-solar-mounting-assumptions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Construction innovations could cut gigawatt-scale solar costs by 22%</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/22/construction-innovations-could-cut-gigawatt-scale-solar-costs-by-22/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/22/construction-innovations-could-cut-gigawatt-scale-solar-costs-by-22/#respond</comments>
+		
+		<dc:creator><![CDATA[Patrick Jowett]]></dc:creator>
+		<pubDate>Wed, 21 Oct 2026 21:45:00 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[Highlights]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18241</guid>
+
+					<description><![CDATA[Research from Lightsource bp finds combining automated foundation piling, steel-frame solar panels, bolt-free solar module installations and on-site pre-assembly could also reduce installation time of gigawatt-sized solar farms by up to 30%.]]></description>
+										<content:encoded><![CDATA[
+<p>The construction of gigawatt-sized solar farms could be transformed by adopting four technical innovations, according to research by <a href="https://www.pv-magazine.com/2025/06/10/lightsource-bp-secures-financing-for-115-mwp-fishery-solar-project-in-taiwan/" target="_blank" rel="noreferrer noopener">Lightsource bp</a>.</p>
+
+
+
+<p>The UK-headquartered independent power producer (IPP) has shared findings from the investigation phase of its NextGen Solar Programme, which is reviewing how gigwatt-scale solar farms are built.</p>
+
+
+
+<p>The programme is exploring how four areas of innovation – automated foundation piling, a frameless panel design that uses steel rather than aluminium, press-fit bolt-free module installations, and on-site pre-assembly – can <a href="https://www.pv-magazine-australia.com/2026/10/13/arena-pumps-32-3-million-into-solar-robotics-manufacturing-projects/" target="_blank" rel="noreferrer noopener">reduce the costs</a> and time required to construct gigawatt-sized solar farms.</p>
+
+
+
+<p>Results from the initial investigation found combining these four construction innovations could cut direct installation costs by around 22% and reduce installation time by up to 30%, when compared with current standard practice.</p>
+
+
+
+<p>Chris Buckland, Global Technical Director of Lightsource bp, told <strong>pv magazine</strong> the analysis is based on assessment of “newly-developed solar industry offerings from China, Europe and Northern America, with a focus on automation and novel installation method.”</p>
+
+
+
+<p>Buckland added that a construction approach combining the four innovations is intended for large-scale PV development from 2028 onwards.</p>
+
+
+
+<p>“It remains at the development stage but is expected to become relevant to major projects over the next three years,” he explained. “We plan to run trials in Australia and the United States to validate supplier data points and support technical assessment and bankability, with initial results targeted within the next 18 months.”</p>
+
+
+
+<p>Lightsource bp’s analysis says automated piling rigs that use GPS precision can reduce installation time by up to 12.5%. Automated piling replaces manual pile driving, it adds, in turn lowering costs and improving consistency while also potentially reducing the risk of injury to site workers.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="551" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.49.06-1024x551.png" alt="" class="wp-image-148562" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.49.06-1024x551.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.49.06-300x161.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.49.06-768x413.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.49.06-1536x826.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.49.06-260x140.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.49.06.png 1632w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Additional analysis by the IPP says a press-fit, bolt-free solar module installation that enables solar panels to click into position has the potential to reduce installation time by up to 30% when combined with automated piling and a new module design.</p>
+
+
+
+<p>“The solution aims to simplify module installation by replacing conventional clamps and bolts, delivering potential savings through reduced installation time and balance-of-system costs,” Buckland told <strong>pv magazine</strong>.</p>
+
+
+
+<p>“We are also exploring replacing aluminium frames with steel options. Due to confidentiality requirements, we cannot provide the cost assessments.”</p>
+
+
+
+<p>An additional statement from Lightsource bp explains its NextGen Solar Programme now moves from modelling and analysis into real-world validation, with trials on active projects including automated piling systems, <a href="https://www.pv-magazine-australia.com/2025/10/02/autonomous-robot-module-installation-trial-fast-tracks-victorian-solar-farm/" target="_blank" rel="noreferrer noopener">robotic module placement</a> and advanced cable harnessing solutions to verify cost, time and safety assumptions.</p>
+
+
+
+<p>“We know that demand for solar energy is rising, and building for gigawatt scale is constrained by existing construction methods, impacting some projects commercial viability,” Buckland explained.</p>
+
+
+
+<p>“The NextGen Solar Programme has delivered a practical, evidenced-based roadmap for scaling solar farm construction efficiently, and we are now moving to validate these solutions under real operating conditions.”</p>
+
+
+
+<p>From <a href="https://www.pv-magazine.com/" target="_blank" rel="noreferrer noopener">pv magazine Global</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/22/construction-innovations-could-cut-gigawatt-scale-solar-costs-by-22/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fox ESS launches all-in-one Power Cube system in Australia</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/21/fox-ess-launches-all-in-one-power-cube-system-in-australia/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/21/fox-ess-launches-all-in-one-power-cube-system-in-australia/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Wed, 21 Oct 2026 04:06:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18223</guid>
+
+					<description><![CDATA[Fox ESS has launched its Power Cube in Australia, an all-in-one scalable home energy system that offers storage capacities from 10.92 kWh to 49.14 kWh.]]></description>
+										<content:encoded><![CDATA[
+<p>Chinese renewable energy solutions provider <a href="https://www.pv-magazine-australia.com/2025/10/14/fox-ess-stackable-battery-system-now-available-in-australia/">Fox ESS</a> has unveiled its Power Cube, an all-in-one residential energy storage system that combines an inverter and batteries into a single stackable unit.</p>
+
+
+
+<p>The Power Cube utilises the manufacturer’s stackable 5.46 kWh EQ5500 battery units and scales from a baseline of 10.92 kWh up to 49.14 kWh across two to nine modules.</p>
+
+
+
+<p>Brooks Richard, managing director of Asia Pacific and Middle East at Fox, said the Power Cub has been engineered to allow homeowners to choose a system that suits their household energy needs.</p>
+
+
+
+<p>&#8220;Power Cube has been designed with the <a href="https://www.pv-magazine-australia.com/2026/10/07/rooftop-installs-rise-on-back-of-battery-rebate-scheme/">Australian market</a> in mind,&#8221; he said. &#8220;It delivers superior round-trip efficiency and a flexible range of capacities that align well with Australian household energy needs and available battery rebate tiers. Just as importantly, its integrated design simplifies installation, helping installers deliver a complete energy storage solution with greater ease.&#8221;</p>
+
+
+
+<p>Fox said the single-phase models, ranging from 5 kW to 12 kW, are already Clean Energy Council (CEC) approved while three-phase variants ranging from 5 kW to 15 kW are coming soon. The system supports solar panel oversizing up to 200%.</p>
+
+
+
+<p>The Power Cube includes an integrated gateway that provides 63 A full-home backup. The system is managed via Fox Cloud 2.0, allowing users to monitor the system in real time and adjust settings remotely across Wi-Fi, LAN, and Bluetooth protocols.</p>
+
+
+
+<p>The system is housed in an IP66-rated enclosure, ensuring it can be installed indoors or out. Each battery module includes inter-cell insulation and an aerosol fire-suppression unit, and the system includes built-in heating to help maintain battery performance in cold conditions. The Power Cube comes with a 10-year product warranty.</p>
+
+
+
+<p>Fox said that putting the inverter and batteries together in one unit makes installation simpler and faster for electrical contractors and solar installers.</p>
+
+
+
+<p>“Power Cube brings installation simplicity, expandable storage and smart energy management together in one residential solution,” the manufacturer said. “For installers, it offers an integrated system designed to streamline delivery; for homeowners, it provides flexibility as their energy needs evolve.”</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/21/fox-ess-launches-all-in-one-power-cube-system-in-australia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Rio teams with US manufacturer on &#8216;world first&#8217; thermal energy storage project </title>
+		<link>https://www.pv-magazine-australia.com/2026/10/21/rio-teams-with-us-manufacturer-on-world-first-thermal-energy-storage-project/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/21/rio-teams-with-us-manufacturer-on-world-first-thermal-energy-storage-project/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Wed, 21 Oct 2026 02:02:00 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18215</guid>
+
+					<description><![CDATA[In what shapes as a world first, Rio Tinto and United States manufacturer Rondo Energy are investigating the deployment of a 30 MW / 360 MWh ‘heat battery’ at the miner’s Yarwun alumina refinery in Queensland. ]]></description>
+										<content:encoded><![CDATA[
+<p>Mining giant Rio Tinto and thermal energy storage specialist <a href="https://www.pv-magazine.com/2025/10/21/rondo-energys-100-mwh-heat-battery-powered-by-20-mw-of-onsite-solar/">Rondo Energy</a> have commenced front-end engineering and design on a project seeking to integrate a 30 MW / 360 MWh Heat Battery into the existing steam system at the Yarwun alumina refinery near Gladstone.</p>
+
+
+
+<p>The companies said if delivered, the project would be one of the first large-scale demonstrations of thermal energy storage for industrial process heat globally, and a world-first for the alumina industry.&nbsp;&nbsp;</p>
+
+
+
+<p>Kira Rundel, head of Rondo in Australia, said the project will help validate the role of thermal energy storage in reducing fossil fuel use in energy-intensive industries and pave the way for similar projects in other sectors.</p>
+
+
+
+<p>&#8220;This project shows how Australia&#8217;s abundant energy can become a competitive advantage for industry,&#8221; she said. &#8220;Heat batteries allow manufacturers to use low-cost electricity to produce the reliable, round-the-clock heat their operations need.”</p>
+
+
+
+<p>The project, supported by a grant from the Australian Renewable Energy Agency (ARENA), will seek to integrate a 30 MW / 360 MWh thermal energy storage unit into the Yarwun refinery’s existing steam system.</p>
+
+
+
+<p>Rondo said its heat batteries, built on proven refractory brick materials as the thermal storage medium, can store low-cost grid electricity generated during sunny and windy hours as high-temperature heat for days and release it when needed to generate steam for industrial operations. The company said the heat is typically delivered as steam or hot air up to 1,000°C and the technology has a round-trip efficiency of more than 98%.</p>
+
+
+
+<p>California-headquartered Rondo said for energy-intensive industries such as alumina refining, the heat batteries offer a fast, low-cost pathway to electrification that addresses both emissions and energy costs.</p>
+
+
+
+<p>“Because the heat battery slots into the existing steam network, the facility&#8217;s processes run exactly as before, the only thing that changes is the energy for that heat: no longer from fossil fuels, but sourced from low-cost electricity instead,” the company said.</p>
+
+
+
+<p>The Yarwun study will assess the technical and economic viability of integrating the technology into the refinery operations.</p>
+
+
+
+<p>Alumina refining is a notoriously hard-to-abate industry and Rio Tinto Pacific Operations Managing Director Armando Torres said industrial process heat remains one of the toughest <a href="https://www.pv-magazine-australia.com/2026/03/25/rio-tinto-deal-to-deliver-7-5-billion-renewables-investment-in-queensland/">decarbonisation</a> challenges. </p>
+
+
+
+<p>“Reducing emissions from alumina refining is complex, particularly when it comes to generating the high-pressure steam needed for our operations,” he said.</p>
+
+
+
+<p>“This study will help us determine whether thermal energy storage can provide a technically and economically viable alternative to fossil fuels for part of Yarwun’s steam requirements.”</p>
+
+
+
+<p>If the Yarwun project is progressed, it is expected to cut onsite emissions by about 67,000 tonnes of carbon dioxide each year.&nbsp;</p>
+
+
+
+<p>ARENA’s funding for the project will be delivered in two phases, with an initial $3.6 million to complete front-end engineering and design work, followed by up to $38 million for full-scale construction and commissioning should the project proceed, as well as up to $33.3 million in conditional contingency support.</p>
+
+
+
+<p>ARENA Chief Executive Officer Darren Miller said technologies such as <a href="https://www.pv-magazine-australia.com/2026/10/09/thermal-energy-storage-delivers-industrial-heat-but-can-solve-grid-issues-too/">thermal energy storage</a> need to be tested in real large-scale operating environments before they can be adopted more broadly across Australian industry. </p>
+
+
+
+<p>“This project will test whether thermal energy storage can provide a practical pathway to lower emissions from industrial heat in a real-world operating environment, where reliability, performance and integration are critical,” he said.</p>
+
+
+
+<p>“Demonstrations like this will help build the evidence industry needs to make future investment decisions so the value of this project extends well beyond a single refinery.”&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/21/rio-teams-with-us-manufacturer-on-world-first-thermal-energy-storage-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JinkoSolar unveils 510 W rooftop solar module with 25.5% efficiency, 40-year warranty</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/21/jinkosolar-unveils-510-w-rooftop-solar-module-with-25-5-efficiency-40-year-warranty/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/21/jinkosolar-unveils-510-w-rooftop-solar-module-with-25-5-efficiency-40-year-warranty/#respond</comments>
+		
+		<dc:creator><![CDATA[Vincent Shaw]]></dc:creator>
+		<pubDate>Wed, 21 Oct 2026 00:47:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18214</guid>
+
+					<description><![CDATA[JinkoSolar has introduced a 510 W all-black residential solar module based on its new TAC cell technology. The dual-glass panel features a reported efficiency of 25.52%, a power density of approximately 255 W/m² and a 40-year product and performance warranty.]]></description>
+										<content:encoded><![CDATA[
+<p>Chinese solar module manufacturer JinkoSolar has its sights on the Australian market with the launch of a 510 W all-black residential solar panel based on its newly introduced <a href="https://www.pv-magazine.com/2026/10/19/jinkosolar-unveils-28-efficient-back-contact-topcon-solar-cell-with-amorphous-silicon-heterojunction-passivation/">TOPCon-based Amorphous-Si Passivating Cell (TAC) technology</a>, which combines TOPCon electron-selective contacts, amorphous silicon heterojunction passivation and a back-contact electrode architecture.</p>
+
+
+
+<p>The JKM485–510T series targets premium residential applications, including homes with limited rooftop space, where power density, aesthetics and long-term reliability are key considerations.</p>
+
+
+
+<p>The company said the 48-cell Tiger Neo 5.0 module has a maximum power conversion efficiency of 25.52% and a monofacial, dual-glass design. It measures 1,762 mm × 1,134 mm × 30 mm, weighs 22 kg and offers a maximum power density of approximately 255 W/m².</p>
+
+
+
+<p>JinkoSolar said it has integrated several technologies to increase module power density and improve aesthetics. Its Gapless Cell Array (GCA) technology eliminates conventional gaps between cells, while concealed interconnections and busbars reduce inactive areas. According to the company, the design increases the effective light-receiving area by approximately 2%, resulting in an additional 10 W of module output.</p>
+
+
+
+<p>The module also features Uniform Matrix Interconnection (UMI) technology, which replaces conventional printed main busbars with distributed electrical connections. JinkoSolar said the architecture shortens current paths, reduces resistive losses and enables interconnection processes that place less mechanical stress on the cells.</p>
+
+
+
+<p>For improved aesthetics, the manufacturer has incorporated its All Consistent Color (ACC) technology, which combines precise control of coating thickness and refractive index with AI-assisted cell sorting. The process is designed to minimise visible color variations between cells, encapsulation materials and the frame, resulting in a more uniform black appearance.</p>
+
+
+
+<p>The panel also uses Full-Spectrum Light Trapping (FLT) technology, combining surface texturing, antireflective coatings and rear-side reflection to improve light utilization under oblique sunlight and low-irradiance conditions.</p>
+
+
+
+<p>The module features a power temperature coefficient of -0.24%/C, compared with approximately -0.26%/C for JinkoSolar’s previous TOPCon products. The manufacturer also claims the new panel delivers around 30 W more power than conventional back-contact modules of comparable dimensions.</p>
+
+
+
+<p>For reliability, JinkoSolar has integrated a Perimeter Moisture Barrier (PMB) featuring butyl-based edge sealing to reduce moisture ingress and the associated risk of corrosion. The module also incorporates an optimised current-shunting design intended to limit power losses and reduce hot-spot risks under partial shading.</p>
+
+
+
+<p>JinkoSolar offers a 40-year product warranty and a 40-year linear power output warranty for the module, according to its technical documentation.</p>
+
+
+
+<p>“Our vision for Tiger Neo 5.0 was to develop a panel tailored to premium residential rooftops,” JinkoSolar CEO Charlie Cao said.</p>
+
+
+
+<p>The new residential panel expands JinkoSolar’s Tiger Neo 5.0 portfolio, which includes larger-format TOPCon modules introduced in June 2026, with power outputs exceeding 700 W and efficiencies of up to 25.91%.</p>
+
+
+
+<p>JinkoSolar has identified Australia and Europe as target markets for residential applications. The company has not yet disclosed commercial availability, pricing or production volumes for the new TAC-based module.</p>
 
 
 
 <p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/20/leapting-launches-autonomous-forklift-for-solar-module-transport/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Tender success creates pathway to progress up to 13 GW of renewables</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 03:56:00 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18190</guid>
-
-					<description><![CDATA[The South Australian government has selected four proposed renewable energy projects with a combined generation capacity of almost 13 GW to progress near the industrial centre of Whyalla in the state’s Upper Spencer Gulf region.]]></description>
-										<content:encoded><![CDATA[
-<p>Four proposed solar, wind, and battery energy storage projects that would add a combined 12.66 GW of new generation capacity to the grid have been successful in the South Australian government’s competitive tender process for land released under the state’s renewable energy framework.</p>
-
-
-
-<p>The successful proposals have now secured the right to apply for a renewable energy feasibility licence&nbsp;in the Whyalla West release area, part of more than 11,000 square kilometres of <a href="https://www.pv-magazine-australia.com/2026/04/07/south-australia-opens-up-new-areas-for-renewable-energy-opportunities/">land opened by the state government</a> earlier this year for the potential development of large-scale renewables projects.</p>
-
-
-
-<p>The successful projects include a 4.7 GW wind and solar proposal from South Australia-based Altra Energy, a 360 MW solar proposal from French developer Neoen, and a 1.6 GW wind project proposed by Heron Energy. Australian developer Windlab has proposed the largest project, combining up to 6 GW of solar and wind energy generation. The project’s first stage is expected to comprise up to 1 GW of wind generation and battery energy storage.</p>
-
-
-
-<p>South Australian Energy Minister Tom Koutsantonis said the scale of the proposed developments represents one of the largest renewable energy opportunities released in the state, adding the projects could underpin the next era of green industrial growth in the Upper Spencer Gulf region.</p>
-
-
-
-<p>“This is an extraordinary opportunity for Whyalla and the Upper Spencer Gulf, with almost 13 GW of proposed renewable energy generation that could help shape the region’s industrial future,” he said.</p>
-
-
-
-<p>“For generations, Whyalla has been one of South Australia’s great industrial centres. We want to build on that strength, attracting new investment and creating opportunities for the next generation of industry.”</p>
-
-
-
-<p>Koutsantonis acknowledged that all four projects are at an early stage, and that there is significant work ahead, but said their success in the tender process is an important step towards unlocking the region’s renewable energy potential.</p>
-
-
-
-<p>The successful companies can now apply for renewable energy feasibility licences. These would allow developers to undertake detailed technical, commercial and environmental investigations. Any construction and operation would require a separate renewable energy infrastructure licence.</p>
-
-
-
-<p>Windlab Chief Development Officer Nathan Blundell said the region’s renewable resources and established industrial sector make it especially compelling for development.</p>
-
-
-
-<p>“Whyalla West combines exceptional renewable energy resources, significant development scale and proximity to established and emerging industrial demand,” he said.</p>
-
-
-
-<p>Altra Energy Director Andrew Newman said there is an opportunity to power the next generation of industry in the region, which has been heavily impacted by the recent closure of the Whyalla Steelworks.</p>
-
-
-
-<p>“The Upper Spencer Gulf has always been a place with a strong industrial history, and this is a chance to power the next generation of that industry,” he said. “We’re already working with major energy users on how this energy will be used.”&nbsp;</p>
-
-
-
-<p>The announcement of the successful tender applicants, comes after the state government earlier this month announced the pipeline of large-scale renewable energy and storage projects under construction or with development approval in South Australia has rocketed in value to more than $32 billion, with almost $7 billion worth of projects already up and running,</p>
-
-
-
-<p>South Australia is targeting 100% net renewables by the end of 2027 although Koutsantonis recently hinted the state might not achieve its goal.</p>
-
-
-
-<p>&#8220;I think we are going to get to 100%. I am confident we can meet that target, but the question for us is going to be is when in 2027 we hit that target&#8221; he said during a press conference marking the start of construction on Tilt Renewables’ 288 MW Palmer wind farm 70 kilometres east of Adelaide.</p>
-
-
-
-<p>&#8220;If we overshoot it a bit, it gets into a little bit of 2028, fine. But the ambition is what&#8217;s important. The ambition is what drives the government&#8217;s agenda here.&#8221;</p>
-
-
-
-<p>Government data shows renewables, primarily solar and wind, accounted for 77.1% of the South Australia&#8217;s net electricity generation in the 2025 calendar year.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/19/tender-success-creates-pathway-to-progress-up-to-13-gw-of-renewables/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>JV partners flick switch on largest solar farm on NZ’s South Island</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/19/jv-partners-flick-switch-on-largest-solar-farm-on-nzs-south-island/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/19/jv-partners-flick-switch-on-largest-solar-farm-on-nzs-south-island/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 02:37:00 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Modules]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18182</guid>
-
-					<description><![CDATA[The largest solar farm on New Zealand’s South Island has been officially opened with joint venture partners Lightsource bp and Contact Energy announcing the launch of the 150 MW Kōwhai Park PV plant.]]></description>
-										<content:encoded><![CDATA[
-<p>New Zealand’s solar journey has reached a new milestone with the Kōwhai Park solar farm at Christchurch on the South Island now operational, adding 150 MW of renewable generation capacity to the country’s electricity system.</p>
-
-
-
-<p>Developed through New Zealand generator and retailer Contact Energy and Lightsource bp’s joint venture (JV) partnership, the Kōwhai Park solar farm features more than 300,000 panels spread across a 230-hectare site adjacent to and leased from Christchurch Airport.</p>
-
-
-
-<p>The 150 MW facility, owned and operated by the JV partners,&nbsp;is expected to generate 275 GWh of renewable energy a year. Long‑term power purchase agreements (PPAs) for the output have been signed with both Christchurch Airport and New Zealand dairy processor Synlait.</p>
-
-
-
-<p>Contact Chief Executive Officer Mike Fuge said the $222 million (NZD 273 million) <a href="https://www.pv-magazine-australia.com/2024/08/19/lightsource-bp-lands-financing-package-for-150-mw-nz-solar-farm/">Kōwhai Park project</a> demonstrates the opportunity renewable energy presents for New Zealand. </p>
-
-
-
-<p>“We have huge aspirations for what renewable energy can deliver for this country,” he said. “Building new generation at scale gives businesses the confidence to electrify and strengthens our security of supply. That means a more resilient energy system, with more home-grown generation.”</p>
-
-
-
-<p>Lightsource bp Asia-Pacific Chief Operating Officer Adam Pegg said the Kōwhai Park project forms part of the JV partners’ broader efforts to accelerate utility-scale solar deployment across New Zealand.&nbsp;</p>
-
-
-
-<p>“We see significant opportunity for large-scale renewables to support New Zealand’s growing electricity needs, industrial electrification and long-term energy security,” he said. “Kōwhai Park demonstrates the scale of what can be achieved, and we look forward to building on that momentum.”</p>
-
-
-
-<p>Kōwhai Park is the first solar project to be completed by the Contact and Lightsource bp JV that was <a href="https://www.pv-magazine-australia.com/2022/04/22/lightsource-bp-partners-with-contact-energy-to-pursue-large-scale-solar-in-new-zealand/">launched</a> in 2022. Other projects in the JV’s development pipeline include a 175 MW solar farm north of Auckland, and a 160 MW solar farm in Taranaki, adjacent to Contact’s Stratford power station.</p>
-
-
-
-<p>The launch of the Kōwhai Park solar farm adds to New Zealand’s growing <a href="https://www.pv-magazine.com/2026/08/21/utility-scale-projects-drive-new-zealands-solar-rollout/">solar portfolio</a>.</p>
-
-
-
-<p>A recent report released by the country’s Ministry of Business, Innovation &amp; Employment (MBIE) shows New Zealand’s solar capacity increased by 52% during 2025, reached 830 MW by the end of the year, up from 545 MW at the end of 2024.</p>
-
-
-
-<p>The country’s cumulative solar capacity now stands in excess of 1 GW with the <a href="https://www.pv-magazine-australia.com/2026/07/15/new-zealands-largest-yet-solar-farm-successfully-energised/" target="_blank" rel="noreferrer noopener">150 MW Tauhei Solar Farm</a> and <a href="https://www.pv-magazine-australia.com/2026/07/27/new-38-mw-solar-farm-added-to-new-zealand-grid/" target="_blank" rel="noreferrer noopener">38 MW Omeheu Solar Farm</a> also switched on this year.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/19/jv-partners-flick-switch-on-largest-solar-farm-on-nzs-south-island/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Australia leading way to electrification of everything</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/19/australia-leading-way-to-electrification-of-everything/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/19/australia-leading-way-to-electrification-of-everything/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 01:27:00 +0000</pubDate>
-				<category><![CDATA[Markets & Policy]]></category>
-		<category><![CDATA[Opinion]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18185</guid>
-
-					<description><![CDATA[COP31 aims to increase electricity’s share of global final energy demand from 20% to 35% by 2035, accelerating the transition to clean, affordable energy through electrification. Australia is leading with rapid growth in solar, wind, batteries and EVs, demonstrating how renewable energy can lower electricity costs, reduce fossil fuel dependence and support decarbonisation.]]></description>
-										<content:encoded><![CDATA[
-<p>The UN Climate Change Conference COP31 will take place in Türkiye in November 2026. A flagship target is to raise the share of final energy demand met by electricity <a href="https://cop31.tr/news-detail/bonn-electrification-target-2026">from 20% today to 35% by 2035</a>.</p>
-
-
-
-<p>Rising electricity demand signals rising affluence in developing countries, and progress towards “electrification of everything” via solar and wind. Dramatically cheaper, cleaner and more reliable domestic energy is a result.</p>
-
-
-
-<p>Most industrial economies (including USA, China, the European Union, Japan and Australia) have annual per capita electricity consumption in the range 6-12 MWh compared with the global average of 4 MWh. For Latin America, India and ASEAN the figure is 1-3 MWh.</p>
-
-
-
-<p>In an affluent advanced economy, about 20 MWh of clean electricity per person per year is required for decarbonisation of land transport, heating and cooling in buildings, water heating, and industrial process heat. This is relatively straightforward using off-the-shelf technology.</p>
-
-
-
-<p>Another 5-25 MWh per person per year is required for decarbonisation of the chemical industry, which includes metals, plastics, cement, precursor chemicals, and synthetic shipping &amp; aviation fuels. This needs substantial technology development over the next decade.</p>
-
-
-
-<p>The “final energy” mentioned in the COP31 target refers to energy products delivered to the consumer, including vehicle fuel, natural gas and electricity. This is a silly measure of energy because it conflates chemical energy with electrical energy. The electricity used in a heat pump or electric vehicle is 3-5 times smaller than fossil fuel energy delivering the same service.</p>
-
-
-
-<h3 class="wp-block-heading">Rapid domestic electrification in Australia</h3>
-
-
-
-<p>COP31 is led jointly by Türkiye and Australia. Australia has a good electrification story to tell.</p>
-
-
-
-<p>Australia is the global No.1 for per capita solar generation, and No.8 for wind. The government target for 2030 is 82% of electricity from renewables (mostly solar and wind), up from 50% today.</p>
-
-
-
-<p>The state of South Australia is tracking towards 100% net supply of electricity from solar and wind in 2028. South Australia has become an attractive destination for companies wishing to manufacture using clean energy.</p>
-
-
-
-<p>More than 40% of Australian dwellings have rooftop solar (global No.1 per capita), tracking towards 50% by 2030. The average size of new systems is 10 kW with turnkey cost of $10,000. This low cost arises from very smooth government approvals, an experienced workforce, and absence of tariffs.</p>
-
-
-
-<p>About 7% of Australian dwellings have home batteries, which is expected to triple by 2030, making Australia the global No.1 per capita. The typical size of new home batteries is 25 kWh. Home battery uptake is driven by government support, which is gradually reducing as it does its job of kick-starting the industry.</p>
-
-
-
-<p>A revolution in domestic energy is underway. Home batteries coupled with rooftop solar, heat pumps and an EV allows families to enjoy abundant, clean, reliable and permanently cheap domestic energy: below $800 per year for electricity (and zero natural gas and vehicle fuel bills).</p>
-
-
-
-<p>Completion of the 350 GWh Snowy 2.0 system around 2029 will deliver 13 kWh of long duration rechargeable pumped hydro energy storage per person (global No.1).</p>
-
-
-
-<p>EV uptake is rising rapidly, driven by the war on Iran. It’s currently at one quarter of new car sales (similar to the global average), although well behind the global leader Norway at 98%.</p>
-
-
-
-<p>The rise of solar and batteries is having a remarkable effect on wholesale electricity prices. The graph shows inflation-adjusted average wholesale spot market prices in Australia’s national electricity market since 2012 (blue bars) and the renewable energy fraction of generation (red line). Expensive fossil gas is being pushed out of the market for both ancillary services and peak period power – gas dropped from 13% of generation a decade ago to 3% today.</p>
-
-
-
-<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="940" height="669" src="https://www.pv-magazine.com/wp-content/uploads/2026/10/price.png" alt="" class="wp-image-148248" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/price.png 940w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/price-300x214.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/price-768x547.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/price-260x185.png 260w" sizes="(max-width: 940px) 100vw, 940px" /></figure>
-
-
-
-<p><em>Authors: Prof. Ricardo Rüther (UFSC) <a href="mailto:rruther@gmail.com">rruther@gmail.com</a>, Prof. Andrew Blakers (ANU)</em> <a href="mailto:Andrew.blakers@anu.edu.au">Andrew.blakers@anu.edu.au</a></p>
-
-
-
-<p><em><a href="http://www.ises.org/" target="_blank" rel="noreferrer noopener">ISES</a>, the <a href="http://www.ises.org/" target="_blank" rel="noreferrer noopener">International Solar Energy Society</a> is a UN-accredited membership NGO founded in 1954 working towards a world with 100% renewable energy for all, used efficiently and wisely.</em></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/19/australia-leading-way-to-electrification-of-everything/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/21/jinkosolar-unveils-510-w-rooftop-solar-module-with-25-5-efficiency-40-year-warranty/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

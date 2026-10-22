@@ -1,9 +1,9 @@
 {
- "date": "2026-10-20",
+ "date": "2026-10-22",
  "run": {
   "type": "run",
-  "date": "2026-10-20",
-  "started_utc": "2026-10-20T23:17:23Z",
+  "date": "2026-10-22",
+  "started_utc": "2026-10-22T23:29:47Z",
   "temperature": 0,
   "prompt_sha256": "ca74bd9490cb1701e70ad05cce1dfd8209bb9dddf59c02a9a733ea39a1c94071",
   "schema_sha256": "e535cfd076742634844dfbcff8e7f0cba59932930297308124fec25c9ab09c25",
@@ -16,13 +16,13 @@
   "output_tokens": 0,
   "status": "ok",
   "error": null,
-  "finished_utc": "2026-10-20T23:17:24Z"
+  "finished_utc": "2026-10-22T23:29:49Z"
  },
- "sources_changed": 3,
- "sources_unchanged": 3,
+ "sources_changed": 5,
+ "sources_unchanged": 1,
  "sources_baseline": 0,
  "candidates": 0,
  "candidates_verified": 0,
  "candidates_rejected": 0,
- "file": "digest/2026-10-20.jsonl"
+ "file": "digest/2026-10-22.jsonl"
 }
