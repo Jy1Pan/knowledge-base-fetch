@@ -1,9 +1,9 @@
 {
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "run": {
   "type": "run",
-  "date": "2026-10-22",
-  "started_utc": "2026-10-22T23:29:47Z",
+  "date": "2026-10-23",
+  "started_utc": "2026-10-23T23:18:37Z",
   "temperature": 0,
   "prompt_sha256": "ca74bd9490cb1701e70ad05cce1dfd8209bb9dddf59c02a9a733ea39a1c94071",
   "schema_sha256": "e535cfd076742634844dfbcff8e7f0cba59932930297308124fec25c9ab09c25",
@@ -16,7 +16,7 @@
   "output_tokens": 0,
   "status": "ok",
   "error": null,
-  "finished_utc": "2026-10-22T23:29:49Z"
+  "finished_utc": "2026-10-23T23:18:39Z"
  },
  "sources_changed": 5,
  "sources_unchanged": 1,
@@ -24,5 +24,5 @@
  "candidates": 0,
  "candidates_verified": 0,
  "candidates_rejected": 0,
- "file": "digest/2026-10-22.jsonl"
+ "file": "digest/2026-10-23.jsonl"
 }
