@@ -12,7 +12,7 @@
 	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.pv-magazine-australia.com/</link>
 	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
-	<lastBuildDate>Fri, 23 Oct 2026 04:38:14 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Oct 2026 21:44:27 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,72 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Lithium demand from storage expected to slow to 5% annual growth</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/26/lithium-demand-from-storage-expected-to-slow-to-5-annual-growth/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/26/lithium-demand-from-storage-expected-to-slow-to-5-annual-growth/#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Publicover]]></dc:creator>
+		<pubDate>Sun, 25 Oct 2026 21:57:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[supply chain]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18301</guid>
+
+					<description><![CDATA[Benchmark Mineral Intelligence says it expects lithium demand from stationary energy storage to grow by around 5% a year to 2030, after rising more than 60% a year for the past two years.]]></description>
+										<content:encoded><![CDATA[
+<p>Lithium demand from stationary storage is expected to slow sharply after two years of rapid growth, according to new analysis from Benchmark Mineral Intelligence, which also estimates the lithium industry will need the equivalent of 134 new mines to meet 2050 demand.</p>
+
+
+
+<p>“Lithium demand from stationary storage has grown more than 60% a year for the past two years, but we expect that pace to slow significantly, to around 5% a year to the end of the decade,” said Cameron Perks, product director for lithium at Benchmark Mineral Intelligence.</p>
+
+
+
+<p>The London-based analyst house forecasts that electric vehicles will account for 76% of global lithium demand by 2050, up from 55% today, “as the rapid recent growth in stationary storage moderates.” Batteries account for 92% of lithium demand in 2026, up from about 70% in 2020, said Benchmark.</p>
+
+
+
+<p>Benchmark did not say in its release what is driving the expected slowdown. The forecast concerns lithium demand rather than storage deployment volumes. In January, Benchmark head of research Iola Hughes <a href="https://www.ess-news.com/2026/01/20/global-bess-demand-jumps-51-in-2025-as-installations-top-300-gwh/">told ESS News</a> the firm was forecasting more than 450 GWh of new operational storage capacity in 2026, up from about 315 GWh installed in 2025.</p>
+
+
+
+<p><strong>Many mines</strong></p>
+
+
+
+<p>Benchmark Mineral Intelligence forecasts global lithium demand will reach about 7 million metric tons (MT) of lithium carbonate equivalent (LCE) in 2050, up from 2.11 million MT in 2026. At an average mine size of 36,000 MT of LCE, that growth equals the output of 134 new mines, including 44 needed to meet demand growth between 2040 and 2050 alone.</p>
+
+
+
+<p>“Meeting 2050 demand requires the equivalent of 134 new lithium mines, more than $100 billion of investment before any contribution from recycling, rising to more than 180 mines in our upside scenario,” Perks said. “The biggest challenge is sustaining that investment through price cycles, while competing for capital with AI, defence and the wider energy transition.”</p>
+
+
+
+<p>Benchmark’s upside scenario, with almost 9 million MT of LCE demand, is “driven largely by EV and energy storage policies worldwide.”</p>
+
+
+
+<p>Recycling is forecast to account for almost half of lithium supply by 2050. “Recycling will grow, but our base case asks a lot of it,” Perks said. “Every [metric ton] that recycling doesn’t deliver has to come from a mine.”</p>
+
+
+
+<p>Benchmark said it expects Australia’s share of mined supply to fall from 29% in 2026 to 20% by 2050, while China’s holds at around 25%. North America’s share is forecast to rise from 1.7% to 13%, and Europe’s from less than 1% to 5.5%.</p>
+
+
+
+<p>Storage developers are also beginning to diversify away from lithium. In July, Alfen and CATL <a href="https://www.ess-news.com/2026/07/16/alfen-catl-to-deploy-5-gwh-of-sodium-ion-battery-storage-in-europe/" target="_blank" rel="noreferrer noopener">agreed to deploy 5 GWh of sodium-ion storage</a> in Europe, with the companies saying the move would diversify materials and reduce exposure to lithium price swings.</p>
+
+
+
+<p><strong><a href="https://www.ess-news.com/">From ESS News</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/26/lithium-demand-from-storage-expected-to-slow-to-5-annual-growth/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Victoria continues regional neighbourhood battery rollout</title>
 		<link>https://www.pv-magazine-australia.com/2026/10/23/victoria-continues-regional-neighbourhood-battery-rollout/</link>
 					<comments>https://www.pv-magazine-australia.com/2026/10/23/victoria-continues-regional-neighbourhood-battery-rollout/#respond</comments>
@@ -846,89 +912,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/22/s-5-challenges-metal-roof-off-purlin-solar-mounting-assumptions/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Construction innovations could cut gigawatt-scale solar costs by 22%</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/22/construction-innovations-could-cut-gigawatt-scale-solar-costs-by-22/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/22/construction-innovations-could-cut-gigawatt-scale-solar-costs-by-22/#respond</comments>
-		
-		<dc:creator><![CDATA[Patrick Jowett]]></dc:creator>
-		<pubDate>Wed, 21 Oct 2026 21:45:00 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Research & Development]]></category>
-		<category><![CDATA[Highlights]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18241</guid>
-
-					<description><![CDATA[Research from Lightsource bp finds combining automated foundation piling, steel-frame solar panels, bolt-free solar module installations and on-site pre-assembly could also reduce installation time of gigawatt-sized solar farms by up to 30%.]]></description>
-										<content:encoded><![CDATA[
-<p>The construction of gigawatt-sized solar farms could be transformed by adopting four technical innovations, according to research by <a href="https://www.pv-magazine.com/2025/06/10/lightsource-bp-secures-financing-for-115-mwp-fishery-solar-project-in-taiwan/" target="_blank" rel="noreferrer noopener">Lightsource bp</a>.</p>
-
-
-
-<p>The UK-headquartered independent power producer (IPP) has shared findings from the investigation phase of its NextGen Solar Programme, which is reviewing how gigwatt-scale solar farms are built.</p>
-
-
-
-<p>The programme is exploring how four areas of innovation – automated foundation piling, a frameless panel design that uses steel rather than aluminium, press-fit bolt-free module installations, and on-site pre-assembly – can <a href="https://www.pv-magazine-australia.com/2026/10/13/arena-pumps-32-3-million-into-solar-robotics-manufacturing-projects/" target="_blank" rel="noreferrer noopener">reduce the costs</a> and time required to construct gigawatt-sized solar farms.</p>
-
-
-
-<p>Results from the initial investigation found combining these four construction innovations could cut direct installation costs by around 22% and reduce installation time by up to 30%, when compared with current standard practice.</p>
-
-
-
-<p>Chris Buckland, Global Technical Director of Lightsource bp, told <strong>pv magazine</strong> the analysis is based on assessment of “newly-developed solar industry offerings from China, Europe and Northern America, with a focus on automation and novel installation method.”</p>
-
-
-
-<p>Buckland added that a construction approach combining the four innovations is intended for large-scale PV development from 2028 onwards.</p>
-
-
-
-<p>“It remains at the development stage but is expected to become relevant to major projects over the next three years,” he explained. “We plan to run trials in Australia and the United States to validate supplier data points and support technical assessment and bankability, with initial results targeted within the next 18 months.”</p>
-
-
-
-<p>Lightsource bp’s analysis says automated piling rigs that use GPS precision can reduce installation time by up to 12.5%. Automated piling replaces manual pile driving, it adds, in turn lowering costs and improving consistency while also potentially reducing the risk of injury to site workers.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="551" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.49.06-1024x551.png" alt="" class="wp-image-148562" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.49.06-1024x551.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.49.06-300x161.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.49.06-768x413.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.49.06-1536x826.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.49.06-260x140.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.49.06.png 1632w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Additional analysis by the IPP says a press-fit, bolt-free solar module installation that enables solar panels to click into position has the potential to reduce installation time by up to 30% when combined with automated piling and a new module design.</p>
-
-
-
-<p>“The solution aims to simplify module installation by replacing conventional clamps and bolts, delivering potential savings through reduced installation time and balance-of-system costs,” Buckland told <strong>pv magazine</strong>.</p>
-
-
-
-<p>“We are also exploring replacing aluminium frames with steel options. Due to confidentiality requirements, we cannot provide the cost assessments.”</p>
-
-
-
-<p>An additional statement from Lightsource bp explains its NextGen Solar Programme now moves from modelling and analysis into real-world validation, with trials on active projects including automated piling systems, <a href="https://www.pv-magazine-australia.com/2025/10/02/autonomous-robot-module-installation-trial-fast-tracks-victorian-solar-farm/" target="_blank" rel="noreferrer noopener">robotic module placement</a> and advanced cable harnessing solutions to verify cost, time and safety assumptions.</p>
-
-
-
-<p>“We know that demand for solar energy is rising, and building for gigawatt scale is constrained by existing construction methods, impacting some projects commercial viability,” Buckland explained.</p>
-
-
-
-<p>“The NextGen Solar Programme has delivered a practical, evidenced-based roadmap for scaling solar farm construction efficiently, and we are now moving to validate these solutions under real operating conditions.”</p>
-
-
-
-<p>From <a href="https://www.pv-magazine.com/" target="_blank" rel="noreferrer noopener">pv magazine Global</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/22/construction-innovations-could-cut-gigawatt-scale-solar-costs-by-22/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
