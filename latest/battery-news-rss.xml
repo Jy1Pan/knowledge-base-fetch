@@ -12,7 +12,7 @@
 	<atom:link href="https://battery-news.de/feed/" rel="self" type="application/rss+xml" />
 	<link>https://battery-news.de/</link>
 	<description>Die Newsbroker-Webseite zum Thema Lithium-Ionen-Batterien in Deutschland</description>
-	<lastBuildDate>Thu, 22 Oct 2026 16:02:01 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Oct 2026 14:02:29 +0000</lastBuildDate>
 	<language>de</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,54 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Fraunhofer ISE testet siliziumreiche Batteriezellen über 1000 Vollzyklen</title>
+		<link>https://battery-news.de/2026/10/26/fraunhofer-ise-testet-siliziumreiche-batteriezellen-ueber-1000-vollzyklen/</link>
+		
+		<dc:creator><![CDATA[Cornelius Karow]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieentwicklung]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40100</guid>
+
+					<description><![CDATA[<p>Das Fraunhofer ISE hat selbst gefertigte Batteriezellen mit siliziumreichen Anoden über mehr als 1000 Vollzyklen getestet. Danach besaßen sie laut Institut noch über 83 Prozent ihrer ursprünglichen Kapazität. Entscheidend war dabei ein äußerer Anpressdruck von 1000 Kilopascal. Die Forschungszellen erreichen eine Energiedichte von 280 Wattstunden pro Kilogramm. Für ein industriell optimiertes Zellformat erwartet das Institut etwa 330 Wattstunden pro Kilogramm. Siliziumreiche Anoden versprechen höhere Energiedichten für Lithium-Ionen-Batterien. Das macht sie für Elektromobilität, Luft- und Raumfahrt sowie stationäre Speicher interessant. Ihre begrenzte Lebensdauer erschwert bislang jedoch den industriellen Einsatz. Anpressdruck beeinflusst die Lebensdauer Im Projekt StrOboBatt verglichen die Forschenden zwei axiale Anpressdrücke: 300 und 1000 Kilopascal. Die Zellen wurden jeweils innerhalb einer Stunde geladen beziehungsweise entladen. Bei 1000 Kilopascal blieb nach mehr als 1000 Vollzyklen die genannte Restkapazität erhalten. Unter dem geringeren Druck nahm die nutzbare Kapazität stärker ab. Äußerer Druck kann den elektrischen Kontakt verbessern und das Ablösen von Elektrodenmaterialien verringern. Zudem wuchs der Abstand zwischen der Restkapazität bei niedriger Entladerate und der im regulären Betrieb verfügbaren Kapazität mit steigender Zyklenanzahl. Für mögliche Anwendungen muss deshalb auch die Leistungsfähigkeit unter entsprechenden Betriebsbedingungen bewertet werden. Industrienahes Zellformat mit Silizium-Kohlenstoff-Anode Die getesteten Pouchzellen besitzen 40 Lagen und eine Kapazität von 25 Amperestunden. Sie kombinieren eine Silizium-Kohlenstoff/Graphit-Anode mit einer nickelreichen Nickel-Mangan-Cobalt-Oxid-Kathode. Der Silizium-Kohlenstoff-Komposit stellt 51 Prozent des Anodenaktivmaterials. Gefertigt wurden die Zellen auf einer halbautomatischen Linie am Fraunhofer ISE. Sie dienen als Referenz für die Untersuchung neuer Materialien, Zellkonzepte und Betriebsbedingungen. Quelle:https://www.ise.fraunhofer.de/en/press-media/news/2026/fraunhofer-ise-successfully-tests-high-energy-battery-cells-with-silicon-rich-anodes-over-1000-cycles.html</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/10/26/fraunhofer-ise-testet-siliziumreiche-batteriezellen-ueber-1000-vollzyklen/">Fraunhofer ISE testet siliziumreiche Batteriezellen über 1000 Vollzyklen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Das Fraunhofer ISE hat selbst gefertigte Batteriezellen mit siliziumreichen Anoden über mehr als 1000 Vollzyklen getestet. Danach besaßen sie laut Institut noch über 83 Prozent ihrer ursprünglichen Kapazität. Entscheidend war dabei ein äußerer Anpressdruck von 1000 Kilopascal. Die Forschungszellen erreichen eine Energiedichte von 280 Wattstunden pro Kilogramm. Für ein industriell optimiertes Zellformat erwartet das Institut etwa 330 Wattstunden pro Kilogramm.</p>
+
+
+
+<p>Siliziumreiche Anoden versprechen höhere Energiedichten für Lithium-Ionen-Batterien. Das macht sie für Elektromobilität, Luft- und Raumfahrt sowie stationäre Speicher interessant. Ihre begrenzte Lebensdauer erschwert bislang jedoch den industriellen Einsatz.</p>
+
+
+
+<h2 class="wp-block-heading">Anpressdruck beeinflusst die Lebensdauer</h2>
+
+
+
+<p>Im Projekt StrOboBatt verglichen die Forschenden zwei axiale Anpressdrücke: 300 und 1000 Kilopascal. Die Zellen wurden jeweils innerhalb einer Stunde geladen beziehungsweise entladen. Bei 1000 Kilopascal blieb nach mehr als 1000 Vollzyklen die genannte Restkapazität erhalten. Unter dem geringeren Druck nahm die nutzbare Kapazität stärker ab. Äußerer Druck kann den elektrischen Kontakt verbessern und das Ablösen von Elektrodenmaterialien verringern.</p>
+
+
+
+<p>Zudem wuchs der Abstand zwischen der Restkapazität bei niedriger Entladerate und der im regulären Betrieb verfügbaren Kapazität mit steigender Zyklenanzahl. Für mögliche Anwendungen muss deshalb auch die Leistungsfähigkeit unter entsprechenden Betriebsbedingungen bewertet werden.</p>
+
+
+
+<h2 class="wp-block-heading">Industrienahes Zellformat mit Silizium-Kohlenstoff-Anode</h2>
+
+
+
+<p>Die getesteten Pouchzellen besitzen 40 Lagen und eine Kapazität von 25 Amperestunden. Sie kombinieren eine Silizium-Kohlenstoff/Graphit-Anode mit einer nickelreichen Nickel-Mangan-Cobalt-Oxid-Kathode. Der Silizium-Kohlenstoff-Komposit stellt 51 Prozent des Anodenaktivmaterials. Gefertigt wurden die Zellen auf einer halbautomatischen Linie am Fraunhofer ISE. Sie dienen als Referenz für die Untersuchung neuer Materialien, Zellkonzepte und Betriebsbedingungen.</p>
+
+
+
+<p><em>Quelle:</em><br><a href="https://www.ise.fraunhofer.de/en/press-media/news/2026/fraunhofer-ise-successfully-tests-high-energy-battery-cells-with-silicon-rich-anodes-over-1000-cycles.html" target="_blank" rel="noreferrer noopener">https://www.ise.fraunhofer.de/en/press-media/news/2026/fraunhofer-ise-successfully-tests-high-energy-battery-cells-with-silicon-rich-anodes-over-1000-cycles.html</a></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/10/26/fraunhofer-ise-testet-siliziumreiche-batteriezellen-ueber-1000-vollzyklen/">Fraunhofer ISE testet siliziumreiche Batteriezellen über 1000 Vollzyklen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>QuantumScape plant 100-MWh-Linie für Feststoffbatterien</title>
 		<link>https://battery-news.de/2026/10/23/quantumscape-plant-100-mwh-linie-fuer-feststoffbatterien/</link>
 		
@@ -534,55 +582,6 @@
 
 <p><em>Quelle:</em><br><a href="https://www.poscofuturem.com/en/pr/view.do?num=1051" target="_blank" rel="noreferrer noopener">https://www.poscofuturem.com/en/pr/view.do?num=1051</a></p>
 <p>Der Beitrag <a href="https://battery-news.de/2026/10/14/posco-future-m-und-samsung-sdi-schliessen-milliardenschweren-lfp-vertrag/">POSCO Future M und Samsung SDI schließen milliardenschweren LFP-Vertrag</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>EnergyX vereinbart Lithiumlieferungen für zwei Milliarden Dollar</title>
-		<link>https://battery-news.de/2026/10/13/energyx-vereinbart-lithiumlieferungen-fuer-zwei-milliarden-dollar/</link>
-		
-		<dc:creator><![CDATA[Cornelius Karow]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2026 06:00:00 +0000</pubDate>
-				<category><![CDATA[Batteriekomponenten]]></category>
-		<category><![CDATA[Batteriekomponente]]></category>
-		<guid isPermaLink="false">https://battery-news.de/?p=40021</guid>
-
-					<description><![CDATA[<p>Das Lithiumunternehmen EnergyX hat nach eigenen Angaben einen verbindlichen Abnahmevertrag mit dem Rohstoffhändler Trafigura geschlossen. Über zehn Jahre soll EnergyX insgesamt 100.000 Tonnen Lithiumprodukte aus geplanten Anlagen in Chile und Texas liefern. Der Vertragswert von rund zwei Milliarden US-Dollar basiert auf aktuellen Lithiumpreisen von etwa 20.000 Dollar je Tonne. Die Produktion muss allerdings erst aufgebaut werden. Für beide Anlagen benötigt EnergyX zusätzliche Mittel. Der Vertrag soll den Antrag auf einen Kredit über 690 Millionen Dollar bei der US-Export-Import-Bank voranbringen. Lithium aus Chile und Texas Trafigura soll jährlich jeweils 5.000 Tonnen Lithiumcarbonat und Lithiumhydroxid abnehmen. Der Vertrag sieht eine Zahlungsverpflichtung auch bei Nichtabnahme vor. In Chile plant EnergyX ab 2028 eine jährliche Produktion von 7.500 Tonnen Lithiumcarbonat. Trafigura würde davon rund zwei Drittel übernehmen. In Texas sollen ab 2029 zunächst 15.000 Tonnen Lithiumhydroxid jährlich entstehen. Dort entspricht die vereinbarte Abnahme einem Drittel der geplanten Menge. Trafigura will die Produkte zunächst an chinesische Kunden verkaufen. Langfristig strebt der Händler eine größere Rolle im US-Markt an, sobald sich dort die Lieferkette für Batterien entwickelt hat. EnergyX setzt auf direkte Lithiumextraktion, kurz DLE. Dabei kommen verschiedene Filterverfahren zum Einsatz. Das Unternehmen kombiniert bekannte Technologien mit verfügbarer Ausrüstung und testet seine Prozesse im Labor in Austin. Quelle:https://www.reuters.com/business/energy/energyx-signs-binding-2-billion-lithium-supply-deal-with-trafigura-2026-10-12/</p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/10/13/energyx-vereinbart-lithiumlieferungen-fuer-zwei-milliarden-dollar/">EnergyX vereinbart Lithiumlieferungen für zwei Milliarden Dollar</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Das Lithiumunternehmen EnergyX hat nach eigenen Angaben einen verbindlichen Abnahmevertrag mit dem Rohstoffhändler Trafigura geschlossen. Über zehn Jahre soll EnergyX insgesamt 100.000 Tonnen Lithiumprodukte aus geplanten Anlagen in Chile und Texas liefern. Der Vertragswert von rund zwei Milliarden US-Dollar basiert auf aktuellen Lithiumpreisen von etwa 20.000 Dollar je Tonne.</p>
-
-
-
-<p>Die Produktion muss allerdings erst aufgebaut werden. Für beide Anlagen benötigt EnergyX zusätzliche Mittel. Der Vertrag soll den Antrag auf einen Kredit über 690 Millionen Dollar bei der US-Export-Import-Bank voranbringen.</p>
-
-
-
-<h2 class="wp-block-heading">Lithium aus Chile und Texas</h2>
-
-
-
-<p>Trafigura soll jährlich jeweils 5.000 Tonnen Lithiumcarbonat und Lithiumhydroxid abnehmen. Der Vertrag sieht eine Zahlungsverpflichtung auch bei Nichtabnahme vor.</p>
-
-
-
-<p>In Chile plant EnergyX ab 2028 eine jährliche Produktion von 7.500 Tonnen Lithiumcarbonat. Trafigura würde davon rund zwei Drittel übernehmen. In Texas sollen ab 2029 zunächst 15.000 Tonnen Lithiumhydroxid jährlich entstehen. Dort entspricht die vereinbarte Abnahme einem Drittel der geplanten Menge.</p>
-
-
-
-<p>Trafigura will die Produkte zunächst an chinesische Kunden verkaufen. Langfristig strebt der Händler eine größere Rolle im US-Markt an, sobald sich dort die Lieferkette für Batterien entwickelt hat.</p>
-
-
-
-<p>EnergyX setzt auf direkte Lithiumextraktion, kurz DLE. Dabei kommen verschiedene Filterverfahren zum Einsatz. Das Unternehmen kombiniert bekannte Technologien mit verfügbarer Ausrüstung und testet seine Prozesse im Labor in Austin.</p>
-
-
-
-<p><em>Quelle:</em><br><a href="https://www.reuters.com/business/energy/energyx-signs-binding-2-billion-lithium-supply-deal-with-trafigura-2026-10-12/">https://www.reuters.com/business/energy/energyx-signs-binding-2-billion-lithium-supply-deal-with-trafigura-2026-10-12/</a></p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/10/13/energyx-vereinbart-lithiumlieferungen-fuer-zwei-milliarden-dollar/">EnergyX vereinbart Lithiumlieferungen für zwei Milliarden Dollar</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
 ]]></content:encoded>
 					
 		
