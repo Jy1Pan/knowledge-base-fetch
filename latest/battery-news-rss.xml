@@ -12,7 +12,7 @@
 	<atom:link href="https://battery-news.de/feed/" rel="self" type="application/rss+xml" />
 	<link>https://battery-news.de/</link>
 	<description>Die Newsbroker-Webseite zum Thema Lithium-Ionen-Batterien in Deutschland</description>
-	<lastBuildDate>Sun, 25 Oct 2026 14:02:29 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Oct 2026 18:27:58 +0000</lastBuildDate>
 	<language>de</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Samsung SDI liefert weitere NCA-Batteriespeicher in den USA</title>
+		<link>https://battery-news.de/2026/10/27/samsung-sdi-liefert-weitere-nca-batteriespeicher-in-den-usa/</link>
+		
+		<dc:creator><![CDATA[Cornelius Karow]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieproduktion]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40126</guid>
+
+					<description><![CDATA[<p>Samsung SDI hat einen weiteren Liefervertrag mit dem US-Speicherentwickler und Stromproduzenten Alpha Omega Power (AOP) geschlossen. Die Vereinbarung umfasst Batteriespeicher mit einer Kapazität von einer Gigawattstunde. Zusammen mit einem Vertrag von Ende 2025 steigt das vereinbarte Volumen auf 1,5 GWh. Finanzielle Details nennt Samsung SDI nicht. AOP will die Batteriespeicher für große Stromprojekte in den USA einsetzen. Der Baubeginn ist für 2027 vorgesehen. Batteriespeicher aus US-Produktion Für den neuen Auftrag liefert Samsung SDI das integrierte Speichersystem Samsung Battery Box (SBB) 1.7. Sämtliche Zellen und Module sollen im Werk von StarPlus Energy in Kokomo im US-Bundesstaat Indiana gefertigt werden. Die Auslieferung ist laut Samsung SDI bis Ende 2026 geplant. Das System verwendet prismatische Batteriezellen mit nickelreicher Nickel-Kobalt-Aluminium-Chemie. Nach Herstellerangaben liegt die Energiedichte um 17 Prozent über der des Vorgängers SBB 1.5. Samsung SDI gibt an, das System für 25 Jahre kontinuierlichen Betrieb ausgelegt zu haben. Algorithmen auf Basis künstlicher Intelligenz sollen Auffälligkeiten früh erkennen und die Batterielebensdauer prognostizieren. Für den Brandschutz setzt Samsung SDI zudem auf eine Technik, die Löschmittel direkt in einzelne Batteriemodule einbringt. Quelle:https://www.samsungsdi.com/sdi-now/sdi-news/5062.html</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/10/27/samsung-sdi-liefert-weitere-nca-batteriespeicher-in-den-usa/">Samsung SDI liefert weitere NCA-Batteriespeicher in den USA</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Samsung SDI hat einen weiteren Liefervertrag mit dem US-Speicherentwickler und Stromproduzenten Alpha Omega Power (AOP) geschlossen. Die Vereinbarung umfasst Batteriespeicher mit einer Kapazität von einer Gigawattstunde. Zusammen mit einem Vertrag von Ende 2025 steigt das vereinbarte Volumen auf 1,5 GWh. Finanzielle Details nennt Samsung SDI nicht. AOP will die Batteriespeicher für große Stromprojekte in den USA einsetzen. Der Baubeginn ist für 2027 vorgesehen.</p>
+
+
+
+<h2 class="wp-block-heading">Batteriespeicher aus US-Produktion</h2>
+
+
+
+<p>Für den neuen Auftrag liefert Samsung SDI das integrierte Speichersystem Samsung Battery Box (SBB) 1.7. Sämtliche Zellen und Module sollen im Werk von StarPlus Energy in Kokomo im US-Bundesstaat Indiana gefertigt werden. Die Auslieferung ist laut Samsung SDI bis Ende 2026 geplant.</p>
+
+
+
+<p>Das System verwendet prismatische Batteriezellen mit nickelreicher Nickel-Kobalt-Aluminium-Chemie. Nach Herstellerangaben liegt die Energiedichte um 17 Prozent über der des Vorgängers SBB 1.5. Samsung SDI gibt an, das System für 25 Jahre kontinuierlichen Betrieb ausgelegt zu haben.</p>
+
+
+
+<p>Algorithmen auf Basis künstlicher Intelligenz sollen Auffälligkeiten früh erkennen und die Batterielebensdauer prognostizieren. Für den Brandschutz setzt Samsung SDI zudem auf eine Technik, die Löschmittel direkt in einzelne Batteriemodule einbringt.</p>
+
+
+
+<p><em>Quelle:</em><br><a href="https://www.samsungsdi.com/sdi-now/sdi-news/5062.html" type="link" id="https://www.samsungsdi.com/sdi-now/sdi-news/5062.html" target="_blank" rel="noreferrer noopener">https://www.samsungsdi.com/sdi-now/sdi-news/5062.html</a></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/10/27/samsung-sdi-liefert-weitere-nca-batteriespeicher-in-den-usa/">Samsung SDI liefert weitere NCA-Batteriespeicher in den USA</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Fraunhofer ISE testet siliziumreiche Batteriezellen über 1000 Vollzyklen</title>
 		<link>https://battery-news.de/2026/10/26/fraunhofer-ise-testet-siliziumreiche-batteriezellen-ueber-1000-vollzyklen/</link>
 		
@@ -529,59 +569,6 @@
 <blockquote class="wp-embedded-content" data-secret="YBOUVh2N5u"><a href="https://prologium.com/prologium-and-rimac-technology-advance-next-generation-ev-battery-development/">ProLogium and Rimac Technology Advance Next-Generation EV Battery Development</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted"  title="&#8220;ProLogium and Rimac Technology Advance Next-Generation EV Battery Development&#8221; &#8212; ProLogium Technology Co., Ltd" src="https://prologium.com/prologium-and-rimac-technology-advance-next-generation-ev-battery-development/embed/#?secret=yGCIcshNyO#?secret=YBOUVh2N5u" data-secret="YBOUVh2N5u" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 </div></figure>
 <p>Der Beitrag <a href="https://battery-news.de/2026/10/15/prologium-und-rimac-zeigen-batteriekonzept-fahrzeugtests-ab-2028/">ProLogium und Rimac zeigen Batteriekonzept: Fahrzeugtests ab 2028</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>POSCO Future M und Samsung SDI schließen milliardenschweren LFP-Vertrag</title>
-		<link>https://battery-news.de/2026/10/14/posco-future-m-und-samsung-sdi-schliessen-milliardenschweren-lfp-vertrag/</link>
-		
-		<dc:creator><![CDATA[Cornelius Karow]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 06:00:00 +0000</pubDate>
-				<category><![CDATA[Batteriekomponenten]]></category>
-		<category><![CDATA[Batteriekomponente]]></category>
-		<guid isPermaLink="false">https://battery-news.de/?p=40030</guid>
-
-					<description><![CDATA[<p>POSCO Future M hat mit Samsung SDI einen langfristigen Liefervertrag für Lithium-Eisenphosphat-Kathodenmaterialien (LFP) geschlossen. Nach Unternehmensangaben beträgt der Vertragswert sechs Billionen südkoreanische Won, umgerechnet rund 4,5 Milliarden US-Dollar. Die am 6. Oktober 2026 unterzeichnete Vereinbarung erweitert zugleich die Zusammenarbeit bei weiteren Batteriematerialien. Die vereinbarte LFP-Menge soll mehr als doppelt so hoch ausfallen wie im August vorgesehen. Damals hatten sich beide Unternehmen auf 190.000 Tonnen für den Zeitraum von 2027 bis 2032 verständigt. Eine genaue neue Liefermenge nennt POSCO Future M in der Mitteilung nicht. Lieferumfang wächst über NCA hinaus Der neue Vertrag bündelt bisherige Einzelvereinbarungen für die wichtigsten gelieferten Produkte. Zugleich wird der 2023 geschlossene Liefervertrag erweitert: Neben NCA-Kathodenmaterialien umfasst er künftig auch LFP. Darüber hinaus wollen beide Unternehmen bei Lithium-Manganoxid-Kathodenmaterialien (LMO) und synthetischen Graphit-Anodenmaterialien zusammenarbeiten. POSCO Future M erwartet durch das breitere Sortiment insgesamt rund 45 Prozent mehr Liefervolumen gegenüber dem bisherigen Stand. Samsung SDI will Beschaffung absichern Samsung SDI möchte durch die Zusammenarbeit Kathoden- und Anodenmaterialien aus Quellen sichern, die nicht als verbotene ausländische Einheiten gelten. POSCO Future M bezeichnet diese Materialien als non-PFE. Für POSCO Future M sollen die zugesagten Mengen die Produktionsauslastung und Planung verbessern. Das betrifft künftige Anlagenerweiterungen ebenso wie den Rohstoffeinkauf. Quelle:https://www.poscofuturem.com/en/pr/view.do?num=1051</p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/10/14/posco-future-m-und-samsung-sdi-schliessen-milliardenschweren-lfp-vertrag/">POSCO Future M und Samsung SDI schließen milliardenschweren LFP-Vertrag</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>POSCO Future M hat mit Samsung SDI einen langfristigen Liefervertrag für Lithium-Eisenphosphat-Kathodenmaterialien (LFP) geschlossen. Nach Unternehmensangaben beträgt der Vertragswert sechs Billionen südkoreanische Won, umgerechnet rund 4,5 Milliarden US-Dollar. Die am 6. Oktober 2026 unterzeichnete Vereinbarung erweitert zugleich die Zusammenarbeit bei weiteren Batteriematerialien.</p>
-
-
-
-<p>Die vereinbarte LFP-Menge soll mehr als doppelt so hoch ausfallen wie im August vorgesehen. Damals hatten sich beide Unternehmen auf 190.000 Tonnen für den Zeitraum von 2027 bis 2032 verständigt. Eine genaue neue Liefermenge nennt POSCO Future M in der Mitteilung nicht.</p>
-
-
-
-<h2 class="wp-block-heading">Lieferumfang wächst über NCA hinaus</h2>
-
-
-
-<p>Der neue Vertrag bündelt bisherige Einzelvereinbarungen für die wichtigsten gelieferten Produkte. Zugleich wird der 2023 geschlossene Liefervertrag erweitert: Neben NCA-Kathodenmaterialien umfasst er künftig auch LFP.</p>
-
-
-
-<p>Darüber hinaus wollen beide Unternehmen bei Lithium-Manganoxid-Kathodenmaterialien (LMO) und synthetischen Graphit-Anodenmaterialien zusammenarbeiten. POSCO Future M erwartet durch das breitere Sortiment insgesamt rund 45 Prozent mehr Liefervolumen gegenüber dem bisherigen Stand.</p>
-
-
-
-<h2 class="wp-block-heading">Samsung SDI will Beschaffung absichern</h2>
-
-
-
-<p>Samsung SDI möchte durch die Zusammenarbeit Kathoden- und Anodenmaterialien aus Quellen sichern, die nicht als verbotene ausländische Einheiten gelten. POSCO Future M bezeichnet diese Materialien als non-PFE.</p>
-
-
-
-<p>Für POSCO Future M sollen die zugesagten Mengen die Produktionsauslastung und Planung verbessern. Das betrifft künftige Anlagenerweiterungen ebenso wie den Rohstoffeinkauf.</p>
-
-
-
-<p><em>Quelle:</em><br><a href="https://www.poscofuturem.com/en/pr/view.do?num=1051" target="_blank" rel="noreferrer noopener">https://www.poscofuturem.com/en/pr/view.do?num=1051</a></p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/10/14/posco-future-m-und-samsung-sdi-schliessen-milliardenschweren-lfp-vertrag/">POSCO Future M und Samsung SDI schließen milliardenschweren LFP-Vertrag</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
 ]]></content:encoded>
 					
 		
