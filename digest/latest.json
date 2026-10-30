@@ -3,7 +3,7 @@
  "run": {
   "type": "run",
   "date": "2026-10-30",
-  "started_utc": "2026-10-30T00:03:53Z",
+  "started_utc": "2026-10-30T23:56:25Z",
   "temperature": 0,
   "prompt_sha256": "ca74bd9490cb1701e70ad05cce1dfd8209bb9dddf59c02a9a733ea39a1c94071",
   "schema_sha256": "e535cfd076742634844dfbcff8e7f0cba59932930297308124fec25c9ab09c25",
@@ -16,10 +16,10 @@
   "output_tokens": 0,
   "status": "ok",
   "error": null,
-  "finished_utc": "2026-10-30T00:03:54Z"
+  "finished_utc": "2026-10-30T23:56:26Z"
  },
- "sources_changed": 4,
- "sources_unchanged": 2,
+ "sources_changed": 3,
+ "sources_unchanged": 3,
  "sources_baseline": 0,
  "candidates": 0,
  "candidates_verified": 0,

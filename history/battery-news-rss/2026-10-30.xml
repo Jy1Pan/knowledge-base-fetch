@@ -12,7 +12,7 @@
 	<atom:link href="https://battery-news.de/feed/" rel="self" type="application/rss+xml" />
 	<link>https://battery-news.de/</link>
 	<description>Die Newsbroker-Webseite zum Thema Lithium-Ionen-Batterien in Deutschland</description>
-	<lastBuildDate>Wed, 28 Oct 2026 22:51:06 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Oct 2026 21:19:50 +0000</lastBuildDate>
 	<language>de</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,194 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Skellium entwickelt Lithium-Metall-Anoden aus der Schmelze</title>
+		<link>https://battery-news.de/2026/10/30/skellium-entwickelt-lithium-metall-anoden-aus-der-schmelze/</link>
+		
+		<dc:creator><![CDATA[Redaktion]]></dc:creator>
+		<pubDate>Fri, 30 Oct 2026 08:30:00 +0000</pubDate>
+				<category><![CDATA[Top Story]]></category>
+		<category><![CDATA[Top-Story]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40173</guid>
+
+					<description><![CDATA[<p>Skellium aus Aachen trägt Lithium flüssig direkt auf den Kupferableiter auf. Co-Gründer und CEO Gerrit Bockey über die Idee hinter dem Verfahren, die größte technische Hürde und den ersten Markt. Rund 3.860 mAh/g und das niedrigste Standardpotenzial aller Anodenmaterialien: Auf dem Papier bietet Lithium-Metall ideale Voraussetzungen als Anodenmaterial. In der Fabrik sieht das anders aus. Dünne Lithiumfolien sind teuer, empfindlich und nur mit großem Aufwand zu verarbeiten. Das Aachener Start-up Skellium, eine Ausgründung des Lehrstuhls PEM der RWTH Aachen, setzt deshalb auf flüssiges Lithium und hat es damit ins Finale der Made in Germany Awards in der Kategorie Energie geschafft. Ausschnitt aus dem Breaking-Lab-Video zu den Made in Germany Awards. Das ganze Video mit allen drei Finalisten gibt es auf YouTube. Das Interview Gerrit, wie kam dir die Idee zu Skellium? Ich komme aus der Produktionstechnik. Am PEM haben wir uns viel damit beschäftigt, wie man neue Zellkonzepte in die Serie bringt, und bei Lithium-Metall bin ich immer wieder an derselben Stelle hängen geblieben. Das Material ist da, aber die dünnen Folien, die man dafür braucht, sind teuer, schwer zu verarbeiten und kaum in großen Mengen verfügbar. Irgendwann stand die Frage im Raum: Warum walzen wir Lithium erst zu einer Folie und laminieren es dann wieder auf Kupfer, statt es direkt dort aufzutragen, wo es hingehört? Daraus ist der Schmelzprozess entstanden und am Ende Skellium. Was macht ihr anders als andere Ansätze für Lithium-Metall-Anoden? Es gibt im Wesentlichen zwei etablierte Wege. Man kann Lithium extrudieren und walzen, oder man scheidet es im Vakuum aus der Gasphase ab. Beim Walzen wird es mit sinkender Dicke immer schwieriger und teurer. Die Abscheidung aus der Gasphase liefert sehr dünne Schichten, braucht aber Vakuum und ist vergleichsweise langsam. Wir tragen Lithium flüssig auf die Kupferfolie auf, unter Schutzgas und ohne Vakuum. Damit erreichen wir Schichtdicken von 3 bis 50 Mikrometern direkt auf dem Ableiter. Unser Ziel ist, den Prozess in Bahnbreite und Geschwindigkeit weiter zu skalieren. Welche Vorteile habt ihr bereits nachgewiesen? In unseren Vergleichen wird Lithium homogener abgeschieden und wieder aufgelöst als bei den untersuchten Referenzmaterialien. Zudem erzeugen wir 3D-Strukturen direkt im Prozess. Solche Strukturen können das Dendritenwachstum hemmen. In Tests mit esterbasierten Elektrolyten konnten dadurch bis zu 200 Prozent mehr Zyklen erreicht werden. Was war die größte technische Hürde? Die Temperaturführung. Die Schicht soll genau dann erstarren, wenn sie die gewünschte Dicke hat, und das reproduzierbar über die gesamte Bahn. Wir haben viel Zeit investiert, um die Temperaturzonen in der Anlage sauber voneinander zu trennen und präzise zu regeln. Dazu kommt die Atmosphäre: Flüssiges Lithium reagiert nicht nur mit Sauerstoff und Feuchtigkeit, sondern auch mit Stickstoff. Deshalb läuft bei uns alles unter Schutzgas. Das klingt nach Details, aber genau daran entscheidet sich, ob man eine gute Schicht bekommt oder nicht. Wer braucht eure Anode zuerst? Kurzfristig sehen wir den größten Bedarf bei der Prelithiierung. Silizium- und Graphitanoden verlieren im ersten Zyklus Lithium, und eine definierte Lithiumschicht kann diesen Verlust ausgleichen. Das ist ein Markt, den es heute schon gibt. Mittelfristig geht es um echte Lithium-Metall-Anoden für Festkörper- und Lithium-Schwefel-Zellen. Dafür braucht es genau die dünnen, gleichmäßigen Schichten, an denen wir arbeiten. Wo steht ihr heute, und was ist der nächste Meilenstein? Wir beschichten heute auf unserer eigenen Anlage in Aachen und stellen Muster für Tests her. Dabei produzieren wir Anoden aus Lithium und Lithiumlegierungen mit bis zu 5 m/min unter Schutzgas und können die Oberflächenschicht anpassen. Der nächste Schritt ist die nächste Anlagengeneration, mit der wir beidseitig beschichten und größere Mengen herstellen können. Wir bauen dabei modular und erweitern die Anlage mit jedem Meilenstein, statt jedes Mal von vorne anzufangen. So können wir schnell auf das reagieren, was wir aus den Zellen lernen. Und was bedeuten euch die Made in Germany Awards? Für ein Thema wie unseres sind sie eine besondere Chance. Breaking Lab erklärt Technik so, dass sie auch Menschen außerhalb der Branche verstehen, und das passiert bei Batterieproduktion selten. So stimmen Sie ab Über Skellium Skellium ist ein Spin-off des Lehrstuhls PEM der RWTH Aachen. Das Unternehmen entwickelt Lithium-Metall-Elektroden und die zugehörige Produktionstechnik für Batteriezellen der nächsten Generation.</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/10/30/skellium-entwickelt-lithium-metall-anoden-aus-der-schmelze/">Skellium entwickelt Lithium-Metall-Anoden aus der Schmelze</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Skellium aus Aachen trägt Lithium flüssig direkt auf den Kupferableiter auf. Co-Gründer und CEO Gerrit Bockey über die Idee hinter dem Verfahren, die größte technische Hürde und den ersten Markt.</strong> <br><br>Rund 3.860 mAh/g und das niedrigste Standardpotenzial aller Anodenmaterialien: Auf dem Papier bietet Lithium-Metall ideale Voraussetzungen als Anodenmaterial. In der Fabrik sieht das anders aus. Dünne Lithiumfolien sind teuer, empfindlich und nur mit großem Aufwand zu verarbeiten. Das Aachener Start-up Skellium, eine Ausgründung des Lehrstuhls PEM der RWTH Aachen, setzt deshalb auf flüssiges Lithium und hat es damit ins Finale der Made in Germany Awards in der Kategorie Energie geschafft.</p>
+
+
+
+<div style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;">
+  <iframe
+    src="https://www.youtube.com/embed/7htQ-I8eiKg?start=223&#038;end=550&#038;cc_load_policy=1&#038;cc_lang_pref=en&#038;hl=en&#038;rel=0"
+    title="Skellium bei Breaking Lab (German audio, English subtitles)"
+    style="position:absolute;inset:0;width:100%;height:100%;border:0;"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen></iframe>
+</div>
+
+
+
+<p><em>Ausschnitt aus dem Breaking-Lab-Video zu den Made in Germany Awards. Das ganze Video mit allen drei Finalisten gibt es </em><a href="https://www.youtube.com/watch?v=7htQ-I8eiKg"><em>auf YouTube</em></a><em>.</em></p>
+
+
+
+<h2 class="wp-block-heading">Das Interview</h2>
+
+
+
+<p></p>
+
+
+
+<p><strong>Gerrit, wie kam dir die Idee zu Skellium?</strong></p>
+
+
+
+<p>Ich komme aus der Produktionstechnik. Am PEM haben wir uns viel damit beschäftigt, wie man neue Zellkonzepte in die Serie bringt, und bei Lithium-Metall bin ich immer wieder an derselben Stelle hängen geblieben. Das Material ist da, aber die dünnen Folien, die man dafür braucht, sind teuer, schwer zu verarbeiten und kaum in großen Mengen verfügbar. Irgendwann stand die Frage im Raum: Warum walzen wir Lithium erst zu einer Folie und laminieren es dann wieder auf Kupfer, statt es direkt dort aufzutragen, wo es hingehört? Daraus ist der Schmelzprozess entstanden und am Ende Skellium.</p>
+
+
+
+<p><strong>Was macht ihr anders als andere Ansätze für Lithium-Metall-Anoden?</strong></p>
+
+
+
+<p>Es gibt im Wesentlichen zwei etablierte Wege. Man kann Lithium extrudieren und walzen, oder man scheidet es im Vakuum aus der Gasphase ab. Beim Walzen wird es mit sinkender Dicke immer schwieriger und teurer. Die Abscheidung aus der Gasphase liefert sehr dünne Schichten, braucht aber Vakuum und ist vergleichsweise langsam. Wir tragen Lithium flüssig auf die Kupferfolie auf, unter Schutzgas und ohne Vakuum. Damit erreichen wir Schichtdicken von 3 bis 50 Mikrometern direkt auf dem Ableiter. Unser Ziel ist, den Prozess in Bahnbreite und Geschwindigkeit weiter zu skalieren.</p>
+
+
+
+<p><strong>Welche Vorteile habt ihr bereits nachgewiesen?</strong></p>
+
+
+
+<p>In unseren Vergleichen wird Lithium homogener abgeschieden und wieder aufgelöst als bei den untersuchten Referenzmaterialien. Zudem erzeugen wir 3D-Strukturen direkt im Prozess. Solche Strukturen können das Dendritenwachstum hemmen. In Tests mit esterbasierten Elektrolyten konnten dadurch bis zu 200 Prozent mehr Zyklen erreicht werden.</p>
+
+
+
+<p><strong>Was war die größte technische Hürde?</strong></p>
+
+
+
+<p>Die Temperaturführung. Die Schicht soll genau dann erstarren, wenn sie die gewünschte Dicke hat, und das reproduzierbar über die gesamte Bahn. Wir haben viel Zeit investiert, um die Temperaturzonen in der Anlage sauber voneinander zu trennen und präzise zu regeln. Dazu kommt die Atmosphäre: Flüssiges Lithium reagiert nicht nur mit Sauerstoff und Feuchtigkeit, sondern auch mit Stickstoff. Deshalb läuft bei uns alles unter Schutzgas. Das klingt nach Details, aber genau daran entscheidet sich, ob man eine gute Schicht bekommt oder nicht.</p>
+
+
+
+<p><strong>Wer braucht eure Anode zuerst?</strong></p>
+
+
+
+<p>Kurzfristig sehen wir den größten Bedarf bei der Prelithiierung. Silizium- und Graphitanoden verlieren im ersten Zyklus Lithium, und eine definierte Lithiumschicht kann diesen Verlust ausgleichen. Das ist ein Markt, den es heute schon gibt. Mittelfristig geht es um echte Lithium-Metall-Anoden für Festkörper- und Lithium-Schwefel-Zellen. Dafür braucht es genau die dünnen, gleichmäßigen Schichten, an denen wir arbeiten.</p>
+
+
+
+<p><strong>Wo steht ihr heute, und was ist der nächste Meilenstein?</strong></p>
+
+
+
+<p>Wir beschichten heute auf unserer eigenen Anlage in Aachen und stellen Muster für Tests her. Dabei produzieren wir Anoden aus Lithium und Lithiumlegierungen mit bis zu 5 m/min unter Schutzgas und können die Oberflächenschicht anpassen. Der nächste Schritt ist die nächste Anlagengeneration, mit der wir beidseitig beschichten und größere Mengen herstellen können. Wir bauen dabei modular und erweitern die Anlage mit jedem Meilenstein, statt jedes Mal von vorne anzufangen. So können wir schnell auf das reagieren, was wir aus den Zellen lernen.</p>
+
+
+
+<p><strong>Und was bedeuten euch die Made in Germany Awards?</strong></p>
+
+
+
+<p>Für ein Thema wie unseres sind sie eine besondere Chance. Breaking Lab erklärt Technik so, dass sie auch Menschen außerhalb der Branche verstehen, und das passiert bei Batterieproduktion selten.</p>
+
+
+
+<h2 class="wp-block-heading">So stimmen Sie ab</h2>
+
+
+
+<ul class="wp-block-list">
+<li>Link: <a href="https://www.madeingermanyawards.de/voting/energie/">madeingermanyawards.de/voting/energie</a></li>
+
+
+
+<li>Zeitraum: bis 10. November 2026, 23:59 Uhr</li>
+
+
+
+<li>Wichtig: Link in der Bestätigungsmail anklicken, sonst zählt die Stimme nicht</li>
+
+
+
+<li>Gewinner: 23. November 2026, 20 Uhr, live bei Breaking Lab auf YouTube</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Über Skellium</h2>
+
+
+
+<p>Skellium ist ein Spin-off des Lehrstuhls PEM der RWTH Aachen. Das Unternehmen entwickelt Lithium-Metall-Elektroden und die zugehörige Produktionstechnik für Batteriezellen der nächsten Generation.</p>
+
+
+
+<p><a id="_msocom_1"></a></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/10/30/skellium-entwickelt-lithium-metall-anoden-aus-der-schmelze/">Skellium entwickelt Lithium-Metall-Anoden aus der Schmelze</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Group14 erhält 150 Millionen Euro und plant Batteriematerialwerk in Spanien</title>
+		<link>https://battery-news.de/2026/10/30/group14-erhaelt-150-millionen-euro-und-plant-batteriematerialwerk-in-spanien/</link>
+		
+		<dc:creator><![CDATA[Cornelius Karow]]></dc:creator>
+		<pubDate>Fri, 30 Oct 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batteriekomponenten]]></category>
+		<category><![CDATA[Batteriekomponente]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40168</guid>
+
+					<description><![CDATA[<p>Group14 Technologies hat eine Erweiterung seiner Series-D-Finanzierung um 150 Millionen Euro abgeschlossen. Das teilte der Hersteller von Silizium-Batteriematerialien am 29. Oktober 2026 mit. Das Kapital stammt von einem neuen Investor, dessen Namen das Unternehmen nicht nennt. Damit wächst die Finanzierungsrunde auf insgesamt mehr als 665 Millionen US-Dollar. Im Zuge der Finanzierung plant Group14 einen Produktionsstandort im spanischen Sagunto. Das Werk BAM-4 soll zunächst ein Produktionsmodul mit einer Kapazität von 10 Gigawattstunden erhalten. Produziert werden soll dort das Silizium-Batteriematerial SCC55. Einen Termin für den Produktionsbeginn in Spanien nennt das Unternehmen nicht. Geplante Produktionskapazität steigt auf 40 Gigawattstunden Mit dem spanischen Werk beziffert Group14 seine kurzfristig angestrebte Produktionskapazität auf insgesamt 40 Gigawattstunden. Im südkoreanischen Sangju ist ein Modul des Standorts BAM-3 mit 10 Gigawattstunden bereits in Betrieb. Die Produktion wird laut Unternehmen hochgefahren. Für BAM-2 in Moses Lake im US-Bundesstaat Washington sind zwei Module mit zusammen 20 Gigawattstunden vorgesehen. Sie sollen im ersten Halbjahr 2027 die Produktion aufnehmen. Daneben betreibt Group14 seit 2021 eine kommerzielle Pilotanlage in Woodinville. Von dort hat das Unternehmen nach eigenen Angaben mehr als 150 Kunden mit SCC55 beliefert. Spanien soll europäische Lieferketten erschließen Mit Sagunto will Group14 näher an die Lieferketten europäischer Fahrzeughersteller rücken. Die regionale Verteilung seiner Werke soll nach Unternehmensangaben Lieferketten absichern und die Betreuung von Kunden erleichtern. SCC55 kommt laut Group14 bereits in Smartphones, Drohnen, Hochleistungssportwagen und elektrischen Senkrechtstartern zum Einsatz. Quelle:https://group14.technology/resources/press-releases/group14-closes-e150m-series-d-extension-to-accelerate-global-manufacturing-footprint/</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/10/30/group14-erhaelt-150-millionen-euro-und-plant-batteriematerialwerk-in-spanien/">Group14 erhält 150 Millionen Euro und plant Batteriematerialwerk in Spanien</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Group14 Technologies hat eine Erweiterung seiner Series-D-Finanzierung um 150 Millionen Euro abgeschlossen. Das teilte der Hersteller von Silizium-Batteriematerialien am 29. Oktober 2026 mit. Das Kapital stammt von einem neuen Investor, dessen Namen das Unternehmen nicht nennt. Damit wächst die Finanzierungsrunde auf insgesamt mehr als 665 Millionen US-Dollar.</p>
+
+
+
+<p>Im Zuge der Finanzierung plant Group14 einen Produktionsstandort im spanischen Sagunto. Das Werk BAM-4 soll zunächst ein Produktionsmodul mit einer Kapazität von 10 Gigawattstunden erhalten. Produziert werden soll dort das Silizium-Batteriematerial SCC55. Einen Termin für den Produktionsbeginn in Spanien nennt das Unternehmen nicht.</p>
+
+
+
+<h2 class="wp-block-heading">Geplante Produktionskapazität steigt auf 40 Gigawattstunden</h2>
+
+
+
+<p>Mit dem spanischen Werk beziffert Group14 seine kurzfristig angestrebte Produktionskapazität auf insgesamt 40 Gigawattstunden.</p>
+
+
+
+<p>Im südkoreanischen Sangju ist ein Modul des Standorts BAM-3 mit 10 Gigawattstunden bereits in Betrieb. Die Produktion wird laut Unternehmen hochgefahren. Für BAM-2 in Moses Lake im US-Bundesstaat Washington sind zwei Module mit zusammen 20 Gigawattstunden vorgesehen. Sie sollen im ersten Halbjahr 2027 die Produktion aufnehmen.</p>
+
+
+
+<p>Daneben betreibt Group14 seit 2021 eine kommerzielle Pilotanlage in Woodinville. Von dort hat das Unternehmen nach eigenen Angaben mehr als 150 Kunden mit SCC55 beliefert.</p>
+
+
+
+<h2 class="wp-block-heading">Spanien soll europäische Lieferketten erschließen</h2>
+
+
+
+<p>Mit Sagunto will Group14 näher an die Lieferketten europäischer Fahrzeughersteller rücken. Die regionale Verteilung seiner Werke soll nach Unternehmensangaben Lieferketten absichern und die Betreuung von Kunden erleichtern. SCC55 kommt laut Group14 bereits in Smartphones, Drohnen, Hochleistungssportwagen und elektrischen Senkrechtstartern zum Einsatz.</p>
+
+
+
+<p><em>Quelle:</em><br><a href="https://group14.technology/resources/press-releases/group14-closes-e150m-series-d-extension-to-accelerate-global-manufacturing-footprint/" target="_blank" rel="noreferrer noopener">https://group14.technology/resources/press-releases/group14-closes-e150m-series-d-extension-to-accelerate-global-manufacturing-footprint/</a></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/10/30/group14-erhaelt-150-millionen-euro-und-plant-batteriematerialwerk-in-spanien/">Group14 erhält 150 Millionen Euro und plant Batteriematerialwerk in Spanien</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>​​CATL und Intilion planen 3 GWh Natrium-Ionen-Speicher für Europa</title>
 		<link>https://battery-news.de/2026/10/29/catl-und-intilion-planen-3-gwh-natrium-ionen-speicher-fuer-europa/</link>
 		
@@ -406,98 +594,6 @@
 
 <p><em>Quelle:</em><br><a href="https://ggba.swiss/en/japanese-greentech-company-gsa-opens-a-battery-recycling-lab-in-biel-bienne/" target="_blank" rel="noreferrer noopener">https://ggba.swiss/en/japanese-greentech-company-gsa-opens-a-battery-recycling-lab-in-biel-bienne/</a></p>
 <p>Der Beitrag <a href="https://battery-news.de/2026/10/21/gsa-eroeffnet-labor-fuer-batterierecycling-in-der-schweiz/">GSA eröffnet Labor für Batterierecycling in der Schweiz</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Saft startet Festkörperbatterie-Fertigung in Bordeaux</title>
-		<link>https://battery-news.de/2026/10/20/saft-startet-festkoerperbatterie-fertigung-in-bordeaux/</link>
-		
-		<dc:creator><![CDATA[Cornelius Karow]]></dc:creator>
-		<pubDate>Tue, 20 Oct 2026 06:00:00 +0000</pubDate>
-				<category><![CDATA[Batterieproduktion]]></category>
-		<guid isPermaLink="false">https://battery-news.de/?p=40072</guid>
-
-					<description><![CDATA[<p>Der französische Batteriehersteller Saft, eine Tochter von TotalEnergies, eröffnet neue Produktionslinien für Festkörperbatterien am Standort Bordeaux. Die TotalEnergies-Tochter will damit die Elektrifizierung der Luft- und Raumfahrt unterstützen. Als erster französischer Hersteller könne Saft Festkörperbatterien sowohl mit Sulfid- als auch mit Polymerelektrolyten für den Betrieb bei Raumtemperatur entwickeln und produzieren. Die neuen Anlagen sollen mehrjährige Forschungsarbeiten in industrielle Fertigung überführen. Angaben zur Produktionskapazität oder zu weiteren Zeitplänen macht das Unternehmen allerdings nicht. Höhere Energiedichte und weniger Emissionen Festkörperbatterien ersetzen den flüssigen Elektrolyten herkömmlicher Lithium-Ionen-Batterien durch ein festes Material. Saft zufolge erhöht das die Sicherheit der Zellen. Zugleich soll die Energiedichte um bis zu 50 Prozent höher liegen als bei klassischen Lithium-Ionen-Batterien. Für die Herstellung setzt Saft auf ein Verfahren mit trockener Elektrodenfertigung. Nach Unternehmensangaben kann es die CO₂-Emissionen dieses Produktionsschritts um bis zu 40 Prozent senken. Wie die Bilanz der gesamten Batterieproduktion ausfällt, lässt sich daraus jedoch nicht ableiten. Erste Zellen für die Erprobung in der Luftfahrt In der Luftfahrt hat Saft bereits halbfeste Batteriezellen zur Bewertung künftiger elektrischer und hybrider Flugzeugkonzepte geliefert. Für Luft- und Raumfahrt sind laut Saft vor allem Sicherheit, Leistungsfähigkeit und Energiedichte relevant. Das Unternehmen berichtet zudem von Interesse aus der Raumfahrtindustrie. Quelle:https://saft.com/en/media-resources/press-release/saft-launches-production-frances-first-solid-state-batteries</p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/10/20/saft-startet-festkoerperbatterie-fertigung-in-bordeaux/">Saft startet Festkörperbatterie-Fertigung in Bordeaux</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Der französische Batteriehersteller Saft, eine Tochter von TotalEnergies, eröffnet neue Produktionslinien für Festkörperbatterien am Standort Bordeaux. Die TotalEnergies-Tochter will damit die Elektrifizierung der Luft- und Raumfahrt unterstützen. Als erster französischer Hersteller könne Saft Festkörperbatterien sowohl mit Sulfid- als auch mit Polymerelektrolyten für den Betrieb bei Raumtemperatur entwickeln und produzieren.</p>
-
-
-
-<p>Die neuen Anlagen sollen mehrjährige Forschungsarbeiten in industrielle Fertigung überführen. Angaben zur Produktionskapazität oder zu weiteren Zeitplänen macht das Unternehmen allerdings nicht.</p>
-
-
-
-<h2 class="wp-block-heading">Höhere Energiedichte und weniger Emissionen</h2>
-
-
-
-<p>Festkörperbatterien ersetzen den flüssigen Elektrolyten herkömmlicher Lithium-Ionen-Batterien durch ein festes Material. Saft zufolge erhöht das die Sicherheit der Zellen. Zugleich soll die Energiedichte um bis zu 50 Prozent höher liegen als bei klassischen Lithium-Ionen-Batterien.</p>
-
-
-
-<p>Für die Herstellung setzt Saft auf ein Verfahren mit trockener Elektrodenfertigung. Nach Unternehmensangaben kann es die CO₂-Emissionen dieses Produktionsschritts um bis zu 40 Prozent senken. Wie die Bilanz der gesamten Batterieproduktion ausfällt, lässt sich daraus jedoch nicht ableiten.</p>
-
-
-
-<h2 class="wp-block-heading">Erste Zellen für die Erprobung in der Luftfahrt</h2>
-
-
-
-<p>In der Luftfahrt hat Saft bereits halbfeste Batteriezellen zur Bewertung künftiger elektrischer und hybrider Flugzeugkonzepte geliefert. Für Luft- und Raumfahrt sind laut Saft vor allem Sicherheit, Leistungsfähigkeit und Energiedichte relevant. Das Unternehmen berichtet zudem von Interesse aus der Raumfahrtindustrie.</p>
-
-
-
-<p><em>Quelle:</em><br><a href="https://saft.com/en/media-resources/press-release/saft-launches-production-frances-first-solid-state-batteries" target="_blank" rel="noreferrer noopener">https://saft.com/en/media-resources/press-release/saft-launches-production-frances-first-solid-state-batteries</a></p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/10/20/saft-startet-festkoerperbatterie-fertigung-in-bordeaux/">Saft startet Festkörperbatterie-Fertigung in Bordeaux</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>JRES und ACC prüfen Elektrodenfertigung in Frankreich</title>
-		<link>https://battery-news.de/2026/10/19/jres-und-acc-pruefen-elektrodenfertigung-in-frankreich/</link>
-		
-		<dc:creator><![CDATA[Cornelius Karow]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 06:00:00 +0000</pubDate>
-				<category><![CDATA[Batterieproduktion]]></category>
-		<guid isPermaLink="false">https://battery-news.de/?p=40067</guid>
-
-					<description><![CDATA[<p>Der südkoreanische Batterie-Auftragsfertiger JR Energy Solution (JRES) und der europäische Batteriezellhersteller Automotive Cells Company (ACC) prüfen eine Zusammenarbeit bei der Elektrodenfertigung in Europa. Dabei könnte JRES für künftige Kundenaufträge die Fertigungskapazitäten von ACC im französischen Nersac nutzen.&#160; Nersac als möglicher Fertigungsstandort Nach Angaben der Unternehmen richtet sich das Vorhaben an Batteriekunden, die Fertigungskapazitäten näher an ihren westlichen Standorten suchen. JRES will bewerten, wie Nersac das eigene Produktions- und Liefernetz ergänzen könnte. Daraus könnten sich Aufträge für Kunden aus Europa, Korea und Nordamerika ergeben. Nersac verbindet als Pilot- und Industriezentrum die Produkt- und Prozessentwicklung mit der Fertigung im industriellen Maßstab. Laut ACC hat der Standort bereits Elektroden nach den Qualitätsanforderungen der Automobilindustrie hergestellt. Die mögliche Zusammenarbeit soll die bestehenden Entwicklungs-, Test- und Industrieaktivitäten ergänzen und verfügbare Kapazitäten nutzen. Umsetzung bleibt an Bedingungen geknüpft Ob daraus eine gemeinsame Fertigung entsteht, hängt zunächst von erfolgreichen technischen Prüfungen und der Qualifizierung nach Qualitätsanforderungen ab. Anschließend müssten beide Unternehmen verbindliche Verträge aushandeln. Hinzu kommen gegebenenfalls interne Freigaben und behördliche Genehmigungen. Die Absichtserklärung eröffnet außerdem Gespräche über eine breitere Zusammenarbeit in der Batterieproduktion. Quelle:https://www.acc-emotion.com/node/3975</p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/10/19/jres-und-acc-pruefen-elektrodenfertigung-in-frankreich/">JRES und ACC prüfen Elektrodenfertigung in Frankreich</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Der südkoreanische Batterie-Auftragsfertiger JR Energy Solution (JRES) und der europäische Batteriezellhersteller Automotive Cells Company (ACC) prüfen eine Zusammenarbeit bei der Elektrodenfertigung in Europa. Dabei könnte JRES für künftige Kundenaufträge die Fertigungskapazitäten von ACC im französischen Nersac nutzen.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading">Nersac als möglicher Fertigungsstandort</h2>
-
-
-
-<p>Nach Angaben der Unternehmen richtet sich das Vorhaben an Batteriekunden, die Fertigungskapazitäten näher an ihren westlichen Standorten suchen. JRES will bewerten, wie Nersac das eigene Produktions- und Liefernetz ergänzen könnte. Daraus könnten sich Aufträge für Kunden aus Europa, Korea und Nordamerika ergeben.</p>
-
-
-
-<p>Nersac verbindet als Pilot- und Industriezentrum die Produkt- und Prozessentwicklung mit der Fertigung im industriellen Maßstab. Laut ACC hat der Standort bereits Elektroden nach den Qualitätsanforderungen der Automobilindustrie hergestellt. Die mögliche Zusammenarbeit soll die bestehenden Entwicklungs-, Test- und Industrieaktivitäten ergänzen und verfügbare Kapazitäten nutzen.</p>
-
-
-
-<h2 class="wp-block-heading">Umsetzung bleibt an Bedingungen geknüpft</h2>
-
-
-
-<p>Ob daraus eine gemeinsame Fertigung entsteht, hängt zunächst von erfolgreichen technischen Prüfungen und der Qualifizierung nach Qualitätsanforderungen ab. Anschließend müssten beide Unternehmen verbindliche Verträge aushandeln. Hinzu kommen gegebenenfalls interne Freigaben und behördliche Genehmigungen. Die Absichtserklärung eröffnet außerdem Gespräche über eine breitere Zusammenarbeit in der Batterieproduktion.</p>
-
-
-
-<p><em>Quelle:</em><br><a href="https://www.acc-emotion.com/node/3975" target="_blank" rel="noreferrer noopener">https://www.acc-emotion.com/node/3975</a></p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/10/19/jres-und-acc-pruefen-elektrodenfertigung-in-frankreich/">JRES und ACC prüfen Elektrodenfertigung in Frankreich</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
 ]]></content:encoded>
 					
 		
