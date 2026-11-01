@@ -12,13 +12,13 @@
 	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.pv-magazine-australia.com/</link>
 	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
-	<lastBuildDate>Fri, 30 Oct 2026 05:14:41 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Nov 2026 21:41:41 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.11</generator>
+	<generator>https://wordpress.org/?v=6.8.12</generator>
 
 <image>
 	<url>https://www.pv-magazine-australia.com/wp-content/uploads/2024/12/cropped-fav-australia-32x32.png</url>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Start of spring brings stark divides between east and west</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/02/start-of-spring-brings-stark-divides-between-east-and-west/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/02/start-of-spring-brings-stark-divides-between-east-and-west/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Sun, 01 Nov 2026 22:59:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18432</guid>
+
+					<description><![CDATA[Solcast, a DNV company, reports that Australia’s first month of spring brought above average irradiance to the country’s east, while the west experienced widespread irradiance deficits.]]></description>
+										<content:encoded><![CDATA[
+<p>Australia’s first month of spring brought a strong east-west divide in solar irradiance and precipitation, while temperatures were above average across most of the country, according to analysis using the <a href="https://toolkit.solcast.com.au/register">Solcast API</a>. </p>
+
+
+
+<p>Eastern Australia experienced generally above average irradiance and unusually dry conditions, with the strongest irradiance increases occurring inland rather than along the coast. </p>
+
+
+
+<p>In contrast, remote mining solar projects in Western Australia’s Pilbara and Goldfields-Esperance regions experienced widespread irradiance deficits, as slow-moving weather systems brought increased cloud cover and rainfall.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.pv-magazine.com/wp-content/uploads/2026/10/GHI-Deviation-Anomaly-MapAustralia-September-2027-1024x971.png" alt="" class="wp-image-149362" /></figure>
+
+
+
+<p>Across eastern Australia, September irradiance averaged 5% above normal. Coastal locations, including most distributed PV markets, generally remained within a few percent of average, while areas further inland hosting utility-scale PV recorded increases of around 10%. Parts of Tasmania experienced near-record or record September irradiance for the Solcast data period, averaging 10% above normal. </p>
+
+
+
+<p>These conditions coincided with exceptionally dry weather across the southeast, with rainfall deficits exceeding 30 mm across much of New South Wales, Victoria and Tasmania. Most locations in these states experienced record or near-record September dryness, continuing the below-average rainfall conditions observed through winter.</p>
+
+
+
+<p>Western Australia experienced contrasting conditions, with September irradiance averaging 11% below normal. The Pilbara recorded irradiance around 10% below average, while the Goldfields Esperance region experienced larger deficits of 15–20%. Further inland, parts of the Gibson Desert recorded irradiance as much as 29% below average.</p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1024" height="1010" src="https://www.pv-magazine.com/wp-content/uploads/2026/10/kalgoorlie-september-cumulative-1024x1010.png" alt="" class="wp-image-149363" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/kalgoorlie-september-cumulative-1024x1010.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/kalgoorlie-september-cumulative-300x296.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/kalgoorlie-september-cumulative-768x758.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/kalgoorlie-september-cumulative-1536x1515.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/kalgoorlie-september-cumulative-2048x2020.png 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/kalgoorlie-september-cumulative-260x256.png 260w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="1010" src="https://www.pv-magazine.com/wp-content/uploads/2026/10/Hobart-september-cumulative-1024x1010.png" alt="" class="wp-image-149364" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Hobart-september-cumulative-1024x1010.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Hobart-september-cumulative-300x296.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Hobart-september-cumulative-768x758.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Hobart-september-cumulative-1536x1515.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Hobart-september-cumulative-2048x2020.png 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Hobart-september-cumulative-260x256.png 260w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Several slow-moving low-pressure systems brought persistent cloud cover to inland Western Australia, contributing to the region’s below-average irradiance. The most significant rainfall occurred between September 5 and 9, when large parts of Goldfields Esperance received more than 50 mm of rain, compared with a typical September total of just 10 mm.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="787" height="1024" src="https://www.pv-magazine.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-787x1024.png" alt="" class="wp-image-149367" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-787x1024.png 787w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-231x300.png 231w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-768x999.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-1181x1536.png 1181w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-1574x2048.png 1574w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-223x290.png 223w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-scaled.png 1968w" sizes="auto, (max-width: 787px) 100vw, 787px" /></figure>
+
+
+
+<p>Despite the reduced irradiance and increased rainfall, temperatures across much of Western Australia remained above average, with parts of the Pilbara exceeding 3°C above normal. </p>
+
+
+
+<p>Eastern Australia experienced a different combination of conditions, with above average irradiance, unusually dry weather and temperatures generally 1–3°C above average across the southeast.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1015" height="1024" src="https://www.pv-magazine.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-1015x1024.png" alt="" class="wp-image-149366" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-1015x1024.png 1015w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-297x300.png 297w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-150x150.png 150w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-768x775.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-1522x1536.png 1522w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-2029x2048.png 2029w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-260x262.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept.png 2046w" sizes="auto, (max-width: 1015px) 100vw, 1015px" /></figure>
+
+
+
+<p><em><a href="https://solcast.com/?utm_source=pvmag&amp;utm_medium=Content&amp;utm_campaign=ghimap" target="_blank" rel="noreferrer noopener">Solcast</a>&nbsp;produces these figures by tracking clouds and aerosols at 1-2km resolution globally, using satellite data and proprietary&nbsp;<a href="https://solcast.com/irradiance-data-methodology/?utm_source=pvmag&amp;utm_medium=Content&amp;utm_campaign=ghimap" target="_blank" rel="noreferrer noopener">AI/ML algorithms</a>. This data is used to drive irradiance models, enabling Solcast to calculate irradiance at high resolution, with typical bias of less than 2%, and also cloud-tracking forecasts. This data is used by more than 350 companies managing over 350 GW of solar assets globally.</em></p>
+
+
+
+<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/02/start-of-spring-brings-stark-divides-between-east-and-west/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Targeted recycling of glass-glass modules trades value for lower impact</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/02/targeted-recycling-of-glass-glass-modules-trades-value-for-lower-impact/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/02/targeted-recycling-of-glass-glass-modules-trades-value-for-lower-impact/#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Publicover]]></dc:creator>
+		<pubDate>Sun, 01 Nov 2026 22:01:00 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[recycling]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18431</guid>
+
+					<description><![CDATA[Targeted recycling of frameless, polyolefin elastomer-encapsulated glass-glass modules lowers energy use and global warming impact compared with treating the whole module, but reduces recovered material value, according to a new study, with silver dominating revenue.]]></description>
+										<content:encoded><![CDATA[
+<p>Researchers have assessed the environmental and economic performance of recycling strategies for frameless glass-glass PV modules encapsulated with polyolefin elastomer (POE), a design increasingly used in bifacial modules.</p>
+
+
+
+<p>Most PV recycling studies have focused on conventional modules with ethylene-vinyl acetate (EVA) encapsulant, a plastic backsheet and an aluminum frame, the researchers said.</p>
+
+
+
+<p>The international research team compared three scenarios for recycling one complete module weighing about 27 kg. The first applied thermal and chemical treatment to the whole module. The second used mechanical treatment and selective processing, limiting thermal treatment to selected fractions. The third added further fractionation after thermal treatment, using electrostatic corona separation.</p>
+
+
+
+<p>Each scenario was assessed with two chemical routes for metal recovery: sodium hydroxide (NaOH) followed by ammonia and hydrogen peroxide (NH3 + H2O2), and nitric acid with hydrogen peroxide (HNO3 + H2O2).</p>
+
+
+
+<p>The researchers described the work as an early-stage comparative study based on their earlier laboratory-scale recycling results. They carried out a “gate-to-gate” life cycle assessment with credits for avoided primary materials, using ReCiPe 2016 midpoint indicators. The economic assessment used a process-level operational margin based on revenue from recovered materials and selected operating costs, excluding capital costs and equipment maintenance.</p>
+
+
+
+<p>Under baseline assumptions, the two targeted scenarios reduced energy demand and improved impacts such as global warming, with the third scenario generally achieving the lowest processing burden. Whole-module treatment retained stronger benefits in several material-driven impact categories because it recovered more material for credit. The preferred chemical route depended on the impact category.</p>
+
+
+
+<p>The operational margin was positive in all cases, and <a href="https://www.pv-magazine.com/2026/06/11/silver-drives-pv-recycling-economics-as-module-waste-wave-approaches/" target="_blank" rel="noreferrer noopener">silver dominated recovered material revenue</a> despite its very low mass.</p>
+
+
+
+<p>The researchers cautioned that the targeted scenarios depend on electrostatic separation efficiencies and material values drawn from the literature that were not experimentally validated for the studied material streams. Lower electrostatic recovery and substitution performance could remove their advantage in some impact categories.</p>
+
+
+
+<p>“The results highlight the trade-offs between reducing treatment intensity and maintaining sufficiently high material recovery and value,” the researchers wrote.</p>
+
+
+
+<p><strong>Design changes</strong></p>
+
+
+
+<p>The researchers noted that frameless construction is a separate design choice from POE encapsulation and glass-glass architecture, and that frameless modules are expected to keep a market share of about 5% over the coming decade. Removing the frame eliminates the de-framing step in recycling, but aluminum frames are relatively easy to recover and contribute substantially to recycling revenue in conventional modules. Glass-glass designs eliminate the plastic backsheet and increase the amount and importance of recoverable glass.</p>
+
+
+
+<p>The study builds on the group’s earlier work on POE delamination and on mechanically driven hybrid recycling of POE glass-glass modules. Lithuanian manufacturer Soli Tek provided material for the research.</p>
+
+
+
+<p>The findings appear in “<a href="http://linkinghub.elsevier.com/retrieve/pii/S0927024826006380" target="_blank" rel="noreferrer noopener">Life cycle impact and economic assessment of recycling strategies for frameless POE encapsulated glass–glass photovoltaic modules</a>,” which was recently published in <em>Solar Energy Materials and Solar Cells</em> by Aistis Rapolas Zubas, Jolita Kruopienė, Gintaras Denafas, Floriana La Marca and Alessandra Bonoli.</p>
+
+
+
+<p>Researchers from the University of New South Wales, Gdansk University of Technology and the Polish Academy of Sciences found that <a href="https://www.pv-magazine.com/2026/07/11/end-of-life-module-recycling-unviable-if-material-diversity-is-not-considered/" target="_blank" rel="noreferrer noopener">silver can make up to 47% of a module’s recoverable value</a>, though falling silver content in newer panels will lower future recycling revenue. In separate work, researchers from Spain’s Public University of Navarra and CENER compared <a href="https://www.pv-magazine.com/2025/09/16/encapsulant-delamination-behavior-in-pv-glass-recycling/" target="_blank" rel="noreferrer noopener">delamination of EVA, POE and thermoplastic polyolefin encapsulants</a>, finding that EVA and POE required similar forces once heated beyond their melting ranges.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/02/targeted-recycling-of-glass-glass-modules-trades-value-for-lower-impact/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Panel recycling laws needed now as 2035 million-tonne solar waste mountain looms</title>
 		<link>https://www.pv-magazine-australia.com/2026/10/30/panel-recycling-laws-needed-now-as-2035-million-tonne-solar-waste-mountain-looms/</link>
 					<comments>https://www.pv-magazine-australia.com/2026/10/30/panel-recycling-laws-needed-now-as-2035-million-tonne-solar-waste-mountain-looms/#respond</comments>
@@ -83,7 +240,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="633" height="354" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153840.png" alt="" class="wp-image-149352" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153840.png 633w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153840-300x168.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153840-260x145.png 260w" sizes="(max-width: 633px) 100vw, 633px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="633" height="354" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153840.png" alt="" class="wp-image-149352" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153840.png 633w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153840-300x168.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153840-260x145.png 260w" sizes="auto, (max-width: 633px) 100vw, 633px" /></figure>
 
 
 
@@ -115,7 +272,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="791" height="394" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653.png" alt="" class="wp-image-149353" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653.png 791w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653-300x149.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653-768x383.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653-260x130.png 260w" sizes="(max-width: 791px) 100vw, 791px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="791" height="394" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653.png" alt="" class="wp-image-149353" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653.png 791w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653-300x149.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653-768x383.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653-260x130.png 260w" sizes="auto, (max-width: 791px) 100vw, 791px" /></figure>
 
 
 
@@ -683,211 +840,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/29/repurposed-solar-panels-reduce-diesel-fuel-dependence-for-indonesian-village/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Construction of 300 MWh Hazelwood 2 grid-forming BESS begins in Victoria</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/29/construction-of-300-mwh-hazelwood-2-grid-forming-bess-begins-in-victoria/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/29/construction-of-300-mwh-hazelwood-2-grid-forming-bess-begins-in-victoria/#respond</comments>
-		
-		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
-		<pubDate>Thu, 29 Oct 2026 03:43:52 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18393</guid>
-
-					<description><![CDATA[French clean energy developer and owner of Hazelwood BESS Engie, Chinese clean energy technology manufacturer Sungrow and Spanish-headquartered EPC Elecnor Australia have commenced the 300 MWh Hazelwood 2 BESS extension.]]></description>
-										<content:encoded><![CDATA[
-<p>French clean energy developer and owner of <a href="https://www.pv-magazine-australia.com/2026/10/20/engie-secures-financial-close-for-hazelwood-battery-expansion/" target="_blank" rel="noreferrer noopener">Hazelwood BESS</a> Engie, Chinese clean energy technology manufacturer Sungrow and Spanish-headquartered EPC Elecnor Australia have commenced the 300 MWh Hazelwood 2 BESS extension.</p>
-
-
-
-<p>Located in the Latrobe Valley, Victoria, the project will feature 66 units of Sungrow&#8217;s ST5015-UX battery energy storage system (BESS), part of the PowerTitan 2.0<a href="https://www.pv-magazine-australia.com/press-releases/powertitan-3-0-validates-system-level-safety-under-extreme-large-scale-fire-test/" target="_blank" rel="noreferrer noopener"> series</a>, alongside 33 units of SC6900UD-MV Power Conversion System (PCS) inverters and Sungrow&#8217;s smart controller EMS3000.</p>
-
-
-
-<p>Designed for utility-scale applications, the PowerTitan 2.0 system offers several key advantages including high energy density to optimise energy storage capacity and liquid-cooled technology to maintain stable operating temperatures and support system reliability.</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="478" height="297" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-143453.png" alt="" class="wp-image-149195" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-143453.png 478w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-143453-300x186.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-143453-260x162.png 260w" sizes="auto, (max-width: 478px) 100vw, 478px" /></figure>
-
-
-
-<p>Advanced battery management supports battery safety, performance monitoring and long-term operational reliability, while high-performance power conversion paired with the SC6900UD-MV PCS inverters, will support efficient power conversion and responsive grid support for utility-scale applications.</p>
-
-
-
-<p><a href="https://www.pv-magazine-australia.com/2026/03/27/sungrow-unveils-integrated-solar-storage-solution-for-australian-market/" target="_blank" rel="noreferrer noopener">Sungrow</a> Australia Managing Director Thomas Hou said the Hazelwood BESS 2 represents an important step in advancing grid-forming energy storage in Australia.</p>
-
-
-
-<p>“Through our collaboration with Engie, we aim to bring advanced energy storage technology to support grid stability and enable greater integration of renewable energy,” Hou said.</p>
-
-
-
-<p>“We look forward to contributing our expertise and supporting the continued development of a more resilient energy system in Victoria.”</p>
-
-
-
-<p>Once complete, the Hazelwood BESS project 1 and 2 will have a combined 300 MW capacity, adding significant battery storage capacity to Victoria&#8217;s energy infrastructure and reinforcing Hazelwood&#8217;s role in providing flexible energy resources for<a href="https://www.pv-magazine-australia.com/2026/09/23/victoria-mandates-renewables-for-new-data-centres/" target="_blank" rel="noreferrer noopener"> Victoria</a> and the National Electricity Market (NEM).</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="763" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/hazelwood-battery-1024x763.jpg" alt="" class="wp-image-148439" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/hazelwood-battery-1024x763.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/hazelwood-battery-300x223.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/hazelwood-battery-768x572.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/hazelwood-battery-1536x1144.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/hazelwood-battery-260x194.jpg 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/hazelwood-battery.jpg 1822w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/29/construction-of-300-mwh-hazelwood-2-grid-forming-bess-begins-in-victoria/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>FTC Pioneer tracker design a good match for emerging module placement robotics</title>
-		<link>https://www.pv-magazine-australia.com/2026/10/29/ftc-pioneer-tracker-design-a-good-match-for-emerging-module-placement-robotics/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/10/29/ftc-pioneer-tracker-design-a-good-match-for-emerging-module-placement-robotics/#respond</comments>
-		
-		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
-		<pubDate>Thu, 29 Oct 2026 02:07:48 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Markets & Policy]]></category>
-		<category><![CDATA[Technology & Products]]></category>
-		<category><![CDATA[Modules]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18386</guid>
-
-					<description><![CDATA[US-based FTC Solar has designed its Pioneer Tracker to be compatible with emerging robotics, the advent of which FTC Solar Vice President Software Andrew Morse describes as an historical opportunity for EPCs, developers, and the workforce.]]></description>
-										<content:encoded><![CDATA[
-<p>US-based FTC Solar has designed its Pioneer Tracker to be compatible with emerging robotics, the advent of which Vice President Software Andrew Morse told <strong>pv magazine</strong> is an historical opportunity for EPCs. developers, and the workforce.</p>
-
-
-
-<p>Morse has worked at FTC Solar on tracker yield optimisation, PV monitoring and controls, and the growing role of robotics and automation in utility-scale solar construction, mindful that the solar sector is undergoing transformational change with the advent of <a href="https://www.pv-magazine-australia.com/2026/09/18/robotics-and-ai-to-have-key-roles-in-ftc-solars-future-in-australia-ceo/" target="_blank" rel="noreferrer noopener">robotics, automation</a> and artificial intelligence, but remains optomistic it is change for the better.</p>
-
-
-
-<p><strong>The Australian Renewable Energy Agency’s latest <a href="https://www.pv-magazine-australia.com/2026/10/15/up-the-ante-on-ambition-250-million-solar-sunshot-round-3-now-open/" target="_blank" rel="noreferrer noopener">Solar Sunshot</a> funding round specifically identifies robotics, automation and innovation as a way forward. What challenges can these solve?</strong></p>
-
-
-
-<p>There’s a lot of discussion right now about the concept of speed to power, and that energy prices in general are going up, that supply needs to catch up to demand and solar especially over the last few years or decade has been the fastest energy source to deploy.</p>
-
-
-
-<p>The challenge is still that we need to continue to build out more energy production and with solar being fast, we continue to want to try to do better. Automation, I would say is one of the critical aspects of our ability to do this.</p>
-
-
-
-<p>The other challenge I’ve heard about and seen from EPCs in the US, and now in<a href="https://www.pv-magazine-australia.com/press-releases/ftc-solar-begins-shipments-on-330-mw-fraser-coast-project-in-australia/" target="_blank" rel="noreferrer noopener"> Australia</a>, is the ability to source labour that will stick around for the entirety of a project.</p>
-
-
-
-<p>Labour scarcity in some respects is driving us toward complimenting the workforce that is available. Using tools such as automation and robotic systems can add productive capacity to the existing labour force.</p>
-
-
-
-<p>Also, when you have remote projects, there’s additional cost in bringing in temporary workers, housing them, feeding them, that makes it very challenging, and there’s no guarantee those labourers are going to stay for the duration of the project, as there can be a high turnover rate.</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="618" height="620" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-121549.png" alt="" class="wp-image-149192" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-121549.png 618w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-121549-300x300.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-121549-150x150.png 150w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-121549-260x261.png 260w" sizes="auto, (max-width: 618px) 100vw, 618px" /><figcaption class="wp-element-caption">FTC Solar Pioneer Tracker | <i>Image: FTC Solar</i></figcaption></figure>
-
-
-
-<p><strong>How is the FTC Pioneer tracker robot friendly?</strong></p>
-
-
-
-<p>One of the things that differentiates Pioneer Tracker, both for robotic install and essentially for human install, is that above the torque tube we don&#8217;t have any threaded fasteners.</p>
-
-
-
-<p>We utilise a python clamp to attach our module rails to the torque tube, and then to attach the modules to the rails we use a cinch clip. That means the speed with which those portions of the structure can go together is much faster than other trackers on the market.</p>
-
-
-
-<p>When we go to a customer, an EPC, and they’re evaluating the FTC tracker versus other competitors, we typically see something like a 15% to 20% reduction in mechanical install cost for the tracker because of those differentiating aspects.</p>
-
-
-
-<p>It’s because of those aspects that we’ve been talking to several robotic vendors that are focussing mainly on module placement, and in line with the fastening techniques and design choices we’ve made with Pioneer, the feedback has been that it’s much easier to train a robotics system to install those components in that way, than it is with other solutions that require threaded fasteners. Not to say we have no threaded fasteners, but the quantity is significantly reduced.</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="FCT SOLAR ROBO DAY #solarrobotics #robotics #solarinstallation #solarpower" width="500" height="281" src="https://www.youtube.com/embed/baBZXIG-a78?feature=oembed&#038;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<p><strong>What are the challenges of partnering across the robotics ecosystem?</strong></p>
-
-
-
-<p>Because we are not picking one horse in this race, we want to work with all sorts of vendors focussed on very different tasks, or even the same task as in the case of module placement.</p>
-
-
-
-<p>I think the challenge is when you do that, you have less influence over design decisions on the robotics front, but I think we’re willing to trade that for the ability to say that the FTC system is compatible with a wide array of vendors.</p>
-
-
-
-<p>Ultimately, it’s the EPC’s decision to choose which robotics companies or solutions they want to move forward with on their project. FTC is then able to say, bring the pile automation system you want to choose, bring structure or module automation you want and we can support that. It leaves the power in the hands of our typical customer, which is the EPC.</p>
-
-
-
-<p><strong>FTC hosted an inaugural Robo Day in July 2026 in the US, how could Australia benefit from the same type of event held here?</strong></p>
-
-
-
-<p>Yes, in July, we had what I believe is the first type of this event at least in the US, where we brought together seven different robotic solution providers at our test facility outside of Austin, Texas.</p>
-
-
-
-<p>We had them showcase their capabilities on the FTC Pioneer tracker, and the audience consisted of about 20 EPCs and developers who were able to get up close and personal with these robotics solutions, ask questions, see live demos, etc.</p>
-
-
-
-<p>From our position, this is so much better as an event than looking at a robot sitting still on a tradeshow floor or not being able to actually interact with the solution in a hands-on way.</p>
-
-
-
-<p>So, we would love to host a similar event again, and certainly we would love to do something like this for the Australian market to basically showcase the capabilities of vendors operating here.</p>
-
-
-
-<p><strong>Are robotics and automation job replacement tools?</strong></p>
-
-
-
-<p>I&#8217;m sure it&#8217;s been said multiple times in many different ways but the fact of the matter is that when there’s transformational change in the economy driven by technology, like the advent of AI, or the internet, we tend to not even be able to conceptualise what jobs or skills will be important in the next five or ten years.</p>
-
-
-
-<p>At this time, in the world’s history, it’s that kind of time. I&#8217;m more of the optimistic opinion that it represents an opportunity for people rather than the pessimistic view that’s it the end of the world. That at least is my opinion.</p>
-
-
-
-<p>With that said, I think it represents an opportunity also for the makers of this type of robotics solutions technology, and AI solutions, to support the training of the workforce of tomorrow.</p>
-
-
-
-<p>One great example that I&#8217;ll give you is already happening in the US, where a module placement robotics company called Cosmic Robotics has already developed a training and certification program for crews and key team members, like mechanical and solar EPCs to get trained on using their robotic placement system.<br>I tend to think this is why robotics has focused very much on model placement specifically first in solar. I think the ergonomic strain that can be relieved by introducing tools for that particular activity is well worth it for the workforce.</p>
-
-
-
-<p>I also think there&#8217;s opportunity here for labourers that are in those roles, to upskill and for the makers of this technology to facilitate that and provide opportunities for crews that can learn it and get certified on that type of technology.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/29/ftc-pioneer-tracker-design-a-good-match-for-emerging-module-placement-robotics/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

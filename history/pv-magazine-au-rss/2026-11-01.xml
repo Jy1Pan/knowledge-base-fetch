@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pv magazine Australia</title>
+	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.pv-magazine-australia.com/</link>
+	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
+	<lastBuildDate>Sun, 01 Nov 2026 21:41:41 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.12</generator>
+
+<image>
+	<url>https://www.pv-magazine-australia.com/wp-content/uploads/2024/12/cropped-fav-australia-32x32.png</url>
+	<title>pv magazine Australia</title>
+	<link>https://www.pv-magazine-australia.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Start of spring brings stark divides between east and west</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/02/start-of-spring-brings-stark-divides-between-east-and-west/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/02/start-of-spring-brings-stark-divides-between-east-and-west/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Sun, 01 Nov 2026 22:59:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18432</guid>
+
+					<description><![CDATA[Solcast, a DNV company, reports that Australia’s first month of spring brought above average irradiance to the country’s east, while the west experienced widespread irradiance deficits.]]></description>
+										<content:encoded><![CDATA[
+<p>Australia’s first month of spring brought a strong east-west divide in solar irradiance and precipitation, while temperatures were above average across most of the country, according to analysis using the <a href="https://toolkit.solcast.com.au/register">Solcast API</a>. </p>
+
+
+
+<p>Eastern Australia experienced generally above average irradiance and unusually dry conditions, with the strongest irradiance increases occurring inland rather than along the coast. </p>
+
+
+
+<p>In contrast, remote mining solar projects in Western Australia’s Pilbara and Goldfields-Esperance regions experienced widespread irradiance deficits, as slow-moving weather systems brought increased cloud cover and rainfall.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.pv-magazine.com/wp-content/uploads/2026/10/GHI-Deviation-Anomaly-MapAustralia-September-2027-1024x971.png" alt="" class="wp-image-149362" /></figure>
+
+
+
+<p>Across eastern Australia, September irradiance averaged 5% above normal. Coastal locations, including most distributed PV markets, generally remained within a few percent of average, while areas further inland hosting utility-scale PV recorded increases of around 10%. Parts of Tasmania experienced near-record or record September irradiance for the Solcast data period, averaging 10% above normal. </p>
+
+
+
+<p>These conditions coincided with exceptionally dry weather across the southeast, with rainfall deficits exceeding 30 mm across much of New South Wales, Victoria and Tasmania. Most locations in these states experienced record or near-record September dryness, continuing the below-average rainfall conditions observed through winter.</p>
+
+
+
+<p>Western Australia experienced contrasting conditions, with September irradiance averaging 11% below normal. The Pilbara recorded irradiance around 10% below average, while the Goldfields Esperance region experienced larger deficits of 15–20%. Further inland, parts of the Gibson Desert recorded irradiance as much as 29% below average.</p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="1024" height="1010" src="https://www.pv-magazine.com/wp-content/uploads/2026/10/kalgoorlie-september-cumulative-1024x1010.png" alt="" class="wp-image-149363" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/kalgoorlie-september-cumulative-1024x1010.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/kalgoorlie-september-cumulative-300x296.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/kalgoorlie-september-cumulative-768x758.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/kalgoorlie-september-cumulative-1536x1515.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/kalgoorlie-september-cumulative-2048x2020.png 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/kalgoorlie-september-cumulative-260x256.png 260w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="1010" src="https://www.pv-magazine.com/wp-content/uploads/2026/10/Hobart-september-cumulative-1024x1010.png" alt="" class="wp-image-149364" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Hobart-september-cumulative-1024x1010.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Hobart-september-cumulative-300x296.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Hobart-september-cumulative-768x758.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Hobart-september-cumulative-1536x1515.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Hobart-september-cumulative-2048x2020.png 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Hobart-september-cumulative-260x256.png 260w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Several slow-moving low-pressure systems brought persistent cloud cover to inland Western Australia, contributing to the region’s below-average irradiance. The most significant rainfall occurred between September 5 and 9, when large parts of Goldfields Esperance received more than 50 mm of rain, compared with a typical September total of just 10 mm.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="787" height="1024" src="https://www.pv-magazine.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-787x1024.png" alt="" class="wp-image-149367" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-787x1024.png 787w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-231x300.png 231w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-768x999.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-1181x1536.png 1181w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-1574x2048.png 1574w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-223x290.png 223w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/GHI-Map-showing-cloud-cover-of-goldfields-WA-1-scaled.png 1968w" sizes="auto, (max-width: 787px) 100vw, 787px" /></figure>
+
+
+
+<p>Despite the reduced irradiance and increased rainfall, temperatures across much of Western Australia remained above average, with parts of the Pilbara exceeding 3°C above normal. </p>
+
+
+
+<p>Eastern Australia experienced a different combination of conditions, with above average irradiance, unusually dry weather and temperatures generally 1–3°C above average across the southeast.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1015" height="1024" src="https://www.pv-magazine.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-1015x1024.png" alt="" class="wp-image-149366" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-1015x1024.png 1015w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-297x300.png 297w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-150x150.png 150w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-768x775.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-1522x1536.png 1522w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-2029x2048.png 2029w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept-260x262.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Temperature-anomaly-australia-sept.png 2046w" sizes="auto, (max-width: 1015px) 100vw, 1015px" /></figure>
+
+
+
+<p><em><a href="https://solcast.com/?utm_source=pvmag&amp;utm_medium=Content&amp;utm_campaign=ghimap" target="_blank" rel="noreferrer noopener">Solcast</a>&nbsp;produces these figures by tracking clouds and aerosols at 1-2km resolution globally, using satellite data and proprietary&nbsp;<a href="https://solcast.com/irradiance-data-methodology/?utm_source=pvmag&amp;utm_medium=Content&amp;utm_campaign=ghimap" target="_blank" rel="noreferrer noopener">AI/ML algorithms</a>. This data is used to drive irradiance models, enabling Solcast to calculate irradiance at high resolution, with typical bias of less than 2%, and also cloud-tracking forecasts. This data is used by more than 350 companies managing over 350 GW of solar assets globally.</em></p>
+
+
+
+<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/02/start-of-spring-brings-stark-divides-between-east-and-west/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Targeted recycling of glass-glass modules trades value for lower impact</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/02/targeted-recycling-of-glass-glass-modules-trades-value-for-lower-impact/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/02/targeted-recycling-of-glass-glass-modules-trades-value-for-lower-impact/#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Publicover]]></dc:creator>
+		<pubDate>Sun, 01 Nov 2026 22:01:00 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[recycling]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18431</guid>
+
+					<description><![CDATA[Targeted recycling of frameless, polyolefin elastomer-encapsulated glass-glass modules lowers energy use and global warming impact compared with treating the whole module, but reduces recovered material value, according to a new study, with silver dominating revenue.]]></description>
+										<content:encoded><![CDATA[
+<p>Researchers have assessed the environmental and economic performance of recycling strategies for frameless glass-glass PV modules encapsulated with polyolefin elastomer (POE), a design increasingly used in bifacial modules.</p>
+
+
+
+<p>Most PV recycling studies have focused on conventional modules with ethylene-vinyl acetate (EVA) encapsulant, a plastic backsheet and an aluminum frame, the researchers said.</p>
+
+
+
+<p>The international research team compared three scenarios for recycling one complete module weighing about 27 kg. The first applied thermal and chemical treatment to the whole module. The second used mechanical treatment and selective processing, limiting thermal treatment to selected fractions. The third added further fractionation after thermal treatment, using electrostatic corona separation.</p>
+
+
+
+<p>Each scenario was assessed with two chemical routes for metal recovery: sodium hydroxide (NaOH) followed by ammonia and hydrogen peroxide (NH3 + H2O2), and nitric acid with hydrogen peroxide (HNO3 + H2O2).</p>
+
+
+
+<p>The researchers described the work as an early-stage comparative study based on their earlier laboratory-scale recycling results. They carried out a “gate-to-gate” life cycle assessment with credits for avoided primary materials, using ReCiPe 2016 midpoint indicators. The economic assessment used a process-level operational margin based on revenue from recovered materials and selected operating costs, excluding capital costs and equipment maintenance.</p>
+
+
+
+<p>Under baseline assumptions, the two targeted scenarios reduced energy demand and improved impacts such as global warming, with the third scenario generally achieving the lowest processing burden. Whole-module treatment retained stronger benefits in several material-driven impact categories because it recovered more material for credit. The preferred chemical route depended on the impact category.</p>
+
+
+
+<p>The operational margin was positive in all cases, and <a href="https://www.pv-magazine.com/2026/06/11/silver-drives-pv-recycling-economics-as-module-waste-wave-approaches/" target="_blank" rel="noreferrer noopener">silver dominated recovered material revenue</a> despite its very low mass.</p>
+
+
+
+<p>The researchers cautioned that the targeted scenarios depend on electrostatic separation efficiencies and material values drawn from the literature that were not experimentally validated for the studied material streams. Lower electrostatic recovery and substitution performance could remove their advantage in some impact categories.</p>
+
+
+
+<p>“The results highlight the trade-offs between reducing treatment intensity and maintaining sufficiently high material recovery and value,” the researchers wrote.</p>
+
+
+
+<p><strong>Design changes</strong></p>
+
+
+
+<p>The researchers noted that frameless construction is a separate design choice from POE encapsulation and glass-glass architecture, and that frameless modules are expected to keep a market share of about 5% over the coming decade. Removing the frame eliminates the de-framing step in recycling, but aluminum frames are relatively easy to recover and contribute substantially to recycling revenue in conventional modules. Glass-glass designs eliminate the plastic backsheet and increase the amount and importance of recoverable glass.</p>
+
+
+
+<p>The study builds on the group’s earlier work on POE delamination and on mechanically driven hybrid recycling of POE glass-glass modules. Lithuanian manufacturer Soli Tek provided material for the research.</p>
+
+
+
+<p>The findings appear in “<a href="http://linkinghub.elsevier.com/retrieve/pii/S0927024826006380" target="_blank" rel="noreferrer noopener">Life cycle impact and economic assessment of recycling strategies for frameless POE encapsulated glass–glass photovoltaic modules</a>,” which was recently published in <em>Solar Energy Materials and Solar Cells</em> by Aistis Rapolas Zubas, Jolita Kruopienė, Gintaras Denafas, Floriana La Marca and Alessandra Bonoli.</p>
+
+
+
+<p>Researchers from the University of New South Wales, Gdansk University of Technology and the Polish Academy of Sciences found that <a href="https://www.pv-magazine.com/2026/07/11/end-of-life-module-recycling-unviable-if-material-diversity-is-not-considered/" target="_blank" rel="noreferrer noopener">silver can make up to 47% of a module’s recoverable value</a>, though falling silver content in newer panels will lower future recycling revenue. In separate work, researchers from Spain’s Public University of Navarra and CENER compared <a href="https://www.pv-magazine.com/2025/09/16/encapsulant-delamination-behavior-in-pv-glass-recycling/" target="_blank" rel="noreferrer noopener">delamination of EVA, POE and thermoplastic polyolefin encapsulants</a>, finding that EVA and POE required similar forces once heated beyond their melting ranges.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/02/targeted-recycling-of-glass-glass-modules-trades-value-for-lower-impact/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Panel recycling laws needed now as 2035 million-tonne solar waste mountain looms</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/30/panel-recycling-laws-needed-now-as-2035-million-tonne-solar-waste-mountain-looms/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/30/panel-recycling-laws-needed-now-as-2035-million-tonne-solar-waste-mountain-looms/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Fri, 30 Oct 2026 05:14:40 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[recycling]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18423</guid>
+
+					<description><![CDATA[US-based think tank RAND in collaboration with RMIT University in Victoria have published a report on the urgency of Australia implementing a circular economy for solar technologies. ]]></description>
+										<content:encoded><![CDATA[
+<p>US-based think tank RAND in collaboration with RMIT University, Victoria have published a <a href="/Users/yafcr/Videos/Screenshots/RAND_RBA4495-1.pdf" target="_blank" rel="noreferrer noopener">policy brief<strong> </strong></a>on the urgency for Australia to implement a circular economy policy for solar technologies.</p>
+
+
+
+<p>Following research sponsored by the <a href="https://www.pv-magazine-australia.com/press-releases/committee-to-discuss-national-solar-panel-recycling-progress/" target="_blank" rel="noreferrer noopener">federal</a> Department of Industry, Science and Resources, the report says cumulative end-of-life (EoL) solar waste in Australia is projected to reach 1.1 million tones by 2035 and could triple by 2050.</p>
+
+
+
+<p>However, the infrastructure, regulation and market mechanisms needed to manage the waste stream do not yet exist at scale, with the report suggesting it is a now-or-never scenario.</p>
+
+
+
+<p>Authored by RAND Adjunct Senior Policy Researcher Benjamin Lee Preston in collaboration with RMIT Universit Circular Economy Research Fellow James Bond, the research found three barriers exist to cementing EoL solar panel circularity, which are:</p>
+
+
+
+<ul class="wp-block-list">
+<li>the existing <a href="https://www.pv-magazine-australia.com/2026/04/23/end-of-life-solar-panel-circular-economy-research-gets-new-5-million-home/" target="_blank" rel="noreferrer noopener">recycling facilities</a> rely on mechanical methods that limit recovery of high-value materials</li>
+
+
+
+<li>though 45-65% of decommissioned panels are suitable for reuse, collection logistics, certification frameworks and marketplace infrastructure are lacking</li>
+
+
+
+<li>a significant cost gap between recycling (approximately $28 per panel) and landfill disposal ($4 to $5 per panel) eliminates financial incentive.</li>
+</ul>
+
+
+
+<p><strong>Recommendations</strong></p>
+
+
+
+<p>The &#8216;Towards an Australian Circular Economy for Solar Photovoltaics Technologies&#8217; policy brief also offers three actions, which include the establishment of a national PV circularity framework by mid-2027.</p>
+
+
+
+<p>Inconsistencies across states and territories also contribute to gaps for circularity and the paper calls on extending the Product Stewardship Act to cover solar panels, to set a minimum recycling efficiency standard and establish liability indemnification for panel reuse.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="633" height="354" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153840.png" alt="" class="wp-image-149352" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153840.png 633w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153840-300x168.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153840-260x145.png 260w" sizes="auto, (max-width: 633px) 100vw, 633px" /></figure>
+
+
+
+<p>The paper also recommends the federal government should finance commercial-scale recycling and reuse infrastructure by 2028 to support the development of necessary infrastructure.</p>
+
+
+
+<p>By 2027, it recommends a national solar panel reuse certification and digital marketplace be established to connect panel supplies with secondary market demand.</p>
+
+
+
+<p>&#8220;Reuse must be the first-priority circular pathway. Additionally, the marketplace needs to generate provenance and condition data to underpin downstream recycling efficiency. To do so, leasing business models—identified as commercially promising—should be developed alongside the certification framework,&#8221; the paper says.</p>
+
+
+
+<p><strong>Critical minerals</strong></p>
+
+
+
+<p>Recoverable<a href="https://www.pv-magazine-australia.com/2026/08/12/researchers-near-100-silver-recovery-from-end-of-life-solar-panels/" target="_blank" rel="noreferrer noopener"> silver</a> from Australia&#8217;s solar waste could be worth more than $6 billion (USD 4.2 billion) per year by 2035, with copper recovery adding $600 million annually, the paper proposes.</p>
+
+
+
+<p>&#8220;Recovered PV materials could meet up to 100% per cent of Australia&#8217;s domestic silver and aluminium demand by 2050, directly supporting national critical mineral security,&#8221; the research found.</p>
+
+
+
+<p>Regional hubs were found to be the best model to activate a solar circular scheme and were research identified they consistently outperform centralised facilities across financial, logistical and operational metrics, where a techno-economic modelling of a 2,500 tonne per year recycling facility could be financially viable in five Australian states, with payback periods of 7.2 to 8 years.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="791" height="394" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653.png" alt="" class="wp-image-149353" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653.png 791w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653-300x149.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653-768x383.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-153653-260x130.png 260w" sizes="auto, (max-width: 791px) 100vw, 791px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/30/panel-recycling-laws-needed-now-as-2035-million-tonne-solar-waste-mountain-looms/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tongwei introduces 500 W TNC 2.0 FULLX rooftop module for Australian market</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/30/tongwei-introduces-500-w-tnc-2-0-fullx-rooftop-module-for-australian-market/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/30/tongwei-introduces-500-w-tnc-2-0-fullx-rooftop-module-for-australian-market/#respond</comments>
+		
+		<dc:creator><![CDATA[Bernadette Geyer]]></dc:creator>
+		<pubDate>Fri, 30 Oct 2026 04:30:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Residential]]></category>
+		<category><![CDATA[sponsored]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18396</guid>
+
+					<description><![CDATA[Debuted at All Energy Australia 2026, the Australian-market configuration delivers up to 500 W with 25.02% efficiency, combining high power output, strong energy yield and greater economic value for residential rooftop installations.]]></description>
+										<content:encoded><![CDATA[
+<p>Tongwei Solar has introduced the 500 W configuration of TNC 2.0 FULLX G12R-48 for the Australian market. The new 48-cell module features a compact format of 1762 × 1134 × 30 mm, designed for rooftop applications where available space, installation conditions and aesthetic requirements can vary significantly.</p>
+
+
+
+<p>Built on Tongwei&#8217;s TNC technology platform, the module delivers up to 500 W with an efficiency of 25.02%. Compared with a conventional 475 W TOPCon reference module, it provides 25 W more power per module, enabling higher installed capacity within the same roof area.</p>
+
+
+
+<p>Field testing at Tongwei&#8217;s Yancheng Test Base demonstrated an average 3.3% gain in per-watt energy generation compared with the tested conventional BC reference modules (Figure 1). During low-light periods in the early morning and late afternoon, the generation gain reached up to 12.32% (Figure 2), highlighting the benefits of lower leakage current and enhanced low-light performance.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Tongwei-AUS-fig-1-1024x576.jpg" alt="" class="wp-image-149231" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Tongwei-AUS-fig-1-1024x576.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Tongwei-AUS-fig-1-300x169.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Tongwei-AUS-fig-1-768x432.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Tongwei-AUS-fig-1-1536x864.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Tongwei-AUS-fig-1-260x146.jpg 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Tongwei-AUS-fig-1.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Figure 1:</strong> Daily per-watt generation comparison at Tongwei&#8217;s Yancheng Test Base.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Tongwei-AUS-fig-2-1024x576.jpg" alt="" class="wp-image-149232" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Tongwei-AUS-fig-2-1024x576.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Tongwei-AUS-fig-2-300x169.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Tongwei-AUS-fig-2-768x432.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Tongwei-AUS-fig-2-1536x864.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Tongwei-AUS-fig-2-260x146.jpg 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Tongwei-AUS-fig-2.jpg 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Figure 2:</strong> Energy generation gains during early morning and late afternoon low-light periods.</p>
+
+
+
+<h3 class="wp-block-heading">Greater value for Australian rooftop systems</h3>
+
+
+
+<p>Beyond energy performance, the higher power output can also deliver additional financial benefits under Australia&#8217;s Small-scale Renewable Energy Scheme (SRES).</p>
+
+
+
+<p>Under the scheme, eligible rooftop solar installations can receive an upfront discount through Small-scale Technology Certificates (STCs), with the number of certificates determined by system capacity, installation location and the applicable deeming period.</p>
+
+
+
+<p>For a 14-module rooftop system, TNC 2.0 FULLX 500 W provides 7 kW of installed capacity, compared with 6.65 kW for conventional 475 W TOPCon modules. Based on a modelled STC value of AUD 40 per certificate and a five-year deeming period for installations in 2026, the additional 0.35 kW translates into approximately AUD 80–120 in extra upfront STC benefits across Australia&#8217;s four STC zones, subject to eligibility and prevailing certificate prices.</p>
+
+
+
+<p>The higher installed capacity also offers the potential for greater lifetime electricity generation, further supporting the economic value of residential rooftop solar.</p>
+
+
+
+<h3 class="wp-block-heading">Adaptability for real-world conditions</h3>
+
+
+
+<p>TNC 2.0 FULLX G12R-48 is designed to maintain strong energy performance across varying rooftop conditions. Its enhanced low-light response helps maximise electricity generation under changing irradiance, while its compact format supports installations with limited roof space or different roof orientations.</p>
+
+
+
+<p>The module is available in full-black and black-frame designs, offering customers greater flexibility in rooftop aesthetics and system configuration.</p>
+
+
+
+<p>With the introduction of its 500 W configuration at All Energy Australia 2026, Tongwei continues to expand its residential solar portfolio, combining high power density, energy-yield performance and practical value for Australian homeowners.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/30/tongwei-introduces-500-w-tnc-2-0-fullx-rooftop-module-for-australian-market/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TÜV Rheinland report paves way for Clou to secure Australian partnerships</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/30/tuv-rheinland-report-paves-way-for-clou-to-secure-australian-partnerships/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/30/tuv-rheinland-report-paves-way-for-clou-to-secure-australian-partnerships/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Fri, 30 Oct 2026 02:31:30 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18420</guid>
+
+					<description><![CDATA[Energy storage manufacturer CLOU has received an AS/NZS 3000 conformity report for its Aqua-C series containerised energy storage systems presented by TÜV Rheinland during All Energy Australia 2026.]]></description>
+										<content:encoded><![CDATA[
+<p>Chinese-headquartered Midea Energy subsidiary energy storage manufacturer Clou has received an AS/NZS 3000 conformity report for its Aqua-C series containerised <a href="https://www.pv-magazine-australia.com/2026/10/30/batteries-are-big-at-all-energy-australia-2026/" target="_blank" rel="noreferrer noopener">energy storage systems</a> presented by TÜV Rheinland during All Energy Australia 2026.</p>
+
+
+
+<p>Known as the Wiring Rules, the AS/NZS 3000 sets requirements for the design, installation and verification of electrical installations in Australia and New Zealand.</p>
+
+
+
+<p>Clou&#8217;s Aqua-C series C2.5H is a 5 MWh liquid-cooled battery energy storage system (BESS), for which the company said it has achieved a cumulative global shipment tally of 12 GWh.</p>
+
+
+
+<p>The Aqua-C2.5H has also undergone seismic qualification in accordance with Institute of Electrical and Electronics Engineers (IEEE) 693 high-seismic requirements and obtained UL 9540 energy storage system safety certification.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Anthony-Wang-receiving-the-ASNZS-3000-report-from-TU╠eV-Rheinland-1024x682.jpg" alt="" class="wp-image-149350" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Anthony-Wang-receiving-the-ASNZS-3000-report-from-TU╠eV-Rheinland-1024x682.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Anthony-Wang-receiving-the-ASNZS-3000-report-from-TU╠eV-Rheinland-300x200.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Anthony-Wang-receiving-the-ASNZS-3000-report-from-TU╠eV-Rheinland-768x512.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Anthony-Wang-receiving-the-ASNZS-3000-report-from-TU╠eV-Rheinland-1536x1023.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Anthony-Wang-receiving-the-ASNZS-3000-report-from-TU╠eV-Rheinland-2048x1365.jpg 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Anthony-Wang-receiving-the-ASNZS-3000-report-from-TU╠eV-Rheinland-260x173.jpg 260w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Clou Product Management Director Anthony Wang receiving the ASNZS 3000 report from TÜV Rheinland  | <i>Image: CLOU</i></figcaption></figure>
+
+
+
+<p>Clou Product Management Director Anthony Wang said the company’s portfolio spans utility-scale, commercial and industrial (C&amp;I) and residential storage, and seeks local partners in Australia and Oceania to <a href="https://www.pv-magazine-australia.com/2026/10/26/australian-renewable-energy-investment-surges-to-new-heights/" target="_blank" rel="noreferrer noopener">deliver solutions</a>.</p>
+
+
+
+<p>“Australia’s energy transition represents a significant opportunity, and Clou is here to be a reliable part of it,” Wang said.</p>
+
+
+
+<p><strong>Aqua-C Series</strong></p>
+
+
+
+<p>Clou’s bionic liquid cooling system is designed to keep inter-cell temperature variance within 2°C, while active cell balancing helps extend cycle life and preserve capacity over time.</p>
+
+
+
+<p>The system is available as a standalone DC battery container or as part of an integrated AC solution combining BESS, power conversion systems (PCS) and energy management systems (EMS) in a single pre-commissioned package.</p>
+
+
+
+<p>The Aqua-C3.0 complements the C2.5H with a next-generation utility-scale design featuring 587 Ah LFP cells and 6.25 MWh per unit, delivering approximately 25% more energy per footprint.</p>
+
+
+
+<p>Clou also showcased the Aqua-C3.0 Ultra at All Energy, a liquid-cooled energy storage system designed to combine high energy density with a lightweight form.</p>
+
+
+
+<p>Housed in a 13-foot enclosure, it delivers 5.154 MWh per unit and weighs less than 39 tonnes. Its compact design can help reduce shipping and logistics costs, land requirements and civil works, while simplifying on-site installation, the company said.</p>
+
+
+
+<p>For commercial and industrial applications, the Aqua-E261 and Aqua-X261 series provide 261 kWh per unit in a modular architecture. The systems can be<a href="https://www.pv-magazine.com/2026/10/28/retrofits-on-the-rise-down-under/" target="_blank" rel="noreferrer noopener"> deployed</a> across a range of settings, including mining microgrids, industrial parks, commercial buildings and integrated solar-storage-charging sites.</p>
+
+
+
+<p>At All Energy, Clou showcased an integrated portfolio covering both DC- and AC-side solutions, and said its in-house capabilities span PCS’, battery management systems (BMS’), EMS’ and system integration.</p>
+
+
+
+<p>Together, these capabilities support coordination between battery systems and AC-side controls, as well as project-specific <a href="https://www.pv-magazine-australia.com/2026/01/30/q4-2025-a-landmark-period-for-household-and-grid-scale-energy-storage/" target="_blank" rel="noreferrer noopener">grid</a> connection and integration requirements, the company said.</p>
+
+
+
+<p>The company said it has relevant experience for utility-scale, mining and remote-site projects, where altitude, heat and limited access can present additional operating challenges.</p>
+
+
+
+<p>It has completed deployments in challenging environments such as Argentina’s Catamarca province, where the company delivered storage solutions for lithium mining operations at an altitude of 4,100 metres, in Chile’s Atacama Desert.</p>
+
+
+
+<p>Clou has annual BESS production capacity of 20 GWh at its Yichun, China facility and an expanding international manufacturing footprint in phases in Indonesia, with long-term capacity targeted at 18 GWh.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/30/tuv-rheinland-report-paves-way-for-clou-to-secure-australian-partnerships/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neoen Australia 1.8 billion debt finance raise backs a 1.2 GW portfolio</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/30/neoen-australia-1-8-billion-debt-finance-raise-backs-a-1-2-gw-portfolio/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/30/neoen-australia-1-8-billion-debt-finance-raise-backs-a-1-2-gw-portfolio/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Fri, 30 Oct 2026 01:00:16 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18418</guid>
+
+					<description><![CDATA[Neoen Australia has raised a new debt financing package of $1.8 billion, which covers a 1.2 GW portfolio that includes two battery storage projects and the 440 MWp Culcairn Solar Farm.]]></description>
+										<content:encoded><![CDATA[
+<p>France-headquartered clean energy developer<a href="https://www.pv-magazine.com/2025/10/02/neoen-advances-2-2-gwh-of-battery-storage-projects-in-australia/" target="_blank" rel="noreferrer noopener"> Neoen</a> Australia has raised a debt financing package of $1.8 billion (USD 1.2 billion), for a 1.2 GW portfolio of projects that includes the <a href="https://www.pv-magazine-australia.com/2026/06/30/neoen-begins-building-battery-alongside-one-of-australias-biggest-solar-farms/" target="_blank" rel="noreferrer noopener">Culcairn</a> and Hornsdale battery storage projects and 440 MWp Culcairn Solar Farm.</p>
+
+
+
+<p>The 13 Australian and international lenders involved are the <a href="https://www.pv-magazine-australia.com/press-releases/cefc-mobilises-105-billion-in-clean-energy-project-value/" target="_blank" rel="noreferrer noopener">Clean Energy Finance Corporation</a> (CEFC), the NAB, Westpac, ANZ, Bank of China, HSBC, Export Development Canada, ING, KfW IPEX, Mizuho, UOB, Société Générale, and Bank of America.</p>
+
+
+
+<p>Fives assets are included in the raise and involve two projects in South Australia (SA) being the 150 MW / 193.5 MWh Hornsdale Power Reserve and the 209 MW Goyder South Wind Farm Stage 1A, two in New South Wales (NSW), the 440 MWp Culcairn Solar Farm and 215 MW / 963 MWh Culcairn Battery, and one in Western Australia (WA), the 179 MW Narrogin Wind Farm.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1025" height="378" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-115527.png" alt="" class="wp-image-149347" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-115527.png 1025w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-115527-300x111.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-115527-768x283.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-115527-260x96.png 260w" sizes="auto, (max-width: 1025px) 100vw, 1025px" /><figcaption class="wp-element-caption">Hornsdale Power Reserve | <i>Image: Neoen Australia</i></figcaption></figure>
+
+
+
+<p>Neoen’s Regional Chief Executive Officer Australia Pacific Jean-Christophe Cheylus said the company values the continued support of its long-term partners.</p>
+
+
+
+<p>“We welcome the arrival of new lenders. This landmark transaction underlines the strength, depth and growth of our portfolio in Australia,” Cheylus said.</p>
+
+
+
+<p>Neoen’s Group Chief Executive Officer Xavier Barbaro congratulated the Neoen team on the successful completion of this portfolio financing in Australia.</p>
+
+
+
+<p>“It is our largest financing to date. This transaction reflects the quality and diversity of our assets and demonstrates our ability to optimise our financing structure and strengthen our balance sheet,” Barbaro said. </p>
+
+
+
+<p>“This, in turn, reinforces our capacity to invest in new projects and to consolidate Neoen’s position as the leading player in Australia’s energy transition.”<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/30/neoen-australia-1-8-billion-debt-finance-raise-backs-a-1-2-gw-portfolio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Batteries are big at All Energy Australia 2026</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/30/batteries-are-big-at-all-energy-australia-2026/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/30/batteries-are-big-at-all-energy-australia-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 22:53:31 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Residential]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18415</guid>
+
+					<description><![CDATA[The outlook for Australia’s renewable energy transition appears positive with supportive government policies and renewable energy targets, a surge in battery installations, and a strong pipeline of grid-scale solar and storage projects helping to fuel confidence.]]></description>
+										<content:encoded><![CDATA[
+<p>The sense of optimism within Australia’s renewable energy sector was on display at All Energy Australia 2026 conference and trade show in Melbourne on Oct. 28 and 29, where energy security, growing demand, and investment and market certainty featured prominently in discussions.</p>
+
+
+
+<p>Batteries were also a major topic of conversation with the strong presence of both grid and small-scale battery suppliers on the expanded exhibition floor showcasing a growing confidence in the market.</p>
+
+
+
+<p>RX Global, which organises All Energy alongside the Clean Energy Council (CEC), said more than 22,000 people attended the event this year – up about 5,000 on 2025 figures – and more than 490 national and international companies and organisations exhibited on the trade show floor.</p>
+
+
+
+<p>Batteries big and small were prominent among the displays with exhibitors keen to be part of the surging small and grid-scale markets.&nbsp;</p>
+
+
+
+<p>More than 550,000 residential battery systems have been installed by Australian homeowners in the 15 months since the launch of the federal government’s Cheaper Home Batteries program – that subsidises approximately 30% of the cost of an eligible home energy-storage system. The growth pattern has steadied since the initial boom in installations, but the industry is confident there is still plenty of upside in the small-scale sector.</p>
+
+
+
+<p>“Residential has stabilised over the past few months but there is still a lot of potential in that segment,” EP Cube Sales Manager Sudeesh V said. “Metropolitan areas like Melbourne and Sydney might be slowing but areas such as South Australia, Western Australia, Queensland, even the Northern Territory, there’s a lot of growth potential.”</p>
+
+
+
+<p>The large-scale battery sector is also experiencing record growth with nine projects representing 2.3 GW / 7.1 GWh of storage capacity switched on in the first six months of the year, surpassing the 2 GW / 5.1 GWh added during 2025. In addition, 13 projects totalling 1.6 GW / 6.5 GWh reached financial close in H1 2026.</p>
+
+
+
+<p>“We see a very, very significant penetration of battery storage and looking ahead, we&#8217;ll see this scaling up even more,” Rystad Energy Renewables and Power&nbsp;Vice President Sally Bogle said, adding that battery energy storage systems are serving as “a silver bullet for the power market.”</p>
+
+
+
+<p>“They have quite a multi-faceted role,” she said, highlighting their ability to mitigate the curtailment of daytime solar in our markets.</p>
+
+
+
+<p>“Asset performance wise, that is really, really valuable,” she said. “It allows a solar or wind facility to really maximise their asset and optimise the grid connection.”</p>
+
+
+
+<p>The outlook for Australia’s solar market is also buoyant with the federal government’s recent raising of the Small-scale Renewable Energy Scheme (SRES) eligibility cap from 100 kW to 1 MW tipped to drive growth in the commercial and industrial (C&amp;I) segment.</p>
+
+
+
+<p>The expansion extends financial incentives through the Small-scale Technology Certificate (STC) mechanism, reducing the upfront cost of qualifying mid-scale systems by approximately 20%.</p>
+
+
+
+<p>“This will definitely unlock a lot of small to medium commercial projects,” said Charles Guo, Australian manager with module manufacturer Gorkin Solar.</p>
+
+
+
+<p>Government policy appears to be accelerating large-scale solar development also. Australia is targeting 82% renewables share in the National Electricity Market (NEM) by 2030 while Western Australia recently committed to a renewable energy target of 75% by 2031 for its main electricity grid.</p>
+
+
+
+<p>Australian Energy Market Operator data shows a record 80.9 GW of new generation and storage projects now in the pipeline but as ageing coal-fired power plants retire and electricity consumption forecast to grow by more than 40% over the next decade, getting new capacity built will be critical.</p>
+
+
+
+<p>Victorian Energy Minister Jaclyn Symes said Australia said capital is available but providing investors with certainty is key.</p>
+
+
+
+<p>“Investors need clear policy, predictable approvals, and confidence that the infrastructure connecting projects will be delivered,” she said.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/30/batteries-are-big-at-all-energy-australia-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New flywheel design could eliminate power converter for grid connection</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/30/new-flywheel-design-could-eliminate-power-converter-for-grid-connection/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/30/new-flywheel-design-could-eliminate-power-converter-for-grid-connection/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 21:50:09 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[System integration]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18412</guid>
+
+					<description><![CDATA[A research team has built a fixed-speed flywheel prototype that uses a wire-rope mechanism to move weights inward and outward during discharge and charge. The system briefly supplied power to the electrical supply, but steady-state losses prevented net electrical energy discharge over the complete operation.]]></description>
+										<content:encoded><![CDATA[
+<p>Aresearch team at <a href="https://www.pv-magazine.com/2025/12/19/researchers-find-sodium-ion-batteries-using-hard-carbon-anodes-can-intrinsically-charge-faster/" target="_blank" rel="noreferrer noopener">Tokyo University of Science</a> in Japan has developed and tested a prototype fixed-speed flywheel energy storage system (FESS). Flywheels store energy as rotational motion and suit short-duration applications that require rapid charging and discharging, such as grid frequency regulation. Conventional systems use a power electronic converter to vary the flywheel’s speed while exchanging electricity with the grid. The proposed system moves weights within the flywheel instead of changing its speed, potentially eliminating the converter and reducing costs.</p>
+
+
+
+<p>“The main novelty is the development and experimental evaluation of a flywheel mechanism that enables charging and discharging through active changes in its moment of inertia while maintaining an approximately constant rotational speed,” corresponding author Ryoga Sugata told <strong>pv magazine</strong>. “To our knowledge, experimental studies of such mechanisms remain limited, particularly those that deliberately reduce the moment of inertia to extract stored rotational energy.”</p>
+
+
+
+<p>The researcher added that his team developed the design to address losses in their earlier winch- and ball-screw-based mechanisms. “A potential future application is to add controllable active-power storage capability to synchronous condensers. Our longer-term objective is to investigate whether a synchronous condenser can combine its usual reactive-power and inertial support with fast, controllable active-power exchange enabled by the variable-inertia flywheel,” he added.</p>
+
+
+
+<p>To test the concept, the researchers built a prototype using a modified centrifugal brake as the flywheel, with two 0.856 kg weights attached to pivoting arms. They added wire ropes, pulleys, bobbins, gears, an electromagnetic clutch, and a brake to control the weights’ position. A shaft connected the flywheel to a 0.75 kW, three-phase induction machine that acted as both a motor and a generator.</p>
+
+
+
+<p>The team tested charging and discharging at synchronous speeds of 400, 450, and 500 rpm using a regenerative variable-frequency power supply, with voltage and frequency held constant during each test. For charging, they released the clutch, allowing centrifugal force to move the weights outward. For discharging, they activated the brake to drive the reeling mechanism and pull the weights inward.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="445" src="https://www.pv-magazine.com/wp-content/uploads/2026/10/1-s2.0-S2352152X26048310-gr2_lrg-1024x445.jpg" alt="" class="wp-image-149021" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/1-s2.0-S2352152X26048310-gr2_lrg-1024x445.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/1-s2.0-S2352152X26048310-gr2_lrg-300x130.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/1-s2.0-S2352152X26048310-gr2_lrg-768x334.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/1-s2.0-S2352152X26048310-gr2_lrg-1536x667.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/1-s2.0-S2352152X26048310-gr2_lrg-2048x890.jpg 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/1-s2.0-S2352152X26048310-gr2_lrg-260x113.jpg 260w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>They measured voltage, current, shaft torque, rotational speed, and clutch and brake voltages, and calculated electrical and mechanical power and energy. They then compared the results with theoretical values, subtracting steady-state power consumption to isolate the energy associated with moving the weights. The analysis excluded the energy consumed by the clutch, brake, and control circuitry.</p>
+
+
+
+<p>“The most surprising finding was that charging and discharging efficiencies showed different trends as rotational speed increased,” Sugata said. “Over the tested range of 400–500 rpm, charging efficiency decreased slightly, whereas discharging efficiency increased. For example, after subtracting the steady-state mechanical power input, mechanical charging efficiency decreased from approximately 51% to 49%, while mechanical discharging efficiency increased from approximately 40% to 53%.”</p>
+
+
+
+<p>The team attributed the difference to the distinct loss characteristics of the two operations, the academic said. During charging, frictional losses increase with centrifugal force, limiting the benefit of higher speeds. During discharging, the main losses appear to increase more slowly than the available stored energy, reducing their relative impact. The researchers said that improving efficiency would require addressing the specific loss mechanisms of both operations.</p>
+
+
+
+<p>More according to the results, at 500 rpm, the researchers calculated a theoretical storage capacity of 36.61 J. After subtracting steady-state power consumption, the prototype consumed 84.1 J during charging and discharged 16.4 J, corresponding to electrical efficiencies of 43.3% and 45.1%, respectively.</p>
+
+
+
+<p>“We demonstrated electrical power delivery to the grid without a power electronic interface for frequency conversion, although steady-state losses still prevented net electrical energy discharge over the complete discharge operation,” Sugata added. “In follow-up research, we plan to improve the mechanical design to reduce friction and losses associated with clutch and brake operation. We also plan to investigate replacing the induction machine with a synchronous machine and evaluate the effects on electrical losses and charging and discharging performance.”</p>
+
+
+
+<p>The article “<a href="https://www.sciencedirect.com/science/article/pii/S2352152X26048310?via%3Dihub" target="_blank" rel="noreferrer noopener">Charging and discharging performance of a fixed-speed flywheel energy storage system with a reeling-type inertia control mechanism</a>” has appeared in the<em> Journal of Energy Storage.</em></p>
+
+
+
+<p>From <a href="https://www.pv-magazine.com/" target="_blank" rel="noreferrer noopener">pv magazine Global</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/30/new-flywheel-design-could-eliminate-power-converter-for-grid-connection/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SgurrEnergy eyes regional office in Melbourne to expand global footprint</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/29/sgurrenergy-eyes-regional-office-in-melbourne-to-expand-global-footprint/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/29/sgurrenergy-eyes-regional-office-in-melbourne-to-expand-global-footprint/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 05:32:36 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18395</guid>
+
+					<description><![CDATA[Renewable energy consulting and engineering firm SgurrEnergy has plans to open a regional office in Melbourne, adding to a suite of seven branches worldwide located in India, Middle East, US, Africa, China and Singapore.]]></description>
+										<content:encoded><![CDATA[
+<p>India-headquartered renewable energy consulting and engineering company SgurrEnergy is planning to open an office in Melbourne, Victoria, adding to seven worldwide in Saudi Arabia, Kenya, China, the US, Singapore and India.</p>
+
+
+
+<p>Marking 25 years in business, the company recently announced 2006 represents the milestone of <a href="https://www.pv-magazine-india.com/press-releases/sgurrenergy-crosses-240-gw-global-renewable-energy-milestone-targets-400-gw-by-2030/" target="_blank" rel="noreferrer noopener">240 GW of capacity</a> in projects assisted with their services globally.</p>
+
+
+
+<p>SgurrEnergy Director Arif Aga told <strong>pv magazine</strong> the company can make a meaningful contribution to Australia&#8217;n&#8217;s clean energy ambitions and can bring experience supporting projects in over 60 countries.</p>
+
+
+
+<p>“This experience spans different technologies, regulatory environments, climatic conditions and <a href="https://www.pv-magazine-australia.com/2026/10/26/australian-renewable-energy-investment-surges-to-new-heights/" target="_blank" rel="noreferrer noopener">financing</a> structures. It gives us a substantial foundation for identifying project risks early and developing practical engineering solutions,” Aga said.</p>
+
+
+
+<p>“Our contribution will extend across the project lifecycle: from resource assessment, site investigations and feasibility through to technical due diligence, detailed engineering, procurement support, construction oversight, commissioning and operational optimisation.”</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Mr.-Arif-Aga-Director-at-SgurrEnergy-1mb-1024x683.jpg" alt="" class="wp-image-149200" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Mr.-Arif-Aga-Director-at-SgurrEnergy-1mb-1024x683.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Mr.-Arif-Aga-Director-at-SgurrEnergy-1mb-300x200.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Mr.-Arif-Aga-Director-at-SgurrEnergy-1mb-768x512.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Mr.-Arif-Aga-Director-at-SgurrEnergy-1mb-1536x1024.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Mr.-Arif-Aga-Director-at-SgurrEnergy-1mb-2048x1365.jpg 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/10/Mr.-Arif-Aga-Director-at-SgurrEnergy-1mb-260x173.jpg 260w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">SgurrEnergy Director Arif Aga  | <i>Image: SgurrEnergy</i></figcaption></figure>
+
+
+
+<p>Aga added that the company’s multidisciplinary teams bring together generation, storage, civil and structural engineering, power systems, and environmental and social expertise.</p>
+
+
+
+<p>“We are establishing a regional office in Melbourne to combine that global capability with local leadership, relationships and accountability. Our objective is to help Australian stakeholders turn their development pipelines into bankable, buildable and dependable operating assets.”</p>
+
+
+
+<p>Aga said as an independent consultancy focused on renewable energy, SgurrEnergy can assess technologies and project configurations against a client’s requirements.</p>
+
+
+
+<p>“We understand that a developer, lender, investor, EPC contractor and asset owner examine the same project from different perspectives. Bringing those perspectives into engineering decisions early helps strengthen bankability and reduce avoidable changes later,” Aga said.</p>
+
+
+
+<p>“Our international experience provides practical insight into equipment performance, construction challenges, supply-chain quality and operational risks. We will apply those lessons within Australian standards, network requirements and site conditions, supported by local expertise.”</p>
+
+
+
+<p>SgurrEnergy utilises embedded automation, <a href="https://www.pv-magazine-australia.com/2026/09/22/four-lessons-learned-using-ai-in-energy-sector/" target="_blank" rel="noreferrer noopener">artificial intelligence</a> (AI)-assisted analysis, building information modelling and digital inspection workflows into its delivery approach. </p>
+
+
+
+<p>“These tools help our engineers evaluate alternatives, coordinate disciplines and improve turnaround, with technical judgement and review remaining central,” Aga said.</p>
+
+
+
+<p>“Our quality framework includes ISO 9001, ISO 14001 and ISO 45001 certifications, alongside inspection processes aligned with ISO/IEC 17020 requirements. For clients, the intended outcome is clear: responsive advice, coordinated designs, traceable quality assurance and greater confidence throughout delivery.”</p>
+
+
+
+<p>In support of the Melbourne office, SgurrEnergy would bring six complementary business segments including technical advisory; design and engineering; project and construction management; power and grid dynamics; environmental, social and water-related investigations; and quality assurance and inspection services.</p>
+
+
+
+<p>“Initially, our focus will be on opportunities where these capabilities can resolve material project challenges: development feasibility, independent technical reviews, engineering optimisation, grid integration, storage integration and construction quality,” Aga explained.</p>
+
+
+
+<p>“As relationships grow, we aim to support clients through successive stages of their projects and across their portfolios.”</p>
+
+
+
+<p>Aga attended All Energy Australia 2026 to initiate conversations with local industry partners.</p>
+
+
+
+<p>“We want to establish ourselves as an accessible engineering partner with the depth to remain involved from early development through operations,” Aga said.</p>
+
+
+
+<p>Through to 2030, Aga said the company’s technology priorities will be <a href="https://www.pv-magazine-australia.com/2026/10/06/utility-solar-generation-reaches-record-highs-in-nem/" target="_blank" rel="noreferrer noopener">utility-scale solar</a>, onshore wind, standalone battery energy storage systems (BESS) and integrated hybrid projects.</p>
+
+
+
+<p>“We also see opportunities in renewable power solutions for data centres, mining and industry, together with pumped hydro and other longer-duration storage applications where technically and commercially appropriate,” Aga said.</p>
+
+
+
+<p>“We will measure progress through projects reaching financial close, construction and operation; the quality of our delivery; repeat business; and the development of local expertise.” Beyond 2030, Aga expects SgurrEnergy’s role to extend further into asset optimisation, life extension and repowering as Australia’s renewable fleet matures.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/29/sgurrenergy-eyes-regional-office-in-melbourne-to-expand-global-footprint/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Repurposed solar panels reduce diesel fuel dependence for Indonesian village</title>
+		<link>https://www.pv-magazine-australia.com/2026/10/29/repurposed-solar-panels-reduce-diesel-fuel-dependence-for-indonesian-village/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/10/29/repurposed-solar-panels-reduce-diesel-fuel-dependence-for-indonesian-village/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 04:22:37 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18394</guid>
+
+					<description><![CDATA[Four employees of Singapore-headquartered Vena Energy and 20 from contractor partners have installed a 2,200 W solar station made from repurposed solar panels in North Sulawesi, Indonesia.]]></description>
+										<content:encoded><![CDATA[
+<p>Residents of Kamput Tarente on Nain Island, North Sulawesi, <a href="https://www.pv-magazine-australia.com/2026/08/31/indonesia-aims-for-100-gw-solar-target-by-2029/" target="_blank" rel="noreferrer noopener">Indonesia </a>have received a 2,200 W solar charging station made from repurposed solar panels delivered by Singapore-based developer <a href="https://www.pv-magazine-australia.com/2026/07/01/vena-locks-in-1-4-billion-to-support-australian-solar-and-battery-assets/" target="_blank" rel="noreferrer noopener">Vena Energy</a> employee volunteers.</p>
+
+
+
+<p>Joining local residents, volunteers from Vena Energy&#8217;s 21 MW Minut Solar Project in Likupang, also North Sulawesi, and volunteer contractors spent three weeks completing the project and improving the community&#8217;s access to electricity.</p>
+
+
+
+<p>Located approximately 1,670 kilometres north of Darwin, the<a href="https://www.pv-magazine-australia.com/2026/07/09/remote-area-power-system-installed-1000-kilometres-north-of-adelaide/" target="_blank" rel="noreferrer noopener"> remote </a>Nain <a href="https://www.pv-magazine-australia.com/2026/08/07/australia-supports-solar-projects-in-31-remote-fijian-schools/" target="_blank" rel="noreferrer noopener">Island community </a>has no connection to the Indonesian national grid and residents have relied on expensive diesel-powered generators to access electricity.</p>
+
+
+
+<p>Initiated by a local resident who had interned with Vena Energy, the Vena team designed a 2,200 W solar charging station from repurposed solar panels in good working condition.</p>
+
+
+
+<p>Kampung Tarente resident Alfaro Randaria said when he was growing up accessing electricity in the village was challenging.</p>
+
+
+
+<p>&#8220;For the local fisherman, one of the key priorities is charging their flashlights, which are essential for their activities at sea,&#8221; Randaria said.</p>
+
+
+
+<p>&#8220;Now fisherman and community members are able to use solar energy to charge their batteries.&#8221;</p>
+
+
+
+<p>To support the installation&#8217;s long-term operation, three community members received training in basic maintenance, with Vena Energy providing ongoing remote technical support.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/10/29/repurposed-solar-panels-reduce-diesel-fuel-dependence-for-indonesian-village/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
