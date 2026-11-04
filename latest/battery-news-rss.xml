@@ -12,7 +12,7 @@
 	<atom:link href="https://battery-news.de/feed/" rel="self" type="application/rss+xml" />
 	<link>https://battery-news.de/</link>
 	<description>Die Newsbroker-Webseite zum Thema Lithium-Ionen-Batterien in Deutschland</description>
-	<lastBuildDate>Mon, 02 Nov 2026 07:27:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Nov 2026 19:33:07 +0000</lastBuildDate>
 	<language>de</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,54 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Sunwoda lässt polymerbasierte Feststoffzelle mit 400 Wh/kg von Autobauern testen</title>
+		<link>https://battery-news.de/2026/11/03/sunwoda-laesst-polymerbasierte-feststoffzelle-mit-400-wh-kg-von-autobauern-testen/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieentwicklung]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40201</guid>
+
+					<description><![CDATA[<p>Der chinesische Batteriehersteller Sunwoda lässt seine polymerbasierte Feststoffzelle von Autoherstellern prüfen. Laut der Tochter Sunwoda Electric Vehicle Battery (SEVB) hat die Zelle die Design- und Prozessverifizierung abgeschlossen. Das Unternehmen teilte dies am 30. Oktober über die Investorenplattform der Börse Shenzhen mit. Namen der Autobauer und Mustermengen nannte es nicht. Polymer-Elektrolyt statt Sulfid Die 20-Ah-Zelle namens Xin Bixiao soll eine Energiedichte von 400 Wh/kg erreichen. Sunwoda gibt mehr als 1.200 Zyklen bei einem äußeren Druck von unter einem Megapascal an. Die Zelle kombiniert eine 12 Mikrometer dünne Polymer-Komposit-Membran mit einer Siliziumanode. Zudem soll sie einen Hot-Box-Test bei 200 °C bestanden haben. Temperatur und Laderate der Zyklentests hat Sunwoda nicht genannt. Ergebnisse auf Zellebene sagen zudem wenig über das Verhalten einer kompletten Fahrzeugbatterie aus. Einige sulfidbasierte Feststoffdesigns benötigen dauerhaften äußeren Druck, damit ihre Komponenten in Kontakt bleiben. CATL setzt auf Sulfid-Chemie und hat sein Ziel einer Kleinserienfertigung ab 2027 kürzlich bekräftigt. Serienfertigung für 2026 bislang offen SEVB hat eine Feststoff-Pilotlinie mit einer jährlichen Auslegungskapazität von 0,2 GWh aufgebaut. Sunwoda hatte die Xin-Bixiao-Zelle im Oktober 2025 vorgestellt. Damals plante das Unternehmen für 2026 eine Serienfertigung mit einer Jahreskapazität von 1 GWh. Das aktuelle Update erwähnt einen solchen Produktionsstart nicht. Die Roadmap nennt nun eine sulfidbasierte Batterie für 2027 und eine Zelle mit mehr als 500 Wh/kg bis 2030. Quellen:https://carnewschina.com/2026/11/02/solid-state-battery-race-sunwoda-tests-polymer-cells-with-automakers-as-catl-targets-2027/https://autotechinsight.spglobal.com/news/5284714/sunwoda-unveils-polymer-based-solid-state-battery-cell-with-400-wh-kg-energy-density</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/03/sunwoda-laesst-polymerbasierte-feststoffzelle-mit-400-wh-kg-von-autobauern-testen/">Sunwoda lässt polymerbasierte Feststoffzelle mit 400 Wh/kg von Autobauern testen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Der chinesische Batteriehersteller Sunwoda lässt seine polymerbasierte Feststoffzelle von Autoherstellern prüfen. Laut der Tochter Sunwoda Electric Vehicle Battery (SEVB) hat die Zelle die Design- und Prozessverifizierung abgeschlossen. Das Unternehmen teilte dies am 30. Oktober über die Investorenplattform der Börse Shenzhen mit. Namen der Autobauer und Mustermengen nannte es nicht.</p>
+
+
+
+<p><strong>Polymer-Elektrolyt statt Sulfid</strong></p>
+
+
+
+<p>Die 20-Ah-Zelle namens Xin Bixiao soll eine Energiedichte von 400 Wh/kg erreichen. Sunwoda gibt mehr als 1.200 Zyklen bei einem äußeren Druck von unter einem Megapascal an. Die Zelle kombiniert eine 12 Mikrometer dünne Polymer-Komposit-Membran mit einer Siliziumanode. Zudem soll sie einen Hot-Box-Test bei 200 °C bestanden haben. Temperatur und Laderate der Zyklentests hat Sunwoda nicht genannt. Ergebnisse auf Zellebene sagen zudem wenig über das Verhalten einer kompletten Fahrzeugbatterie aus.</p>
+
+
+
+<p>Einige sulfidbasierte Feststoffdesigns benötigen dauerhaften äußeren Druck, damit ihre Komponenten in Kontakt bleiben. CATL setzt auf Sulfid-Chemie und hat sein Ziel einer Kleinserienfertigung ab 2027 kürzlich bekräftigt.</p>
+
+
+
+<p><strong>Serienfertigung für 2026 bislang offen</strong></p>
+
+
+
+<p>SEVB hat eine Feststoff-Pilotlinie mit einer jährlichen Auslegungskapazität von 0,2 GWh aufgebaut. Sunwoda hatte die Xin-Bixiao-Zelle im Oktober 2025 vorgestellt. Damals plante das Unternehmen für 2026 eine Serienfertigung mit einer Jahreskapazität von 1 GWh. Das aktuelle Update erwähnt einen solchen Produktionsstart nicht. Die Roadmap nennt nun eine sulfidbasierte Batterie für 2027 und eine Zelle mit mehr als 500 Wh/kg bis 2030.</p>
+
+
+
+<p><em>Quellen:</em><br><em><a href="https://carnewschina.com/2026/11/02/solid-state-battery-race-sunwoda-tests-polymer-cells-with-automakers-as-catl-targets-2027/" target="_blank" rel="noreferrer noopener">https://carnewschina.com/2026/11/02/solid-state-battery-race-sunwoda-tests-polymer-cells-with-automakers-as-catl-targets-2027/</a></em><br><em><a href="https://autotechinsight.spglobal.com/news/5284714/sunwoda-unveils-polymer-based-solid-state-battery-cell-with-400-wh-kg-energy-density" target="_blank" rel="noreferrer noopener">https://autotechinsight.spglobal.com/news/5284714/sunwoda-unveils-polymer-based-solid-state-battery-cell-with-400-wh-kg-energy-density</a></em></p>
+
+
+
+<p></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/03/sunwoda-laesst-polymerbasierte-feststoffzelle-mit-400-wh-kg-von-autobauern-testen/">Sunwoda lässt polymerbasierte Feststoffzelle mit 400 Wh/kg von Autobauern testen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>GAC-Batterietochter Inpow startet Packfertigung in Thailand</title>
 		<link>https://battery-news.de/2026/11/02/gac-batterietochter-inpow-startet-packfertigung-in-thailand/</link>
 		
@@ -554,50 +602,6 @@
 
 <p>QuantumScapes Lithium-Metall-Technologie soll eine höhere Energiedichte, schnelleres Laden und mehr Sicherheit ermöglichen. Für den auf der Eagle Line gefertigten Zelltyp QSE-5 nennt das Unternehmen 844 Wh/l beziehungsweise 301 Wh/kg. Diese Werte wurden an früheren B-Mustern bei 25 Grad Celsius und einer fünfstündigen Entladung ermittelt.<br><br><em>Quellen:</em><br><a href="https://ir.quantumscape.com/news-releases/news-release-details/quantumscape-announces-plans-100-mwh-solid-state-battery" target="_blank" rel="noreferrer noopener">https://ir.quantumscape.com/news-releases/news-release-details/quantumscape-announces-plans-100-mwh-solid-state-battery<br></a><a href="https://www.quantumscape.com/quantumscape-inaugurates-eagle-line-for-solid-state-battery-pilot-production/" target="_blank" rel="noreferrer noopener">https://www.quantumscape.com/quantumscape-inaugurates-eagle-line-for-solid-state-battery-pilot-production/<br></a><a href="https://www.quantumscape.com/battery-technology/#qse-5" target="_blank" rel="noreferrer noopener">https://www.quantumscape.com/battery-technology/#qse-5</a></p>
 <p>Der Beitrag <a href="https://battery-news.de/2026/10/23/quantumscape-plant-100-mwh-linie-fuer-feststoffbatterien/">QuantumScape plant 100-MWh-Linie für Feststoffbatterien</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>GM schließt Batteriemontage-Werk bei Detroit</title>
-		<link>https://battery-news.de/2026/10/22/gm-schliesst-batteriemontage-werk-bei-detroit/</link>
-		
-		<dc:creator><![CDATA[Cornelius Karow]]></dc:creator>
-		<pubDate>Thu, 22 Oct 2026 06:00:00 +0000</pubDate>
-				<category><![CDATA[Batterieproduktion]]></category>
-		<guid isPermaLink="false">https://battery-news.de/?p=40082</guid>
-
-					<description><![CDATA[<p>General Motors schließt sein Batteriemontagewerk Brownstown im Raum Detroit. Die Produktion soll laut dem Unternehmen an andere GM-Standorte in der Nähe wechseln. Nach Informationen von Automotive News ist die Stilllegung bis zum kommenden Sommer geplant. Dann läuft der Mietvertrag aus. Das 2009 eröffnete Werk produzierte Hochvoltbatterien für den Cadillac Celestiq und die Chevrolet Corvette E-Ray. Außerdem entstanden dort Antriebseinheiten für die elektrifizierte Corvette. Weniger Beschäftigte und neue Prioritäten bei GM Von einst rund 300 Beschäftigten sind am Standort weniger als zwölf geblieben. GM hatte die Produktion zurückgefahren, weil die Nachfrage hinter den Erwartungen lag. Die betroffenen Mitarbeiter wurden bereits in diesem Jahr informiert. Sie erhielten Angebote für Arbeitsplätze an anderen Standorten in der Umgebung. Die Schließung gehört zu einer größeren Neuausrichtung. GM baut weiterhin Elektroautos, räumt Fahrzeugen mit Verbrennungsmotor aber wieder mehr Gewicht ein. Der Wechsel der Antriebsstrategie geht mit milliardenschweren Verlusten einher. Auch bei Batterieprojekten zieht sich der Konzern zurück. In diesem Jahr überließ GM seinem bisherigen Partner Samsung SDI ein gemeinsames Werkprojekt in Indiana. Schon 2024 war das Unternehmen aus einem Batterieprojekt in Lansing ausgestiegen. Dort übernahm LG Energy Solution. Quelle:https://insideevs.com/news/812603/gm-brownstown-ev-battery-plant-closure/</p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/10/22/gm-schliesst-batteriemontage-werk-bei-detroit/">GM schließt Batteriemontage-Werk bei Detroit</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>General Motors schließt sein Batteriemontagewerk Brownstown im Raum Detroit. Die Produktion soll laut dem Unternehmen an andere GM-Standorte in der Nähe wechseln. Nach Informationen von Automotive News ist die Stilllegung bis zum kommenden Sommer geplant. Dann läuft der Mietvertrag aus.</p>
-
-
-
-<p>Das 2009 eröffnete Werk produzierte Hochvoltbatterien für den Cadillac Celestiq und die Chevrolet Corvette E-Ray. Außerdem entstanden dort Antriebseinheiten für die elektrifizierte Corvette.</p>
-
-
-
-<h2 class="wp-block-heading">Weniger Beschäftigte und neue Prioritäten bei GM</h2>
-
-
-
-<p>Von einst rund 300 Beschäftigten sind am Standort weniger als zwölf geblieben. GM hatte die Produktion zurückgefahren, weil die Nachfrage hinter den Erwartungen lag. Die betroffenen Mitarbeiter wurden bereits in diesem Jahr informiert. Sie erhielten Angebote für Arbeitsplätze an anderen Standorten in der Umgebung.</p>
-
-
-
-<p>Die Schließung gehört zu einer größeren Neuausrichtung. GM baut weiterhin Elektroautos, räumt Fahrzeugen mit Verbrennungsmotor aber wieder mehr Gewicht ein. Der Wechsel der Antriebsstrategie geht mit milliardenschweren Verlusten einher.</p>
-
-
-
-<p>Auch bei Batterieprojekten zieht sich der Konzern zurück. In diesem Jahr überließ GM seinem bisherigen Partner Samsung SDI ein gemeinsames Werkprojekt in Indiana. Schon 2024 war das Unternehmen aus einem Batterieprojekt in Lansing ausgestiegen. Dort übernahm LG Energy Solution.</p>
-
-
-
-<p><em>Quelle:</em><br><a href="https://insideevs.com/news/812603/gm-brownstown-ev-battery-plant-closure/" target="_blank" rel="noreferrer noopener">https://insideevs.com/news/812603/gm-brownstown-ev-battery-plant-closure/</a></p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/10/22/gm-schliesst-batteriemontage-werk-bei-detroit/">GM schließt Batteriemontage-Werk bei Detroit</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
 ]]></content:encoded>
 					
 		
