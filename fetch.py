@@ -29,6 +29,15 @@
    HTML 面去掉脚本与样式后的可见文字不低于 min_text。不合格的那一版只进 history/
    以便诊断，不覆盖 latest/，于是 latest/ 里永远是最后一次合格的那一版。
    提交标题里的 ok 数从此按 content_ok 计。
+
+7. 「今天该抓哪些源」按 cron 的计划日算，不按开跑那一刻的墙上时钟算（2026-11-04 起）。
+   2026-11-02（UTC 周一）20:30 那一班被 GitHub 推迟了 6 小时 02 分，在 11-03（UTC 周二）
+   02:31 才开跑，于是按周二判 cadence，把十个只在周一抓的每周源整批跳过。
+   现在由工作流传入 KB_CRON_UTC（这一班 cron 的 HH:MM），计划日取「不晚于此刻的最近一次
+   该 cron 时刻」所在的 UTC 日期，延迟只要不满 24 小时就判对。手动跑可直接传 KB_PLAN_DATE。
+   另外每周源从 2026-11-04 起由单独一个更早的 cron（UTC 周一 08:17）抓，
+   由 KB_RUN_SET 区分：daily 这一班抓 daily 与 monthly，weekly 这一班只抓 weekly。
+   fetched_at_utc 仍写真实的墙上时刻，另加一列 plan_date 写计划日，下游按哪一列分组要写明。
 """
 
 from __future__ import annotations
@@ -42,7 +51,7 @@ import sys
 import time
 import urllib.error
 import urllib.request
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 
 ROOT = pathlib.Path(__file__).resolve().parent
 LATEST = ROOT / "latest"
@@ -76,10 +85,32 @@ def today() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 
-def due(cadence: str) -> bool:
-    """按 UTC 日期决定今天该不该抓。daily 每天；weekly 周一；monthly 每月 1 号。
+def plan_date() -> date:
+    """这一班 cron 的计划日（设计依据第 7 条）。优先级：KB_PLAN_DATE、KB_CRON_UTC、墙上时钟。"""
+    s = os.environ.get("KB_PLAN_DATE", "").strip()
+    if s:
+        return date.fromisoformat(s)
+    now = datetime.now(timezone.utc)
+    hhmm = os.environ.get("KB_CRON_UTC", "").strip()
+    if hhmm:
+        h, m = (int(x) for x in hhmm.split(":"))
+        sched = now.replace(hour=h, minute=m, second=0, microsecond=0)
+        if now < sched:
+            sched -= timedelta(days=1)
+        return sched.date()
+    return now.date()
+
+
+# 这一班抓哪几种 cadence（设计依据第 7 条）。没设时与 2026-11-04 之前的行为相同：三种都看。
+RUN_SETS = {"daily": {"daily", "monthly"}, "weekly": {"weekly"}, "all": {"daily", "weekly", "monthly"}}
+
+
+def due(cadence: str, d: date | None = None) -> bool:
+    """按计划日决定该不该抓。daily 每天；weekly 周一；monthly 每月 1 号。
     刻意用日期而不是用「上次抓过没有」，这样补跑一次不会乱掉节奏。"""
-    d = datetime.now(timezone.utc)
+    d = d or plan_date()
+    if cadence not in RUN_SETS.get(os.environ.get("KB_RUN_SET", "all"), RUN_SETS["all"]):
+        return False
     if cadence == "daily":
         return True
     if cadence == "weekly":
@@ -99,6 +130,8 @@ def fetch_one(src: dict) -> dict:
         "url": url,
         "kind": src.get("kind", "page"),
         "fetched_at_utc": now_iso(),
+        "plan_date": PLAN.isoformat(),
+        "run_set": os.environ.get("KB_RUN_SET", "all"),
         "status": None,
         "bytes": None,
         "sha256": None,
@@ -170,10 +203,14 @@ def _append(rec: dict) -> None:
         f.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
 
+PLAN = plan_date()
+
+
 def main() -> int:
     cfg = json.loads((ROOT / "sources.json").read_text(encoding="utf-8"))
-    srcs = [s for s in cfg["sources"] if due(s.get("cadence", "daily"))]
-    print(f"[{now_iso()}] 本次到期 {len(srcs)} / 全部 {len(cfg['sources'])}")
+    srcs = [s for s in cfg["sources"] if due(s.get("cadence", "daily"), PLAN)]
+    print(f"[{now_iso()}] 计划日 {PLAN.isoformat()}（星期{'一二三四五六日'[PLAN.weekday()]}），"
+          f"本班 {os.environ.get('KB_RUN_SET', 'all')}，本次到期 {len(srcs)} / 全部 {len(cfg['sources'])}")
 
     ok = fail = 0
     for s in srcs:
@@ -187,6 +224,14 @@ def main() -> int:
         time.sleep(2)  # 对每个站点客气一点
 
     print(f"[{now_iso()}] 成功 {ok} 失败 {fail}")
+    # 给工作流的提交标题与 digest 用：这一班的计划日、抓了哪几个源、成功几个。
+    # 写在 RUNNER_TEMP 下，不进仓库。
+    out = os.environ.get("KB_RUN_FILE")
+    if out:
+        pathlib.Path(out).write_text(json.dumps({
+            "plan_date": PLAN.isoformat(), "run_set": os.environ.get("KB_RUN_SET", "all"),
+            "slugs": [s["slug"] for s in srcs], "ok": ok, "total": ok + fail}, ensure_ascii=False),
+            encoding="utf-8")
     # 刻意永远返回 0：失败已经被记成 manifest 里的行，让工作流红灯会掩盖掉那些行。
     return 0
 

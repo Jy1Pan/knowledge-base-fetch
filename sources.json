@@ -50,6 +50,14 @@
       "note": "装备工业一司（zbys，主管汽车与动力电池）文件发布栏目的列表接口，返回 JSON，列表在 data.html 里。2026-10-16 改：原先抓的是 /jgsj/zbes/wjfb/，那是装备工业二司（重大技术装备），司别选错了，而且页面本身是前端壳。本接口是在 JyPan 的 Chrome 里从 /jgsj/zbys/wjfb/index.html 的网络请求里读到的，当日列表首条为第 411 批《道路机动车辆生产企业及产品》（2026-10-16）。Actions 的出口能不能取到它尚未实测，下一次运行看 content_ok。"
     },
     {
+      "slug": "miit-jns-wjfb",
+      "line": "L10-cn-battery-reg",
+      "kind": "api",
+      "cadence": "daily",
+      "url": "https://www.miit.gov.cn/api-gateway/jpaas-publish-server/front/page/build/unit?parseType=buildstatic&webId=8d828e408d90447786ddbe128d495e9e&tplSetId=209741b2109044b5b7695700b2bec37e&pageType=column&tagId=%E5%BD%93%E5%89%8D%E6%A0%8F%E7%9B%AE_list&editType=null&pageId=b945a16c930f4e2dba4fb50e1088306f",
+      "note": "节能与综合利用司（jns）文件发布栏目的列表接口，与 miit-news 同一套接口、只换 pageId，列表在 data.html 里。2026-11-04 加：L10 要的碳足迹、回收、梯次利用在这个司，不在 miit-news 那个装备工业一司。pageId 是在 JyPan 的 Chrome 里从 /jgsj/jns/wjfb/index.html 的页面源码读到的，同日在他浏览器里实测 200、application/json、11795 字节、24 条（2026-03-18 到 2026-11-02），标题里 L10 五个关键词命中：碳足迹 1、回收 3、梯次利用 1、白名单 0、核算 0。同主机的 miit-news 在 runner 上 content_ok 为真，这个 pageId 在 runner 上尚未实测。miit-news 暂不删，它的基线在知识库里有人在用。"
+    },
+    {
       "slug": "miit-eidc-cfp-platform",
       "line": "L10-cn-battery-reg",
       "kind": "page",
@@ -68,10 +76,11 @@
     {
       "slug": "nea-green-certificate",
       "line": "L12-grid-factor",
-      "kind": "page",
+      "kind": "api",
       "cadence": "monthly",
-      "url": "https://www.nea.gov.cn/xwzx/nyzx.htm",
-      "note": "国家能源局新闻。绿证月度交易量与均价按月发。注意这个域在知识库容器里连 DNS 都解析不了，所以它只能走本仓库。"
+      "url": "https://www.nea.gov.cn/xwfb/ds_4f3484af7ea244e7ab18d094856c82a6.json",
+      "ext": "json",
+      "note": "国家能源局「新闻发布」栏目（/xwfb/index.htm）背后的列表数据源，页面本身是前端壳。每月下旬发「国家能源局发布YYYY年M月全国可再生能源绿色电力证书核发及交易数据」，2025-07 到 2026-09 连续十五个月都在这一栏，条目的 publishUrl 是相对路径 ../YYYYMMDD/<32位hex>/c.html。2026-11-04 换入，替代 2026-11-01 首抓 404 的 /xwzx/nyzx.htm。JyPan 2026-11-02 在浏览器里取到 200、347432 字节、395 条。这个地址在 runner 上尚未实测：11-01 旧地址返回的是 HTTP 404 而不是解析失败，说明 runner 连得到这台服务器，但新地址能不能取要看 12-01 那一班的 content_ok。"
     },
     {
       "slug": "crossref-rcr",

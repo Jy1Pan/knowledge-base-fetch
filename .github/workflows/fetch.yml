@@ -1,13 +1,26 @@
 name: fetch
 
-# 每天 UTC 20:30 跑一次。刻意排在知识库定时任务（UTC 22:00）之前九十分钟，
-# 这样知识库每次读到的都是当天刚抓的那一版，而不是前一天的。
-# 这个相位差是故意的，知识库那边记了三次「相位差」的坑，这里一次解掉。
+# 两班。每天 UTC 20:30 那一班抓 daily 与 monthly 源；每周源另由 UTC 周一 08:17 那一班抓。
+# 知识库的定时任务在 UTC 00:30 读（2026-10-24 起），所以日班有约四小时余量。
 # 2026-10-16 从 21:30 提前到 20:30：GitHub 的计划任务在高峰时段会被推迟，三十分钟余量不够。
+# 2026-11-04 起：每周源单独一班、提前十二小时。11-02 那一班日班被推迟 6 小时 02 分、跨过 UTC 零点，
+# 按次日（周二）判 cadence，把十个周一才抓的每周源整批跳过。fetch.py 现在按 cron 的计划日判 cadence
+# （设计依据第 7 条），这一条治「跨了零点」；单独一班治「延迟太大」，两条一起做。
+# 两个 cron 字符串在下面 env 里各出现一次，改 cron 时三处一起改。
 on:
   schedule:
     - cron: "30 20 * * *"
-  workflow_dispatch: {}
+    - cron: "17 8 * * 1"
+  workflow_dispatch:
+    inputs:
+      run_set:
+        description: "抓哪一班：daily（daily 与 monthly）、weekly、all（三种都看）"
+        required: false
+        default: "all"
+      plan_date:
+        description: "按哪一天判 cadence（YYYY-MM-DD，留空则按此刻的 UTC 日期）"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -20,6 +33,11 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    env:
+      KB_RUN_SET: ${{ github.event_name == 'schedule' && (github.event.schedule == '17 8 * * 1' && 'weekly' || 'daily') || inputs.run_set || 'all' }}
+      KB_CRON_UTC: ${{ github.event_name == 'schedule' && (github.event.schedule == '17 8 * * 1' && '08:17' || '20:30') || '' }}
+      KB_PLAN_DATE: ${{ inputs.plan_date || '' }}
+      KB_RUN_FILE: /tmp/kb_run.json   # 不进仓库；runner 上下文在 job 级 env 里不可用，所以写死 /tmp
     steps:
       - uses: actions/checkout@v4
         with:
@@ -57,17 +75,15 @@ jobs:
           fi
           # 提交标题里带当天的成功/失败计数，这样下游不读内容也能看出这次跑成了没有。
           # 第二版起按 content_ok 计（状态 200 且过了内容闸门），见 fetch.py 设计依据第 6 条。
-          OK=$(python - <<'PY'
-          import json,pathlib,datetime
-          d=datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d')
-          p=pathlib.Path('manifest.jsonl')
-          rows=[json.loads(l) for l in p.read_text(encoding='utf-8').splitlines() if l.strip()]
-          rows=[r for r in rows if r['fetched_at_utc'].startswith(d)]
-          # 2026-10-16 修：同一天手动跑多次时只算每个源当天最后一行，否则分母是当天全部运行的行数之和（曾出现 ok 11/48，实为 11/16）
-          rows=list({r['slug']: r for r in rows}.values())
-          print(f"{sum(1 for r in rows if r.get('content_ok'))}/{len(rows)}")
+          # 2026-11-04 起 ok 数与日期都取自 fetch.py 写的本班记录（KB_RUN_FILE）：
+          # 日期是计划日不是墙上日期，计数只算本班抓的源。标题前缀 daily 班仍是「fetch」，weekly 班是「fetch-weekly」。
+          read -r PLAN OK PREFIX LATEST < <(python - <<'PY'
+          import json,os
+          r=json.load(open(os.environ['KB_RUN_FILE'],encoding='utf-8'))
+          w=r['run_set']=='weekly'
+          print(r['plan_date'], f"{r['ok']}/{r['total']}", 'fetch-weekly' if w else 'fetch', 'digest/latest-weekly.json' if w else 'digest/latest.json')
           PY
           )
-          DG=$(python -c "import json;d=json.load(open('digest/latest.json'));print(f\"{d['candidates_verified']}/{d['candidates']} {d['run']['status']}\")" 2>/dev/null || echo "n/a")
-          git commit -m "fetch $(date -u +%F): ok ${OK}; digest ${DG}"
+          DG=$(LATEST="$LATEST" python -c "import json,os;d=json.load(open(os.environ['LATEST']));print(f\"{d['candidates_verified']}/{d['candidates']} {d['run']['status']}\")" 2>/dev/null || echo "n/a")
+          git commit -m "${PREFIX} ${PLAN}: ok ${OK}; digest ${DG}"
           git push

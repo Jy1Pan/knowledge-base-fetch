@@ -49,7 +49,9 @@ PROMPT = ROOT / "prompt"
 
 API = "https://api.anthropic.com/v1"
 VERSION = "2023-06-01"
-TEMPERATURE = 0
+# 2026-11-02 改：请求里不再传 temperature。新一代模型对它的取值有限制，传了可能被拒，
+# 而本脚本靠 tool_choice 强制结构化输出，不靠低温度。运行记录里如实写「未传」，不再写 0。
+TEMPERATURE = None
 MAX_TOKENS = 2048
 EXT = {"api": "json", "rss": "xml", "page": "html"}
 
@@ -199,7 +201,7 @@ def call(key, model, system, tool, user, mock, slug):
     if mock is not None:
         return {"input": mock.get(slug, {"candidates": []}), "usage": {"input_tokens": 0, "output_tokens": 0}, "mock": True}
     r = _req("POST", "/messages", key, {
-        "model": model, "max_tokens": MAX_TOKENS, "temperature": TEMPERATURE,
+        "model": model, "max_tokens": MAX_TOKENS,
         "system": system, "tools": [tool], "tool_choice": {"type": "tool", "name": tool["name"]},
         "messages": [{"role": "user", "content": user}]})
     blk = next((b for b in r.get("content", []) if b.get("type") == "tool_use"), None)
@@ -224,7 +226,8 @@ def main() -> int:
         mock = json.loads(pathlib.Path(os.environ["KB_DIGEST_MOCK"]).read_text(encoding="utf-8"))
     key = os.environ.get("ANTHROPIC_API_KEY", "")
 
-    run = {"type": "run", "date": d, "started_utc": now_iso(), "temperature": TEMPERATURE,
+    run = {"type": "run", "date": d, "started_utc": now_iso(),
+           "temperature": "not_sent" if TEMPERATURE is None else TEMPERATURE,
            "prompt_sha256": sha(sys_txt.encode()), "schema_sha256": sha(json.dumps(tool, sort_keys=True).encode()),
            "lines_sha256": sha(lines_raw), "mock": mock is not None,
            "model": None, "model_selected_by": None, "calls": 0,
@@ -232,6 +235,15 @@ def main() -> int:
     recs = []
 
     todo = pick_changed(load_manifest(), d)
+    # 2026-11-04 起每周源由单独一班抓（fetch.py 设计依据第 7 条）。同一天两班都会跑 digest，
+    # 只看本班 fetch.py 抓过的源，否则晚的那一班会把早的那一班已经预读过的每周源再调一次。
+    run_file = os.environ.get("KB_RUN_FILE")
+    run_set = "all"
+    if run_file and pathlib.Path(run_file).exists():
+        run_info = json.loads(pathlib.Path(run_file).read_text(encoding="utf-8"))
+        mine = set(run_info.get("slugs", []))
+        run_set = run_info.get("run_set", "all")
+        todo = [t for t in todo if t["slug"] in mine]
     changed = [t for t in todo if t["state"] == "changed"]
     for t in todo:
         if t["state"] != "changed":
@@ -307,18 +319,39 @@ def main() -> int:
                          "date_found": None if not c.get("date") else norm(c["date"]) in nq,
                          "link_found": None if not c.get("link") else (norm(c["link"]) in nt or norm(c["link"]) in nraw)})
 
+    # 2026-11-02 改：顶层汇总补 api_error 计数，并按实际调用与候选数定运行状态。
+    # 原来只要模型选出来了 status 就一直是 ok，哪怕每一次调用都报错、一条候选都没有，
+    # 11-01 那次 sources_changed 2 而 calls 0、candidates 0 也记成 ok，连续十五天要靠人工判失败。
+    cands = [r for r in recs if r["type"] == "candidate"]
+    api_errors = sum(1 for r in recs if r.get("skip") == "api_error")
+    run["api_error"] = api_errors
+    if run["status"] == "ok":
+        if api_errors and run["calls"] == 0:
+            run["status"] = "api_error"          # 该调的全失败了
+        elif api_errors:
+            run["status"] = "partial"            # 有一次失败就算部分完成
+        elif run["calls"] == 0 and changed:
+            run["status"] = "no_calls"           # 有源变了却一次都没调（跳过原因见各 source 行的 skip）
+        elif run["calls"] == 0:
+            run["status"] = "ok_nothing_changed" # 今天没有源变化，本来就不该调
+        elif not cands:
+            run["status"] = "no_candidates"      # 调用成功但模型一条都没给
+        # 只有 calls > 0 且 candidates > 0 才保持 ok
     run["finished_utc"] = now_iso()
     with out_path.open("a", encoding="utf-8") as f:
         for r in [run] + recs:
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
-    cands = [r for r in recs if r["type"] == "candidate"]
     good = [c for c in cands if c["quote_found"] and c.get("date_found") is not False and c.get("link_found") is not False]
     summary = {"date": d, "run": run, "sources_changed": len(changed),
                "sources_unchanged": sum(1 for t in todo if t["state"] == "unchanged"),
                "sources_baseline": sum(1 for t in todo if t["state"] == "baseline"),
                "candidates": len(cands), "candidates_verified": len(good),
-               "candidates_rejected": len(cands) - len(good), "file": f"digest/{d}.jsonl"}
-    (DIGEST / "latest.json").write_text(json.dumps(summary, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+               "candidates_rejected": len(cands) - len(good), "api_error": api_errors,
+               "status": run["status"], "file": f"digest/{d}.jsonl"}
+    summary["run_set"] = run_set
+    # weekly 那一班写到 latest-weekly.json，免得同一天晚些的 daily 那一班把它盖掉。
+    latest_name = "latest-weekly.json" if run_set == "weekly" else "latest.json"
+    (DIGEST / latest_name).write_text(json.dumps(summary, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(json.dumps(summary, ensure_ascii=False, indent=1))
     return 0
 
