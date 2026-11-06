@@ -12,7 +12,7 @@
 	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.pv-magazine-australia.com/</link>
 	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
-	<lastBuildDate>Thu, 05 Nov 2026 00:13:29 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Nov 2026 22:03:49 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,367 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Researchers recover rooftop PV tilt, azimuth from power data</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/06/researchers-recover-rooftop-pv-tilt-azimuth-from-power-data/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/06/researchers-recover-rooftop-pv-tilt-azimuth-from-power-data/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 22:04:40 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18542</guid>
+
+					<description><![CDATA[An international research team has developed a method to determine rooftop PV array tilt and azimuth from operational power data. Tested on commercial systems in Australia, the method achieved median errors of about 2° for tilt and 4° for azimuth under unshaded conditions.]]></description>
+										<content:encoded><![CDATA[
+<p>An international research team has developed a method to determine the tilt and azimuth of rooftop PV arrays using operational power data. Accurate orientation data is essential for estimating electricity generation and detecting faults, but installation records are often missing or incorrect, while site inspections are impractical for large PV portfolios.</p>
+
+
+
+<p>“This study provides a method to recover panel tilt and azimuth from operational power data while accounting for partial shading and the geometric limit at low tilt,” corresponding author Hanrong Huang told <strong><em>pv magazine</em></strong>. </p>
+
+
+
+<p>“We tested it on 17 commercial rooftop systems in Australia with independently verified orientations. It offers a practical way to fill in missing or wrong tilt and azimuth records without a site visit.”</p>
+
+
+
+<p>The researchers developed and tested the method using operational data collected in 2025 from commercial rooftop PV systems in Australia. The dataset included DC power measurements recorded at five-minute intervals for each maximum power point tracker (MPPT). They used pvlib clear-sky modeling and ERA5 weather data to estimate solar irradiance on panels at different tilt and azimuth angles.</p>
+
+
+
+<p>After selecting periods with high direct irradiance and sufficient morning and afternoon measurements, the researchers used an optimisation algorithm to identify the orientation that best matched the measured power output. The algorithm also adjusted effective system capacity to account for power losses.</p>
+
+
+
+<p>The team also compared two fitting metrics, R² and Huber loss, and assessed the effects of shading, low tilt angles, data resolution, module temperature, and inverter clipping on accuracy. R² measures how well modeled power output matches observed data, while Huber loss reduces the influence of outliers, such as power deviations caused by shading, when fitting the model.</p>
+
+
+
+<p>“On unshaded systems the method recovered tilt to within about 2° and azimuth to within about 4° median error using only DC power data and site coordinates,” said Huang. “Because it works on DC data, it can also find the orientation of each array separately at the MPPT level.”</p>
+
+
+
+<p>Clear-sky modeling consistently outperformed ERA5, which resulted in median tilt errors of 10° to 12° and azimuth errors of 48° to 62° for unshaded systems. Shading increased clear-sky azimuth errors from 4° to 35° when using Huber loss and from 15° to 27° when using R². At tilt angles below 5°, azimuth was difficult to determine because panel orientation has little effect on incident irradiance, limiting the impact of such errors on estimated electricity generation.</p>
+
+
+
+<p>“Our next step is to reduce the effect of partial shading on recovery accuracy, which is the main limitation of the method,” Huang said. “We also want to make it robust to other real operating conditions such as inverter clipping and tripping so that it can be applied reliably at large scale.”</p>
+
+
+
+<p>The researchers presented their findings in “<a href="https://www.sciencedirect.com/science/article/pii/S0038092X26010029" target="_blank" rel="noreferrer noopener">Recovering rooftop photovoltaic array tilt and azimuth from operational power data</a>,” published in <em>Solar Energy</em>. The research team included scientists from the <a href="https://www.pv-magazine.com/2026/10/28/acid-free-molten-salt-method-recovers-94-of-silver-from-solar-cells/" target="_blank" rel="noreferrer noopener">Chinese Academy of Sciences</a>, Australia’s <a href="https://www.pv-magazine.com/2026/10/28/unsw-study-finds-bushfire-risks-to-pv-assets-extend-far-beyond-direct-fire-damage/" target="_blank" rel="noreferrer noopener">University of New South Wales</a>, <a href="https://www.pv-magazine-australia.com/2026/05/20/diagno-secures-formbay-backing-for-solar-and-battery-diagnostics-platform/">Diagno Energy</a>, and <a href="https://www.pv-magazine.com/2024/05/03/researchers-roll-out-algorithms-to-detect-underperforming-rooftop-pv-panels/" target="_blank" rel="noreferrer noopener">Global Sustainable Energy Solutions</a>.</p>
+
+
+
+<p>From <a href="https://www.pv-magazine.com/" target="_blank" rel="noreferrer noopener"><em>pv magazine Global</em></a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/06/researchers-recover-rooftop-pv-tilt-azimuth-from-power-data/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Australian-developed hydrogen technology may cut electricity use by 30%</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/05/australian-developed-hydrogen-technology-may-cut-electricity-use-30/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/05/australian-developed-hydrogen-technology-may-cut-electricity-use-30/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 05:33:24 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18520</guid>
+
+					<description><![CDATA[An Australian-developed hydrogen technology evolved from CSIRO research and advanced by Hadean Energy has the potential to cut green hydrogen costs and improve commercial viability of lower-emissions steelmaking, and other industrial applications.]]></description>
+										<content:encoded><![CDATA[
+<p>An Australian-developed hydrogen technology, evolved from CSIRO research and advanced by Sydney-based clean-tech company Hadean Energy has the potential to cut <a href="https://www.pv-magazine-australia.com/2026/06/24/catalyst-breakthrough-could-accelerate-green-hydrogen-production/" target="_blank" rel="noreferrer noopener">green hydrogen</a> costs and improve commercial viability of lower-emissions steelmaking.</p>
+
+
+
+<p>To be tested in a $30 million pilot green hydrogen plant in Victoria, which Hadean will build and operate, the facility has the backing of the Australian Renewable Energy Agency (ARENA), which has granted the project $15 million (USD 10.5 million).</p>
+
+
+
+<p>Hadean develops and commercialises tubular solid oxide electrolysis (tSOE) technology, developed by the <a href="https://www.pv-magazine-australia.com/2024/11/28/csiro-electrolysis-trial-promises-solid-solution-for-hard-to-abate-industries/" target="_blank" rel="noreferrer noopener">CSIRO</a>, which efficiently splits water into hydrogen and oxygen.</p>
+
+
+
+<p>From the pilot plant, it will deploy its hydrogen product to a steel manufacturing plant to test the technology for its ability to support the goal of lower-emissions steelmaking in a real industrial setting, which is hoped will move it towards commercial use, while building local skills and supply chains.</p>
+
+
+
+<p>By using waste heat from industrial processes, Hadean said the technology can reduce the amount of electricity needed to produce hydrogen by around 30% less than conventional electrolysers.</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="824" height="607" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101.png" alt="" class="wp-image-149900" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101.png 824w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101-300x221.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101-768x566.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101-260x192.png 260w" sizes="(max-width: 824px) 100vw, 824px" /></figure>
+
+
+
+<p>ARENA Chief Executive Officer Darren Miller said reducing electricity use could help make green hydrogen more affordable and practical for industry.&nbsp;</p>
+
+
+
+<p>“This pilot will demonstrate how Hadean’s technology performs in a real-world industrial environment and provide the evidence needed to assess its commercial potential,” Miller said.</p>
+
+
+
+<p>“This could open the door to broader use of green hydrogen in <a href="https://www.pv-magazine-australia.com/press-releases/pivot-to-green-steel-would-unlock-billions-as-australias-120-billion-iron-ore-exports-at-risk-from-steel-sector-decarbonisation/" target="_blank" rel="noreferrer noopener">steelmaking</a> and other industrial applications, while helping build Australia’s hydrogen industrial capability.” </p>
+
+
+
+<p>Federal Minister for Climate Change and Energy Chris Bowen said renewable hydrogen has an important role in cutting <a href="https://www.pv-magazine.com/2026/07/03/the-hydrogen-stream-orica-move-forward-with-50-mw-hydrogen-hub-in-australia/" target="_blank" rel="noreferrer noopener">industrial emissions</a>, particularly where using electricity directly is difficult. </p>
+
+
+
+<p>&#8220;Bringing down the cost of producing it is critical,” Bowen said.</p>
+
+
+
+<p>Federal Minister for Industry and Innovation Tim Ayres added projects like this are at the heart of the Future Made in Australia agenda.</p>
+
+
+
+<p>&#8220;[That is] rebuilding Australia’s industrial capability, growing more Australian firms, and turning Australian innovation into real businesses and good jobs,&#8221; Ayres said.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/05/australian-developed-hydrogen-technology-may-cut-electricity-use-30/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AIKO signs 1 GW of all-back-contact module Gen 4 agreements at All Energy Australia</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/05/aiko-signs-1-gw-of-all-back-contact-module-gen-4-agreements-at-all-energy-australia/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/05/aiko-signs-1-gw-of-all-back-contact-module-gen-4-agreements-at-all-energy-australia/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 03:33:29 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Residential]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18519</guid>
+
+					<description><![CDATA[China-headquartered solar manufacturer AIKO has signed 1 GW of all-back-contact module Gen 4 agreements at All Energy Australia where the new module range was also debuted for the local market.]]></description>
+										<content:encoded><![CDATA[
+<p>China-headquartered All Back Contact (ABC) solar module and integrated solar-storage-solutions manufacturer AIKO has signed 1 GW of <a href="https://www.pv-magazine-australia.com/press-releases/aiko-brings-its-fourth-generation-of-back-contact-solar-to-australia/" target="_blank" rel="noreferrer noopener">Gen 4 </a>agreements at All Energy Australia where the new module range was also debuted ahead of its local market release.</p>
+
+
+
+<p>The Gen 4 range includes the Gen 4 ABC 4.0 INFINITE Ultra cell, featuring six process upgrades that lift average production cell efficiency from 27.2% to 27.4%. </p>
+
+
+
+<p>At the panel level, zero-gap cells, hidden rear connections (InvisiRibbon) and tighter string spacing cut non-generating area by about 20%, so 97% of the surface now produces power.</p>
+
+
+
+<p>Every ABC INFINITE Ultra series format gains up to 20 W over the previous generation, at exactly the same size and weight, which means up to 30 W more power per panel, compared to TOPCon panels of the same dimension, the company said.</p>
+
+
+
+<p>The 60-cell panel (1,954 × 1,134 mm) reaches 560 W, and the 72-cell panel (2,382 × 1,134 mm) reaches 700 W at 25.9% efficiency, the highest in the range.</p>
+
+
+
+<p>Rear-side generation weakness is addressed by Gen 4 with the 66-cell bifacial panel now reaching up to 85% bifaciality and 670 W, which opens back contact to high-albedo sites, carports, ground-mounted systems and solar farms.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="600" height="401" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/20261104024129EST_image_3.jpg" alt="" class="wp-image-149895" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/20261104024129EST_image_3.jpg 600w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/20261104024129EST_image_3-300x201.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/20261104024129EST_image_3-260x174.jpg 260w" sizes="auto, (max-width: 600px) 100vw, 600px" /></figure>
+
+
+
+<p><strong>Agreements and growth</strong></p>
+
+
+
+<p>The company said the agreements show strong demand for its ABC solar modules from installers and customers, and which have already seen 1 GW of its panels delivered to Australian rooftop and grid-scale projects.</p>
+
+
+
+<p>AIKO ANZ Head Thomas Bywater said the company is proud to have delivered its first GW of ABC solar to Australian homes and to have become the panel of choice in under three years.</p>
+
+
+
+<p>&#8220;As Australia moves to unlock its ‘<a href="https://www.pv-magazine-australia.com/2026/08/04/new-100-million-program-to-unlock-missing-middle-of-renewable-energy-shift/" target="_blank" rel="noreferrer noopener">missing middle</a>’ through the expanded rebate for systems up to 1 MW, AIKO is working closely with its distribution partners to bring high-efficiency solar solutions to commercial rooftops, helping Australian businesses access the full value of solar,&#8221; Bywater said.</p>
+
+
+
+<p>AIKO said to respond to the company&#8217;s market <a href="https://www.pv-magazine.com/2026/10/22/aiko-to-convert-perc-factory-into-6-gw-of-abc-cell-capacity/" target="_blank" rel="noreferrer noopener">growth</a> it is expanding a local team and will  focus on commercial and industrial (C&amp;I) and utility-scale solar, with a growing presence in New Zealand.</p>
+
+
+
+<p>AIKO Head of APAC Alex Hang reflected on AIKO&#8217;s arrival into the Australian market, when ACB solar technology was new to most installers.</p>
+
+
+
+<p>&#8220;Today, it is the panel so many of them choose for their own roofs,&#8221; Hang said.</p>
+
+
+
+<p>&#8220;That journey belongs to the partners, installers and customers across Australia and New Zealand who put their trust in AIKO early. With Gen 4 and a growing local team, we are ready to deliver and ready to scale.&#8221;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="555" height="368" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-134737.png" alt="" class="wp-image-149896" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-134737.png 555w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-134737-300x199.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-134737-260x172.png 260w" sizes="auto, (max-width: 555px) 100vw, 555px" /><figcaption class="wp-element-caption">The solar carport built with AIKO panels, in partnership with Canyon Solar, on the AIKO stand at All-Energy Australia 2026. | <i>Image: AIKO</i></figcaption></figure>
+
+
+
+<p><strong>Solar carport solution</strong></p>
+
+
+
+<p>At All-Energy Australia 2026, the company displayed a solar carport solution in partnership with local partner Canyon Solar, a Mittagong, New South Wales (NSW), business that designs prefabricated, modular solar canopies. </p>
+
+
+
+<p>Built with AIKO panels, the carport gives facilities whose roof space is limited for the system they need, a way to generate more clean energy from the space they already have.</p>
+
+
+
+<p>AIKO said it has become the No. 1 panel brand in OpenSolar quoting, with close to 20% of active monthly solar proposals nationwide.</p>
+
+
+
+<p>Installers also voted AIKO No. 1 in the SolarQuotes Installers&#8217; Choice Awards in both 2025 and 2026 and ranked it the best panel in SolarCalculator&#8217;s 2026 Solar Installer Survey, with an average score of 9.4 out of 10. </p>
+
+
+
+<p>Gen 4 panels will be available in Australia following Clean Energy Council listing.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/05/aiko-signs-1-gw-of-all-back-contact-module-gen-4-agreements-at-all-energy-australia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JA unveils the HyperGen Pro module series and liquid-cooled C&#038;I energy storage system</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/05/ja-unveils-the-hypergen-pro-module-series-and-liquid-cooled-ci-energy-storage-system/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/05/ja-unveils-the-hypergen-pro-module-series-and-liquid-cooled-ci-energy-storage-system/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 01:15:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Residential]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18516</guid>
+
+					<description><![CDATA[JA has marked the Australian debut of both the HyperGen Pro module and JA ESS 261 kWh liquid-cooled commercial and industrial energy storage system at All Energy in Melbourne.]]></description>
+										<content:encoded><![CDATA[
+<p>China-headquartered photovoltaic products manufacturer<a href="https://www.pv-magazine-australia.com/2026/06/01/lightyears-biggest-build-yet-marks-milestone-for-ja-solar/" target="_blank" rel="noreferrer noopener"> JA </a>marked the Australian debut of both the HyperGen Pro module and JA ESS 125 kW / 261 kWh liquid-cooled commercial and industrial (C&amp;I) energy storage system, at All Energy Australia 2026.</p>
+
+
+
+<p><a href="https://www.pv-magazine-australia.com/press-releases/ja-solar-ranked-no-1-global-solar-module-manufacturer-by-wood-mackenzie/" target="_blank" rel="noreferrer noopener">Designed</a> with the Australian market in mind, the HyperGen Pro adopts a 1,762 mm module format. The white variant delivers up to 510 W of power output at a maximum efficiency of 25.5%, while the all-black variant offers up to 505 W at 25.3% efficiency.</p>
+
+
+
+<p>Built on a back-contact cell architecture, HyperGen Pro places all electrodes on the rear of the cells, eliminating front-side grid lines. Combined with zero-busbar (0BB) interconnection technology and a full-screen design, the configuration maximises the light-receiving area while delivering a clean, uniform appearance, particularly in the all-black variant.</p>
+
+
+
+<p>The HyperGen Pro weighs 12–14% less than comparable dual-glass modules of the same format reducing structural loads on rooftops while improving heat dissipation and enabling single-person handling.</p>
+
+
+
+<p>The design performs well for commercial and industrial buildings with limited roof load capacity.</p>
+
+
+
+<p>Featuring a HW4 hail-resistance rating and certification the HyperGen can withstand hailstones up to 40 mm in diameter, addressing a key reliability concern in hail-prone regions such as Victoria, New South Wales (NSW) and south-east Queensland.</p>
+
+
+
+<p>A chemically etched, micro-textured glass surface converts specular reflection into diffuse reflection, reducing glare at the source, helping to address reflected-light concerns in urban areas.</p>
+
+
+
+<p>The module’s power temperature coefficient of −0.26%/°C helps limit output losses in hot conditions, and when combined with first-year degradation of 1% and annual linear degradation of 0.35% thereafter, the module can maintain reliable performance over its operating life.</p>
+
+
+
+<p>A bypass design enabled by the cell architecture responds to partial shading, helping limit power losses and reduce hot-spot temperatures, which provides additional protection against common rooftop shading sources, including trees, chimneys and bird droppings.</p>
+
+
+
+<p>JA’s East Asia and South Pacific Region Vice President Daniel Li said Australia is one of the world’s most demanding rooftop solar markets.</p>
+
+
+
+<p>“[It has]  <a href="https://www.pv-magazine-australia.com/2025/08/27/ja-solar-unveils-650-w-topcon-module-for-desert-pv-projects/" target="_blank" rel="noreferrer noopener">intense solar irradiance</a>,, challenging rooftop installation conditions, frequent hailstorms and a rapid shift towards integrated solar-plus-storage solutions,” Li noted.</p>
+
+
+
+<p>“HyperGen Pro was developed with these conditions in mind, combining a lighter design, enhanced hail resistance and reliable performance in high temperatures.”</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-1024x683.png" alt="" class="wp-image-149891" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-1024x683.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-300x200.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-768x512.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-1536x1025.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-260x173.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026.png 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">JA exhibit at All Energy Australia 2026 | <i>Image: JA</i></figcaption></figure>
+
+
+
+<p><strong>JA ESS: 125 kW / 261 kWh Liquid-Cooled C&amp;I Energy Storage</strong></p>
+
+
+
+<p>The JA ESS liquid-cooled C&amp;I energy storage system combines multiple safety measures, energy efficiency and intelligent operation and maintenance (O&amp;M) capabilities.</p>
+
+
+
+<p>Safety is supported by millisecond-level insulation monitoring, a three-tier fire and explosion protection architecture, and real-time battery pack monitoring. Working together, these measures enable early detection of potential thermal runaway risks and provide multiple layers of protection throughout system operation.</p>
+
+
+
+<p>The system uses long-life lithium iron phosphate (LFP) batteries and achieves round-trip efficiency of up to 88%. Its liquid-cooling design also reduces auxiliary power consumption by 10%, helping improve overall system efficiency and long-term project economics.</p>
+
+
+
+<p>For ongoing operations, built-in AI-powered predictive maintenance is designed to minimise unplanned downtime and simplify fault management. According to JA, these capabilities can reduce downtime by up to 90% and enable more than 90% of system faults to be resolved remotely. A modular design further simplifies on-site inspection and component replacement, helping reduce maintenance requirements and operating costs over the system’s lifetime.</p>
+
+
+
+<p><strong>DeepBlue 5.0</strong></p>
+
+
+
+<p>JA also showcased the DeepBlue 5.0 n-type TOPCon series at All Energy, extending its module offering across residential rooftops, commercial and industrial installations, and utility-scale projects.</p>
+
+
+
+<p>For residential applications, the 485 W JAM48D51 LR all-black module combines Tri-Cut cell architecture with Bycium+ 5.0 cell technology and 20-busbar (20BB) current collection, delivering a 0.25% improvement in low-light output.</p>
+
+
+
+<p>For larger commercial, industrial and ground-mounted installations, JA presented the 550 W JAM54D50 GR and 670 W JAM66D50 GB modules. The 670 W model offers a bifaciality of 85% ± 5%, a power temperature coefficient of −0.26%/°C, and a degradation rate of 1% in the first year, followed by 0.35% annually thereafter.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-1024x683.png" alt="" class="wp-image-149892" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-1024x683.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-300x200.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-768x512.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-1536x1024.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-260x173.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate.png 1620w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">At All Energy Australia 2026, JA received SunWiz’s “#1 Win Rate — Panel Proposal to Sale” award and was also recognised as a Top Solar Company.
+
+ | <i>Image: JA</i></figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/05/ja-unveils-the-hypergen-pro-module-series-and-liquid-cooled-ci-energy-storage-system/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>NZ clean energy pipeline set for $800 million boost from UAE investor</title>
 		<link>https://www.pv-magazine-australia.com/2026/11/05/nz-clean-energy-pipeline-set-for-800-million-boost-from-uae-investor/</link>
 					<comments>https://www.pv-magazine-australia.com/2026/11/05/nz-clean-energy-pipeline-set-for-800-million-boost-from-uae-investor/#respond</comments>
@@ -133,7 +494,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="767" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-1024x767.jpg" alt="" class="wp-image-149888" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-1024x767.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-300x225.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-768x575.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-1536x1150.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-2048x1534.jpg 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-260x195.jpg 260w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">The 200 MW / 500 MWh Williamsdale BESS utilitises Tesla Megapack 2 XL batteries | <i>Image: Eku Energy</i></figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="767" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-1024x767.jpg" alt="" class="wp-image-149888" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-1024x767.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-300x225.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-768x575.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-1536x1150.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-2048x1534.jpg 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-260x195.jpg 260w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">The 200 MW / 500 MWh Williamsdale BESS utilitises Tesla Megapack 2 XL batteries | <i>Image: Eku Energy</i></figcaption></figure>
 
 
 
@@ -381,7 +742,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="801" height="555" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26.png" alt="" class="wp-image-149606" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26.png 801w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26-300x208.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26-768x532.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26-406x280.png 406w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26-260x180.png 260w" sizes="(max-width: 801px) 100vw, 801px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="801" height="555" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26.png" alt="" class="wp-image-149606" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26.png 801w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26-300x208.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26-768x532.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26-406x280.png 406w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26-260x180.png 260w" sizes="auto, (max-width: 801px) 100vw, 801px" /></figure>
 
 
 
@@ -612,255 +973,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/04/renewables-advantage-gives-australia-chance-to-be-global-data-centre-leader/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>AGL seeks nod for 2 GWh big battery in central Queensland</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/04/agl-seeks-nod-for-2-gwh-big-battery-in-central-queensland/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/04/agl-seeks-nod-for-2-gwh-big-battery-in-central-queensland/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 23:34:00 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18472</guid>
-
-					<description><![CDATA[Plans to develop a 2 GWh battery energy storage system in central Queensland have joined the queue for assessment under the Australian government’s Environment Protection and Biodiversity Conservation Act.]]></description>
-										<content:encoded><![CDATA[
-<p>Energy generating and retailing major <a href="https://www.pv-magazine.com/2026/07/08/agl-delivers-solar-powered-microgrid-for-farming-operation-2/">AGL Energy&nbsp;</a>is seeking approvals under the federal government’s Environment Protection and Biodiversity Conservation (EPBC) Act for a 500 MW / 2,000 MWh battery to be built in central Queensland.</p>
-
-
-
-<p>The proposed Mount Britton battery project comprises a standalone battery energy storage system (BESS) with 500 MW of power capacity and four hours of total usable storage. The BESS, planned for a 27-hectare site near the town of Nebo about 75 kilometres southwest of Mackay, would connect to Powerlink&#8217;s 275 kV transmission network at the existing Nebo substation.</p>
-
-
-
-<p>In referral documents, AGL said the project could be delivered in multiple construction phases of up to 250 MW each, or as a single 500 MW phase.</p>
-
-
-
-<p>The Sydney-based energy utility expects the BESS to become a significant addition to central Queensland&#8217;s energy infrastructure.</p>
-
-
-
-<p>“When constructed, the project will provide local electricity network resilience through stabilisation services such as frequency and voltage control, and manage energy peak demand periods as the grid transitions to renewable energy,” it said.</p>
-
-
-
-<p>The Mount Britton BESS project forms part of AGL’s <a href="https://www.pv-magazine-australia.com/2026/07/14/agl-partners-with-perth-airport-to-build-4-5-mw-solar-farm/">ongoing transition</a> away from coal-fired power generation to a majority of backed-up renewables.</p>
-
-
-
-<p>“With the changing nature of electricity demand across Australia, there&#8217;s an increasing need for more flexible generation and generation from a diverse range of sources and in a range of locations,” the energy utility said, adding that “battery storage can start at short notice and ramp up and down quickly, making them an excellent complement to higher levels of variable renewable generation such as wind and solar.”</p>
-
-
-
-<p>AGL has more than 2 GW of renewable projects in its pipeline and said it is on track to meet its ambition to add 12 GW of new renewable and firming capacity by the end of 2035 with more than 1.2 GW of grid-scale batteries in operation or under construction.</p>
-
-
-
-<p>The energy major already owns and operates the <a href="https://www.pv-magazine-australia.com/2026/09/18/four-projects-backed-by-2023-nsw-firming-tender-achieve-3-gwh-milestone/">500 MW / 1,000 MWh Liddell</a> and the 50 MW / 50 MWh Broken Hill batteries in New South Wales, and the 250 MW / 250 MWh Torrens Island BESS in South Australia. It is also constructing the 500 MW / 2,000 MWh <a href="https://www.pv-magazine-australia.com/2025/12/08/agl-reaches-milestone-on-2-gwh-tomago-battery/">Tomago battery</a>&nbsp;on the NSW Central Coast.</p>
-
-
-
-<p>Its Queensland battery projects include the 125 MW / 500 MWh Abermain BESS in the state’s southeast, the 200 MW Aramara battery project, and the 500 MW / 2,000 MWh Tuckeroo BESS in the Western Downs region.</p>
-
-
-
-<p>Of AGL’s current 23 projects under development, 14 are standalone batteries.</p>
-
-
-
-<p>AGL closed its Liddell coal power station in NSW in 2023 and is due to close Bayswater nearby at the end of 2033, and Loy Yang A in Victoria in 2035.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/04/agl-seeks-nod-for-2-gwh-big-battery-in-central-queensland/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Yingfa Ruineng establishes 7.5 GW PV manufacturing plant in Indonesia</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/04/yingfa-ruineng-establishes-7-5-gw-pv-manufacturing-plant-in-indonesia/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/04/yingfa-ruineng-establishes-7-5-gw-pv-manufacturing-plant-in-indonesia/#respond</comments>
-		
-		<dc:creator><![CDATA[Patrick Jowett]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 22:46:00 +0000</pubDate>
-				<category><![CDATA[Markets & Policy]]></category>
-		<category><![CDATA[cells & modules]]></category>
-		<category><![CDATA[manufacturing]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18494</guid>
-
-					<description><![CDATA[The facility is the Chinese manufacturer’s first overseas base. It will produce n-type TOPCon solar cells for Indonesia’s domestic market while also acting as a regional supply hub for Southeast Asia and the Middle East.]]></description>
-										<content:encoded><![CDATA[
-<p>Chinese solar cell manufacturer Yingfa Ruineng has unveiled a 7.5 GW solar cell manufacturing plant in Indonesia. The facility, presented at technology launch event hosted by Yingfa Ruineng’s subsidiary BCI, will produce n-type tunnel oxide passivated contact (TOPCon) solar cells.</p>
-
-
-
-<p>A statement released by Yingfa Ruineng explains the facility is intended to serve as a regional supply hub for Southeast Asia, the Middle East and other international markets.</p>
-
-
-
-<p>The company adds it will also support Indonesia’s <a href="https://www.pv-magazine.com/2026/10/19/indonesian-president-instructs-transformation-of-power-utility/" target="_blank" rel="noreferrer noopener">100 GW solar power program</a> alongside the country’s efforts to strengthen domestic manufacturing and local content.</p>
-
-
-
-<p>“For project developers, contractors and module manufacturers, local cell production can offer shorter supply routes, closer technical coordination and greater flexibility in supply planning,” the statement explains.&nbsp;“BCI’s local capabilities are also intended to help Indonesian module manufacturers address [Indonesia’s official local content requirement] TKDN, subject to relevant product certification and regulatory requirements.”</p>
-
-
-
-<p>The facility is Yingfa Ruineng’s first overseas manufacturing base, adding to its three in China. Together, the four bases have a combined effective capacity of 51.5 GW, according to figures released by the company, including 45.5 GW of n-type TOPCon capacity.</p>
-
-
-
-<p>The launch event also highlighted Yingfa Ruineng’s half-cell passivation, multi-cut cell designs and back-contact (BC) solar cells. The company says it is advancing both its TOPCon and BC platforms and claims to have also completed an initial end-to-end fabrication process for perovskite/BC tandem solar modules.</p>
-
-
-
-<p>Yingfa Ruineng <a href="https://www.pv-magazine.com/2026/08/14/chinese-pv-industry-brief-longi-plans-100-mw-perovskite-silicon-tandem-solar-cell-pilot-line/#:~:text=PV%20industry%20research%20firm%20InfoLink%20released%20its%20global%20cell%20shipment%20ranking%20for%20the%20first%20half%20of%202026%20on%20Aug.%2010.%20The%20top%20five%20cell%20manufacturers%20shipped%20a%20combined%2091.9%20GW%2C%20up%205%25%20year%20on%20year.%20Tongwei%20ranked%20first%2C%20followed%20by%20Yingfa%20Ruineng%2C%20SolarSpace%2C%20Jietai%20Technology%20and%20Sunsync." target="_blank" rel="noreferrer noopener">ranked second</a> for global solar cell shipments in the first half of 2026, according to PV industry research firm InfoLink, behind only Tongwei.</p>
-
-
-
-<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/04/yingfa-ruineng-establishes-7-5-gw-pv-manufacturing-plant-in-indonesia/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Australian innovation recognised with global smart grid award</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/04/australian-innovation-recognised-with-global-smart-grid-award/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/04/australian-innovation-recognised-with-global-smart-grid-award/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 21:59:00 +0000</pubDate>
-				<category><![CDATA[Research & Development]]></category>
-		<category><![CDATA[Inverters]]></category>
-		<category><![CDATA[Residential]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18471</guid>
-
-					<description><![CDATA[Australia’s national science agency has been recognised on the international stage for its work in helping electricity networks support higher levels of rooftop solar integration in existing infrastructure.]]></description>
-										<content:encoded><![CDATA[
-<p>The CSIRO has been presented with the 2026 International Smart Grid Action Network (ISGAN) Award of Excellence for showcasing how more dynamic use of existing networks can help integrate more customer-generated energy from rooftop solar into the grid efficiently and reliably.</p>
-
-
-
-<p>CSIRO’s submission – Dynamic Operating Envelope Integration Via An Interoperable Utility-Distributed Energy Resource Communication Standard – highlights Australia’s journey in developing and adopting Dynamic Operating Envelopes (DOEs) which facilitate flexible export to the grid of energy from rooftop solar.</p>
-
-
-
-<p>Nanduni Nimalsiri, a Senior Research Scientist at CSIRO who specialises in power systems and renewable energy integration, said the submission showcases the collective research, innovation and collaboration that has supported DOEs transition from concept to practical implementation.</p>
-
-
-
-<p>“This award recognises years of collaboration to solve a common challenge as electricity systems adapt to increasing levels of distributed renewable energy,” she said.</p>
-
-
-
-<p>Australia has one of the highest rates of rooftop solar adoption in the world but on sunny days, homes and businesses can generate more electricity than they need with the surplus available for export back to the grid. In some areas however local electricity networks can only accept a limited amount of solar exports at certain times.</p>
-
-
-
-<p>Traditionally, operators have managed this challenge by setting fixed export limits, restricting how much solar energy customers can export to the grid regardless of whether additional capacity might be available.</p>
-
-
-
-<p>Nimalsiri said DOEs allow export limits to change throughout the day in response to actual network conditions. When there is spare capacity on the network, solar customers can export more electricity. When the network is under pressure, export levels can be reduced temporarily to maintain reliability. Key to the DOEs are communication standards that allows electricity networks and customer-owned energy devices, such as solar inverters, to securely talk with each other.</p>
-
-
-
-<p>“Think of it as a variable speed limit for solar exports,” she said. “Rather than relying on fixed limits, we&#8217;re using real-time information to better match solar exports with available network capacity. That means customers can export more clean energy when the network can accommodate it, while maintaining reliability for everyone.”</p>
-
-
-
-<p>Nimalsiri said Australia’s experience with DOEs provides lessons that can be shared on the world stage, helping to unlock more value from rooftop solar.</p>
-
-
-
-<p>“By making better use of available capacity, we can enable more clean energy exports without major infrastructure upgrades,” she said.</p>
-
-
-
-<p>“With many countries grappling with how to integrate growing numbers of customer-owned distributed energy resources like rooftop solar, Australia’s experience offers valuable lessons for the advancement of smart grids worldwide.</p>
-
-
-
-<p>The ISGAN Award of Excellence was presented during a gala event in Singapore. The CSIRO submission was selected for the award from a range of smart-grid nominations representing projects from 10 different countries.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/04/australian-innovation-recognised-with-global-smart-grid-award/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Gokin unveils latest additions to back-contact module portfolio</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/03/gokin-unveils-latest-additions-to-back-contact-module-portfolio/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/03/gokin-unveils-latest-additions-to-back-contact-module-portfolio/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 04:52:00 +0000</pubDate>
-				<category><![CDATA[Technology & Products]]></category>
-		<category><![CDATA[Commercial & industrial]]></category>
-		<category><![CDATA[Modules]]></category>
-		<category><![CDATA[Residential]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18452</guid>
-
-					<description><![CDATA[Gokin Solar has unveiled a back-contact module series offering power outputs up to 510 W for Australian residential and commercial rooftops. The series supports 1,500 V systems and reaches efficiencies of up to 25%.]]></description>
-										<content:encoded><![CDATA[
-<p>Chinese wafer and module manufacturer&nbsp;<a href="https://www.pv-magazine-australia.com/2025/12/16/gokin-solar-launches-new-back-contact-solar-module-series/">Gokin Solar</a> has introduced a new single-glass solar module series for the Australian residential and commercial markets. The framed glass-backsheet panel features 108 N-type back-contact (BC) half-cells sourced from fellow Chinese manufacturer Aiko.</p>
-
-
-
-<p>“We have a lot of partners like Jinko, Trina, Astronergy, and Aiko that we sell our wafers to, and in turn we buy cells from them,” Gokin Australia Manager Charles Guo said.</p>
-
-
-
-<p>“Because we control our own wafers, we can buy these cells with no limitations. Our BC cells are from <a href="https://www.pv-magazine.com/2026/10/22/aiko-to-convert-perc-factory-into-6-gw-of-abc-cell-capacity/">Aiko</a> and we source TOPcon cells from other partners.”</p>
-
-
-
-<p>Guo said the arrangement allows Gokin to provide premium products for its customers with the company claiming its BC platform produces 6–10% more output than TOPCon products for the same installed area.</p>
-
-
-
-<p>“Where the roof plane is the binding constraint, this differential directly reduces the number of modules required and the associated mounting and cabling labour,” Gokin said.</p>
-
-
-
-<p>The BC GK-3-54HGF module series includes four variants ranging from 495 W to 510 W. All modules are Clean Energy Council (CEC) certified. Maximum module efficiencies range from 24.3% up to 25%, with a maximum system voltage rating of 1,500 V and a 25 A maximum series fuse rating.</p>
-
-
-
-<p>The single-glass panel measures 1,800 mm × 1,134 mm × 30 mm and weighs 21.4 kg. For mechanical durability, the module is rated for a 5,400 Pa front load and 2,400 Pa back load, while the 3.2 mm tempered glass offers hail resistance capable of withstanding impacts up to 25 mm at 23 m/s.&nbsp;</p>
-
-
-
-<p>The modules feature a black anodised aluminum frame, an IP-68 rated junction box, and are rated for operating temperatures of −40℃to +85℃.&nbsp;</p>
-
-
-
-<p>Gokin backs the BC GK-3-54HGF module series with a 25-year product warranty and a 30-year linear performance guarantee covering a maximum first-year power degradation of 1.0% followed by an annual degradation rate of 0.35%, guaranteeing at least 88.85% of original nameplate output at year 30. </p>
-
-
-
-<p>Guo said he expects the BC GK-3-54HGF module series to be available in Australia from early 2027.</p>
-
-
-
-<p>The unveiling of the modules series coincided with Gokin announcing it had signed agreements with OSW, GBP, and Peak Energy.</p>
-
-
-
-<p>The company said these partnerships mark a significant step in expanding Gokin&#8217;s footprint across the Australian market.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/03/gokin-unveils-latest-additions-to-back-contact-module-portfolio/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pv magazine Australia</title>
+	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.pv-magazine-australia.com/</link>
+	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
+	<lastBuildDate>Thu, 05 Nov 2026 22:03:49 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.12</generator>
+
+<image>
+	<url>https://www.pv-magazine-australia.com/wp-content/uploads/2024/12/cropped-fav-australia-32x32.png</url>
+	<title>pv magazine Australia</title>
+	<link>https://www.pv-magazine-australia.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Researchers recover rooftop PV tilt, azimuth from power data</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/06/researchers-recover-rooftop-pv-tilt-azimuth-from-power-data/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/06/researchers-recover-rooftop-pv-tilt-azimuth-from-power-data/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 22:04:40 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18542</guid>
+
+					<description><![CDATA[An international research team has developed a method to determine rooftop PV array tilt and azimuth from operational power data. Tested on commercial systems in Australia, the method achieved median errors of about 2° for tilt and 4° for azimuth under unshaded conditions.]]></description>
+										<content:encoded><![CDATA[
+<p>An international research team has developed a method to determine the tilt and azimuth of rooftop PV arrays using operational power data. Accurate orientation data is essential for estimating electricity generation and detecting faults, but installation records are often missing or incorrect, while site inspections are impractical for large PV portfolios.</p>
+
+
+
+<p>“This study provides a method to recover panel tilt and azimuth from operational power data while accounting for partial shading and the geometric limit at low tilt,” corresponding author Hanrong Huang told <strong><em>pv magazine</em></strong>. </p>
+
+
+
+<p>“We tested it on 17 commercial rooftop systems in Australia with independently verified orientations. It offers a practical way to fill in missing or wrong tilt and azimuth records without a site visit.”</p>
+
+
+
+<p>The researchers developed and tested the method using operational data collected in 2025 from commercial rooftop PV systems in Australia. The dataset included DC power measurements recorded at five-minute intervals for each maximum power point tracker (MPPT). They used pvlib clear-sky modeling and ERA5 weather data to estimate solar irradiance on panels at different tilt and azimuth angles.</p>
+
+
+
+<p>After selecting periods with high direct irradiance and sufficient morning and afternoon measurements, the researchers used an optimisation algorithm to identify the orientation that best matched the measured power output. The algorithm also adjusted effective system capacity to account for power losses.</p>
+
+
+
+<p>The team also compared two fitting metrics, R² and Huber loss, and assessed the effects of shading, low tilt angles, data resolution, module temperature, and inverter clipping on accuracy. R² measures how well modeled power output matches observed data, while Huber loss reduces the influence of outliers, such as power deviations caused by shading, when fitting the model.</p>
+
+
+
+<p>“On unshaded systems the method recovered tilt to within about 2° and azimuth to within about 4° median error using only DC power data and site coordinates,” said Huang. “Because it works on DC data, it can also find the orientation of each array separately at the MPPT level.”</p>
+
+
+
+<p>Clear-sky modeling consistently outperformed ERA5, which resulted in median tilt errors of 10° to 12° and azimuth errors of 48° to 62° for unshaded systems. Shading increased clear-sky azimuth errors from 4° to 35° when using Huber loss and from 15° to 27° when using R². At tilt angles below 5°, azimuth was difficult to determine because panel orientation has little effect on incident irradiance, limiting the impact of such errors on estimated electricity generation.</p>
+
+
+
+<p>“Our next step is to reduce the effect of partial shading on recovery accuracy, which is the main limitation of the method,” Huang said. “We also want to make it robust to other real operating conditions such as inverter clipping and tripping so that it can be applied reliably at large scale.”</p>
+
+
+
+<p>The researchers presented their findings in “<a href="https://www.sciencedirect.com/science/article/pii/S0038092X26010029" target="_blank" rel="noreferrer noopener">Recovering rooftop photovoltaic array tilt and azimuth from operational power data</a>,” published in <em>Solar Energy</em>. The research team included scientists from the <a href="https://www.pv-magazine.com/2026/10/28/acid-free-molten-salt-method-recovers-94-of-silver-from-solar-cells/" target="_blank" rel="noreferrer noopener">Chinese Academy of Sciences</a>, Australia’s <a href="https://www.pv-magazine.com/2026/10/28/unsw-study-finds-bushfire-risks-to-pv-assets-extend-far-beyond-direct-fire-damage/" target="_blank" rel="noreferrer noopener">University of New South Wales</a>, <a href="https://www.pv-magazine-australia.com/2026/05/20/diagno-secures-formbay-backing-for-solar-and-battery-diagnostics-platform/">Diagno Energy</a>, and <a href="https://www.pv-magazine.com/2024/05/03/researchers-roll-out-algorithms-to-detect-underperforming-rooftop-pv-panels/" target="_blank" rel="noreferrer noopener">Global Sustainable Energy Solutions</a>.</p>
+
+
+
+<p>From <a href="https://www.pv-magazine.com/" target="_blank" rel="noreferrer noopener"><em>pv magazine Global</em></a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/06/researchers-recover-rooftop-pv-tilt-azimuth-from-power-data/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Australian-developed hydrogen technology may cut electricity use by 30%</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/05/australian-developed-hydrogen-technology-may-cut-electricity-use-30/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/05/australian-developed-hydrogen-technology-may-cut-electricity-use-30/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 05:33:24 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18520</guid>
+
+					<description><![CDATA[An Australian-developed hydrogen technology evolved from CSIRO research and advanced by Hadean Energy has the potential to cut green hydrogen costs and improve commercial viability of lower-emissions steelmaking, and other industrial applications.]]></description>
+										<content:encoded><![CDATA[
+<p>An Australian-developed hydrogen technology, evolved from CSIRO research and advanced by Sydney-based clean-tech company Hadean Energy has the potential to cut <a href="https://www.pv-magazine-australia.com/2026/06/24/catalyst-breakthrough-could-accelerate-green-hydrogen-production/" target="_blank" rel="noreferrer noopener">green hydrogen</a> costs and improve commercial viability of lower-emissions steelmaking.</p>
+
+
+
+<p>To be tested in a $30 million pilot green hydrogen plant in Victoria, which Hadean will build and operate, the facility has the backing of the Australian Renewable Energy Agency (ARENA), which has granted the project $15 million (USD 10.5 million).</p>
+
+
+
+<p>Hadean develops and commercialises tubular solid oxide electrolysis (tSOE) technology, developed by the <a href="https://www.pv-magazine-australia.com/2024/11/28/csiro-electrolysis-trial-promises-solid-solution-for-hard-to-abate-industries/" target="_blank" rel="noreferrer noopener">CSIRO</a>, which efficiently splits water into hydrogen and oxygen.</p>
+
+
+
+<p>From the pilot plant, it will deploy its hydrogen product to a steel manufacturing plant to test the technology for its ability to support the goal of lower-emissions steelmaking in a real industrial setting, which is hoped will move it towards commercial use, while building local skills and supply chains.</p>
+
+
+
+<p>By using waste heat from industrial processes, Hadean said the technology can reduce the amount of electricity needed to produce hydrogen by around 30% less than conventional electrolysers.</p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="824" height="607" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101.png" alt="" class="wp-image-149900" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101.png 824w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101-300x221.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101-768x566.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101-260x192.png 260w" sizes="(max-width: 824px) 100vw, 824px" /></figure>
+
+
+
+<p>ARENA Chief Executive Officer Darren Miller said reducing electricity use could help make green hydrogen more affordable and practical for industry.&nbsp;</p>
+
+
+
+<p>“This pilot will demonstrate how Hadean’s technology performs in a real-world industrial environment and provide the evidence needed to assess its commercial potential,” Miller said.</p>
+
+
+
+<p>“This could open the door to broader use of green hydrogen in <a href="https://www.pv-magazine-australia.com/press-releases/pivot-to-green-steel-would-unlock-billions-as-australias-120-billion-iron-ore-exports-at-risk-from-steel-sector-decarbonisation/" target="_blank" rel="noreferrer noopener">steelmaking</a> and other industrial applications, while helping build Australia’s hydrogen industrial capability.” </p>
+
+
+
+<p>Federal Minister for Climate Change and Energy Chris Bowen said renewable hydrogen has an important role in cutting <a href="https://www.pv-magazine.com/2026/07/03/the-hydrogen-stream-orica-move-forward-with-50-mw-hydrogen-hub-in-australia/" target="_blank" rel="noreferrer noopener">industrial emissions</a>, particularly where using electricity directly is difficult. </p>
+
+
+
+<p>&#8220;Bringing down the cost of producing it is critical,” Bowen said.</p>
+
+
+
+<p>Federal Minister for Industry and Innovation Tim Ayres added projects like this are at the heart of the Future Made in Australia agenda.</p>
+
+
+
+<p>&#8220;[That is] rebuilding Australia’s industrial capability, growing more Australian firms, and turning Australian innovation into real businesses and good jobs,&#8221; Ayres said.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/05/australian-developed-hydrogen-technology-may-cut-electricity-use-30/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AIKO signs 1 GW of all-back-contact module Gen 4 agreements at All Energy Australia</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/05/aiko-signs-1-gw-of-all-back-contact-module-gen-4-agreements-at-all-energy-australia/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/05/aiko-signs-1-gw-of-all-back-contact-module-gen-4-agreements-at-all-energy-australia/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 03:33:29 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Residential]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18519</guid>
+
+					<description><![CDATA[China-headquartered solar manufacturer AIKO has signed 1 GW of all-back-contact module Gen 4 agreements at All Energy Australia where the new module range was also debuted for the local market.]]></description>
+										<content:encoded><![CDATA[
+<p>China-headquartered All Back Contact (ABC) solar module and integrated solar-storage-solutions manufacturer AIKO has signed 1 GW of <a href="https://www.pv-magazine-australia.com/press-releases/aiko-brings-its-fourth-generation-of-back-contact-solar-to-australia/" target="_blank" rel="noreferrer noopener">Gen 4 </a>agreements at All Energy Australia where the new module range was also debuted ahead of its local market release.</p>
+
+
+
+<p>The Gen 4 range includes the Gen 4 ABC 4.0 INFINITE Ultra cell, featuring six process upgrades that lift average production cell efficiency from 27.2% to 27.4%. </p>
+
+
+
+<p>At the panel level, zero-gap cells, hidden rear connections (InvisiRibbon) and tighter string spacing cut non-generating area by about 20%, so 97% of the surface now produces power.</p>
+
+
+
+<p>Every ABC INFINITE Ultra series format gains up to 20 W over the previous generation, at exactly the same size and weight, which means up to 30 W more power per panel, compared to TOPCon panels of the same dimension, the company said.</p>
+
+
+
+<p>The 60-cell panel (1,954 × 1,134 mm) reaches 560 W, and the 72-cell panel (2,382 × 1,134 mm) reaches 700 W at 25.9% efficiency, the highest in the range.</p>
+
+
+
+<p>Rear-side generation weakness is addressed by Gen 4 with the 66-cell bifacial panel now reaching up to 85% bifaciality and 670 W, which opens back contact to high-albedo sites, carports, ground-mounted systems and solar farms.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="600" height="401" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/20261104024129EST_image_3.jpg" alt="" class="wp-image-149895" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/20261104024129EST_image_3.jpg 600w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/20261104024129EST_image_3-300x201.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/20261104024129EST_image_3-260x174.jpg 260w" sizes="auto, (max-width: 600px) 100vw, 600px" /></figure>
+
+
+
+<p><strong>Agreements and growth</strong></p>
+
+
+
+<p>The company said the agreements show strong demand for its ABC solar modules from installers and customers, and which have already seen 1 GW of its panels delivered to Australian rooftop and grid-scale projects.</p>
+
+
+
+<p>AIKO ANZ Head Thomas Bywater said the company is proud to have delivered its first GW of ABC solar to Australian homes and to have become the panel of choice in under three years.</p>
+
+
+
+<p>&#8220;As Australia moves to unlock its ‘<a href="https://www.pv-magazine-australia.com/2026/08/04/new-100-million-program-to-unlock-missing-middle-of-renewable-energy-shift/" target="_blank" rel="noreferrer noopener">missing middle</a>’ through the expanded rebate for systems up to 1 MW, AIKO is working closely with its distribution partners to bring high-efficiency solar solutions to commercial rooftops, helping Australian businesses access the full value of solar,&#8221; Bywater said.</p>
+
+
+
+<p>AIKO said to respond to the company&#8217;s market <a href="https://www.pv-magazine.com/2026/10/22/aiko-to-convert-perc-factory-into-6-gw-of-abc-cell-capacity/" target="_blank" rel="noreferrer noopener">growth</a> it is expanding a local team and will  focus on commercial and industrial (C&amp;I) and utility-scale solar, with a growing presence in New Zealand.</p>
+
+
+
+<p>AIKO Head of APAC Alex Hang reflected on AIKO&#8217;s arrival into the Australian market, when ACB solar technology was new to most installers.</p>
+
+
+
+<p>&#8220;Today, it is the panel so many of them choose for their own roofs,&#8221; Hang said.</p>
+
+
+
+<p>&#8220;That journey belongs to the partners, installers and customers across Australia and New Zealand who put their trust in AIKO early. With Gen 4 and a growing local team, we are ready to deliver and ready to scale.&#8221;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="555" height="368" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-134737.png" alt="" class="wp-image-149896" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-134737.png 555w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-134737-300x199.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-134737-260x172.png 260w" sizes="auto, (max-width: 555px) 100vw, 555px" /><figcaption class="wp-element-caption">The solar carport built with AIKO panels, in partnership with Canyon Solar, on the AIKO stand at All-Energy Australia 2026. | <i>Image: AIKO</i></figcaption></figure>
+
+
+
+<p><strong>Solar carport solution</strong></p>
+
+
+
+<p>At All-Energy Australia 2026, the company displayed a solar carport solution in partnership with local partner Canyon Solar, a Mittagong, New South Wales (NSW), business that designs prefabricated, modular solar canopies. </p>
+
+
+
+<p>Built with AIKO panels, the carport gives facilities whose roof space is limited for the system they need, a way to generate more clean energy from the space they already have.</p>
+
+
+
+<p>AIKO said it has become the No. 1 panel brand in OpenSolar quoting, with close to 20% of active monthly solar proposals nationwide.</p>
+
+
+
+<p>Installers also voted AIKO No. 1 in the SolarQuotes Installers&#8217; Choice Awards in both 2025 and 2026 and ranked it the best panel in SolarCalculator&#8217;s 2026 Solar Installer Survey, with an average score of 9.4 out of 10. </p>
+
+
+
+<p>Gen 4 panels will be available in Australia following Clean Energy Council listing.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/05/aiko-signs-1-gw-of-all-back-contact-module-gen-4-agreements-at-all-energy-australia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JA unveils the HyperGen Pro module series and liquid-cooled C&#038;I energy storage system</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/05/ja-unveils-the-hypergen-pro-module-series-and-liquid-cooled-ci-energy-storage-system/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/05/ja-unveils-the-hypergen-pro-module-series-and-liquid-cooled-ci-energy-storage-system/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 01:15:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Residential]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18516</guid>
+
+					<description><![CDATA[JA has marked the Australian debut of both the HyperGen Pro module and JA ESS 261 kWh liquid-cooled commercial and industrial energy storage system at All Energy in Melbourne.]]></description>
+										<content:encoded><![CDATA[
+<p>China-headquartered photovoltaic products manufacturer<a href="https://www.pv-magazine-australia.com/2026/06/01/lightyears-biggest-build-yet-marks-milestone-for-ja-solar/" target="_blank" rel="noreferrer noopener"> JA </a>marked the Australian debut of both the HyperGen Pro module and JA ESS 125 kW / 261 kWh liquid-cooled commercial and industrial (C&amp;I) energy storage system, at All Energy Australia 2026.</p>
+
+
+
+<p><a href="https://www.pv-magazine-australia.com/press-releases/ja-solar-ranked-no-1-global-solar-module-manufacturer-by-wood-mackenzie/" target="_blank" rel="noreferrer noopener">Designed</a> with the Australian market in mind, the HyperGen Pro adopts a 1,762 mm module format. The white variant delivers up to 510 W of power output at a maximum efficiency of 25.5%, while the all-black variant offers up to 505 W at 25.3% efficiency.</p>
+
+
+
+<p>Built on a back-contact cell architecture, HyperGen Pro places all electrodes on the rear of the cells, eliminating front-side grid lines. Combined with zero-busbar (0BB) interconnection technology and a full-screen design, the configuration maximises the light-receiving area while delivering a clean, uniform appearance, particularly in the all-black variant.</p>
+
+
+
+<p>The HyperGen Pro weighs 12–14% less than comparable dual-glass modules of the same format reducing structural loads on rooftops while improving heat dissipation and enabling single-person handling.</p>
+
+
+
+<p>The design performs well for commercial and industrial buildings with limited roof load capacity.</p>
+
+
+
+<p>Featuring a HW4 hail-resistance rating and certification the HyperGen can withstand hailstones up to 40 mm in diameter, addressing a key reliability concern in hail-prone regions such as Victoria, New South Wales (NSW) and south-east Queensland.</p>
+
+
+
+<p>A chemically etched, micro-textured glass surface converts specular reflection into diffuse reflection, reducing glare at the source, helping to address reflected-light concerns in urban areas.</p>
+
+
+
+<p>The module’s power temperature coefficient of −0.26%/°C helps limit output losses in hot conditions, and when combined with first-year degradation of 1% and annual linear degradation of 0.35% thereafter, the module can maintain reliable performance over its operating life.</p>
+
+
+
+<p>A bypass design enabled by the cell architecture responds to partial shading, helping limit power losses and reduce hot-spot temperatures, which provides additional protection against common rooftop shading sources, including trees, chimneys and bird droppings.</p>
+
+
+
+<p>JA’s East Asia and South Pacific Region Vice President Daniel Li said Australia is one of the world’s most demanding rooftop solar markets.</p>
+
+
+
+<p>“[It has]  <a href="https://www.pv-magazine-australia.com/2025/08/27/ja-solar-unveils-650-w-topcon-module-for-desert-pv-projects/" target="_blank" rel="noreferrer noopener">intense solar irradiance</a>,, challenging rooftop installation conditions, frequent hailstorms and a rapid shift towards integrated solar-plus-storage solutions,” Li noted.</p>
+
+
+
+<p>“HyperGen Pro was developed with these conditions in mind, combining a lighter design, enhanced hail resistance and reliable performance in high temperatures.”</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-1024x683.png" alt="" class="wp-image-149891" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-1024x683.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-300x200.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-768x512.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-1536x1025.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-260x173.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026.png 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">JA exhibit at All Energy Australia 2026 | <i>Image: JA</i></figcaption></figure>
+
+
+
+<p><strong>JA ESS: 125 kW / 261 kWh Liquid-Cooled C&amp;I Energy Storage</strong></p>
+
+
+
+<p>The JA ESS liquid-cooled C&amp;I energy storage system combines multiple safety measures, energy efficiency and intelligent operation and maintenance (O&amp;M) capabilities.</p>
+
+
+
+<p>Safety is supported by millisecond-level insulation monitoring, a three-tier fire and explosion protection architecture, and real-time battery pack monitoring. Working together, these measures enable early detection of potential thermal runaway risks and provide multiple layers of protection throughout system operation.</p>
+
+
+
+<p>The system uses long-life lithium iron phosphate (LFP) batteries and achieves round-trip efficiency of up to 88%. Its liquid-cooling design also reduces auxiliary power consumption by 10%, helping improve overall system efficiency and long-term project economics.</p>
+
+
+
+<p>For ongoing operations, built-in AI-powered predictive maintenance is designed to minimise unplanned downtime and simplify fault management. According to JA, these capabilities can reduce downtime by up to 90% and enable more than 90% of system faults to be resolved remotely. A modular design further simplifies on-site inspection and component replacement, helping reduce maintenance requirements and operating costs over the system’s lifetime.</p>
+
+
+
+<p><strong>DeepBlue 5.0</strong></p>
+
+
+
+<p>JA also showcased the DeepBlue 5.0 n-type TOPCon series at All Energy, extending its module offering across residential rooftops, commercial and industrial installations, and utility-scale projects.</p>
+
+
+
+<p>For residential applications, the 485 W JAM48D51 LR all-black module combines Tri-Cut cell architecture with Bycium+ 5.0 cell technology and 20-busbar (20BB) current collection, delivering a 0.25% improvement in low-light output.</p>
+
+
+
+<p>For larger commercial, industrial and ground-mounted installations, JA presented the 550 W JAM54D50 GR and 670 W JAM66D50 GB modules. The 670 W model offers a bifaciality of 85% ± 5%, a power temperature coefficient of −0.26%/°C, and a degradation rate of 1% in the first year, followed by 0.35% annually thereafter.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-1024x683.png" alt="" class="wp-image-149892" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-1024x683.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-300x200.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-768x512.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-1536x1024.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-260x173.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate.png 1620w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">At All Energy Australia 2026, JA received SunWiz’s “#1 Win Rate — Panel Proposal to Sale” award and was also recognised as a Top Solar Company.
+
+ | <i>Image: JA</i></figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/05/ja-unveils-the-hypergen-pro-module-series-and-liquid-cooled-ci-energy-storage-system/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NZ clean energy pipeline set for $800 million boost from UAE investor</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/05/nz-clean-energy-pipeline-set-for-800-million-boost-from-uae-investor/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/05/nz-clean-energy-pipeline-set-for-800-million-boost-from-uae-investor/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 00:13:27 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18515</guid>
+
+					<description><![CDATA[United Arab Emirates-based clean energy investor Masdar, has signed a memorandum of understanding with the NZ government's foreign direct investment facilitator, Invest New Zealand, to explore $800 million worth of future clean energy investment.]]></description>
+										<content:encoded><![CDATA[
+<p>The UAE-headquartered renewable energy and green hydrogen developer <a href="https://www.pv-magazine-australia.com/2025/01/22/masdar-makes-1-gw-move-into-philippines-power-market/" target="_blank" rel="noreferrer noopener">Masdar</a> is exploring $800 millon worth of possible renewable energy projects under a new Memorandum of Understanding (MoU) with government entity Invest New Zealand (NZ).</p>
+
+
+
+<p>Projects in <a href="https://www.pv-magazine-australia.com/2026/11/03/lightyears-lands-funding-boost-to-accelerate-nz-solar-and-battery-builds/" target="_blank" rel="noreferrer noopener">solar</a>, battery energy storage and wind will be identified under the agreement, and will include co-investment with New Zealand companies and Māori businesses.</p>
+
+
+
+<p>The MoU builds on the NZ-UAE Comprehensive Economic Partnership Agreement (CEPA) and the investment agreement signed alongside it. </p>
+
+
+
+<p>Both include specific commitments to encourage investment in decarbonisation and clean technology. </p>
+
+
+
+<p>NZ Trade and Investment Minister Todd McClay said investment on this scale helps build the energy infrastructure the country needs to grow the economy and reach its goal of doubling renewable electricity generation by 2040.</p>
+
+
+
+<p>“The CEPA was built to encourage investment between our two countries, including in clean technologies. This MoU turns that into something practical. It connects Masdar’s capital and know-how with renewable energy projects here in <a href="https://www.pv-magazine-australia.com/2026/08/17/new-zealand-to-simplify-small-medium-sized-solar-installations/" target="_blank" rel="noreferrer noopener">New Zealand</a>,&#8221; McClay said.</p>
+
+
+
+<p>Invest New Zealand and Masdar will establish a steering committee and project team to agree a work programme and a pipeline of opportunities.</p>
+
+
+
+<p>Robert Wall, Chief Executive Invest New Zealand said renewable energy is a priority investment sector, with significant potential to support productivity and economic growth.</p>
+
+
+
+<p>&#8220;Our focus now is practical: working with Masdar and New Zealand partners to identify a prioritised set of renewable energy opportunities and help them progress towards commercial due diligence.”</p>
+
+
+
+<p>Masdar Chief Executive Mohamed Jameel Al Ramahi said the company believes long-term partnerships are fundamental to unlocking New Zealand&#8217;s renewable energy resources potential.</p>
+
+
+
+<p>&#8220;We look forward to working with Invest New Zealand and local partners, combining their market knowledge with our two decades of global expertise in developing, investing in and operating <a href="https://www.pv-magazine-australia.com/2026/08/21/utility-scale-projects-drive-new-zealands-solar-rollout/" target="_blank" rel="noreferrer noopener">large-scale</a> clean energy projects,&#8221; Al Ramahi said.</p>
+
+
+
+<p>Masdar&#8217;s Australian investments currently include in Victoria, in partnership with Opal Australian Paper and SUEZ Australia and New Zealand, the Maryvale Energy from Waste project, in New South Wales (NSW), the $1.5 billion 60 MW energy-from-waste Parkes Special Activation Precinct, and in Western Australia (WA), the $511 million 29 MW East Rockingham Waste to Energy project.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/05/nz-clean-energy-pipeline-set-for-800-million-boost-from-uae-investor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Eku Energy 200 MW / 500 MWh Williamsdale BESS starts commercial operation</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/05/eku-energy-200-mw-500-mwh-williamsdale-bess-starts-commercial-operation/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/05/eku-energy-200-mw-500-mwh-williamsdale-bess-starts-commercial-operation/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 21:45:00 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18512</guid>
+
+					<description><![CDATA[The 200 MW / 500 MWh Williamsdale battery energy storage system has been commissioned and is now in commercial operation in the Australian Capital Territory, marking the completion of the territory’s Big Canberra Battery Project.]]></description>
+										<content:encoded><![CDATA[
+<p>The 200 MW / 500 MWh Williamsdale battery energy storage system (BESS) is now in commercial operation in the Australian Capital Territory (ACT), completing the territory’s largest battery in its Big Canberra Battery Project (BCBP).</p>
+
+
+
+<p>With equivalent capacity to power one-third of Canberra for two hours during peak demand periods, the $300 million + (USD 210 million) Williamsdale BESS has been built by London-headquartered <a href="https://www.pv-magazine-australia.com/2026/03/30/five-battery-projects-totalling-7-9-gwh-advance-through-approvals/" target="_blank" rel="noreferrer noopener">utility-scale</a> energy storage developer <a href="https://www.pv-magazine-australia.com/2026/03/30/five-battery-projects-totalling-7-9-gwh-advance-through-approvals/" target="_blank" rel="noreferrer noopener">Eku Energy</a>.</p>
+
+
+
+<p>The 26-hectare project utilises Tesla Megapack 2 XL batteries and was delivered by Adelaide-based high-voltage (HV) electrical infrastructure contractor Consolidated Power Projects (CPP) as Eku Energy’s balance of plant contractor.</p>
+
+
+
+<p>Located approximately 40 kilometres south of Canberra in Tuggeranong on the ACT/New South Wales (NSW) border, the project will operate to support the ACT electricity network and strengthen energy security and reliability for both the capital territory and NSW.</p>
+
+
+
+<p>Eku Energy Chief Operating Officer Tom Best said commissioning the Williamsdale BESS was a significant achievement.</p>
+
+
+
+<p>“We thank our delivery partners for their commitment over the past nearly two years,” Best said.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="767" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-1024x767.jpg" alt="" class="wp-image-149888" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-1024x767.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-300x225.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-768x575.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-1536x1150.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-2048x1534.jpg 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-260x195.jpg 260w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">The 200 MW / 500 MWh Williamsdale BESS utilitises Tesla Megapack 2 XL batteries | <i>Image: Eku Energy</i></figcaption></figure>
+
+
+
+<p><strong>Community benefits sharing program</strong></p>
+
+
+
+<p>From the project’s outset, the ACT government collaborated with the Australian National University (ANU) to conduct a workshop with community stakeholders to co-design the BCBP.</p>
+
+
+
+<p>As a result, Eku Energy funded the ANU’s Centre for Energy Systems with a grant of $500,000 to examine the role of utility-scale batteries and improve public understanding of their <a href="https://www.pv-magazine-australia.com/2025/07/11/benefits-sharing-guide-launched-for-communities-in-renewable-energy-zones/" target="_blank" rel="noreferrer noopener">benefits</a> and challenges.</p>
+
+
+
+<p>A community benefit sharing program called <a href="https://www.ekuenergy.com/aus/williamsdale/commissioning" target="_blank" rel="noreferrer noopener">Powering Big Dreams</a> attracted an equivalent $500,000 delivered to nine community projects with local beneficiaries including Southern ACT Catchment Group, Fearless Women, St Vincent de Paul Society, Rise Above Cancer Relief, YWCA Canberra, The Stellar Company, Australian River Restoration Centre, OzHarvest and the Canberra Environment Centre.</p>
+
+
+
+<p><strong>Big Canberra Battery Project</strong></p>
+
+
+
+<p>The BCBP includes the utility-scale Williamsdale BESS and behind-the-meter batteries in nine ACT local government sites, installed in 2024, and a further two in 2025.</p>
+
+
+
+<p>Canberra aims to achieve net zero emissions by 2045.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/05/eku-energy-200-mw-500-mwh-williamsdale-bess-starts-commercial-operation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Canopy Power partners with FSC to accelerate floating solar builds</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/04/canopy-power-partners-with-fsc-to-accelerate-floating-solar-builds/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/04/canopy-power-partners-with-fsc-to-accelerate-floating-solar-builds/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 05:06:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[floating solar]]></category>
+		<category><![CDATA[Modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18497</guid>
+
+					<description><![CDATA[The local arm of Singapore-headquartered Canopy Power has teamed with Perth-based maritime engineering firm Floating Solutions Consulting aiming to deploy more than 50 MW of floating solar across Australia’s water bodies within the next three years.]]></description>
+										<content:encoded><![CDATA[
+<p>Renewable energy microgrid specialist Canopy Power Australia announced it has partnered with Floating Solutions Consulting (FSC) to advance its plan to deploy next-generation floating solar technology in Australia.</p>
+
+
+
+<p>Canopy Power Australia Managing Director Mahasti Motazedi said the partnership with FSC will pair Canopy Power’s experience in delivering solar microgrid and battery energy storage solutions with FSC&#8217;s maritime engineering expertise.</p>
+
+
+
+<p>&#8220;Floating solar needs two kinds of excellence: marine engineering to keep it on the water, and renewable energy engineering to make it perform,” she said. “Together with Floating Solutions Consulting, we bring both, so our clients get a best-in-class solution and a project delivered with confidence.&#8221;</p>
+
+
+
+<p>Motazedi said the collaboration will support delivery of more than 50 MW of floating solar infrastructure over the next 36 months.</p>
+
+
+
+<p>“We’re not building large utility-scale solar farms. Our focus is custom floating solar microgrids for commercial and industrial (C&amp;I) clients,” she said, adding that the company’s pipeline of projects is already well “advanced in Victoria and growing in New South Wales (NSW), and we’re looking at other states as demand builds.”</p>
+
+
+
+<p>“Over the next three years, we plan to deploy 10-plus projects across Australia, representing around 50 MWp of installed capacity,” Motazedi said. “We’re targeting construction of our first Australian project in the second half 2027.”</p>
+
+
+
+<p>The projects will feature Norwegian floating PV specialist Ocean Sun&#8217;s patented technology that consists of modified silicon solar modules installed on a circular hydro-elastic floating membrane measuring 70-metres in diameter.</p>
+
+
+
+<p>The membrane is only 1 mm thick that <a href="https://www.pv-magazine-australia.com/2025/02/07/international-partners-plan-floating-solar-for-australia/">Ocean Sun</a> said allows the solar panels to be in direct thermal contact with the water. The company said this contributes significantly to heat dissipation, which in turn “delivers up to 10% higher yield compared to both ground-mounted and pontoon-based floating PV systems.”</p>
+
+
+
+<p>Each membrane offers 700 kWp of PV generation capacity and multiple floating rings can be deployed to provide the desired solar capacity. Ocean Sun said the structures are built to withstand harsh conditions and the system is certified to withstand winds up to 275 km/h. The floating rings are also fitted with pumps that allow rainwater to be harvested.</p>
+
+
+
+<p>Canopy Power will design and deploy the floating solar technology as a microgrid solution, and integrate other energy assets such as battery storage, rooftop or ground mounted solar PV and wind energy when needed.</p>
+
+
+
+<p>Motazedi said the technology has already attracted widespread interest, adding that floating solar presents a compelling opportunity to expand renewable energy generation while minimising land usage and addressing issues such as water scarcity and quality.</p>
+
+
+
+<p>“Few solutions deliver water preservation and clean energy together,&#8221; she said. “We’re seeing strong interest in this new generation of floating solar, particularly from water utilities and agricultural operators with ponds, reservoirs, and small lakes.”</p>
+
+
+
+<p>“The system reduces evaporation by up to 50% and limits algae growth, while generating electricity on water rather than land. Its full surface also captures rainwater, around 2 million litres per year at a typical site, which many of our clients find valuable.”</p>
+
+
+
+<p>Target markets include water utilities, data centres, and mining and agriculture operations. Canopy Power said the partnership is also bringing <a href="https://www.pv-magazine-australia.com/2026/03/12/floating-solar-to-cut-diesel-dependence-for-remote-asia-pacific-islands/">floating charging</a> stations to Australian waters, so <a href="https://www.pv-magazine-australia.com/2026/10/27/worlds-largest-battery-electric-ship-begins-commercial-service/">electric ferries</a>, workboats and other electric vessels can charge on the water.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/04/canopy-power-partners-with-fsc-to-accelerate-floating-solar-builds/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Keeping pace key to reaching 82% renewables target</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/04/keeping-pace-key-to-reaching-82-renewables-target/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/04/keeping-pace-key-to-reaching-82-renewables-target/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 03:48:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18470</guid>
+
+					<description><![CDATA[Australia’s renewables transition is well under way – but achieving the federal government’s target of 82% renewable energy share by 2030 is expected to test every part of the energy system. ]]></description>
+										<content:encoded><![CDATA[
+<p>Renewables supplied a <a href="https://www.pv-magazine-australia.com/2026/09/21/renewables-share-hits-record-high-in-nem-2/?utm_source=dlvr.it&amp;utm_medium=linkedin">record 80.5% of demand</a> on Australia’s main power grid in mid-September, that the federal government’s plan to reach 82% renewable electricity generation by the end of the decade is doable. While the record high is a major milestone for the country’s renewable energy journey, Schneider Electric Energy Management CEO Frédéric Godemel said meeting the 2030 target remains a major challenge. Renewables supplied 42.7% &#8211; a new high for renewable clean energy &#8211; of Australia’s electricity in 2025 but Godemel said continued investment in and modernisation of grid infrastructure, and the expansion of renewable generation will be critical to achieving the target.</p>
+
+
+
+<p><strong>How likely do you think it is that Australia will reach its renewable energy target of 82% by 2030 and how would you describe the task ahead?</strong></p>
+
+
+
+<p>Frédéric Godemel, Schneider Electric Energy Management CEO: Australia’s recent achievement of surpassing 80% of renewable electricity demand is a significant milestone, demonstrating the progress the country has made in its energy transition. However, reaching this level momentarily and sustaining an 82% renewable electricity share throughout the year are two very different challenges.</p>
+
+
+
+<p>The 2030 target is achievable with the right infrastructure and investment. The challenge now is ensuring that Australia’s electricity network can keep pace with its renewable energy ambitions. Expanding transmission capacity, accelerating grid connections, and scaling energy storage will be critical to managing the variability of renewable generation while maintaining a reliable electricity supply.</p>
+
+
+
+<p>Australia is not alone in navigating these challenges. Globally, power systems are being reshaped by the rapid growth of distributed renewable energy, alongside increasing electricity demand from electrification, industrial activity, and digital infrastructure. This is placing greater pressure on grids that were not originally designed to accommodate such diverse and dynamic energy flows.</p>
+
+
+
+<p>The priority is therefore not simply to build more generation, but to ensure that electricity networks can accommodate and distribute that power efficiently. Digitalisation, intelligent energy management, energy storage and greater grid flexibility will be essential to making this transition both reliable and sustainable.</p>
+
+
+
+<p><strong>What do you see as the biggest challenges and risks to Australia’s energy transition?</strong></p>
+
+
+
+<p>One of the biggest challenges facing Australia’s energy transition is ensuring that its electricity infrastructure can keep pace with the rapid expansion of renewable energy.</p>
+
+
+
+<p>Traditionally, electricity networks were designed around centralised power generation and relatively predictable patterns of demand. Today, they must manage variable wind and solar generation, distributed energy resources and changing electricity consumption patterns. This is a challenge shared by countries worldwide, making continued investment in grid infrastructure essential to ensure electricity networks have the capacity and flexibility to accommodate evolving generation and consumption patterns.</p>
+
+
+
+<p>For Australia, delays in expanding and modernising grid infrastructure could limit the electricity system’s ability to deliver reliable power where and when it is needed, particularly as electricity demand continues to grow.</p>
+
+
+
+<p>Addressing these challenges requires a more flexible and intelligent approach to energy management. Investing in grid modernisation, battery storage and demand-side flexibility can help operators make better use of existing infrastructure, improve visibility into electricity flows and respond more effectively to fluctuations in renewable generation.</p>
+
+
+
+<p>Ultimately, Australia’s growing renewable energy capacity presents a significant opportunity to build a cleaner and more resilient electricity system. Realising this potential will require continued investment in grid infrastructure, digitalisation, and flexibility to ensure electricity can be delivered efficiently and reliably as demand grows. By modernising its energy networks alongside the expansion of renewable generation, Australia can strengthen its energy security while progressing towards its 2030 target.</p>
+
+
+
+<p><strong>What are some strategic options available to the Australian government, businesses and homes to further support the renewable energy transition?</strong></p>
+
+
+
+<p>Accelerating Australia&#8217;s energy transition will require coordinated action across government, industry and households. While expanding renewable generation remains essential, equal attention must be given to how electricity is distributed, managed and consumed. Building a more flexible and resilient energy system will depend on enabling governments, businesses and homes to play a more active role.</p>
+
+
+
+<p>For governments and grid operators, the priority should be to accelerate grid modernisation, streamline permitting processes and create regulatory frameworks that encourage investment in energy storage and demand-side flexibility. These measures can help maximize existing grid capacity while supporting the integration of additional generation. Globally, we are seeing a growing recognition that modernising electricity networks is just as important as expanding clean energy supply.</p>
+
+
+
+<p>Businesses also have an important role to play. By adopting intelligent energy management systems, organisations can gain greater visibility into their electricity consumption, identify inefficiencies and optimize how energy is used. Solutions such as microgrids, on-site renewable generation and battery storage can further help businesses manage electricity costs, improve energy resilience and reduce their dependence on conventional power sources.</p>
+
+
+
+<p>Households have an equally important role to play. Australia&#8217;s widespread adoption of rooftop solar provides a strong foundation for greater participation in the energy transition. Combining rooftop solar with home batteries, smart energy management technologies and demand-response programmes can enable households to better manage their electricity consumption while helping balance supply and demand across the wider network.</p>
+
+
+
+<p>The opportunity lies in moving towards a more decentralised and flexible energy system, where governments create the right conditions for investment, businesses optimise their energy use, and households become active participants in the transition. By working together, these stakeholders can help Australia accelerate renewable energy adoption while maintaining an affordable, reliable and resilient electricity supply.</p>
+
+
+
+<p><strong>What are some leading technological developments in the renewable energy space around the world, and how can these developments help address Australia’s projected energy needs?</strong></p>
+
+
+
+<p>Some of the most exciting innovations in the global energy transition are happening beyond renewable generation itself. As electricity demand grows, the opportunity lies in developing technologies that make power infrastructure more efficient, sustainable and capable of supporting increasingly complex energy needs.</p>
+
+
+
+<p>At the household level, smart home technologies are creating new opportunities for consumers to better understand, manage and optimise their energy use. As rooftop solar continues to grow in Australia, these tools can help households make better use of the electricity they generate at home.</p>
+
+
+
+<p>The same shift is happening in larger buildings, where AI-powered energy management is improving how electricity is monitored and used. With commercial buildings responsible for around 25% of overall electricity use in Australia, there&#8217;s real scope to cut consumption as demand grows. Schneider Electric&#8217;s EcoStruxure Foresight is one example: a next-generation platform that brings building operations, power and energy management together in a single interface. By combining operational data with AI-driven insights and automation, it helps organisations anticipate issues and make more informed decisions about energy use, with the potential to boost efficiency by up to 50% and resolve electrical and mechanical issues 90% faster.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/04/keeping-pace-key-to-reaching-82-renewables-target/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Merredin plant tops Rystad’s utility PV performance table</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/04/merredin-plant-tops-rystads-utility-pv-performance-table/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/04/merredin-plant-tops-rystads-utility-pv-performance-table/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 02:22:00 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18473</guid>
+
+					<description><![CDATA[The 100 MW Merredin Solar Farm in Western Australia’s central Wheatbelt region has been identified by energy consultancy Rystad Energy as the best performing large-scale PV asset in Australia last month.]]></description>
+										<content:encoded><![CDATA[
+<p>New data from global energy consultancy Rystad Energy shows that all Australian large-scale solar power plants generated 5,100 GWh of clean energy last month, down 2% on the 5,200 GWh produced in October 2025 with Western Australia home to two of the top three best-performing utility PV assets for the month.</p>
+
+
+
+<p>The 100 MW Merredin Solar Farm, owned Indonesian PV developer Sun Energy, was ranked Australia’s top-performing big PV facility for the month with Rystad Senior Analyst David Dixon&nbsp;<a href="https://lnkd.in/p/gGVy8SCn">noting</a>&nbsp;the power plant had delivered an average AC capacity factor (CF) of 35% for the month.</p>
+
+
+
+<p>Spanish energy giant <a href="https://www.pv-magazine-australia.com/2026/06/17/naturgy-boosts-australian-solar-portfolio-with-start-up-of-360-mw-of-new-capacity/">Naturgy’s</a> 128 MW Cunderdin Solar Farm ranked second&nbsp;for the month with the Western Australian facility delivering an average capacity factor of 32%.</p>
+
+
+
+<p>Pacific Partnerships’ 102 MW <a href="https://www.pv-magazine-australia.com/2026/11/02/pacific-inks-offtake-agreement-for-battery-retrofit-project/">Glenrowan Solar Farm</a> in Victoria was ranked third with a capacity factor of 32% while stages one and two of Acen Australia’s 400 MW Stubbo solar project in New South Wales (NSW) were ranked fourth and fifth respectively.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="801" height="555" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26.png" alt="" class="wp-image-149606" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26.png 801w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26-300x208.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26-768x532.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26-406x280.png 406w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/rystad-graph-oct-26-260x180.png 260w" sizes="auto, (max-width: 801px) 100vw, 801px" /></figure>
+
+
+
+<p>Dixon said all Australian utility-scale PV and wind assets generated 5.1 TWh of clean energy last month, a 2% decrease on the 5.2 TWh generated in October 2025.</p>
+
+
+
+<p>At a state level, Victoria was the biggest single contributor to the month’s total, generating 290 GWh from utility-scale solar and 1,130 GWh from wind – a total of 1,420 GWh.</p>
+
+
+
+<p>The top wind assets for the month were the Flat Rocks (48% CF) and Warradarge (47% CF) wind farms in Western Australia, with the Clarke Creek stage 1b (44% CF) wind farm in Queensland third.</p>
+
+
+
+<p>Dixon highlighted that on a trailing 12-month basis, the number of hours of negative prices and curtailed utility solar and wind generation are both beginning to decline as utility battery capacity comes online.</p>
+
+
+
+<p>He said this trend is expected to continue over the next 24 months as the National Electricity Market (NEM) utility battery fleet grows from the current 26 GWh to almost 60 GWh by end 2028.</p>
+
+
+
+<p>Dixon also noted that gas generation for October totalled 426 GWh in the National Electricity Market (NEM), the lowest for the month of October since the NEM began.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/04/merredin-plant-tops-rystads-utility-pv-performance-table/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Renewables advantage gives Australia chance to be global data centre leader</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/04/renewables-advantage-gives-australia-chance-to-be-global-data-centre-leader/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/04/renewables-advantage-gives-australia-chance-to-be-global-data-centre-leader/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 00:57:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18466</guid>
+
+					<description><![CDATA[Australia has an opportunity to become a global data centre leader as demand for AI and data centre capacity continues to accelerate. Our renewable energy expertise provides a competitive advantage, but only if we capitalise on it. ]]></description>
+										<content:encoded><![CDATA[
+<p>The <a href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai">International Energy Agency</a> expects global data centre electricity consumption to increase from 415 TWh in 2024 to 945 TWh by 2030 – an increase of about15% a year and more than four times faster than growth from all other sectors. The DC Byte 2026 <a href="https://www.dcbyte.com/market-spotlights/2026-global-data-centre-index-report/">Global Data Centre Index Report</a> shows growth in data centres is no longer simply determined by customer demand. Instead, grid connection timelines, power availability, land access and sustainability requirements are among the constraints that will determine which markets can scale, and how quickly.</p>
+
+
+
+<p>The conversation for data centre developers has shifted beyond simply seeking adequate space and customers, instead looking for markets where reliable, scalable power supply can be established quickly, responsibly, and without undermining existing infrastructure.</p>
+
+
+
+<p>It is here that Australia has an opportunity to become a global market leader.</p>
+
+
+
+<h3 class="wp-block-heading">The data centre bottleneck</h3>
+
+
+
+<p>Australia currently has more than 160 operational data centres across the country, accounting for around 3% of electricity demand. The Australian Energy Market Operator (AEMO) is <a href="https://www.aemo.com.au/-/media/files/electricity/nem/planning_and_forecasting/nem_esoo/2026/2026-electricity-statement-of-opportunities.pdf?rev=4f2e73fbd906456288198fdbc24b335a&amp;sc_lang=en&amp;hash=8BC15B81DC0725EA49821C9D301AAB9E">forecasting data centre usage</a> to increase seven-fold over the next decade, from 5 TWh to around 34TWh, or around 13% of operational demand.</p>
+
+
+
+<p>Grid capacity and supporting infrastructure has become a major constraint for developments, particularly as the scale of projects increases.</p>
+
+
+
+<p>A few short years ago, data centre developers could reasonably treat grid access as a relatively manageable utility process, as loads were smaller and often accommodated with conventional connection works.</p>
+
+
+
+<p>This is no longer the norm for larger developments, and power needs to be planned for differently.</p>
+
+
+
+<h3 class="wp-block-heading">An integrated approach</h3>
+
+
+
+<p>A new data centre development can be constructed within two to three years.</p>
+
+
+
+<p>New power transmission and generation infrastructure can take much longer however, and the connection process has its own technical, regulatory and commercial sequencing.</p>
+
+
+
+<p>Grid access and power procurement can no longer be thought of as a straightforward problem to be solved late in the development process but instead needs to be a key consideration from feasibility.</p>
+
+
+
+<p>This is where an enhanced, integrated approach between data centre developers and renewable experts becomes pivotal, ensuring energy supply is addressed from the outset.</p>
+
+
+
+<p>At a minimum, robust, early-stage development strategy should determine:</p>
+
+
+
+<p>· Planned load ramp</p>
+
+
+
+<p>· Capacity of the local network</p>
+
+
+
+<p>· Connection pathway</p>
+
+
+
+<p>· Required system studies</p>
+
+
+
+<p>· Availability of renewable generation</p>
+
+
+
+<p>· Role of battery storage</p>
+
+
+
+<p>· Performance standards</p>
+
+
+
+<p>· How the asset will operate during constrained or stressed system conditions</p>
+
+
+
+<p>· Which party will fund and deliver required works</p>
+
+
+
+<p>Renewable energy developers and specialist renewable energy delivery companies have spent the past decade addressing these exact challenges. They understand the complexity behind grid connection and that the fastest credible pathway requires the energy solution to be part of the overall data centre build design.</p>
+
+
+
+<h3 class="wp-block-heading">The Australian opportunity</h3>
+
+
+
+<p>Australia currently holds a sizeable market advantage when it comes to attracting data centre investment due to our project pipeline, local financing from institutional investors including superannuation funds, and renewable capability.</p>
+
+
+
+<p>It is our renewable capability in particular that sets us apart, both in conditions conducive to renewable energy generation, and engineering ability to work closely with data centre developers to deliver power at the right time, at the right scale and with the reliability conditions required.</p>
+
+
+
+<p>As a practical example, the Cooba Solar Project in Central Victoria illustrates the type of integrated opportunity Australia should be pursuing.</p>
+
+
+
+<p>The approved project comprises up to 500 MW of solar generation, and up to 300 MW of battery energy storage, with a connection to existing 220 kV transmission infrastructure.</p>
+
+
+
+<p>There is opportunity to examine a staged data centre development that is designed around the power asset and grid connection from the outset. An initial data centre phase of up to 270 MW could be assessed to align with the project’s export capacity.</p>
+
+
+
+<p>A battery energy storage system (BESS) is central to this approach and should not be treated as a late stage add on. When appropriately sized and operated, BESS can strengthen the business case for new generation, offer operational flexibility and improved resilience and manage the relationship between renewable output and data centre demand.</p>
+
+
+
+<p>This is by far a more sophisticated proposition than purchasing renewable energy certificates after the project has been designed and offers stakeholders greater confidence that a new large load will not add pressure to an already constrained network.</p>
+
+
+
+<h3 class="wp-block-heading">Regulation as an impending challenge</h3>
+
+
+
+<p>Regulation may also soon present another constraint for data centre developers moving forward, as Governments set about implementing policies to address concerns around the impact of projects on local communities, as well as infrastructure and resources such as power. </p>
+
+
+
+<p>The Australian Government’s <a href="https://www.industry.gov.au/publications/expectations-data-centres-and-ai-infrastructure-developers">expectations for data centres and AI infrastructure</a> already outline the need for new projects to secure new and additional clean energy generation and/or storage, minimise demand and emissions, and improve overall security and stability of the energy grid.</p>
+
+
+
+<p>Mandatory standards expected to be introduced as soon as next year will also require large data centres to bring forward new renewable generation to fully offset energy demand.</p>
+
+
+
+<p>Individual states are also moving to impose their own regulations. In Victoria, for example, the Government recently announced plans for legislation to force new data centre projects to generate and store their own power, while also bearing connection and network-upgrade costs.</p>
+
+
+
+<p>At the same time, the Australian Energy Market Commission has proposed clearer technical standards for large inverter-based loads, including performance through voltage and frequency disturbances.</p>
+
+
+
+<p>Overall, the message is clear: large data centres will be increasingly required to contribute to the energy solution, and not simply be consumers of energy</p>
+
+
+
+<p>This further adds to the opportunity that exists for renewable energy specialists and data centre developers to partner early and ensure power supply is designed with regulations in mind, rather than attempting to retrofit for compliance down the track.</p>
+
+
+
+<h3 class="wp-block-heading">A digital infrastructure leader</h3>
+
+
+
+<p>The current data centre boom is not completely dissimilar to boom-eras of the past, where countries who are able to control a particular resource find themselves in a strong position.</p>
+
+
+
+<p>The resource now is data, driven by major advancements in robotics, AI and data-driven technologies.</p>
+
+
+
+<p>Data centre power delivery is an integrated infrastructure challenge where grid connection, renewable generation and storage must be central to early-stage planning conversations. Developments can no longer be treated as passive consumers of electricity, but as part of an integrated renewable energy system.</p>
+
+
+
+<p>The data centre game is no longer one of real estate, but of energy availability and delivery. Australia has a real opportunity, now, to become a global data centre leader, if we match our digital ambition with equally ambitious delivery of generation, storage, networks and grid capability.</p>
+
+
+
+<p><em>Author: Muren Guler, Managing Partner, <a href="https://www.emms.energy/">Electrons &amp; Molecules Management Services</a> (EMMS)</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/04/renewables-advantage-gives-australia-chance-to-be-global-data-centre-leader/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -12,7 +12,7 @@
 	<atom:link href="https://battery-news.de/feed/" rel="self" type="application/rss+xml" />
 	<link>https://battery-news.de/</link>
 	<description>Die Newsbroker-Webseite zum Thema Lithium-Ionen-Batterien in Deutschland</description>
-	<lastBuildDate>Tue, 03 Nov 2026 19:47:40 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 04 Nov 2026 18:58:37 +0000</lastBuildDate>
 	<language>de</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,54 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>EDENenergy baut Gewerbespeicher aus gebrauchten E-Scooter-Akkus</title>
+		<link>https://battery-news.de/2026/11/05/edenenergy-baut-gewerbespeicher-aus-gebrauchten-e-scooter-akkus/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterierecycling]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40227</guid>
+
+					<description><![CDATA[<p>Das Freiburger Start-up EDENenergy baut stationäre Batteriespeicher für Unternehmen aus gebrauchten E-Scooter-Akkus. Laut dem Fraunhofer ISE, aus dem das Unternehmen ausgegründet wurde, ging der erste 70-kWh-Speicher Mitte Oktober an einen Kunden. Er kombiniert 112 gebrauchte E-Scooter-Akkus. Den Kunden nannte das Unternehmen nicht. Module werden im laufenden Betrieb getauscht Die Akkus werden nicht zerlegt. Stattdessen verbindet eine selbst entwickelte Leistungselektronik unterschiedliche Batterien und kommuniziert mit den verschiedenen Modulen. Einzelne Module lassen sich im laufenden Betrieb austauschen und werden aus der Ferne überwacht. Durch den Tausch soll der Speicher laut Unternehmen auch nach zehn Jahren noch 70 kWh bereitstellen. Akkus am Ende ihrer Lebensdauer gehen ins Recycling. EDENenergy war für die gebrauchten Akkus von einem Gesundheitszustand von 80 % ausgegangen. Nach Unternehmensangaben lag die Restkapazität teils deutlich über 90 %. Wie die Kapazität gemessen wurde, ist nicht bekannt. Jeder Akkutyp erfordert Anpassungen Stecker, Batteriemanagement und Kommunikation müssen für jeden neuen Akkutyp angepasst werden. Um genügend baugleiche Akkus zu erhalten, bezieht EDENenergy sie zunächst von Flottenbetreibern. Langfristig fordert das Unternehmen standardisierte Kommunikationsprotokolle und Regeln für den stationären Einsatz mobiler Batterien. Die Gründer arbeiteten zuvor in der Abteilung Leistungselektronik des Fraunhofer ISE. EDENenergy plant Speicher mit bis zu 300 kWh und richtet sich zunächst an mittelständische Unternehmen mit Photovoltaikanlage. Ein Landesprogramm kann Pilotkunden die Hälfte der Speicherkosten fördern. Quellen:https://www.ise.fraunhofer.de/de/presse-und-medien/presseinformationen/2026/start-up-edenenergy-gebrauchte-escooter-akkus-werden-industriespeicher.htmlhttps://www.solarserver.de/2026/11/02/startup-edenenergy-alte-e-scooter-akkus-fuer-neue-industriespeicher</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/05/edenenergy-baut-gewerbespeicher-aus-gebrauchten-e-scooter-akkus/">EDENenergy baut Gewerbespeicher aus gebrauchten E-Scooter-Akkus</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Das Freiburger Start-up EDENenergy baut stationäre Batteriespeicher für Unternehmen aus gebrauchten E-Scooter-Akkus. Laut dem Fraunhofer ISE, aus dem das Unternehmen ausgegründet wurde, ging der erste 70-kWh-Speicher Mitte Oktober an einen Kunden. Er kombiniert 112 gebrauchte E-Scooter-Akkus. Den Kunden nannte das Unternehmen nicht.</p>
+
+
+
+<p><strong>Module werden im laufenden Betrieb getauscht</strong></p>
+
+
+
+<p>Die Akkus werden nicht zerlegt. Stattdessen verbindet eine selbst entwickelte Leistungselektronik unterschiedliche Batterien und kommuniziert mit den verschiedenen Modulen. Einzelne Module lassen sich im laufenden Betrieb austauschen und werden aus der Ferne überwacht. Durch den Tausch soll der Speicher laut Unternehmen auch nach zehn Jahren noch 70 kWh bereitstellen. Akkus am Ende ihrer Lebensdauer gehen ins Recycling.</p>
+
+
+
+<p>EDENenergy war für die gebrauchten Akkus von einem Gesundheitszustand von 80 % ausgegangen. Nach Unternehmensangaben lag die Restkapazität teils deutlich über 90 %. Wie die Kapazität gemessen wurde, ist nicht bekannt.</p>
+
+
+
+<p><strong>Jeder Akkutyp erfordert Anpassungen</strong></p>
+
+
+
+<p>Stecker, Batteriemanagement und Kommunikation müssen für jeden neuen Akkutyp angepasst werden. Um genügend baugleiche Akkus zu erhalten, bezieht EDENenergy sie zunächst von Flottenbetreibern. Langfristig fordert das Unternehmen standardisierte Kommunikationsprotokolle und Regeln für den stationären Einsatz mobiler Batterien.</p>
+
+
+
+<p>Die Gründer arbeiteten zuvor in der Abteilung Leistungselektronik des Fraunhofer ISE. EDENenergy plant Speicher mit bis zu 300 kWh und richtet sich zunächst an mittelständische Unternehmen mit Photovoltaikanlage. Ein Landesprogramm kann Pilotkunden die Hälfte der Speicherkosten fördern.</p>
+
+
+
+<p><em>Quellen:</em><br><em><a href="https://www.ise.fraunhofer.de/de/presse-und-medien/presseinformationen/2026/start-up-edenenergy-gebrauchte-escooter-akkus-werden-industriespeicher.html" target="_blank" rel="noreferrer noopener">https://www.ise.fraunhofer.de/de/presse-und-medien/presseinformationen/2026/start-up-edenenergy-gebrauchte-escooter-akkus-werden-industriespeicher.html</a></em><br><em><a href="https://www.solarserver.de/2026/11/02/startup-edenenergy-alte-e-scooter-akkus-fuer-neue-industriespeicher" target="_blank" rel="noreferrer noopener">https://www.solarserver.de/2026/11/02/startup-edenenergy-alte-e-scooter-akkus-fuer-neue-industriespeicher</a></em></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/05/edenenergy-baut-gewerbespeicher-aus-gebrauchten-e-scooter-akkus/">EDENenergy baut Gewerbespeicher aus gebrauchten E-Scooter-Akkus</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>AMG Lithium eröffnet Testlabor für Festelektrolyte in Frankfurt</title>
 		<link>https://battery-news.de/2026/11/04/amg-lithium-eroeffnet-testlabor-fuer-festelektrolyte-in-frankfurt/</link>
 		
@@ -558,46 +606,6 @@
 
 <p><em>Quelle:</em><br><a href="https://news.lgensol.com/company-news/press-releases/5499/" target="_blank" rel="noreferrer noopener">https://news.lgensol.com/company-news/press-releases/5499/</a></p>
 <p>Der Beitrag <a href="https://battery-news.de/2026/10/28/lg-energy-solution-und-energix-wollen-speichergeschaeft-ausbauen/">LG Energy Solution und Energix wollen Speichergeschäft ausbauen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Samsung SDI liefert weitere NCA-Batteriespeicher in den USA</title>
-		<link>https://battery-news.de/2026/10/27/samsung-sdi-liefert-weitere-nca-batteriespeicher-in-den-usa/</link>
-		
-		<dc:creator><![CDATA[Cornelius Karow]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
-				<category><![CDATA[Batterieproduktion]]></category>
-		<guid isPermaLink="false">https://battery-news.de/?p=40126</guid>
-
-					<description><![CDATA[<p>Samsung SDI hat einen weiteren Liefervertrag mit dem US-Speicherentwickler und Stromproduzenten Alpha Omega Power (AOP) geschlossen. Die Vereinbarung umfasst Batteriespeicher mit einer Kapazität von einer Gigawattstunde. Zusammen mit einem Vertrag von Ende 2025 steigt das vereinbarte Volumen auf 1,5 GWh. Finanzielle Details nennt Samsung SDI nicht. AOP will die Batteriespeicher für große Stromprojekte in den USA einsetzen. Der Baubeginn ist für 2027 vorgesehen. Batteriespeicher aus US-Produktion Für den neuen Auftrag liefert Samsung SDI das integrierte Speichersystem Samsung Battery Box (SBB) 1.7. Sämtliche Zellen und Module sollen im Werk von StarPlus Energy in Kokomo im US-Bundesstaat Indiana gefertigt werden. Die Auslieferung ist laut Samsung SDI bis Ende 2026 geplant. Das System verwendet prismatische Batteriezellen mit nickelreicher Nickel-Kobalt-Aluminium-Chemie. Nach Herstellerangaben liegt die Energiedichte um 17 Prozent über der des Vorgängers SBB 1.5. Samsung SDI gibt an, das System für 25 Jahre kontinuierlichen Betrieb ausgelegt zu haben. Algorithmen auf Basis künstlicher Intelligenz sollen Auffälligkeiten früh erkennen und die Batterielebensdauer prognostizieren. Für den Brandschutz setzt Samsung SDI zudem auf eine Technik, die Löschmittel direkt in einzelne Batteriemodule einbringt. Quelle:https://www.samsungsdi.com/sdi-now/sdi-news/5062.html</p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/10/27/samsung-sdi-liefert-weitere-nca-batteriespeicher-in-den-usa/">Samsung SDI liefert weitere NCA-Batteriespeicher in den USA</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Samsung SDI hat einen weiteren Liefervertrag mit dem US-Speicherentwickler und Stromproduzenten Alpha Omega Power (AOP) geschlossen. Die Vereinbarung umfasst Batteriespeicher mit einer Kapazität von einer Gigawattstunde. Zusammen mit einem Vertrag von Ende 2025 steigt das vereinbarte Volumen auf 1,5 GWh. Finanzielle Details nennt Samsung SDI nicht. AOP will die Batteriespeicher für große Stromprojekte in den USA einsetzen. Der Baubeginn ist für 2027 vorgesehen.</p>
-
-
-
-<h2 class="wp-block-heading">Batteriespeicher aus US-Produktion</h2>
-
-
-
-<p>Für den neuen Auftrag liefert Samsung SDI das integrierte Speichersystem Samsung Battery Box (SBB) 1.7. Sämtliche Zellen und Module sollen im Werk von StarPlus Energy in Kokomo im US-Bundesstaat Indiana gefertigt werden. Die Auslieferung ist laut Samsung SDI bis Ende 2026 geplant.</p>
-
-
-
-<p>Das System verwendet prismatische Batteriezellen mit nickelreicher Nickel-Kobalt-Aluminium-Chemie. Nach Herstellerangaben liegt die Energiedichte um 17 Prozent über der des Vorgängers SBB 1.5. Samsung SDI gibt an, das System für 25 Jahre kontinuierlichen Betrieb ausgelegt zu haben.</p>
-
-
-
-<p>Algorithmen auf Basis künstlicher Intelligenz sollen Auffälligkeiten früh erkennen und die Batterielebensdauer prognostizieren. Für den Brandschutz setzt Samsung SDI zudem auf eine Technik, die Löschmittel direkt in einzelne Batteriemodule einbringt.</p>
-
-
-
-<p><em>Quelle:</em><br><a href="https://www.samsungsdi.com/sdi-now/sdi-news/5062.html" type="link" id="https://www.samsungsdi.com/sdi-now/sdi-news/5062.html" target="_blank" rel="noreferrer noopener">https://www.samsungsdi.com/sdi-now/sdi-news/5062.html</a></p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/10/27/samsung-sdi-liefert-weitere-nca-batteriespeicher-in-den-usa/">Samsung SDI liefert weitere NCA-Batteriespeicher in den USA</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
 ]]></content:encoded>
 					
 		
