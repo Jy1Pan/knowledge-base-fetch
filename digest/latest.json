@@ -1,9 +1,9 @@
 {
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "run": {
   "type": "run",
-  "date": "2026-11-06",
-  "started_utc": "2026-11-06T01:03:18Z",
+  "date": "2026-11-07",
+  "started_utc": "2026-11-07T00:11:50Z",
   "temperature": "not_sent",
   "prompt_sha256": "ca74bd9490cb1701e70ad05cce1dfd8209bb9dddf59c02a9a733ea39a1c94071",
   "schema_sha256": "e535cfd076742634844dfbcff8e7f0cba59932930297308124fec25c9ab09c25",
@@ -12,21 +12,21 @@
   "model": "claude-haiku-5-5",
   "model_selected_by": "/v1/models 实时列表里 created_at 最新的 haiku（共 13 个模型）",
   "calls": 5,
-  "input_tokens": 13771,
-  "output_tokens": 175,
-  "status": "no_candidates",
+  "input_tokens": 12103,
+  "output_tokens": 366,
+  "status": "ok",
   "error": null,
   "api_error": 0,
-  "finished_utc": "2026-11-06T01:03:26Z"
+  "finished_utc": "2026-11-07T00:11:54Z"
  },
  "sources_changed": 5,
  "sources_unchanged": 2,
  "sources_baseline": 0,
- "candidates": 0,
- "candidates_verified": 0,
+ "candidates": 1,
+ "candidates_verified": 1,
  "candidates_rejected": 0,
  "api_error": 0,
- "status": "no_candidates",
- "file": "digest/2026-11-06.jsonl",
+ "status": "ok",
+ "file": "digest/2026-11-07.jsonl",
  "run_set": "daily"
 }
