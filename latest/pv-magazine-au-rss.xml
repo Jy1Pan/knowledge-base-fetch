@@ -12,7 +12,7 @@
 	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.pv-magazine-australia.com/</link>
 	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
-	<lastBuildDate>Thu, 05 Nov 2026 22:03:49 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 08 Nov 2026 22:33:15 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,146 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nickel powder optimisation cuts TOPCon solar cell metallisation costs by 6.8% without compromising efficiency</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/09/nickel-powder-optimisation-cuts-topcon-solar-cell-metallisation-costs-by-6-8-without-compromising-efficiency/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/09/nickel-powder-optimisation-cuts-topcon-solar-cell-metallisation-costs-by-6-8-without-compromising-efficiency/#respond</comments>
+		
+		<dc:creator><![CDATA[Emiliano Bellini]]></dc:creator>
+		<pubDate>Sun, 08 Nov 2026 22:57:00 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[cells & modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18562</guid>
+
+					<description><![CDATA[UNSW researchers, in collaboration with SunDrive and Shenzhen APG, have demonstrated that replacing part of the silver with nickel in TOPCon solar cell rear metallisation can reduce raw-metal costs by 6.8% with almost no efficiency loss. Their findings show that nickel powder characteristics and paste consumption are key to achieving cost-effective silver substitution.]]></description>
+										<content:encoded><![CDATA[
+<p>Aresearch team at the <a href="https://www.pv-magazine.com/2026/02/02/unsw-researchers-identify-new-damp-heat-induced-failure-mechanism-in-topcon-solar-modules/">University of New South Wales</a> (UNSW) has investigated the partial replacement of silver (Ag) with nickel (Ni) powders in TOPCon solar cell rear-side metallisation and has found that Ni powder characteristics significantly affect electrical performance, printability and cost savings.</p>
+
+
+
+<p>“One of the most important findings is that replacing Ag with Ni is not simply a matter of increasing the Ni content. The characteristics of the Ni powder have a significant impact on both electrical performance and printing behaviour,” corresponding author Ning Song told <strong>pv magazine</strong>.</p>
+
+
+
+<p>“With an appropriate nickel powder, we demonstrated a 6.8% reduction in rear-finger raw-metal costs while maintaining almost the same solar cell efficiency. However, increasing the Ni content further did not necessarily deliver greater savings, because additional paste consumption during printing offset the expected benefits,” she added.</p>
+
+
+
+<p>The scientists explained that Ni has emerged as a promising Ag substitute due to its relatively low cost and good electrical conductivity. However, Ni oxidation during firing and variations in powder characteristics can affect electrode performance. They also noted that previous studies have demonstrated the feasibility of Ag-Ni hybrid pastes, although their practical cost benefits remain uncertain.</p>
+
+
+
+<p>Against this backdrop, the researchers investigated two commercial Ni powders with particle sizes of approximately 1.5 μm and 3.8 μm, replacing 5% to 15% of the metal powder in industrial TOPCon rear-finger pastes. They examined electrical performance, contact resistance, electrode microstructure and printing behavior, while also assessing paste consumption and finger geometry to determine actual raw-metal cost savings.</p>
+
+
+
+<p>The team prepared five rear-side metallisation pastes containing 90% metal powder, 2% glass frit and 8% organic vehicle. An Ag-only paste served as the baseline, while the other four formulations contained 5% to 15% Ni in the metal powder fraction, using two commercial powders designated Ni-1500 and Ni-4000. The pastes were screen-printed onto industrial n-type TOPCon solar cells measuring 182 mm × 183.75 mm, followed by drying, co-firing at a peak set temperature of 724 C and laser-enhanced contact optimisation (LECO).</p>
+
+
+
+<p>The experiments were conducted over two industrial production runs, with at least 12 cells per formulation. The researchers measured solar cell efficiency, series resistance and spatial electrical characteristics using calibrated testing equipment and imaging techniques. They evaluated contact and finger resistivities using the transfer length method and four-point probe measurements, respectively. Scanning electron microscopy, energy-dispersive X-ray spectroscopy and X-ray photoelectron spectroscopy were used to examine electrode microstructure and contact interfaces.</p>
+
+
+
+<p>The team also measured finger geometry, paste viscosity and actual paste consumption to assess printing behavior. Ag and Ni consumption per watt was calculated from measured paste deposition and average cell power, while rear-finger raw-metal costs were estimated using representative metal prices to evaluate the economic benefits of Ni substitution.</p>
+
+
+
+<p>The analysis showed that Ni powder characteristics significantly affected the electrical performance and printing behavior of the TOPCon cells. The finer Ni-1500 powder had a higher specific surface area and oxygen content than the coarser Ni-4000 powder, and exhibited greater resistive losses at the same Ni loading.</p>
+
+
+
+<p>At 5% Ni loading, the Ni-1500 formulation maintained the baseline efficiency of 26.349%. However, increasing the loading to 10% reduced efficiency by 0.225 percentage points, to 26.124%. By contrast, the formulation containing 10% Ni-4000 achieved an efficiency of 26.325%, just 0.024 percentage points below the baseline.</p>
+
+
+
+<p>Electrical measurements revealed higher contact and finger resistivities with the 10% Ni-1500 formulation, while microscopy identified more voids and a less continuous Ag network. Surface analysis also indicated differences in oxide-related contact chemistry between the formulations. Ni substitution increased printed finger widths and paste consumption, particularly at higher loadings.</p>
+
+
+
+<p>The researchers found that the 10% Ni-4000 formulation offered the most favorable balance between cost and efficiency, reducing rear-finger raw-metal costs by 6.8%, equivalent to $561,500/GW. Increasing the Ni-4000 loading to 15% maintained a similar efficiency of 26.302%, but increased paste consumption by 17% compared with the Ag-only baseline, reducing cost savings to just 0.3%.</p>
+
+
+
+<p>“These findings highlight the need to evaluate Ni substitution through the combined effects of powder characteristics, electrode formation and actual paste consumption,” the researchers stated. “Further optimization should consider the interactions among Ni powder properties, glass-frit chemistry and paste rheology, together with long-term metallization reliability.”</p>
+
+
+
+<p>The findings are presented in the study “<a href="https://www.sciencedirect.com/science/article/pii/S0927024826006501">Powder-dependent electrical and printing constraints on Ag substitution in Ag-Ni pastes for TOPCon rear metallization</a>,” published in <em>Solar Energy Materials and Solar Cells</em>. The research team included scientists from Chinese physical vapor deposition (PVD) materials manufacturer Shenzhen APG and Australia-based <a href="https://www.pv-magazine.com/2025/05/13/sundrive-signs-china-pact-to-scale-up-copper-pv-technology/">SunDrive</a>.</p>
+
+
+
+<p>SunDrive has developed a proprietary copper electroplating technology that replaces silver in solar cell metallisation, aiming to reduce manufacturing costs and improve efficiency.</p>
+
+
+
+<p>As previously <a href="https://www.pv-magazine.com/2025/05/13/sundrive-signs-china-pact-to-scale-up-copper-pv-technology/">reported by </a><strong><a href="https://www.pv-magazine.com/2025/05/13/sundrive-signs-china-pact-to-scale-up-copper-pv-technology/">pv magazine</a>,</strong> the Australian company has partnered with China’s Maxwell Technologies and Jiangsu Vistar Equipment Technology to develop and commercialise industrial-scale direct-copper plating equipment for heterojunction (HJT) solar cells. The company previously demonstrated a 26.41%-efficient HJT solar cell using its copper-based metallisation process. More recently, it <a href="https://www.pv-magazine.com/2025/11/11/australia-funds-sundrive-with-aud-25-3m-to-scale-copper-solar-cells/">secured $25.3 million ($16.5 million) in Australian government funding</a> to support the development of a 300 MW commercial-scale production tool.</p>
+
+
+
+<p>UNSW has also developed several approaches to reducing silver consumption in solar cell metallisation. As previously <a href="https://www.pv-magazine.com/2025/05/08/silver-lean-screen-printing-can-reduce-silver-use-in-topcon-solar-cells-by-40/">reported by <strong>pv magazine</strong></a>, its researchers demonstrated a silver-lean screen-printing technique that reduced rear-side silver consumption in TOPCon cells by 85%, using intermittent silver contacts combined with silver-free fingers and busbars. In a separate <a href="https://www.pv-magazine.com/2026/06/10/unsw-trina-solar-design-silver-free-back-contact-pv-cell-with-screen-printed-aluminum-contacts/">study with Trina Solar</a>, the university developed silver-free back-contact solar cells using screen-printed aluminum contacts. UNSW has also investigated copper-plated contacts for TOPCon and heterojunction solar cells, focusing on metallisation reliability, corrosion resistance and mechanical stability.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/09/nickel-powder-optimisation-cuts-topcon-solar-cell-metallisation-costs-by-6-8-without-compromising-efficiency/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>S-5! presents height-adjustable mounting system for PV modules on metal roofs</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/09/s-5-presents-height-adjustable-mounting-system-for-pv-modules-on-metal-roofs/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/09/s-5-presents-height-adjustable-mounting-system-for-pv-modules-on-metal-roofs/#respond</comments>
+		
+		<dc:creator><![CDATA[Francois Puthod]]></dc:creator>
+		<pubDate>Sun, 08 Nov 2026 21:58:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[BoS]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18561</guid>
+
+					<description><![CDATA[S-5! has introduced the PVKIT 3.0, a rail-less mounting system for solar panels on metal roofs, available with an optional 50 mm clearance for wiring and power electronics. The system features non-penetrating attachments and accommodates PV module frames ranging from 25 mm to 35 mm, depending on the configuration.]]></description>
+										<content:encoded><![CDATA[
+<p>Rooftop solar installations increasingly incorporate power optimisers, microinverters and other components that require additional space beneath the modules.</p>
+
+
+
+<p>Developed by S-5!, the PVKIT 3.0 mounting solution addresses this need by providing additional clearance for cable routing, module-level power electronics (MLPE) and access to wiring. The standard configuration allows modules to be installed closer to the roof surface when additional clearance is not required.</p>
+
+
+
+<p>“The PVKIT 3.0 was designed to give designers and installers greater control over the gap between the roof and the solar panels,” said Rob Haddock, CEO and founder of S-5!. “The choice between a standard configuration and an integrated 50 mm clearance makes it easier to accommodate various wiring, electronic component, and related equipment needs—all while maintaining the simplicity of a rail-less mounting system.”</p>
+
+
+
+<p>Backed by a lifetime warranty, the PVKIT 3.0 works with S-5! clamps and brackets to form a complete DirectAttach mounting system for metal roofs. On standing-seam and concealed-fastener roofs, the system provides non-penetrating attachment without compromising roof integrity, according to the manufacturer.</p>
+
+
+
+<p>The standard configuration is compatible with PV modules featuring frame thicknesses of 28 mm to 35 mm, while the integrated clearance option accommodates frames ranging from 25 mm to 35 mm.</p>
+
+
+
+<p>According to S-5!, the PVKIT 3.0 reduces mounting system weight, volume and carbon footprint by up to 85% compared with conventional rail-based systems, while requiring significantly fewer components. The company also claims a 25% reduction in load distribution, with the rail-less design eliminating the need for on-site rail cutting, potentially reducing transportation and logistics costs.</p>
+
+
+
+<p>The PVKIT 3.0 comes pre-assembled and can be installed using a single tool, reducing the number of components and hardware that installers need to transport, organize and handle on the roof.</p>
+
+
+
+<p>Stainless steel grounding teeth provide electrical continuity and grounding between PV module frames. The system also features corrosion-resistant components designed for long-term performance under demanding rooftop conditions.</p>
+
+
+
+<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/09/s-5-presents-height-adjustable-mounting-system-for-pv-modules-on-metal-roofs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Sungrow supports clean energy goals of a Northern Rivers solar panel recycling business</title>
 		<link>https://www.pv-magazine-australia.com/2026/11/06/sungrow-supports-clean-energy-goals-of-a-new-northern-rivers-solar-panel-recycling-business/</link>
 					<comments>https://www.pv-magazine-australia.com/2026/11/06/sungrow-supports-clean-energy-goals-of-a-new-northern-rivers-solar-panel-recycling-business/#respond</comments>
@@ -685,148 +825,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/05/ja-unveils-the-hypergen-pro-module-series-and-liquid-cooled-ci-energy-storage-system/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>NZ clean energy pipeline set for $800 million boost from UAE investor</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/05/nz-clean-energy-pipeline-set-for-800-million-boost-from-uae-investor/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/05/nz-clean-energy-pipeline-set-for-800-million-boost-from-uae-investor/#respond</comments>
-		
-		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
-		<pubDate>Thu, 05 Nov 2026 00:13:27 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Markets & Policy]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18515</guid>
-
-					<description><![CDATA[United Arab Emirates-based clean energy investor Masdar, has signed a memorandum of understanding with the NZ government's foreign direct investment facilitator, Invest New Zealand, to explore $800 million worth of future clean energy investment.]]></description>
-										<content:encoded><![CDATA[
-<p>The UAE-headquartered renewable energy and green hydrogen developer <a href="https://www.pv-magazine-australia.com/2025/01/22/masdar-makes-1-gw-move-into-philippines-power-market/" target="_blank" rel="noreferrer noopener">Masdar</a> is exploring $800 millon worth of possible renewable energy projects under a new Memorandum of Understanding (MoU) with government entity Invest New Zealand (NZ).</p>
-
-
-
-<p>Projects in <a href="https://www.pv-magazine-australia.com/2026/11/03/lightyears-lands-funding-boost-to-accelerate-nz-solar-and-battery-builds/" target="_blank" rel="noreferrer noopener">solar</a>, battery energy storage and wind will be identified under the agreement, and will include co-investment with New Zealand companies and Māori businesses.</p>
-
-
-
-<p>The MoU builds on the NZ-UAE Comprehensive Economic Partnership Agreement (CEPA) and the investment agreement signed alongside it. </p>
-
-
-
-<p>Both include specific commitments to encourage investment in decarbonisation and clean technology. </p>
-
-
-
-<p>NZ Trade and Investment Minister Todd McClay said investment on this scale helps build the energy infrastructure the country needs to grow the economy and reach its goal of doubling renewable electricity generation by 2040.</p>
-
-
-
-<p>“The CEPA was built to encourage investment between our two countries, including in clean technologies. This MoU turns that into something practical. It connects Masdar’s capital and know-how with renewable energy projects here in <a href="https://www.pv-magazine-australia.com/2026/08/17/new-zealand-to-simplify-small-medium-sized-solar-installations/" target="_blank" rel="noreferrer noopener">New Zealand</a>,&#8221; McClay said.</p>
-
-
-
-<p>Invest New Zealand and Masdar will establish a steering committee and project team to agree a work programme and a pipeline of opportunities.</p>
-
-
-
-<p>Robert Wall, Chief Executive Invest New Zealand said renewable energy is a priority investment sector, with significant potential to support productivity and economic growth.</p>
-
-
-
-<p>&#8220;Our focus now is practical: working with Masdar and New Zealand partners to identify a prioritised set of renewable energy opportunities and help them progress towards commercial due diligence.”</p>
-
-
-
-<p>Masdar Chief Executive Mohamed Jameel Al Ramahi said the company believes long-term partnerships are fundamental to unlocking New Zealand&#8217;s renewable energy resources potential.</p>
-
-
-
-<p>&#8220;We look forward to working with Invest New Zealand and local partners, combining their market knowledge with our two decades of global expertise in developing, investing in and operating <a href="https://www.pv-magazine-australia.com/2026/08/21/utility-scale-projects-drive-new-zealands-solar-rollout/" target="_blank" rel="noreferrer noopener">large-scale</a> clean energy projects,&#8221; Al Ramahi said.</p>
-
-
-
-<p>Masdar&#8217;s Australian investments currently include in Victoria, in partnership with Opal Australian Paper and SUEZ Australia and New Zealand, the Maryvale Energy from Waste project, in New South Wales (NSW), the $1.5 billion 60 MW energy-from-waste Parkes Special Activation Precinct, and in Western Australia (WA), the $511 million 29 MW East Rockingham Waste to Energy project.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/05/nz-clean-energy-pipeline-set-for-800-million-boost-from-uae-investor/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Eku Energy 200 MW / 500 MWh Williamsdale BESS starts commercial operation</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/05/eku-energy-200-mw-500-mwh-williamsdale-bess-starts-commercial-operation/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/05/eku-energy-200-mw-500-mwh-williamsdale-bess-starts-commercial-operation/#respond</comments>
-		
-		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
-		<pubDate>Wed, 04 Nov 2026 21:45:00 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Markets & Policy]]></category>
-		<category><![CDATA[Commercial & industrial]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18512</guid>
-
-					<description><![CDATA[The 200 MW / 500 MWh Williamsdale battery energy storage system has been commissioned and is now in commercial operation in the Australian Capital Territory, marking the completion of the territory’s Big Canberra Battery Project.]]></description>
-										<content:encoded><![CDATA[
-<p>The 200 MW / 500 MWh Williamsdale battery energy storage system (BESS) is now in commercial operation in the Australian Capital Territory (ACT), completing the territory’s largest battery in its Big Canberra Battery Project (BCBP).</p>
-
-
-
-<p>With equivalent capacity to power one-third of Canberra for two hours during peak demand periods, the $300 million + (USD 210 million) Williamsdale BESS has been built by London-headquartered <a href="https://www.pv-magazine-australia.com/2026/03/30/five-battery-projects-totalling-7-9-gwh-advance-through-approvals/" target="_blank" rel="noreferrer noopener">utility-scale</a> energy storage developer <a href="https://www.pv-magazine-australia.com/2026/03/30/five-battery-projects-totalling-7-9-gwh-advance-through-approvals/" target="_blank" rel="noreferrer noopener">Eku Energy</a>.</p>
-
-
-
-<p>The 26-hectare project utilises Tesla Megapack 2 XL batteries and was delivered by Adelaide-based high-voltage (HV) electrical infrastructure contractor Consolidated Power Projects (CPP) as Eku Energy’s balance of plant contractor.</p>
-
-
-
-<p>Located approximately 40 kilometres south of Canberra in Tuggeranong on the ACT/New South Wales (NSW) border, the project will operate to support the ACT electricity network and strengthen energy security and reliability for both the capital territory and NSW.</p>
-
-
-
-<p>Eku Energy Chief Operating Officer Tom Best said commissioning the Williamsdale BESS was a significant achievement.</p>
-
-
-
-<p>“We thank our delivery partners for their commitment over the past nearly two years,” Best said.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="767" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-1024x767.jpg" alt="" class="wp-image-149888" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-1024x767.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-300x225.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-768x575.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-1536x1150.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-2048x1534.jpg 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Eku-Energy_250-MW-500-MWh-Williamsdale-BESS-in-Tuggeranong-ACT_6-260x195.jpg 260w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">The 200 MW / 500 MWh Williamsdale BESS utilitises Tesla Megapack 2 XL batteries | <i>Image: Eku Energy</i></figcaption></figure>
-
-
-
-<p><strong>Community benefits sharing program</strong></p>
-
-
-
-<p>From the project’s outset, the ACT government collaborated with the Australian National University (ANU) to conduct a workshop with community stakeholders to co-design the BCBP.</p>
-
-
-
-<p>As a result, Eku Energy funded the ANU’s Centre for Energy Systems with a grant of $500,000 to examine the role of utility-scale batteries and improve public understanding of their <a href="https://www.pv-magazine-australia.com/2025/07/11/benefits-sharing-guide-launched-for-communities-in-renewable-energy-zones/" target="_blank" rel="noreferrer noopener">benefits</a> and challenges.</p>
-
-
-
-<p>A community benefit sharing program called <a href="https://www.ekuenergy.com/aus/williamsdale/commissioning" target="_blank" rel="noreferrer noopener">Powering Big Dreams</a> attracted an equivalent $500,000 delivered to nine community projects with local beneficiaries including Southern ACT Catchment Group, Fearless Women, St Vincent de Paul Society, Rise Above Cancer Relief, YWCA Canberra, The Stellar Company, Australian River Restoration Centre, OzHarvest and the Canberra Environment Centre.</p>
-
-
-
-<p><strong>Big Canberra Battery Project</strong></p>
-
-
-
-<p>The BCBP includes the utility-scale Williamsdale BESS and behind-the-meter batteries in nine ACT local government sites, installed in 2024, and a further two in 2025.</p>
-
-
-
-<p>Canberra aims to achieve net zero emissions by 2045.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/05/eku-energy-200-mw-500-mwh-williamsdale-bess-starts-commercial-operation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

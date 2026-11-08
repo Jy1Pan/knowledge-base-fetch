@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pv magazine Australia</title>
+	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.pv-magazine-australia.com/</link>
+	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
+	<lastBuildDate>Sun, 08 Nov 2026 22:33:15 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.12</generator>
+
+<image>
+	<url>https://www.pv-magazine-australia.com/wp-content/uploads/2024/12/cropped-fav-australia-32x32.png</url>
+	<title>pv magazine Australia</title>
+	<link>https://www.pv-magazine-australia.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nickel powder optimisation cuts TOPCon solar cell metallisation costs by 6.8% without compromising efficiency</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/09/nickel-powder-optimisation-cuts-topcon-solar-cell-metallisation-costs-by-6-8-without-compromising-efficiency/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/09/nickel-powder-optimisation-cuts-topcon-solar-cell-metallisation-costs-by-6-8-without-compromising-efficiency/#respond</comments>
+		
+		<dc:creator><![CDATA[Emiliano Bellini]]></dc:creator>
+		<pubDate>Sun, 08 Nov 2026 22:57:00 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[cells & modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18562</guid>
+
+					<description><![CDATA[UNSW researchers, in collaboration with SunDrive and Shenzhen APG, have demonstrated that replacing part of the silver with nickel in TOPCon solar cell rear metallisation can reduce raw-metal costs by 6.8% with almost no efficiency loss. Their findings show that nickel powder characteristics and paste consumption are key to achieving cost-effective silver substitution.]]></description>
+										<content:encoded><![CDATA[
+<p>Aresearch team at the <a href="https://www.pv-magazine.com/2026/02/02/unsw-researchers-identify-new-damp-heat-induced-failure-mechanism-in-topcon-solar-modules/">University of New South Wales</a> (UNSW) has investigated the partial replacement of silver (Ag) with nickel (Ni) powders in TOPCon solar cell rear-side metallisation and has found that Ni powder characteristics significantly affect electrical performance, printability and cost savings.</p>
+
+
+
+<p>“One of the most important findings is that replacing Ag with Ni is not simply a matter of increasing the Ni content. The characteristics of the Ni powder have a significant impact on both electrical performance and printing behaviour,” corresponding author Ning Song told <strong>pv magazine</strong>.</p>
+
+
+
+<p>“With an appropriate nickel powder, we demonstrated a 6.8% reduction in rear-finger raw-metal costs while maintaining almost the same solar cell efficiency. However, increasing the Ni content further did not necessarily deliver greater savings, because additional paste consumption during printing offset the expected benefits,” she added.</p>
+
+
+
+<p>The scientists explained that Ni has emerged as a promising Ag substitute due to its relatively low cost and good electrical conductivity. However, Ni oxidation during firing and variations in powder characteristics can affect electrode performance. They also noted that previous studies have demonstrated the feasibility of Ag-Ni hybrid pastes, although their practical cost benefits remain uncertain.</p>
+
+
+
+<p>Against this backdrop, the researchers investigated two commercial Ni powders with particle sizes of approximately 1.5 μm and 3.8 μm, replacing 5% to 15% of the metal powder in industrial TOPCon rear-finger pastes. They examined electrical performance, contact resistance, electrode microstructure and printing behavior, while also assessing paste consumption and finger geometry to determine actual raw-metal cost savings.</p>
+
+
+
+<p>The team prepared five rear-side metallisation pastes containing 90% metal powder, 2% glass frit and 8% organic vehicle. An Ag-only paste served as the baseline, while the other four formulations contained 5% to 15% Ni in the metal powder fraction, using two commercial powders designated Ni-1500 and Ni-4000. The pastes were screen-printed onto industrial n-type TOPCon solar cells measuring 182 mm × 183.75 mm, followed by drying, co-firing at a peak set temperature of 724 C and laser-enhanced contact optimisation (LECO).</p>
+
+
+
+<p>The experiments were conducted over two industrial production runs, with at least 12 cells per formulation. The researchers measured solar cell efficiency, series resistance and spatial electrical characteristics using calibrated testing equipment and imaging techniques. They evaluated contact and finger resistivities using the transfer length method and four-point probe measurements, respectively. Scanning electron microscopy, energy-dispersive X-ray spectroscopy and X-ray photoelectron spectroscopy were used to examine electrode microstructure and contact interfaces.</p>
+
+
+
+<p>The team also measured finger geometry, paste viscosity and actual paste consumption to assess printing behavior. Ag and Ni consumption per watt was calculated from measured paste deposition and average cell power, while rear-finger raw-metal costs were estimated using representative metal prices to evaluate the economic benefits of Ni substitution.</p>
+
+
+
+<p>The analysis showed that Ni powder characteristics significantly affected the electrical performance and printing behavior of the TOPCon cells. The finer Ni-1500 powder had a higher specific surface area and oxygen content than the coarser Ni-4000 powder, and exhibited greater resistive losses at the same Ni loading.</p>
+
+
+
+<p>At 5% Ni loading, the Ni-1500 formulation maintained the baseline efficiency of 26.349%. However, increasing the loading to 10% reduced efficiency by 0.225 percentage points, to 26.124%. By contrast, the formulation containing 10% Ni-4000 achieved an efficiency of 26.325%, just 0.024 percentage points below the baseline.</p>
+
+
+
+<p>Electrical measurements revealed higher contact and finger resistivities with the 10% Ni-1500 formulation, while microscopy identified more voids and a less continuous Ag network. Surface analysis also indicated differences in oxide-related contact chemistry between the formulations. Ni substitution increased printed finger widths and paste consumption, particularly at higher loadings.</p>
+
+
+
+<p>The researchers found that the 10% Ni-4000 formulation offered the most favorable balance between cost and efficiency, reducing rear-finger raw-metal costs by 6.8%, equivalent to $561,500/GW. Increasing the Ni-4000 loading to 15% maintained a similar efficiency of 26.302%, but increased paste consumption by 17% compared with the Ag-only baseline, reducing cost savings to just 0.3%.</p>
+
+
+
+<p>“These findings highlight the need to evaluate Ni substitution through the combined effects of powder characteristics, electrode formation and actual paste consumption,” the researchers stated. “Further optimization should consider the interactions among Ni powder properties, glass-frit chemistry and paste rheology, together with long-term metallization reliability.”</p>
+
+
+
+<p>The findings are presented in the study “<a href="https://www.sciencedirect.com/science/article/pii/S0927024826006501">Powder-dependent electrical and printing constraints on Ag substitution in Ag-Ni pastes for TOPCon rear metallization</a>,” published in <em>Solar Energy Materials and Solar Cells</em>. The research team included scientists from Chinese physical vapor deposition (PVD) materials manufacturer Shenzhen APG and Australia-based <a href="https://www.pv-magazine.com/2025/05/13/sundrive-signs-china-pact-to-scale-up-copper-pv-technology/">SunDrive</a>.</p>
+
+
+
+<p>SunDrive has developed a proprietary copper electroplating technology that replaces silver in solar cell metallisation, aiming to reduce manufacturing costs and improve efficiency.</p>
+
+
+
+<p>As previously <a href="https://www.pv-magazine.com/2025/05/13/sundrive-signs-china-pact-to-scale-up-copper-pv-technology/">reported by </a><strong><a href="https://www.pv-magazine.com/2025/05/13/sundrive-signs-china-pact-to-scale-up-copper-pv-technology/">pv magazine</a>,</strong> the Australian company has partnered with China’s Maxwell Technologies and Jiangsu Vistar Equipment Technology to develop and commercialise industrial-scale direct-copper plating equipment for heterojunction (HJT) solar cells. The company previously demonstrated a 26.41%-efficient HJT solar cell using its copper-based metallisation process. More recently, it <a href="https://www.pv-magazine.com/2025/11/11/australia-funds-sundrive-with-aud-25-3m-to-scale-copper-solar-cells/">secured $25.3 million ($16.5 million) in Australian government funding</a> to support the development of a 300 MW commercial-scale production tool.</p>
+
+
+
+<p>UNSW has also developed several approaches to reducing silver consumption in solar cell metallisation. As previously <a href="https://www.pv-magazine.com/2025/05/08/silver-lean-screen-printing-can-reduce-silver-use-in-topcon-solar-cells-by-40/">reported by <strong>pv magazine</strong></a>, its researchers demonstrated a silver-lean screen-printing technique that reduced rear-side silver consumption in TOPCon cells by 85%, using intermittent silver contacts combined with silver-free fingers and busbars. In a separate <a href="https://www.pv-magazine.com/2026/06/10/unsw-trina-solar-design-silver-free-back-contact-pv-cell-with-screen-printed-aluminum-contacts/">study with Trina Solar</a>, the university developed silver-free back-contact solar cells using screen-printed aluminum contacts. UNSW has also investigated copper-plated contacts for TOPCon and heterojunction solar cells, focusing on metallisation reliability, corrosion resistance and mechanical stability.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/09/nickel-powder-optimisation-cuts-topcon-solar-cell-metallisation-costs-by-6-8-without-compromising-efficiency/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>S-5! presents height-adjustable mounting system for PV modules on metal roofs</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/09/s-5-presents-height-adjustable-mounting-system-for-pv-modules-on-metal-roofs/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/09/s-5-presents-height-adjustable-mounting-system-for-pv-modules-on-metal-roofs/#respond</comments>
+		
+		<dc:creator><![CDATA[Francois Puthod]]></dc:creator>
+		<pubDate>Sun, 08 Nov 2026 21:58:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[BoS]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18561</guid>
+
+					<description><![CDATA[S-5! has introduced the PVKIT 3.0, a rail-less mounting system for solar panels on metal roofs, available with an optional 50 mm clearance for wiring and power electronics. The system features non-penetrating attachments and accommodates PV module frames ranging from 25 mm to 35 mm, depending on the configuration.]]></description>
+										<content:encoded><![CDATA[
+<p>Rooftop solar installations increasingly incorporate power optimisers, microinverters and other components that require additional space beneath the modules.</p>
+
+
+
+<p>Developed by S-5!, the PVKIT 3.0 mounting solution addresses this need by providing additional clearance for cable routing, module-level power electronics (MLPE) and access to wiring. The standard configuration allows modules to be installed closer to the roof surface when additional clearance is not required.</p>
+
+
+
+<p>“The PVKIT 3.0 was designed to give designers and installers greater control over the gap between the roof and the solar panels,” said Rob Haddock, CEO and founder of S-5!. “The choice between a standard configuration and an integrated 50 mm clearance makes it easier to accommodate various wiring, electronic component, and related equipment needs—all while maintaining the simplicity of a rail-less mounting system.”</p>
+
+
+
+<p>Backed by a lifetime warranty, the PVKIT 3.0 works with S-5! clamps and brackets to form a complete DirectAttach mounting system for metal roofs. On standing-seam and concealed-fastener roofs, the system provides non-penetrating attachment without compromising roof integrity, according to the manufacturer.</p>
+
+
+
+<p>The standard configuration is compatible with PV modules featuring frame thicknesses of 28 mm to 35 mm, while the integrated clearance option accommodates frames ranging from 25 mm to 35 mm.</p>
+
+
+
+<p>According to S-5!, the PVKIT 3.0 reduces mounting system weight, volume and carbon footprint by up to 85% compared with conventional rail-based systems, while requiring significantly fewer components. The company also claims a 25% reduction in load distribution, with the rail-less design eliminating the need for on-site rail cutting, potentially reducing transportation and logistics costs.</p>
+
+
+
+<p>The PVKIT 3.0 comes pre-assembled and can be installed using a single tool, reducing the number of components and hardware that installers need to transport, organize and handle on the roof.</p>
+
+
+
+<p>Stainless steel grounding teeth provide electrical continuity and grounding between PV module frames. The system also features corrosion-resistant components designed for long-term performance under demanding rooftop conditions.</p>
+
+
+
+<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/09/s-5-presents-height-adjustable-mounting-system-for-pv-modules-on-metal-roofs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sungrow supports clean energy goals of a Northern Rivers solar panel recycling business</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/06/sungrow-supports-clean-energy-goals-of-a-new-northern-rivers-solar-panel-recycling-business/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/06/sungrow-supports-clean-energy-goals-of-a-new-northern-rivers-solar-panel-recycling-business/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2026 04:39:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18551</guid>
+
+					<description><![CDATA[Sungrow has partnered with Byron Bay solar panel recycling business ReSolve Global to ensure the new facility can run on clean, self-generated energy.]]></description>
+										<content:encoded><![CDATA[
+<p>China-headquartered solar inverter and energy storage system provider <a href="https://www.pv-magazine-australia.com/2026/03/27/sungrow-unveils-integrated-solar-storage-solution-for-australian-market/" target="_blank" rel="noreferrer noopener">Sungrow</a> has partnered with new Northern Rivers region, New South Wales (NSW) solar <a href="https://www.pv-magazine-australia.com/2026/10/30/panel-recycling-laws-needed-now-as-2035-million-tonne-solar-waste-mountain-looms/" target="_blank" rel="noreferrer noopener">panel recycling</a> business ReSolve Global to sponsor a 20 kWh SBH battery and 10 kW SH10RS inverter at the facility.</p>
+
+
+
+<p>The SBH system pairs a hybrid energy storage solution with intelligent energy management, allowing ReSolve Global to store surplus solar generation and use it as needed for its operations while lowering costs and emissions.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/6c03d358-299e-4b96-a7c9-fb43d68d539f-1024x576.png" alt="" class="wp-image-150061" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/6c03d358-299e-4b96-a7c9-fb43d68d539f-1024x576.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/6c03d358-299e-4b96-a7c9-fb43d68d539f-300x169.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/6c03d358-299e-4b96-a7c9-fb43d68d539f-768x432.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/6c03d358-299e-4b96-a7c9-fb43d68d539f-1536x864.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/6c03d358-299e-4b96-a7c9-fb43d68d539f-260x146.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/6c03d358-299e-4b96-a7c9-fb43d68d539f.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Sungrow&#8217;s solar plus storage system powering Resolve Global | <i>Image: Sungrow</i></figcaption></figure>
+
+
+
+<p>Sungrow C&amp;I Business Development Manager Richard Chen said solar has transformed how Australian homes and businesses generate power, and it&#8217;s the industry’s responsibility to make sure that equipment is managed well at the end of its life.</p>
+
+
+
+<p>“ReSolve is doing exactly that, and we&#8217;re proud to support them. By powering their Tyagarah facility with a Sungrow SBH system and inverter, we&#8217;re helping ReSolve practise what it preaches: a recycling operation running on clean energy. It&#8217;s a meaningful step towards a truly circular solar industry, and we hope it inspires other businesses to follow,” Chen said.</p>
+
+
+
+<p>Located 13 kilometres north of Byron Bay, and approximately 155 kilometres south of Brisbane, Queensland, ReSolve Global is housed in a 2,000-square-metre holding and sorting facility where used solar panels are collected, recorded, assessed and sorted, keeping used solar panels and other renewable-energy equipment out of landfill while recovering valuable materials for reuse and recycling.</p>
+
+
+
+<p>ReSolve Global Director Ben Pietzch said it is the company’s goal to build a transparent and practical system that prioritises reuse wherever appropriate and ensures the remaining materials are responsibly recovered.</p>
+
+
+
+<p>“Solar has delivered enormous benefits for Australian homes and businesses, but we also need to take responsibility for the equipment coming off rooftops,” Pietzsch said.</p>
+
+
+
+<p>By the start of October 2026 when ReSolve Global began operations, it had already collected more than 1,000 solar panels and is working with local industry to develop pathways for panels to be reused where appropriate or responsibly recycled and their materials recovered.&nbsp;</p>
+
+
+
+<p>It’s longer-term vision is to expand its resource-recovery model beyond solar panels to other renewable-energy infrastructure, including batteries, inverters and wind turbine components.</p>
+
+
+
+<p>It seeks partnerships with solar installers, councils, waste facilities, <a href="https://www.pv-magazine-australia.com/press-releases/committee-to-discuss-national-solar-panel-recycling-progress/" target="_blank" rel="noreferrer noopener">government</a> agencies and recycling organisations.&nbsp;</p>
+
+
+
+<p>Sungrow said it will continue&nbsp;to support ReSolve as it grows and to work with the wider industry to advance sustainable end-of-life solutions.</p>
+
+
+
+<p>The NSW government has launched <a href="https://www.pv-magazine-australia.com/2026/09/22/nsw-opens-consultation-on-mandatory-solar-panel-recycling-scheme/" target="_blank" rel="noreferrer noopener">consultation</a> on a proposal to introduce Australia’s first mandatory solar panel recycling scheme, aiming to ensure solar panel materials are recovered, reused and recycled rather than being dumped. Submissions close 16 November 2026.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="572" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/hero-building-1024x572.png" alt="" class="wp-image-150060" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/hero-building-1024x572.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/hero-building-300x167.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/hero-building-768x429.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/hero-building-260x145.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/hero-building.png 1376w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/06/sungrow-supports-clean-energy-goals-of-a-new-northern-rivers-solar-panel-recycling-business/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>As grid complexity grows, Australia’s transmission networks face a widening operational capability gap</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/06/as-grid-complexity-grows-australias-transmission-networks-face-a-widening-operational-capability-gap/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/06/as-grid-complexity-grows-australias-transmission-networks-face-a-widening-operational-capability-gap/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2026 02:05:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18525</guid>
+
+					<description><![CDATA[Australia’s electricity transmission networks are being asked to manage a power system that is changing faster than the operational tools and processes used to run them – and the industry has formally acknowledged the problem.]]></description>
+										<content:encoded><![CDATA[
+<p>Published in September, the Australian Energy Market Operator’s (AEMO) <a href="https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/system-operations/transmission-system-operational-capability-framework" target="_blank" rel="noreferrer noopener">Transmission System Operational Capability Framework</a> (TSOCF), developed jointly with industry stakeholders, identifies the widening gap between power system complexity and operational capability as an emerging resilience risk.</p>
+
+
+
+<p>As generation and demand patterns change, network businesses face increasing demands on the information and systems used to assess network conditions, plan changes and support operational decisions.</p>
+
+
+
+<p>Equipment ratings illustrate why this matters. These limits determine how much power transmission lines and other network equipment can safely carry under particular operating conditions.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="330" height="330" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Peter-Howarth.jpeg" alt="" class="wp-image-149912" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Peter-Howarth.jpeg 330w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Peter-Howarth-300x300.jpeg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Peter-Howarth-150x150.jpeg 150w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Peter-Howarth-260x260.jpeg 260w" sizes="auto, (max-width: 330px) 100vw, 330px" /><figcaption class="wp-element-caption">Peter Howarth | <i>Image: IPS-Energy</i></figcaption></figure>
+
+
+
+<p>Ratings depend on factors such as asset characteristics, temperature and weather, and may be static or dynamic, with seasonal and temperature-based approaches also used.</p>
+
+
+
+<p>Calculating and applying ratings requires reliable engineering information. But the relevant data can sit across different systems, including network models, asset management systems and engineering calculations.</p>
+
+
+
+<p>When information must be brought together manually, it becomes harder to maintain consistency, traceability and a shared view across teams.</p>
+
+
+
+<p>Ratings are one part of a wider network model management problem. As networks change, operators and planners need accurate models of how the system behaves, supported by asset information and engineering calculations that can be checked and verified. They must also manage proposed changes and communicate how the network may look and behave in the future.</p>
+
+
+
+<p>This is especially important when transmission and distribution networks are planning around the same constraints and future demand.</p>
+
+
+
+<p>If teams work in silos, they risk developing plans without a shared understanding of network conditions, proposed changes or investment needs.</p>
+
+
+
+<p>Better coordination helps ensure decisions about one part of the system take account of what is happening elsewhere.</p>
+
+
+
+<p>There is also a workforce challenge. As experienced engineers retire or move on, network businesses need to retain the knowledge behind engineering decisions.</p>
+
+
+
+<p>If that knowledge sits largely with individuals or depends on processes that are difficult to reproduce and audit, it becomes harder to transfer and apply consistently.</p>
+
+
+
+<p>The TSOCF recognises that operational capability involves more than technology.</p>
+
+
+
+<p>It covers people, processes, systems, data, tools and governance, providing a voluntary, industry-developed framework for AEMO and transmission network service providers to consider how they can respond to increasing system complexity.</p>
+
+
+
+<p>For network businesses, the response is not necessarily another standalone tool. It may involve integrating existing systems more effectively, improving how engineering information is shared and coordinating more closely across engineering, planning and operational teams.</p>
+
+
+
+<p>Demonstrating how information supports assessments and decisions can also help build the case for investment in enabling technologies.</p>
+
+
+
+<p>As Australia’s electricity system evolves, network businesses will need the tools, engineering information and coordination to plan for change. The priority is ensuring the people and teams responsible for the network share a reliable understanding of how it operates today and how it may need to change.</p>
+
+
+
+<p>*</p>
+
+
+
+<p><em>Author: Global provider of engineering and operational software for electricity and gas network operators.IPS-Energy APAC General Manager <a href="https://www.linkedin.com/in/intergrated-power-utility-solutions-asset-management-grid-performance/" target="_blank" rel="noreferrer noopener">Peter Howarth</a></em>. Printed with permission.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/06/as-grid-complexity-grows-australias-transmission-networks-face-a-widening-operational-capability-gap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Waroona Renewable Energy Project on track to secure Stage 1 funding</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/06/waroona-renewable-energy-project-on-track-to-secure-stage-1-funding/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/06/waroona-renewable-energy-project-on-track-to-secure-stage-1-funding/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2026 00:45:00 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18548</guid>
+
+					<description><![CDATA[Frontier Energy’s Waroona Project, a 132 MW solar and 81.5 MW battery energy storage system in Western Australia, is on track to secure funding for Stage One construction, following a project finance debt facility agreement of up to $280 million.]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.pv-magazine-australia.com/2026/09/02/frontier-seals-deals-to-deliver-wa-hybrid-solar-and-battery-project/" target="_blank" rel="noreferrer noopener">Frontier</a> Energy’s Waroona Renewable Energy Project in <a href="https://www.pv-magazine-australia.com/2026/09/11/western-australia-needs-40-gw-generation-125-gwh-storage-by-2035-report/" target="_blank" rel="noreferrer noopener">Western Australia</a> is on track to secure funding for Stage One construction, following a project finance debt facility agreement of up to $280 million (USD 194 million).</p>
+
+
+
+<p>The syndicated facility agreement is with international lenders led by France-headquartered investment bank Natixis CIB and Japanese financial services conglomerate Sumitomo Mitsui Banking Corporation.</p>
+
+
+
+<p>Prior to achieving financial close, Frontier must execute its <a href="https://www.pv-magazine-australia.com/2025/03/20/western-australia-cis-tender-awards-four-battery-projects-totalling-654-mw/" target="_blank" rel="noreferrer noopener">Capacity Investment</a> Scheme (CIS) agreement with the federal government and enter into interest rate hedging, with first drawdown of the debt facilities forecast to occur in Q12027.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="721" height="1024" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/2885_Frontier-Energy-Location-Map-1280x1817-1-721x1024.jpg" alt="" class="wp-image-150058" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/2885_Frontier-Energy-Location-Map-1280x1817-1-721x1024.jpg 721w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/2885_Frontier-Energy-Location-Map-1280x1817-1-211x300.jpg 211w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/2885_Frontier-Energy-Location-Map-1280x1817-1-768x1090.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/2885_Frontier-Energy-Location-Map-1280x1817-1-1082x1536.jpg 1082w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/2885_Frontier-Energy-Location-Map-1280x1817-1-204x290.jpg 204w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/2885_Frontier-Energy-Location-Map-1280x1817-1.jpg 1280w" sizes="auto, (max-width: 721px) 100vw, 721px" /></figure>
+
+
+
+<p>Frontier Executive Chairman Jamie Cullen said execution of the SFA is a major milestone for Frontier and comes as site works at Stage One are ramping up.</p>
+
+
+
+<p>“We would like to thank Azure Capital, the Company’s debt finance advisor, as well as the syndicated lending consortium that has committed the funding for developing Stage One, a major renewable energy project for Western Australia,” Cullen said.</p>
+
+
+
+<p>“With the SFA executed and financial close on track to occur during November, construction activities at our Waroona Project are ramping up, whilst we also continue to work through future expansion opportunities.”</p>
+
+
+
+<p><strong>Waroona Renewable Energy Project</strong></p>
+
+
+
+<p>Stage One of the <a href="https://www.pv-magazine-australia.com/2025/10/07/frontier-unveils-expansion-strategy-for-waroona-solar-and-battery-project/" target="_blank" rel="noreferrer noopener">Waroona</a> Renewable Energy Project is located approximately 120 kilometres south of Perth and will connect to the South West Interconnected System (SWIS) via the 330 kV Landwehr Terminal about 0.5 kilometres away.</p>
+
+
+
+<p>It is in proximity to major industrial precincts, including three alumina refineries (owned by Alcoa and South32) and two industrial zones containing chemical and heavy industry (Kwinana and Kemerton), all of which are incentivised to decarbonise their operations.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/06/waroona-renewable-energy-project-on-track-to-secure-stage-1-funding/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Rooftop solar installations year-on-year to October up 41%</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/06/rooftop-solar-installations-year-on-year-to-october-up-41/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/06/rooftop-solar-installations-year-on-year-to-october-up-41/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 23:15:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18547</guid>
+
+					<description><![CDATA[Australia's January to October 2026 3,138 MW of rooftop solar installations is 41% ahead of the same period in 2025, according to market analyst SunWiz monthly update.]]></description>
+										<content:encoded><![CDATA[
+<p>The latest monthly update from market analyst SunWiz shows 304.8 MW of new rooftop solar capacity was registered across Australia in October 2026, up 1.07% or 3.2 MW on <a href="https://www.pv-magazine-australia.com/2026/08/05/rooftop-solar-installation-rates-continue-upward-trend/" target="_blank" rel="noreferrer noopener">September</a> (301.MW).</p>
+
+
+
+<p>It is the second straight gain after an 11.5% <a href="https://www.pv-magazine-australia.com/2026/08/05/rooftop-solar-installation-rates-continue-upward-trend/" target="_blank" rel="noreferrer noopener">August</a> dip to 285 MW and the strongest October of the previous four years, about 16% above October 2025 (262 MW), with Victoria posting the largest gain, up 10.8% followed by Western Australia (WA) (+5.3%) and New South Wales (NSW) up 4.5%. </p>
+
+
+
+<p>All other states fell, led by the Northern Territory (-17.1%), then the Australian Capital Territory (ACT) (-9.1%), Queensland (-7.7%), SA (-5.8%) and TAS (-2.8%).</p>
+
+
+
+<p>NSW was the overall leader installing 89.9 MW, ahead of Queensland on 75.8 MW and Victoria on 60.2 MW, with NSW’s lead over Queensland widening from about 4 MW to 14 MW.</p>
+
+
+
+<p>“The January-October tally of 3,138 MW is the highest on record, running 41% ahead of the same point in 2025,” SunWiz managing director Warwick Johnston said.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="508" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Untitled-Design-1024x508.jpg" alt="" class="wp-image-150046" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Untitled-Design-1024x508.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Untitled-Design-300x149.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Untitled-Design-768x381.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Untitled-Design-1536x762.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Untitled-Design-260x129.jpg 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Untitled-Design.jpg 1672w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Johnston added there has been moves in opposite directions as <a href="https://www.pv-magazine-australia.com/2026/10/14/beyond-peak-shaving-are-we-selling-commercial-solar-and-batteries-short/" target="_blank" rel="noreferrer noopener">commercial market</a> waits to register 1 MW small-scale technology certificates (STCs), where NSW, Victoria and WA posted growth, and all other states and territories declined in commercial volumes above 50 kW.</p>
+
+
+
+<p>&#8220;15-20 kW posted the standout gain, up 6.7% (about +3.0 MW), followed by 20-30 kW (+5.2%), 30-50 kW (+2.7%) and 0-15 kW (+1.0%), though the larger commercial bands saw a downward trend, with 75-100 kW down 42% and 50-75 kW down 24%,&#8221; Johnston said.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="476" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-060520-1024x476.png" alt="" class="wp-image-150050" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-060520-1024x476.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-060520-300x140.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-060520-768x357.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-060520-260x121.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-060520.png 1139w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>&#8220;The 10-15 kW band remains the backbone of the market at 115.8 MW, more than double 6-8 kW (49.7 MW) and 15-20 kW (47.4 MW). Combined 20-100 kW volume fell to 32.3 MW from 35 MW, the lowest October of the four years shown and about 25% below 2023-2025 (42-43 MW).&#8221;</p>
+
+
+
+<p>Johnston said the national average system size rose to 10.05 kW from 9.88 kW, back above 10 kW for the first time since April but still below April’s 11.75 kW and December’s 12.10 kW.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/06/rooftop-solar-installations-year-on-year-to-october-up-41/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Researchers recover rooftop PV tilt, azimuth from power data</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/06/researchers-recover-rooftop-pv-tilt-azimuth-from-power-data/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/06/researchers-recover-rooftop-pv-tilt-azimuth-from-power-data/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 22:04:40 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18542</guid>
+
+					<description><![CDATA[An international research team has developed a method to determine rooftop PV array tilt and azimuth from operational power data. Tested on commercial systems in Australia, the method achieved median errors of about 2° for tilt and 4° for azimuth under unshaded conditions.]]></description>
+										<content:encoded><![CDATA[
+<p>An international research team has developed a method to determine the tilt and azimuth of rooftop PV arrays using operational power data. Accurate orientation data is essential for estimating electricity generation and detecting faults, but installation records are often missing or incorrect, while site inspections are impractical for large PV portfolios.</p>
+
+
+
+<p>“This study provides a method to recover panel tilt and azimuth from operational power data while accounting for partial shading and the geometric limit at low tilt,” corresponding author Hanrong Huang told <strong><em>pv magazine</em></strong>. </p>
+
+
+
+<p>“We tested it on 17 commercial rooftop systems in Australia with independently verified orientations. It offers a practical way to fill in missing or wrong tilt and azimuth records without a site visit.”</p>
+
+
+
+<p>The researchers developed and tested the method using operational data collected in 2025 from commercial rooftop PV systems in Australia. The dataset included DC power measurements recorded at five-minute intervals for each maximum power point tracker (MPPT). They used pvlib clear-sky modeling and ERA5 weather data to estimate solar irradiance on panels at different tilt and azimuth angles.</p>
+
+
+
+<p>After selecting periods with high direct irradiance and sufficient morning and afternoon measurements, the researchers used an optimisation algorithm to identify the orientation that best matched the measured power output. The algorithm also adjusted effective system capacity to account for power losses.</p>
+
+
+
+<p>The team also compared two fitting metrics, R² and Huber loss, and assessed the effects of shading, low tilt angles, data resolution, module temperature, and inverter clipping on accuracy. R² measures how well modeled power output matches observed data, while Huber loss reduces the influence of outliers, such as power deviations caused by shading, when fitting the model.</p>
+
+
+
+<p>“On unshaded systems the method recovered tilt to within about 2° and azimuth to within about 4° median error using only DC power data and site coordinates,” said Huang. “Because it works on DC data, it can also find the orientation of each array separately at the MPPT level.”</p>
+
+
+
+<p>Clear-sky modeling consistently outperformed ERA5, which resulted in median tilt errors of 10° to 12° and azimuth errors of 48° to 62° for unshaded systems. Shading increased clear-sky azimuth errors from 4° to 35° when using Huber loss and from 15° to 27° when using R². At tilt angles below 5°, azimuth was difficult to determine because panel orientation has little effect on incident irradiance, limiting the impact of such errors on estimated electricity generation.</p>
+
+
+
+<p>“Our next step is to reduce the effect of partial shading on recovery accuracy, which is the main limitation of the method,” Huang said. “We also want to make it robust to other real operating conditions such as inverter clipping and tripping so that it can be applied reliably at large scale.”</p>
+
+
+
+<p>The researchers presented their findings in “<a href="https://www.sciencedirect.com/science/article/pii/S0038092X26010029" target="_blank" rel="noreferrer noopener">Recovering rooftop photovoltaic array tilt and azimuth from operational power data</a>,” published in <em>Solar Energy</em>. The research team included scientists from the <a href="https://www.pv-magazine.com/2026/10/28/acid-free-molten-salt-method-recovers-94-of-silver-from-solar-cells/" target="_blank" rel="noreferrer noopener">Chinese Academy of Sciences</a>, Australia’s <a href="https://www.pv-magazine.com/2026/10/28/unsw-study-finds-bushfire-risks-to-pv-assets-extend-far-beyond-direct-fire-damage/" target="_blank" rel="noreferrer noopener">University of New South Wales</a>, <a href="https://www.pv-magazine-australia.com/2026/05/20/diagno-secures-formbay-backing-for-solar-and-battery-diagnostics-platform/">Diagno Energy</a>, and <a href="https://www.pv-magazine.com/2024/05/03/researchers-roll-out-algorithms-to-detect-underperforming-rooftop-pv-panels/" target="_blank" rel="noreferrer noopener">Global Sustainable Energy Solutions</a>.</p>
+
+
+
+<p>From <a href="https://www.pv-magazine.com/" target="_blank" rel="noreferrer noopener"><em>pv magazine Global</em></a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/06/researchers-recover-rooftop-pv-tilt-azimuth-from-power-data/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Australian-developed hydrogen technology may cut electricity use by 30%</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/05/australian-developed-hydrogen-technology-may-cut-electricity-use-30/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/05/australian-developed-hydrogen-technology-may-cut-electricity-use-30/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 05:33:24 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18520</guid>
+
+					<description><![CDATA[An Australian-developed hydrogen technology evolved from CSIRO research and advanced by Hadean Energy has the potential to cut green hydrogen costs and improve commercial viability of lower-emissions steelmaking, and other industrial applications.]]></description>
+										<content:encoded><![CDATA[
+<p>An Australian-developed hydrogen technology, evolved from CSIRO research and advanced by Sydney-based clean-tech company Hadean Energy has the potential to cut <a href="https://www.pv-magazine-australia.com/2026/06/24/catalyst-breakthrough-could-accelerate-green-hydrogen-production/" target="_blank" rel="noreferrer noopener">green hydrogen</a> costs and improve commercial viability of lower-emissions steelmaking.</p>
+
+
+
+<p>To be tested in a $30 million pilot green hydrogen plant in Victoria, which Hadean will build and operate, the facility has the backing of the Australian Renewable Energy Agency (ARENA), which has granted the project $15 million (USD 10.5 million).</p>
+
+
+
+<p>Hadean develops and commercialises tubular solid oxide electrolysis (tSOE) technology, developed by the <a href="https://www.pv-magazine-australia.com/2024/11/28/csiro-electrolysis-trial-promises-solid-solution-for-hard-to-abate-industries/" target="_blank" rel="noreferrer noopener">CSIRO</a>, which efficiently splits water into hydrogen and oxygen.</p>
+
+
+
+<p>From the pilot plant, it will deploy its hydrogen product to a steel manufacturing plant to test the technology for its ability to support the goal of lower-emissions steelmaking in a real industrial setting, which is hoped will move it towards commercial use, while building local skills and supply chains.</p>
+
+
+
+<p>By using waste heat from industrial processes, Hadean said the technology can reduce the amount of electricity needed to produce hydrogen by around 30% less than conventional electrolysers.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="824" height="607" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101.png" alt="" class="wp-image-149900" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101.png 824w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101-300x221.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101-768x566.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162101-260x192.png 260w" sizes="auto, (max-width: 824px) 100vw, 824px" /></figure>
+
+
+
+<p>ARENA Chief Executive Officer Darren Miller said reducing electricity use could help make green hydrogen more affordable and practical for industry.&nbsp;</p>
+
+
+
+<p>“This pilot will demonstrate how Hadean’s technology performs in a real-world industrial environment and provide the evidence needed to assess its commercial potential,” Miller said.</p>
+
+
+
+<p>“This could open the door to broader use of green hydrogen in <a href="https://www.pv-magazine-australia.com/press-releases/pivot-to-green-steel-would-unlock-billions-as-australias-120-billion-iron-ore-exports-at-risk-from-steel-sector-decarbonisation/" target="_blank" rel="noreferrer noopener">steelmaking</a> and other industrial applications, while helping build Australia’s hydrogen industrial capability.” </p>
+
+
+
+<p>Federal Minister for Climate Change and Energy Chris Bowen said renewable hydrogen has an important role in cutting <a href="https://www.pv-magazine.com/2026/07/03/the-hydrogen-stream-orica-move-forward-with-50-mw-hydrogen-hub-in-australia/" target="_blank" rel="noreferrer noopener">industrial emissions</a>, particularly where using electricity directly is difficult. </p>
+
+
+
+<p>&#8220;Bringing down the cost of producing it is critical,” Bowen said.</p>
+
+
+
+<p>Federal Minister for Industry and Innovation Tim Ayres added projects like this are at the heart of the Future Made in Australia agenda.</p>
+
+
+
+<p>&#8220;[That is] rebuilding Australia’s industrial capability, growing more Australian firms, and turning Australian innovation into real businesses and good jobs,&#8221; Ayres said.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/05/australian-developed-hydrogen-technology-may-cut-electricity-use-30/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AIKO signs 1 GW of all-back-contact module Gen 4 agreements at All Energy Australia</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/05/aiko-signs-1-gw-of-all-back-contact-module-gen-4-agreements-at-all-energy-australia/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/05/aiko-signs-1-gw-of-all-back-contact-module-gen-4-agreements-at-all-energy-australia/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 03:33:29 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Residential]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18519</guid>
+
+					<description><![CDATA[China-headquartered solar manufacturer AIKO has signed 1 GW of all-back-contact module Gen 4 agreements at All Energy Australia where the new module range was also debuted for the local market.]]></description>
+										<content:encoded><![CDATA[
+<p>China-headquartered All Back Contact (ABC) solar module and integrated solar-storage-solutions manufacturer AIKO has signed 1 GW of <a href="https://www.pv-magazine-australia.com/press-releases/aiko-brings-its-fourth-generation-of-back-contact-solar-to-australia/" target="_blank" rel="noreferrer noopener">Gen 4 </a>agreements at All Energy Australia where the new module range was also debuted ahead of its local market release.</p>
+
+
+
+<p>The Gen 4 range includes the Gen 4 ABC 4.0 INFINITE Ultra cell, featuring six process upgrades that lift average production cell efficiency from 27.2% to 27.4%. </p>
+
+
+
+<p>At the panel level, zero-gap cells, hidden rear connections (InvisiRibbon) and tighter string spacing cut non-generating area by about 20%, so 97% of the surface now produces power.</p>
+
+
+
+<p>Every ABC INFINITE Ultra series format gains up to 20 W over the previous generation, at exactly the same size and weight, which means up to 30 W more power per panel, compared to TOPCon panels of the same dimension, the company said.</p>
+
+
+
+<p>The 60-cell panel (1,954 × 1,134 mm) reaches 560 W, and the 72-cell panel (2,382 × 1,134 mm) reaches 700 W at 25.9% efficiency, the highest in the range.</p>
+
+
+
+<p>Rear-side generation weakness is addressed by Gen 4 with the 66-cell bifacial panel now reaching up to 85% bifaciality and 670 W, which opens back contact to high-albedo sites, carports, ground-mounted systems and solar farms.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="600" height="401" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/20261104024129EST_image_3.jpg" alt="" class="wp-image-149895" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/20261104024129EST_image_3.jpg 600w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/20261104024129EST_image_3-300x201.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/20261104024129EST_image_3-260x174.jpg 260w" sizes="auto, (max-width: 600px) 100vw, 600px" /></figure>
+
+
+
+<p><strong>Agreements and growth</strong></p>
+
+
+
+<p>The company said the agreements show strong demand for its ABC solar modules from installers and customers, and which have already seen 1 GW of its panels delivered to Australian rooftop and grid-scale projects.</p>
+
+
+
+<p>AIKO ANZ Head Thomas Bywater said the company is proud to have delivered its first GW of ABC solar to Australian homes and to have become the panel of choice in under three years.</p>
+
+
+
+<p>&#8220;As Australia moves to unlock its ‘<a href="https://www.pv-magazine-australia.com/2026/08/04/new-100-million-program-to-unlock-missing-middle-of-renewable-energy-shift/" target="_blank" rel="noreferrer noopener">missing middle</a>’ through the expanded rebate for systems up to 1 MW, AIKO is working closely with its distribution partners to bring high-efficiency solar solutions to commercial rooftops, helping Australian businesses access the full value of solar,&#8221; Bywater said.</p>
+
+
+
+<p>AIKO said to respond to the company&#8217;s market <a href="https://www.pv-magazine.com/2026/10/22/aiko-to-convert-perc-factory-into-6-gw-of-abc-cell-capacity/" target="_blank" rel="noreferrer noopener">growth</a> it is expanding a local team and will  focus on commercial and industrial (C&amp;I) and utility-scale solar, with a growing presence in New Zealand.</p>
+
+
+
+<p>AIKO Head of APAC Alex Hang reflected on AIKO&#8217;s arrival into the Australian market, when ACB solar technology was new to most installers.</p>
+
+
+
+<p>&#8220;Today, it is the panel so many of them choose for their own roofs,&#8221; Hang said.</p>
+
+
+
+<p>&#8220;That journey belongs to the partners, installers and customers across Australia and New Zealand who put their trust in AIKO early. With Gen 4 and a growing local team, we are ready to deliver and ready to scale.&#8221;</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="555" height="368" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-134737.png" alt="" class="wp-image-149896" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-134737.png 555w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-134737-300x199.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-134737-260x172.png 260w" sizes="auto, (max-width: 555px) 100vw, 555px" /><figcaption class="wp-element-caption">The solar carport built with AIKO panels, in partnership with Canyon Solar, on the AIKO stand at All-Energy Australia 2026. | <i>Image: AIKO</i></figcaption></figure>
+
+
+
+<p><strong>Solar carport solution</strong></p>
+
+
+
+<p>At All-Energy Australia 2026, the company displayed a solar carport solution in partnership with local partner Canyon Solar, a Mittagong, New South Wales (NSW), business that designs prefabricated, modular solar canopies. </p>
+
+
+
+<p>Built with AIKO panels, the carport gives facilities whose roof space is limited for the system they need, a way to generate more clean energy from the space they already have.</p>
+
+
+
+<p>AIKO said it has become the No. 1 panel brand in OpenSolar quoting, with close to 20% of active monthly solar proposals nationwide.</p>
+
+
+
+<p>Installers also voted AIKO No. 1 in the SolarQuotes Installers&#8217; Choice Awards in both 2025 and 2026 and ranked it the best panel in SolarCalculator&#8217;s 2026 Solar Installer Survey, with an average score of 9.4 out of 10. </p>
+
+
+
+<p>Gen 4 panels will be available in Australia following Clean Energy Council listing.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/05/aiko-signs-1-gw-of-all-back-contact-module-gen-4-agreements-at-all-energy-australia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JA unveils the HyperGen Pro module series and liquid-cooled C&#038;I energy storage system</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/05/ja-unveils-the-hypergen-pro-module-series-and-liquid-cooled-ci-energy-storage-system/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/05/ja-unveils-the-hypergen-pro-module-series-and-liquid-cooled-ci-energy-storage-system/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 01:15:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Residential]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18516</guid>
+
+					<description><![CDATA[JA has marked the Australian debut of both the HyperGen Pro module and JA ESS 261 kWh liquid-cooled commercial and industrial energy storage system at All Energy in Melbourne.]]></description>
+										<content:encoded><![CDATA[
+<p>China-headquartered photovoltaic products manufacturer<a href="https://www.pv-magazine-australia.com/2026/06/01/lightyears-biggest-build-yet-marks-milestone-for-ja-solar/" target="_blank" rel="noreferrer noopener"> JA </a>marked the Australian debut of both the HyperGen Pro module and JA ESS 125 kW / 261 kWh liquid-cooled commercial and industrial (C&amp;I) energy storage system, at All Energy Australia 2026.</p>
+
+
+
+<p><a href="https://www.pv-magazine-australia.com/press-releases/ja-solar-ranked-no-1-global-solar-module-manufacturer-by-wood-mackenzie/" target="_blank" rel="noreferrer noopener">Designed</a> with the Australian market in mind, the HyperGen Pro adopts a 1,762 mm module format. The white variant delivers up to 510 W of power output at a maximum efficiency of 25.5%, while the all-black variant offers up to 505 W at 25.3% efficiency.</p>
+
+
+
+<p>Built on a back-contact cell architecture, HyperGen Pro places all electrodes on the rear of the cells, eliminating front-side grid lines. Combined with zero-busbar (0BB) interconnection technology and a full-screen design, the configuration maximises the light-receiving area while delivering a clean, uniform appearance, particularly in the all-black variant.</p>
+
+
+
+<p>The HyperGen Pro weighs 12–14% less than comparable dual-glass modules of the same format reducing structural loads on rooftops while improving heat dissipation and enabling single-person handling.</p>
+
+
+
+<p>The design performs well for commercial and industrial buildings with limited roof load capacity.</p>
+
+
+
+<p>Featuring a HW4 hail-resistance rating and certification the HyperGen can withstand hailstones up to 40 mm in diameter, addressing a key reliability concern in hail-prone regions such as Victoria, New South Wales (NSW) and south-east Queensland.</p>
+
+
+
+<p>A chemically etched, micro-textured glass surface converts specular reflection into diffuse reflection, reducing glare at the source, helping to address reflected-light concerns in urban areas.</p>
+
+
+
+<p>The module’s power temperature coefficient of −0.26%/°C helps limit output losses in hot conditions, and when combined with first-year degradation of 1% and annual linear degradation of 0.35% thereafter, the module can maintain reliable performance over its operating life.</p>
+
+
+
+<p>A bypass design enabled by the cell architecture responds to partial shading, helping limit power losses and reduce hot-spot temperatures, which provides additional protection against common rooftop shading sources, including trees, chimneys and bird droppings.</p>
+
+
+
+<p>JA’s East Asia and South Pacific Region Vice President Daniel Li said Australia is one of the world’s most demanding rooftop solar markets.</p>
+
+
+
+<p>“[It has]  <a href="https://www.pv-magazine-australia.com/2025/08/27/ja-solar-unveils-650-w-topcon-module-for-desert-pv-projects/" target="_blank" rel="noreferrer noopener">intense solar irradiance</a>,, challenging rooftop installation conditions, frequent hailstorms and a rapid shift towards integrated solar-plus-storage solutions,” Li noted.</p>
+
+
+
+<p>“HyperGen Pro was developed with these conditions in mind, combining a lighter design, enhanced hail resistance and reliable performance in high temperatures.”</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-1024x683.png" alt="" class="wp-image-149891" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-1024x683.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-300x200.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-768x512.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-1536x1025.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026-260x173.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-at-All-Energy-Australia-2026.png 2000w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">JA exhibit at All Energy Australia 2026 | <i>Image: JA</i></figcaption></figure>
+
+
+
+<p><strong>JA ESS: 125 kW / 261 kWh Liquid-Cooled C&amp;I Energy Storage</strong></p>
+
+
+
+<p>The JA ESS liquid-cooled C&amp;I energy storage system combines multiple safety measures, energy efficiency and intelligent operation and maintenance (O&amp;M) capabilities.</p>
+
+
+
+<p>Safety is supported by millisecond-level insulation monitoring, a three-tier fire and explosion protection architecture, and real-time battery pack monitoring. Working together, these measures enable early detection of potential thermal runaway risks and provide multiple layers of protection throughout system operation.</p>
+
+
+
+<p>The system uses long-life lithium iron phosphate (LFP) batteries and achieves round-trip efficiency of up to 88%. Its liquid-cooling design also reduces auxiliary power consumption by 10%, helping improve overall system efficiency and long-term project economics.</p>
+
+
+
+<p>For ongoing operations, built-in AI-powered predictive maintenance is designed to minimise unplanned downtime and simplify fault management. According to JA, these capabilities can reduce downtime by up to 90% and enable more than 90% of system faults to be resolved remotely. A modular design further simplifies on-site inspection and component replacement, helping reduce maintenance requirements and operating costs over the system’s lifetime.</p>
+
+
+
+<p><strong>DeepBlue 5.0</strong></p>
+
+
+
+<p>JA also showcased the DeepBlue 5.0 n-type TOPCon series at All Energy, extending its module offering across residential rooftops, commercial and industrial installations, and utility-scale projects.</p>
+
+
+
+<p>For residential applications, the 485 W JAM48D51 LR all-black module combines Tri-Cut cell architecture with Bycium+ 5.0 cell technology and 20-busbar (20BB) current collection, delivering a 0.25% improvement in low-light output.</p>
+
+
+
+<p>For larger commercial, industrial and ground-mounted installations, JA presented the 550 W JAM54D50 GR and 670 W JAM66D50 GB modules. The 670 W model offers a bifaciality of 85% ± 5%, a power temperature coefficient of −0.26%/°C, and a degradation rate of 1% in the first year, followed by 0.35% annually thereafter.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-1024x683.png" alt="" class="wp-image-149892" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-1024x683.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-300x200.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-768x512.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-1536x1024.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate-260x173.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/JA-received-SunWizs-1-Win-Rate.png 1620w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">At All Energy Australia 2026, JA received SunWiz’s “#1 Win Rate — Panel Proposal to Sale” award and was also recognised as a Top Solar Company.
+
+ | <i>Image: JA</i></figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/05/ja-unveils-the-hypergen-pro-module-series-and-liquid-cooled-ci-energy-storage-system/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
