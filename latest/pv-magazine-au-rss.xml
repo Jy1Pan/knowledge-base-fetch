@@ -12,7 +12,7 @@
 	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.pv-magazine-australia.com/</link>
 	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
-	<lastBuildDate>Mon, 09 Nov 2026 22:50:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Nov 2026 22:24:27 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,418 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Pylontech unveils all-in-one residential inverter and battery solution</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/11/pylontech-unveils-all-in-one-residential-inverter-and-battery-solution/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/11/pylontech-unveils-all-in-one-residential-inverter-and-battery-solution/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2026 00:11:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18600</guid>
+
+					<description><![CDATA[Chinese battery maker Pylontech has unveiled a new all-in-one home battery energy storage solution that provides up to 110 kWh of storage and supports up to 200% PV oversizing.]]></description>
+										<content:encoded><![CDATA[
+<p>Pylontech recently launched its Force Nex residential energy storage solution in the Australian market. The system integrates modular lithium iron phosphate (LFP) battery packs, inverter hardware, app-based monitoring and energy control functions into a single platform.</p>
+
+
+
+<p>Available in both single-phase and three-phase models, Force Nex offers single-phase configurations ranging from 4.6 to 9.9 kW, with 8–50 kWh of battery capacity. Three-phase models range from 5 to 15 kW, with 10–110 kWh of battery capacity. Customers can choose 8 kWh or 10 kWh battery modules.</p>
+
+
+
+<p><a href="https://www.pv-magazine.com/2">Pylontech</a> said each pack has an independent DC/DC converter, allowing compatible modules of different capacities, including new and existing Force Nex batteries, to work together.</p>
+
+
+
+<p>“Homeowners can add storage as their needs grow, while keeping the batteries they already have,” the company said.</p>
+
+
+
+<p>The Force Nex platform is built on LFP cells that Pylontech said have a specified cycle life of more than 10,000 cycles and 100% depth of discharge.</p>
+
+
+
+<p>For rooftop solar, the range supports up to 200% PV oversizing, up to four MPPTs and 20 A input per string.</p>
+
+
+
+<p>Pylontech said these features give installers more flexibility when working with different roof layouts and high-current solar panels.</p>
+
+
+
+<p>“Depending on the model and system configuration, PV-to-battery charging power can reach up to 150% of the inverter’s rated power, helping store more solar energy during available sunshine hours,” the company said. “SiC (silicon carbide) technology is used in the inverters and battery DC/DC converters to support efficient power conversion and reduce energy losses.”</p>
+
+
+
+<p>The Force Nex system has a built-in backup output and switches to backup power in less than 10 milliseconds, according to Pylontech. Grid pass-through current is 63 A for single-phase models and 50 A for three-phase models. The company said selected models also support up to 200% off-grid overload for 10 seconds, helping meet the short bursts of power needed when larger appliances start.</p>
+
+
+
+<p>The system uses fanless cooling, with a specified noise level of 30 dB or below. IP66 protection and C5-M corrosion resistance support outdoor use, while optional battery heating supports operation in colder conditions.</p>
+
+
+
+<p>Pylontech said Force Nex is designed for 10-minute installation and one-click commissioning.</p>
+
+
+
+<p>“Stackable modules, guided placement, quick connections, shared grounding and handling tools simplify the physical installation,” the company said, adding that installers can connect the system through the iPylontech app, carry out setup and review its status before handover.</p>
+
+
+
+<p>Pylontech said the app also allows homeowners to see how much solar power is being generated, whether the battery is charging or supplying the home, and how much electricity is being drawn from the grid.</p>
+
+
+
+<p>With Force Nex now unveiled in Australia, Pylontech said it plans to launch the all-in-one energy storage system in Europe and the wider global market in the first quarter of 2027.&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/11/pylontech-unveils-all-in-one-residential-inverter-and-battery-solution/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Why world must get serious about electrification</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/11/why-world-must-get-serious-about-electrification/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/11/why-world-must-get-serious-about-electrification/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2026 23:06:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18622</guid>
+
+					<description><![CDATA[To reduce climate emissions, the world needs clean electricity powering our industry, transport, homes, lighting and heating. However, much of the energy we use still comes directly from burning fossil fuels.]]></description>
+										<content:encoded><![CDATA[
+<p>Cars burn petrol, gas heats buildings and industrial processes burn coal and gas. Currently, only <a href="https://www.iea.org/reports/electrification?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">23%</a> of global final energy demand &#8211; the energy that reaches the final user, such as households or factories &#8211; comes from electricity.</p>
+
+
+
+<p>This week, at the UN climate summit COP31 in Turkey, there&#8217;s a strong focus on electrification. The <a href="https://cop31.tr/news-detail/cop31-presidency-launches-35-by-35-and-antalya-ai-pledges?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">COP presidency</a>, which includes Australia&#8217;s Climate and Energy Minister Chris Bowen and Turkey&#8217;s Environment Minister Murat Kurum, has launched a &#8220;35-by-35&#8221; electrification pledge. They want other countries to sign on. This would see 35% of global final energy use come from electrification by 2035.</p>
+
+
+
+<p>This is significant, and goes beyond switching petrol cars for electric ones. Electrification changes how we use energy, replacing the direct use of fossil fuels across transport, buildings and industry with electricity, increasingly from renewables.</p>
+
+
+
+<p>However, this pledge raises a number of questions. Is this target realistic? And where did the figure of 35% come from? My colleagues and I have published <a href="https://www.climate-resource.com/media/decarb-futures/global_electrification_15.pdf?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">analysis</a> that provides the answers.</p>
+
+
+
+<h2 class="wp-block-heading">Why 1.5°C remains crucial</h2>
+
+
+
+<p>The world has run out of time to <a href="https://wmo.int/resources/publication-series/wmo-global-annual-decadal-climate-update/global-annual-decadal-climate-update-2026-2035?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">limit global warming to 1.5°C</a> without temporarily overshooting it. The latest climate scenarios suggest that even with decisive action to cut emissions, temperatures are <a href="https://theconversation.com/a-landmark-un-report-says-the-world-will-overshoot-the-1-5-c-climate-target-what-happens-now-290818?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">likely to exceed 1.5°C</a> for at least a decade.</p>
+
+
+
+<p>The <a href="https://www.climate-resource.com/media/decarb-futures/the_path_to_15.pdf?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">latest temperature scenarios</a> show the best we can hope for is for warming to peak around 1.7°C in the 2040s, before returning to 1.5°C by 2100. This is known as &#8220;overshoot.&#8221;</p>
+
+
+
+<p>The higher and longer temperatures remain above 1.5°C, the greater the risks to people and nature. Returning to 1.5°C also requires removing large amounts of carbon dioxide from the atmosphere, something we can&#8217;t do yet at <a href="https://wedocs.unep.org/items/156d074c-ab1d-4833-acf8-6343589ede9b?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">the necessary scale</a>.</p>
+
+
+
+<p>This makes the rapid reduction of emissions crucial. Rather than hoping future technologies will be able to undo the damage, we need to rely on those already available.</p>
+
+
+
+<h2 class="wp-block-heading">Why electrification matters</h2>
+
+
+
+<p>Electric technologies are <a href="https://www.iea.org/reports/electrification?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">more efficient</a> than fossil-fuelled equivalents. An electric car converts more of its energy into movement than a petrol car. Heat pumps can deliver several units of heat for each unit of electricity consumed.</p>
+
+
+
+<p>As electricity generation shifts to wind, solar and other low-emissions sources, the benefits flow into every part of the economy that uses electricity. Renewable energy reduces the emissions used to create electricity, while electrification creates more <a href="https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/May/IRENA_OUT_TAFF_RE_electrification_grids_2026.pdf?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">demand for renewables</a>.</p>
+
+
+
+<p>The new 35-by-35 target is intended to work alongside existing global commitments made at COP28 in Dubai three years ago; to triple renewable energy capacity and double energy efficiency by 2030.</p>
+
+
+
+<h2 class="wp-block-heading">Where does 35% come from?</h2>
+
+
+
+<p>Our <a href="https://www.climate-resource.com/media/decarb-futures/global_electrification_15.pdf?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">analysis</a> of the latest global climate scenarios finds 35% is not an arbitrary political ambition. In fact, it is the median level of electrification in climate scenarios that gives us the best remaining chance to return global warming to 1.5°C by the end of the century. The median average is the middle value in the data set.</p>
+
+
+
+<p>To understand whether 35% is a credible target, we examined newly published global climate scenarios developed by the international <a href="https://doi.org/10.5194/gmd-19-2627-2026?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">climate modelling community</a>.</p>
+
+
+
+<p>Among these, we focused on 10 pathways with the lowest levels of warming. These would peak at around 1.7°C or less, and return to 1.5°C or below by 2100.</p>
+
+
+
+<p>Across all of these projections, electricity&#8217;s share of <a href="https://www.climate-resource.com/media/decarb-futures/global_electrification_15.pdf?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">global final energy</a> rises from about 23% in 2025 to a median of 28% in 2030, and 35% in 2035. This shows that to align with scenarios that limit warming to 1.5°C, electricity needs to supply about 35% of the energy we use by 2035. Our research sets out the evidence.</p>
+
+
+
+<p>However, the world is not yet on track. Under existing global climate policies, the International Energy Agency (IEA) <a href="https://www.iea.org/reports/electrification?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">projects</a> electricity will supply just under 30% of final energy by 2035.</p>
+
+
+
+<p>Of course, the climate benefit is reduced if petrol, coal and gas use is replaced with electricity generated by fossil fuels. However, the good news is that <a href="https://doi.org/10.5194/gmd-19-2627-2026?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">new climate scenarios</a> show how renewable energy and electrification can work together. As renewable electricity expands, it becomes more economically viable to switch transport, buildings and industry from fossil fuels to electricity.</p>
+
+
+
+<h3 class="wp-block-heading">We have what we need</h3>
+
+
+
+<p>Much of the necessary technology already exists. One in four new cars sold globally in 2025 was electric <a href="https://www.iea.org/reports/global-ev-outlook-2026/executive-summary?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">according to the IEA</a>, and up to three-quarters of global energy demand <a href="https://ember-energy.org/latest-insights/the-long-march-of-electrification/?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">could be electrified</a> using existing technologies.</p>
+
+
+
+<p>The challenge is getting these existing technologies &#8211; such as heat pumps and electric industrial equipment &#8211; deployed. We need greater investment in electricity grids and storage, policies that encourage households and businesses to switch from gas to electrical devices, and access to affordable finance, particularly in developing countries.</p>
+
+
+
+<p>There are compelling economic and security reasons to make the shift. Countries reliant on imported oil and gas are exposed when <a href="https://theconversation.com/why-fuel-prices-may-go-higher-still-292853?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">international prices spike</a>, as we saw this year in the US-Iran conflict. Domestic renewable electricity can reduce that dependence, while efficient electric technologies <a href="https://ember-energy.org/latest-insights/the-energy-security-fall-out-from-fossil-fuel-fragility-to-electric-independence/?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">lower overall energy demand</a>.</p>
+
+
+
+<h3 class="wp-block-heading">A collective commitment</h3>
+
+
+
+<p>Electricity must become cleaner &#8211; reducing emissions and air pollution &#8211; as demand grows. Fossil fuel use must rapidly decline.</p>
+
+
+
+<p>The 35-by-35 target is one part of a larger transformation, alongside renewable energy and energy efficiency.</p>
+
+
+
+<p>The COP31 talks provide an opportunity to turn this scientific benchmark into a collective commitment. The evidence is clear that the world needs to electrify faster. The question at COP31 this week is whether governments are prepared to put the policies, investment and cooperation in place to make it happen.</p>
+
+
+
+<p><em>Author: <a href="https://theconversation.com/profiles/anita-talberg-113846">Anita Talberg</a>, Honorary Fellow, Melbourne Climate Futures, The University of Melbourne. Dr Talberg works for Climate Resource, a research and science organisation that received funding from the Australian Government to prepare research and analysis to inform discussions on electrification as a COP31 priority.</em></p>
+
+
+
+<p><em>This article was initially published in <a href="https://theconversation.com/au" target="_blank" rel="noreferrer noopener">The Conversation</a> and is republished here under a Creative Commons Licence.</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/11/why-world-must-get-serious-about-electrification/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tongwei unveils 26.03%-efficient TOPCon solar cell with high sheet resistance</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/11/tongwei-unveils-26-03-efficient-topcon-solar-cell-with-high-sheet-resistance/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/11/tongwei-unveils-26-03-efficient-topcon-solar-cell-with-high-sheet-resistance/#respond</comments>
+		
+		<dc:creator><![CDATA[Emiliano Bellini]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2026 22:23:00 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[cells & modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18593</guid>
+
+					<description><![CDATA[The solar cell was fabricated using a low-cost photoresist-based etching process to create a selective emitter with a sheet resistance of up to 1,600 Ω/sq in non-contacted regions, reducing recombination losses while maintaining effective electrical contacts. The TOPCon device achieved a certified power conversion efficiency of 26.03% and an open-circuit voltage of 746.5 mV.]]></description>
+										<content:encoded><![CDATA[
+<p>Aresearch group led by Chinese polysilicon and solar module manufacturer <a href="https://www.pv-magazine.com/2026/07/17/tongwei-claims-record-breaking-93-07-bifaciality-factor-for-770-w-solar-module/">Tongwei</a> has developed a tunnel oxide passivated contact (TOPCon) solar cell featuring an emitter with higher sheet resistance in a bid to reduce recombination losses, improve surface passivation and increase power conversion efficiency.</p>
+
+
+
+<p>“In our work, a non-destructive photoresist-based etching process was used to form a selective emitter structure for TOPCon solar cells,” corresponding author Xiajie Meng told <strong>pv magazine</strong>. “The structure features a sheet resistance as high as 1,600 Ω/sq – to the best of our knowledge, the highest reported for TOPCon to date. This successful implementation confirms that TOPCon remains highly competitive for commercial applications.”</p>
+
+
+
+<p>The researchers explained that conventional TOPCon cells face a trade-off between low contact resistance and reduced carrier recombination in the boron-doped emitter. The proposed architecture addresses this limitation by combining heavily boron-doped regions beneath the metal contacts with lightly doped regions between the contacts.</p>
+
+
+
+<p>The scientists used a range of characterisation techniques to investigate the structural, electrical and passivation properties of the proposed cell architecture, with the aim of identifying optimal design conditions that balance surface passivation, lateral charge transport and metal shading losses.</p>
+
+
+
+<p>They used scanning electron microscopy and 3D laser microscopy to examine etching depth and surface morphology, while four-point probe measurements determined the sheet resistance of the lightly and heavily boron-doped emitter regions. They also evaluated contact resistivity using the transmission line method and characterised doping profiles and junction depths through electrochemical capacitance-voltage measurements.</p>
+
+
+
+<p>The team assessed minority carrier lifetime and emitter recombination using quasi-steady-state photoconductance measurements. Electron-beam-induced current measurements provided qualitative evidence of junction continuity, while photoluminescence imaging was used to evaluate passivation quality under different illumination levels.</p>
+
+
+
+<p>Current-voltage measurements were used to determine key cell parameters, including open-circuit voltage, short-circuit current density, fill factor, efficiency and series resistance. The researchers also conducted Quokka3 simulations to compare conventional uniform emitters, selective emitters and locally boron-doped finger structures using experimentally derived parameters.</p>
+
+
+
+<p>The analysis showed that that high-temperature oxidation reduced surface boron concentrations while increasing junction depth, helping suppress recombination and maintain effective metal contacts.</p>
+
+
+
+<p>The scientists also found that increasing the sheet resistance of non-contacted emitter regions from 800 Ω/sq to 2,000 Ω/sq significantly improved minority carrier lifetime and surface passivation, although improvements became marginal beyond 1,600 Ω/sq, while doping uniformity deteriorated, making this value preferable for cell fabrication.</p>
+
+
+
+<p>The team then compared three architectures: a conventional uniform emitter, a boron-doped selective emitter and a locally boron-doped finger structure. The selective emitter combined a sheet resistance of 450 Ω/sq beneath the metal contacts with 1,600 Ω/sq in non-contacted regions.<br>This configuration increased average cell efficiency from 25.82% to 25.98%, representing an absolute improvement of 0.16 percentage points.<br>Open-circuit voltage increased from 742.6 mV to 745.5 mV, while fill factor improved from 83.54% to 83.76%.</p>
+
+
+
+<p>The optimised selective emitter cell also achieved a certified efficiency of 26.03%, with an open-circuit voltage of 746.5 mV, with the results being confirmed by Germany’s <a href="https://www.pv-magazine.com/2026/04/28/longi-announces-world-record-efficiency-of-28-13-for-silicon-solar-cell/">Solar Energy Research Hamelin </a>(ISFH). The locally boron-doped finger structure also improved passivation but suffered greater fill factor losses, limiting its efficiency advantage. Its fill factor reached 83.34%, compared with 83.76% for the selective emitter, partly reflecting increased series resistance and potentially additional recombination.<br><br>The Quokka3 simulations examined the effects of contact width, grid pitch, finger width and wafer resistivity on cell performance and indicated that a contacted-region width of approximately 200 µm offered the highest efficiency among the investigated configurations. Reducing metal finger widths to 7 µm to 9 µm could enable a denser grid with a pitch of around 500 µm to 550 µm, potentially improving efficiency further, the scientists said.</p>
+
+
+
+<p>“For the locally boron-doped finger architecture, simulations indicate that using silicon wafers with higher bulk resistivity alongside more closely spaced front contacts could offer opportunities for further performance improvements, although experimental validation is still required,” Meng said. “More broadly, the study demonstrates the potential of photoresist-based selective etching to produce emitters with exceptionally high sheet resistance in non-contacted areas without compromising electrical contact quality.”</p>
+
+
+
+<p>The new cell concept was described in “<a href="https://www.sciencedirect.com/science/article/abs/pii/S0927024826006513">High-efficiency TOPCon solar cells featuring super-high sheet resistance emitters via low-cost photoresist etching</a>,” which was recently published in <em>Solar Energy Materials and Solar Cells</em>. The research team included scientists from the School of Optoelectronic Science and Engineering, University of Electronic Science and Technology of China (UESTC) and Chinese industrial equipment company Jiangsu Inspiray Equipment Co., Ltd.</p>
+
+
+
+<p>“The findings could help manufacturers refine emitter doping profiles and contact designs, paving the way for further efficiency gains and potential industrial adoption of the technology,” Meng concluded.</p>
+
+
+
+<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/11/tongwei-unveils-26-03-efficient-topcon-solar-cell-with-high-sheet-resistance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Recurrent wins federal approval for NSW solar and battery project</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/10/recurrent-wins-federal-approval-for-nsw-solar-and-battery-project/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/10/recurrent-wins-federal-approval-for-nsw-solar-and-battery-project/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2026 04:58:00 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18579</guid>
+
+					<description><![CDATA[Recurrent Energy’s plans to build a 350 MW solar farm and 600 MWh battery in New South Wales have cleared another regulatory hurdle with the federal government’s environmental watchdog providing the tick of approval for the project.]]></description>
+										<content:encoded><![CDATA[
+<p>Recurrent Energy’s Sundown solar and battery project planned for southwest New South Wales’ (NSW) New England region has been approved under the Australian government’s Environment Protection and Biodiversity Conservation (EPBC) Act, moving the huge project closer to construction.</p>
+
+
+
+<p>Recurrent, the utility-scale solar and energy storage development platform of solar manufacturer&nbsp;Canadian Solar, said the Sundown project combines a 360 MW solar installation comprising about 660,000 PV panels with a 150 MW / 600 MWh battery energy storage system (BESS).</p>
+
+
+
+<p>The project is being developed across a 525-hectare site about 30 kilometres east of Inverell, within the New England Renewable Energy Zone (REZ). It would connect to the National Electricity Market (NEM) via the existing 330 kV transmission line that traverses the site.</p>
+
+
+
+<p>Recurrent said once operational, the facility will be capable of generating clean energy to meet the average annual electricity needs of about 176,000 households, while enhancing grid stability by supporting peak demand periods through its integrated storage solution.</p>
+
+
+
+<p>“Sundown Solar Farm will play an important role in providing stability to the NSW electricity network,” the company said, adding that the electricity generated from the project will be sold to “one or more registered energy retailing organisations, large energy users or to the NEM.”</p>
+
+
+
+<p>The federal nod for the Sundown solar and battery project comes after the NSW Independent Planning Commission provided its&nbsp;approval in August. The project secured &nbsp;<a href="https://www.pv-magazine-australia.com/2026/05/05/rooftop-solar-surges-to-new-high-on-back-of-battery-boom/">grid connection approval</a> under clause 5.3.4 of the National Electricity Rules from the Australian Energy Market Operator (AEMO) in April.</p>
+
+
+
+<p>Recurrent has not yet provided a construction timeline but it is anticipated the project will support approximately 300 jobs during the peak construction period.</p>
+
+
+
+<p>The Sundown solar and battery project is part of Recurrent expanding renewables portfolio. The company said it has completed the development of about 11 GW of operating utility-scale solar projects and 5 GWh of energy storage projects across six continents. It also has approximately 21 GW of solar and 76 GWh of battery storage projects under development.</p>
+
+
+
+<p>Its Australia projects include the 150 MW <a href="https://www.pv-magazine-australia.com/2026/08/13/victorian-energy-park-powers-up-under-long-term-microsoft-ppa/">Carwarp Solar Farm</a> in northwest Victoria, and the 100 MW / 200 MWh <a href="https://www.pv-magazine-australia.com/2025/10/13/epic-battery-begins-full-operations-in-south-australia/">Mannum BESS</a> in South Australia. now owned by Epic Energy. Recurrent is also developing the 100 MW / 200 MW Panorama Battery project near Bathurst in western NSW.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/10/recurrent-wins-federal-approval-for-nsw-solar-and-battery-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AVL lands $15 million for relocatable vanadium electrolyte production plant</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/10/avl-lands-15-million-for-relocatable-vanadium-electrolyte-production-plant/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/10/avl-lands-15-million-for-relocatable-vanadium-electrolyte-production-plant/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2026 03:11:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[finance]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18596</guid>
+
+					<description><![CDATA[Australian Vanadium Limited has secured $15 million in state government funding to establish a relocatable vanadium electrolyte manufacturing facility that will support large-scale battery installations in Western Australia.]]></description>
+										<content:encoded><![CDATA[
+<p>Perth-headquartered resources and battery technology company <a href="https://www.pv-magazine-australia.com/2026/10/12/avl-teams-with-us-company-to-test-australian-vanadium-for-heavy-duty-batteries/">Australian Vanadium Limited</a> (AVL)&nbsp;has executed a funding agreement with the Western Australian (WA) government for up to $15 million (USD 10.38 million) to establish a relocatable vanadium electrolyte manufacturing facility.</p>
+
+
+
+<p>AVL said the funding will support the design, construction and commissioning of a high-capacity vanadium electrolyte manufacturing facility utilising the company’s V-Nomad production platform.</p>
+
+
+
+<p>Designed as a relocatable solution, the V-Nomad platform allows for electrolyte to be manufactured at or near project sites for GWh-scale vanadium flow battery (VFB) installations. The platform is intended to cut logistics, storage and commissioning costs, and support multiple vanadium feedstocks.</p>
+
+
+
+<p>AVL Chief Executive Officer Graham Arvidson said the project will expand its capacity to produce vanadium electrolyte to support large-scale VFB projects as well as increasing local content in the vanadium flow battery supply chain.</p>
+
+
+
+<p>“The awarding of this grant is an important milestone for AVL and recognises the progress we have made in developing vanadium electrolyte manufacturing capability in Western Australia,” he said.</p>
+
+
+
+<p>“The grant will support the next stage of development of our V-Nomad platform and our broader strategy of integrating Western Australian vanadium production, electrolyte manufacturing and utility scale vanadium flow battery deployment, including through opportunities pursued by our downstream business, <a href="https://www.pv-magazine-australia.com/2026/02/23/avl-parts-with-sumitomo-for-was-500-mwh-vanadium-battery-project/">VSUN Energy</a>.”</p>
+
+
+
+<p>The WA government will contribute up to 50% of the project cost, capped at $15 million, with AVL funding the balance.</p>
+
+
+
+<p>WA Development Minister David Michael said the project presents an opportunity for the state to further invest in energy transition initiatives by supporting grid-scale energy storage and strengthening critical minerals supply chains.</p>
+
+
+
+<p>&#8220;By supporting AVL&#8217;s electrolyte manufacturing capability, we&#8217;re creating new opportunities in advanced manufacturing while helping position WA at the forefront of long-duration energy storage technologies,” he said.</p>
+
+
+
+<p>&#8220;The development of a high-capacity vanadium electrolyte facility will support local jobs, strengthen our manufacturing capability, and provide the foundations for future grid-scale battery projects across the state.&#8221;</p>
+
+
+
+<p>The downstream initiative is <a href="https://www.pv-magazine-australia.com/2025/01/14/avl-wins-epa-approval-for-vanadium-project/">supported upstream</a> by AVL’s namesake project at Gabanintha in the state’s mid-west, which hosts a mineral resource estimate of 395.4 million tonnes at 0.77% vanadium pentoxide.&nbsp;</p>
+
+
+
+<p>The funding has been awarded through the WA government&#8217;s Investment Attraction Fund (IAF).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/10/avl-lands-15-million-for-relocatable-vanadium-electrolyte-production-plant/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Home battery volumes on rise as rebate tally reaches 600,000</title>
 		<link>https://www.pv-magazine-australia.com/2026/11/10/home-battery-volumes-on-rise-as-rebate-tally-reaches-600000/</link>
 					<comments>https://www.pv-magazine-australia.com/2026/11/10/home-battery-volumes-on-rise-as-rebate-tally-reaches-600000/#respond</comments>
@@ -499,341 +911,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/10/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Mulwala Solar Farm milestone marks NSW first for European Energy</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/09/mulwala-solar-farm-milestone-marks-nsw-first-for-european-energy/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/09/mulwala-solar-farm-milestone-marks-nsw-first-for-european-energy/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Mon, 09 Nov 2026 02:39:08 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18574</guid>
-
-					<description><![CDATA[European Energy has reached another milestone in Australia with the completion of its first solar project in New South Wales and plans in place to add a battery energy storage system.]]></description>
-										<content:encoded><![CDATA[
-<p>Danish clean energy developer European Energy announced that the 31 MW <a href="https://www.pv-magazine-australia.com/2025/06/19/two-utility-scale-solar-projects-reach-130-million-financial-close/">Mulwala Solar Farm</a> has commenced commercial operations in New South Wales (NSW), after successfully completing the commissioning process.&nbsp;</p>
-
-
-
-<p>European Energy said the PV plant, located approximately two kilometres north of the town of Mulwala in the NSW Riverina region,&nbsp;has completed full-output testing and is now operating at full capacity.&nbsp;</p>
-
-
-
-<p>“Having Mulwala operating at full output is an important step for our activities in Australia” European Energy Australia Manager Catriona McLeod said, adding that the PV plant is the company’s first operational asset in NSW and its third solar farm in Australia.</p>
-
-
-
-<p>“We’ve taken the project through development, construction, energisation and commissioning, and we are now delivering renewable electricity in NSW.”</p>
-
-
-
-<p>The official launch of the Mulwala Solar Farm follows the recent start of commercial operations at the 108 MW <a href="https://www.pv-magazine-australia.com/2026/03/23/european-energy-brings-108-mw-victorian-solar-plant-online/">Lancaster</a> and 58 MW <a href="https://www.pv-magazine-australia.com/2025/03/04/european-energy-achieves-first-in-australian-market/">Mokoan</a> solar farms&nbsp;in northeast Victoria.</p>
-
-
-
-<p>The PV facility comprises more than 50,000 solar panels and is expected to generate about 66 GWh of clean energy per annum. European Energy said the solar farm will soon be coupled with a 25 MW / 100 MWh battery energy storage system.</p>
-
-
-
-<p>The output from the solar facility is supported by a long-term <a href="https://www.pv-magazine-australia.com/2023/12/20/google-deal-to-deliver-25-mw-of-solar-capacity-to-nem/">power purchase agreement</a> (PPA) that dates back to 2023 when the project was owned by <a href="https://www.pv-magazine-australia.com/2024/09/11/ox2-sells-two-solar-projects-to-european-energy-australia/">OX2</a>. Australian data centre developer AirTrunk, which is owned by United States investment group Blackstone, has contracted most of the output to match the energy consumption of Google&#8217;s local data centres. The uncontracted portion of the electricity will be fed into National Electricity Market (NEM).</p>
-
-
-
-<p>Thorvald Spanggaard, Executive Vice President and Head of Project Development at European Energy, said the Mulwala project is an important step for the company’s Australian activities and increases the maturity of the company’s portfolio.</p>
-
-
-
-<p>“Mulwala brings together three characteristics that are increasingly important for renewable energy investments: generation, storage and contracted demand,” he said.&nbsp;</p>
-
-
-
-<p>Established in 2004, European Energy entered the Australian market in 2013 and has since established a pipeline of about 10 GW including solar, wind and <a href="https://www.pv-magazine-australia.com/2026/08/24/european-energy-starts-building-big-battery-alongside-operating-solar-farm/">battery storage</a>. These projects range from fully operational to the <a href="https://www.pv-magazine-australia.com/2025/12/23/european-energy-lands-tick-of-approval-for-1-1-gw-solar-project/">early stages</a> of development.</p>
-
-
-
-<p>“Our model is to develop projects across the value chain and create high-quality energy infrastructure that can remain in our portfolio and also provide opportunities for partnerships,” Spanggaard said.</p>
-
-
-
-<p>“Mulwala adds another operating asset to our growing Australian portfolio across solar, wind and battery storage.”</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/09/mulwala-solar-farm-milestone-marks-nsw-first-for-european-energy/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>What solar installers should ask before handing back office to AI</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/09/what-solar-installers-should-ask-before-handing-back-office-to-ai/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/09/what-solar-installers-should-ask-before-handing-back-office-to-ai/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Mon, 09 Nov 2026 01:47:00 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Commercial & industrial]]></category>
-		<category><![CDATA[Opinion]]></category>
-		<category><![CDATA[Residential]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18572</guid>
-
-					<description><![CDATA[Ask a solar and battery installer what eats their week and it's rarely the roof. It's everything either side of it, so it's no surprise installers are being pitched AI to alleviate the issue. But like any product, AI deserves scrutiny and there are some key questions that can help determine if it is right for your operation.]]></description>
-										<content:encoded><![CDATA[
-<p>Take one ordinary job. A homeowner fills in a web form on a Sunday night. On Monday someone copies their details into the quoting tool. The quote goes out, gets revised twice because the customer wants a bigger battery, then a third time because the inverter they picked is on back order. When they finally say yes, the job gets typed again into the job management app. The network connection application wants the same details in a different format. The crew takes photos and serial numbers on site, and someone back at the office matches them up for the STC paperwork. Then the invoice goes into the accounting package, again by hand.<br><br>None of these steps is hard. But that one customer has now been typed in five or six times by three different people, and every one of those moments is a chance for a wrong serial number, a missed photo or the old quote going out instead of the new one.<br><br>That last one comes up more than you&#8217;d think. We&#8217;ve seen businesses where a salesperson kept amending prices and the office simply couldn&#8217;t tell which version was current. Nobody was being careless. The information just lived in too many places. Anyone who&#8217;s had to ring a customer and explain that the price they agreed to isn&#8217;t the price on the invoice knows how much that costs, and it isn&#8217;t only money.<br><br>So it&#8217;s no surprise installers are being pitched AI to fix it. Some of those pitches are worth a look. Plenty aren&#8217;t. Here&#8217;s how I&#8217;d tell the difference.</p>
-
-
-
-<h3 class="wp-block-heading">Start with the job, not the product</h3>
-
-
-
-<p>Before talking to any seller, walk one recent install from first enquiry to paid invoice and write down every time someone retyped, checked or chased something. Do it with the person who actually does the admin, not from memory.<br><br>That list is worth more than any demo. It shows you where the time really goes, and it gives you something concrete to hold a seller to. If they can&#8217;t point at your list and say &#8220;we&#8217;d take these three steps off you, and here&#8217;s how&#8221;, they&#8217;re selling a product, not solving your problem.<br><br>Most owners who do this find the same thing: they don&#8217;t have a software shortage. They have plenty of tools that don&#8217;t talk to each other. It&#8217;s common for a business to be paying for a dozen or more subscriptions and using a small slice of each one.</p>
-
-
-
-<h3 class="wp-block-heading">The questions to ask any seller before you sign</h3>
-
-
-
-<p>Does it work with what we already run? Your quoting tool, job app and accounting package are where your history lives, and your team knows them. A good partner builds on those. Be wary of anyone whose answer to every problem is &#8220;move everything onto our platform&#8221;.<br><br>Can you show it on one of our jobs? A demo on sample data always looks smooth. Ask them to take a real job, including the messy bits like the revised quote and the missing photo, and show you what happens.<br><br>What happens when it gets something wrong? AI makes mistakes. In this industry a wrong serial number or a missing compliance photo isn&#8217;t a small error, it&#8217;s a delayed claim. A sensible partner can tell you in a sentence how errors get caught before anything is lodged or sent to a customer. If the answer is &#8220;it doesn&#8217;t make mistakes&#8221;, walk away.<br><br>Where does our customer data go? You hold names, addresses, power bills, meter details and photos of people&#8217;s homes. Ask where that data is stored, who can see it and what the system is not allowed to touch. If keeping it locked down makes things a fraction slower, that&#8217;s a trade worth making.<br><br>Who do we call when it breaks? Not a portal, a person. Ideally one who understands that a Friday afternoon outage during a busy month is a genuine problem.</p>
-
-
-
-<h3 class="wp-block-heading">Why the best fix usually connects what you&#8217;ve got</h3>
-
-
-
-<p>The most useful improvement in an installer&#8217;s back office is usually not a new system. It&#8217;s getting the existing ones to pass information along on their own.<br><br>When the customer accepts a quote, the job should appear in the job app with the right details. When the crew uploads photos and serials, they should land against the right job and get checked for gaps before anyone goes near the claim. When the job is signed off, the invoice should draft itself from the accepted quote, not from whichever<br>version someone finds first.<br><br>That&#8217;s not glamorous. But it&#8217;s where the hours are, and the team doesn&#8217;t have to learn a whole new way of working to get them back.<br><br>It also matters who shapes it. When the office staff and crew help design how the tools join up, they treat the result as theirs. Hand people new software and say &#8220;good luck&#8221; and it quietly gets ignored. The point isn&#8217;t fewer people. It&#8217;s letting the people you have handle more jobs without drowning in admin, so growth doesn&#8217;t automatically mean hiring another office person.</p>
-
-
-
-<h3 class="wp-block-heading">A small first project for a quiet month</h3>
-
-
-
-<p>Pick one handover from your list, ideally the one that causes the most rework, and fix just that. For many installers it&#8217;s the jump from accepted quote to booked job, or the gathering of photos and serials for the claim.<br><br>Run it alongside the old way for a few weeks. Check it against what the team was doing by hand. If it saves time and nobody hates it, move to the next handover. If it doesn&#8217;t, you&#8217;ve lost very little and learned a lot about what you actually need.<br><br>Be wary of anyone who wants to automate the lot in one go. Change too much at once and one fix breaks seven other things.</p>
-
-
-
-<h3 class="wp-block-heading">Treat it like any other supplier</h3>
-
-
-
-<p>You wouldn&#8217;t buy panels or inverters without checking the specs, the warranty and who stands behind them. AI deserves the same scrutiny. Ask what it touches, what it costs, who&#8217;s accountable when it goes wrong and what it means for your team.<br><br>If a seller can answer those plainly, they might be worth your time. If they can&#8217;t, you&#8217;ve saved yourself an expensive lesson, and you&#8217;ve still got the list of handovers to fix.</p>
-
-
-
-<p><em>Author: Marcus Barnett, co-founder, <a href="https://turnerbarnettconsulting.com/">Turner &amp; Barnett Consulting</a></em><br><br><br></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/09/what-solar-installers-should-ask-before-handing-back-office-to-ai/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>SolarEdge exits Australian market</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/09/solaredge-exits-australian-market/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/09/solaredge-exits-australian-market/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Mon, 09 Nov 2026 00:23:00 +0000</pubDate>
-				<category><![CDATA[Markets & Policy]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Commercial & industrial]]></category>
-		<category><![CDATA[Residential]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18570</guid>
-
-					<description><![CDATA[SolarEdge is exiting Australia’s market, advising installers that it is discontinuing its direct local sales and operations effective immediately.]]></description>
-										<content:encoded><![CDATA[
-<p>Israel-based inverter and battery manufacturer SolarEdge has advised that it is closing its local sales and operations in Australia and New Zealand. The company also announced it will terminate product certification renewals, active marketing promotions and incentive programs in the region.</p>
-
-
-
-<p>In a notice to installers, <a href="https://pv-magazine-usa.com/2026/08/05/solaredge-swings-back-to-operating-profit-in-q2-as-margins-hit-27-5/">SolarEdge</a> says final purchase orders must be submitted by 20 November 2026, with final delivery no later than 18 December 2026.</p>
-
-
-
-<p>The company, which now manufactures inverters, optimisers, solar panels, batteries and EV chargers in the United States, said warranty and technical support will continue via its international call centre and online self-service portal.</p>
-
-
-
-<p>The announcement follows SolarEdge CEO Shuki Nir telling investors last week that the company was taking steps to “reduce costs, simplify operations, and support profitability.”</p>
-
-
-
-<p>“We are making deliberate decisions to exit select underperforming geographic markets and redirect resources towards our core markets and higher growth opportunities,” he said during the company’s third-quarter results call.</p>
-
-
-
-<p>“These are difficult but necessary decisions to build a more focused and competitive SolarEdge.”&nbsp;</p>
-
-
-
-<p>Nir said the company will redirect resources toward “core regions” and higher-growth opportunities like its <a href="https://pv-magazine-usa.com/2026/07/10/solaredge-aims-to-do-it-all-with-its-nexis-residential-solar-and-energy-storage-platform/">Nexis</a> platform and solid-state transformers for data centres.</p>
-
-
-
-<p>SolarEdge is the second big inverter manufacturer to rethink its position in the Australian market this year after SMA exited the residential and commercial sectors earlier in 2026.&nbsp;</p>
-
-
-
-<p>The German-headquartered inverter and battery company announced it would withdraw from Australia&#8217;s residential and commercial markets, focusing instead on large-scale infrastructure, grid-forming technology, and hybrid integration.</p>
-
-
-
-<p>SMA Chief Executive Officer Jürgen Reinert&nbsp;said at the time that the decision reflected “a <a href="https://www.pv-magazine-australia.com/2026/05/06/sma-exits-australian-small-scale-market-in-favour-of-utility-sector/">considered view of where the energy transition is heading</a> and where SMA can make the most meaningful contribution.”</p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/09/solaredge-exits-australian-market/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Nickel powder optimisation cuts TOPCon solar cell metallisation costs by 6.8% without compromising efficiency</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/09/nickel-powder-optimisation-cuts-topcon-solar-cell-metallisation-costs-by-6-8-without-compromising-efficiency/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/09/nickel-powder-optimisation-cuts-topcon-solar-cell-metallisation-costs-by-6-8-without-compromising-efficiency/#respond</comments>
-		
-		<dc:creator><![CDATA[Emiliano Bellini]]></dc:creator>
-		<pubDate>Sun, 08 Nov 2026 22:57:00 +0000</pubDate>
-				<category><![CDATA[Research & Development]]></category>
-		<category><![CDATA[cells & modules]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18562</guid>
-
-					<description><![CDATA[UNSW researchers, in collaboration with SunDrive and Shenzhen APG, have demonstrated that replacing part of the silver with nickel in TOPCon solar cell rear metallisation can reduce raw-metal costs by 6.8% with almost no efficiency loss. Their findings show that nickel powder characteristics and paste consumption are key to achieving cost-effective silver substitution.]]></description>
-										<content:encoded><![CDATA[
-<p>Aresearch team at the <a href="https://www.pv-magazine.com/2026/02/02/unsw-researchers-identify-new-damp-heat-induced-failure-mechanism-in-topcon-solar-modules/">University of New South Wales</a> (UNSW) has investigated the partial replacement of silver (Ag) with nickel (Ni) powders in TOPCon solar cell rear-side metallisation and has found that Ni powder characteristics significantly affect electrical performance, printability and cost savings.</p>
-
-
-
-<p>“One of the most important findings is that replacing Ag with Ni is not simply a matter of increasing the Ni content. The characteristics of the Ni powder have a significant impact on both electrical performance and printing behaviour,” corresponding author Ning Song told <strong>pv magazine</strong>.</p>
-
-
-
-<p>“With an appropriate nickel powder, we demonstrated a 6.8% reduction in rear-finger raw-metal costs while maintaining almost the same solar cell efficiency. However, increasing the Ni content further did not necessarily deliver greater savings, because additional paste consumption during printing offset the expected benefits,” she added.</p>
-
-
-
-<p>The scientists explained that Ni has emerged as a promising Ag substitute due to its relatively low cost and good electrical conductivity. However, Ni oxidation during firing and variations in powder characteristics can affect electrode performance. They also noted that previous studies have demonstrated the feasibility of Ag-Ni hybrid pastes, although their practical cost benefits remain uncertain.</p>
-
-
-
-<p>Against this backdrop, the researchers investigated two commercial Ni powders with particle sizes of approximately 1.5 μm and 3.8 μm, replacing 5% to 15% of the metal powder in industrial TOPCon rear-finger pastes. They examined electrical performance, contact resistance, electrode microstructure and printing behavior, while also assessing paste consumption and finger geometry to determine actual raw-metal cost savings.</p>
-
-
-
-<p>The team prepared five rear-side metallisation pastes containing 90% metal powder, 2% glass frit and 8% organic vehicle. An Ag-only paste served as the baseline, while the other four formulations contained 5% to 15% Ni in the metal powder fraction, using two commercial powders designated Ni-1500 and Ni-4000. The pastes were screen-printed onto industrial n-type TOPCon solar cells measuring 182 mm × 183.75 mm, followed by drying, co-firing at a peak set temperature of 724 C and laser-enhanced contact optimisation (LECO).</p>
-
-
-
-<p>The experiments were conducted over two industrial production runs, with at least 12 cells per formulation. The researchers measured solar cell efficiency, series resistance and spatial electrical characteristics using calibrated testing equipment and imaging techniques. They evaluated contact and finger resistivities using the transfer length method and four-point probe measurements, respectively. Scanning electron microscopy, energy-dispersive X-ray spectroscopy and X-ray photoelectron spectroscopy were used to examine electrode microstructure and contact interfaces.</p>
-
-
-
-<p>The team also measured finger geometry, paste viscosity and actual paste consumption to assess printing behavior. Ag and Ni consumption per watt was calculated from measured paste deposition and average cell power, while rear-finger raw-metal costs were estimated using representative metal prices to evaluate the economic benefits of Ni substitution.</p>
-
-
-
-<p>The analysis showed that Ni powder characteristics significantly affected the electrical performance and printing behavior of the TOPCon cells. The finer Ni-1500 powder had a higher specific surface area and oxygen content than the coarser Ni-4000 powder, and exhibited greater resistive losses at the same Ni loading.</p>
-
-
-
-<p>At 5% Ni loading, the Ni-1500 formulation maintained the baseline efficiency of 26.349%. However, increasing the loading to 10% reduced efficiency by 0.225 percentage points, to 26.124%. By contrast, the formulation containing 10% Ni-4000 achieved an efficiency of 26.325%, just 0.024 percentage points below the baseline.</p>
-
-
-
-<p>Electrical measurements revealed higher contact and finger resistivities with the 10% Ni-1500 formulation, while microscopy identified more voids and a less continuous Ag network. Surface analysis also indicated differences in oxide-related contact chemistry between the formulations. Ni substitution increased printed finger widths and paste consumption, particularly at higher loadings.</p>
-
-
-
-<p>The researchers found that the 10% Ni-4000 formulation offered the most favorable balance between cost and efficiency, reducing rear-finger raw-metal costs by 6.8%, equivalent to $561,500/GW. Increasing the Ni-4000 loading to 15% maintained a similar efficiency of 26.302%, but increased paste consumption by 17% compared with the Ag-only baseline, reducing cost savings to just 0.3%.</p>
-
-
-
-<p>“These findings highlight the need to evaluate Ni substitution through the combined effects of powder characteristics, electrode formation and actual paste consumption,” the researchers stated. “Further optimization should consider the interactions among Ni powder properties, glass-frit chemistry and paste rheology, together with long-term metallization reliability.”</p>
-
-
-
-<p>The findings are presented in the study “<a href="https://www.sciencedirect.com/science/article/pii/S0927024826006501">Powder-dependent electrical and printing constraints on Ag substitution in Ag-Ni pastes for TOPCon rear metallization</a>,” published in <em>Solar Energy Materials and Solar Cells</em>. The research team included scientists from Chinese physical vapor deposition (PVD) materials manufacturer Shenzhen APG and Australia-based <a href="https://www.pv-magazine.com/2025/05/13/sundrive-signs-china-pact-to-scale-up-copper-pv-technology/">SunDrive</a>.</p>
-
-
-
-<p>SunDrive has developed a proprietary copper electroplating technology that replaces silver in solar cell metallisation, aiming to reduce manufacturing costs and improve efficiency.</p>
-
-
-
-<p>As previously <a href="https://www.pv-magazine.com/2025/05/13/sundrive-signs-china-pact-to-scale-up-copper-pv-technology/">reported by </a><strong><a href="https://www.pv-magazine.com/2025/05/13/sundrive-signs-china-pact-to-scale-up-copper-pv-technology/">pv magazine</a>,</strong> the Australian company has partnered with China’s Maxwell Technologies and Jiangsu Vistar Equipment Technology to develop and commercialise industrial-scale direct-copper plating equipment for heterojunction (HJT) solar cells. The company previously demonstrated a 26.41%-efficient HJT solar cell using its copper-based metallisation process. More recently, it <a href="https://www.pv-magazine.com/2025/11/11/australia-funds-sundrive-with-aud-25-3m-to-scale-copper-solar-cells/">secured $25.3 million ($16.5 million) in Australian government funding</a> to support the development of a 300 MW commercial-scale production tool.</p>
-
-
-
-<p>UNSW has also developed several approaches to reducing silver consumption in solar cell metallisation. As previously <a href="https://www.pv-magazine.com/2025/05/08/silver-lean-screen-printing-can-reduce-silver-use-in-topcon-solar-cells-by-40/">reported by <strong>pv magazine</strong></a>, its researchers demonstrated a silver-lean screen-printing technique that reduced rear-side silver consumption in TOPCon cells by 85%, using intermittent silver contacts combined with silver-free fingers and busbars. In a separate <a href="https://www.pv-magazine.com/2026/06/10/unsw-trina-solar-design-silver-free-back-contact-pv-cell-with-screen-printed-aluminum-contacts/">study with Trina Solar</a>, the university developed silver-free back-contact solar cells using screen-printed aluminum contacts. UNSW has also investigated copper-plated contacts for TOPCon and heterojunction solar cells, focusing on metallisation reliability, corrosion resistance and mechanical stability.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/09/nickel-powder-optimisation-cuts-topcon-solar-cell-metallisation-costs-by-6-8-without-compromising-efficiency/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>S-5! presents height-adjustable mounting system for PV modules on metal roofs</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/09/s-5-presents-height-adjustable-mounting-system-for-pv-modules-on-metal-roofs/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/09/s-5-presents-height-adjustable-mounting-system-for-pv-modules-on-metal-roofs/#respond</comments>
-		
-		<dc:creator><![CDATA[Francois Puthod]]></dc:creator>
-		<pubDate>Sun, 08 Nov 2026 21:58:00 +0000</pubDate>
-				<category><![CDATA[Technology & Products]]></category>
-		<category><![CDATA[BoS]]></category>
-		<category><![CDATA[Commercial & industrial]]></category>
-		<category><![CDATA[Residential]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18561</guid>
-
-					<description><![CDATA[S-5! has introduced the PVKIT 3.0, a rail-less mounting system for solar panels on metal roofs, available with an optional 50 mm riser for wiring and power electronics. The system features non-penetrating attachments and accommodates PV module frames ranging from 25 mm to 35 mm, depending on the configuration.]]></description>
-										<content:encoded><![CDATA[
-<p>Rooftop solar installations increasingly incorporate power optimisers, microinverters and other components that require additional space beneath the modules.</p>
-
-
-
-<p>Developed by S-5!, the PVKIT 3.0 mounting solution addresses this need by providing additional clearance for cable routing, module-level power electronics (MLPE) and access to wiring. The standard configuration allows modules to be installed closer to the roof surface when additional clearance is not required.</p>
-
-
-
-<p>“The PVKIT 3.0 was designed to give designers and installers greater control over the gap between the roof and the solar panels,” said Rob Haddock, CEO and founder of S-5!. “The choice between a standard configuration and an integrated 50 mm clearance makes it easier to accommodate various wiring, electronic component, and related equipment needs—all while maintaining the simplicity of a rail-less mounting system.”</p>
-
-
-
-<p>Backed by a lifetime warranty, the PVKIT 3.0 works with S-5! clamps and brackets to form a complete DirectAttach mounting system for metal roofs. On standing-seam and concealed-fastener roofs, the system provides non-penetrating attachment without compromising roof integrity, according to the manufacturer.</p>
-
-
-
-<p>The standard configuration is compatible with PV modules featuring frame thicknesses of 28 mm to 35 mm, while the integrated clearance option accommodates frames ranging from 25 mm to 35 mm.</p>
-
-
-
-<p>According to S-5!, the PVKIT 3.0 reduces mounting system weight, volume and carbon footprint by up to 85% compared with conventional rail-based systems, while requiring significantly fewer components. The company also claims a 25% reduction in load distribution, with the rail-less design eliminating the need for on-site rail cutting, potentially reducing transportation and logistics costs.</p>
-
-
-
-<p>The PVKIT 3.0 comes pre-assembled and can be installed using a single tool, reducing the number of components and hardware that installers need to transport, organize and handle on the roof.</p>
-
-
-
-<p>Stainless steel grounding teeth provide electrical continuity and grounding between PV module frames. The system also features corrosion-resistant components designed for long-term performance under demanding rooftop conditions.</p>
-
-
-
-<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/09/s-5-presents-height-adjustable-mounting-system-for-pv-modules-on-metal-roofs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
