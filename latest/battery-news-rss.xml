@@ -12,7 +12,7 @@
 	<atom:link href="https://battery-news.de/feed/" rel="self" type="application/rss+xml" />
 	<link>https://battery-news.de/</link>
 	<description>Die Newsbroker-Webseite zum Thema Lithium-Ionen-Batterien in Deutschland</description>
-	<lastBuildDate>Mon, 09 Nov 2026 20:45:27 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Nov 2026 16:36:21 +0000</lastBuildDate>
 	<language>de</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,58 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>LG Energy Solution stellt 10-Minuten-Diagnose für gebrauchte Batterien vor</title>
+		<link>https://battery-news.de/2026/11/11/lg-energy-solution-stellt-10-minuten-diagnose-fuer-gebrauchte-batterien-vor/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieentwicklung]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40247</guid>
+
+					<description><![CDATA[<p>LG Energy Solution hat eine Software entwickelt, die den Zustand gebrauchter Batterien in weniger als zehn Minuten bewerten soll. Das Tool namens Re.Pulse wurde bei den CES Innovation Awards 2027 in der Kategorie Vehicle Tech &#38; Advanced Mobility ausgezeichnet. Der südkoreanische Batteriehersteller gab die Auszeichnung am 9. November bekannt. Anhand der Ergebnisse lassen sich Batterien der Wiederverwendung, Aufbereitung oder dem Recycling zuführen. Strompulse statt kompletter Zyklen Re.Pulse sendet Strompulse durch die Batterie und analysiert die Spannungsantwort. Laut The Elec wertet ein KI-Modell die Daten aus. Herkömmliche Tests des Gesundheitszustands erfordern eine vollständige Entladung, Ladung und erneute Entladung, was laut LG Energy Solution mehr als sieben Stunden dauert. Die Software bewertet jede Zelle einzeln statt nur das gesamte Pack. So sollen sich gealterte Zellen gezielt reparieren oder austauschen lassen. Spezielle Hardware ist nicht nötig, das Tool arbeitet mit handelsüblichen Batterietestern und Ladestationen. Es lässt sich auch bei noch im Fahrzeug verbauten Batterien einsetzen. Angaben zur Diagnosegenauigkeit, zu unterstützten Zellchemien und zum Marktstart hat LG Energy Solution nicht gemacht. Die CES-Auszeichnungen beruhen auf eingereichten Unterlagen, nicht auf unabhängigen Tests. Teil der Battery-as-a-Service-Pläne Zielgruppen sind laut LG Energy Solution Werkstätten für Elektroautos, Flottenbetreiber, Gebrauchtwagenplattformen und Second-Life-Speicherprojekte. Das Unternehmen will Re.Pulse in sein Battery-as-a-Service-Geschäft integrieren. Bereits im vergangenen Jahr hatte es einen CES Innovation Award für B.artery erhalten, eine Technologie zur Verlängerung der Batterielebensdauer. Quellen:https://www.prnewswire.com/news-releases/lg-energy-solution-wins-ces-innovation-awards-2027-for-its-fast-and-precise-second-life-battery-diagnostic-system-302934043.htmlhttps://www.thelec.net/news/articleView.html?idxno=15454https://www.bestmag.co.uk/lg-cell-level-health-diagnosis/</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/11/lg-energy-solution-stellt-10-minuten-diagnose-fuer-gebrauchte-batterien-vor/">LG Energy Solution stellt 10-Minuten-Diagnose für gebrauchte Batterien vor</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>LG Energy Solution hat eine Software entwickelt, die den Zustand gebrauchter Batterien in weniger als zehn Minuten bewerten soll. Das Tool namens Re.Pulse wurde bei den CES Innovation Awards 2027 in der Kategorie Vehicle Tech &amp; Advanced Mobility ausgezeichnet. Der südkoreanische Batteriehersteller gab die Auszeichnung am 9. November bekannt. Anhand der Ergebnisse lassen sich Batterien der Wiederverwendung, Aufbereitung oder dem Recycling zuführen.</p>
+
+
+
+<p><strong>Strompulse statt kompletter Zyklen</strong></p>
+
+
+
+<p>Re.Pulse sendet Strompulse durch die Batterie und analysiert die Spannungsantwort. Laut The Elec wertet ein KI-Modell die Daten aus. Herkömmliche Tests des Gesundheitszustands erfordern eine vollständige Entladung, Ladung und erneute Entladung, was laut LG Energy Solution mehr als sieben Stunden dauert. Die Software bewertet jede Zelle einzeln statt nur das gesamte Pack. So sollen sich gealterte Zellen gezielt reparieren oder austauschen lassen.</p>
+
+
+
+<p>Spezielle Hardware ist nicht nötig, das Tool arbeitet mit handelsüblichen Batterietestern und Ladestationen. Es lässt sich auch bei noch im Fahrzeug verbauten Batterien einsetzen. Angaben zur Diagnosegenauigkeit, zu unterstützten Zellchemien und zum Marktstart hat LG Energy Solution nicht gemacht. Die CES-Auszeichnungen beruhen auf eingereichten Unterlagen, nicht auf unabhängigen Tests.</p>
+
+
+
+<p><strong>Teil der Battery-as-a-Service-Pläne</strong></p>
+
+
+
+<p>Zielgruppen sind laut LG Energy Solution Werkstätten für Elektroautos, Flottenbetreiber, Gebrauchtwagenplattformen und Second-Life-Speicherprojekte. Das Unternehmen will Re.Pulse in sein Battery-as-a-Service-Geschäft integrieren. Bereits im vergangenen Jahr hatte es einen CES Innovation Award für B.artery erhalten, eine Technologie zur Verlängerung der Batterielebensdauer.</p>
+
+
+
+<p><em>Quellen:<br><em><a href="https://www.prnewswire.com/news-releases/lg-energy-solution-wins-ces-innovation-awards-2027-for-its-fast-and-precise-second-life-battery-diagnostic-system-302934043.html" target="_blank" rel="noreferrer noopener">https://www.prnewswire.com/news-releases/lg-energy-solution-wins-ces-innovation-awards-2027-for-its-fast-and-precise-second-life-battery-diagnostic-system-302934043.html</a></em><br><a href="https://www.thelec.net/news/articleView.html?idxno=15454" target="_blank" rel="noreferrer noopener">https://www.thelec.net/news/articleView.html?idxno=15454</a><br><a href="https://www.bestmag.co.uk/lg-cell-level-health-diagnosis/" target="_blank" rel="noreferrer noopener">https://www.bestmag.co.uk/lg-cell-level-health-diagnosis/</a></em></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/11/lg-energy-solution-stellt-10-minuten-diagnose-fuer-gebrauchte-batterien-vor/">LG Energy Solution stellt 10-Minuten-Diagnose für gebrauchte Batterien vor</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>BMW holt Samsung SDI und LG Energy Solution als Zelllieferanten für Gen6</title>
 		<link>https://battery-news.de/2026/11/10/bmw-holt-samsung-sdi-und-lg-energy-solution-als-zelllieferanten-fuer-gen6/</link>
 		
@@ -514,59 +566,6 @@
 
 <p><a id="_msocom_1"></a></p>
 <p>Der Beitrag <a href="https://battery-news.de/2026/10/30/skellium-entwickelt-lithium-metall-anoden-aus-der-schmelze/">Skellium entwickelt Lithium-Metall-Anoden aus der Schmelze</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Group14 erhält 150 Millionen Euro und plant Batteriematerialwerk in Spanien</title>
-		<link>https://battery-news.de/2026/10/30/group14-erhaelt-150-millionen-euro-und-plant-batteriematerialwerk-in-spanien/</link>
-		
-		<dc:creator><![CDATA[Cornelius Karow]]></dc:creator>
-		<pubDate>Fri, 30 Oct 2026 07:00:00 +0000</pubDate>
-				<category><![CDATA[Batteriekomponenten]]></category>
-		<category><![CDATA[Batteriekomponente]]></category>
-		<guid isPermaLink="false">https://battery-news.de/?p=40168</guid>
-
-					<description><![CDATA[<p>Group14 Technologies hat eine Erweiterung seiner Series-D-Finanzierung um 150 Millionen Euro abgeschlossen. Das teilte der Hersteller von Silizium-Batteriematerialien am 29. Oktober 2026 mit. Das Kapital stammt von einem neuen Investor, dessen Namen das Unternehmen nicht nennt. Damit wächst die Finanzierungsrunde auf insgesamt mehr als 665 Millionen US-Dollar. Im Zuge der Finanzierung plant Group14 einen Produktionsstandort im spanischen Sagunto. Das Werk BAM-4 soll zunächst ein Produktionsmodul mit einer Kapazität von 10 Gigawattstunden erhalten. Produziert werden soll dort das Silizium-Batteriematerial SCC55. Einen Termin für den Produktionsbeginn in Spanien nennt das Unternehmen nicht. Geplante Produktionskapazität steigt auf 40 Gigawattstunden Mit dem spanischen Werk beziffert Group14 seine kurzfristig angestrebte Produktionskapazität auf insgesamt 40 Gigawattstunden. Im südkoreanischen Sangju ist ein Modul des Standorts BAM-3 mit 10 Gigawattstunden bereits in Betrieb. Die Produktion wird laut Unternehmen hochgefahren. Für BAM-2 in Moses Lake im US-Bundesstaat Washington sind zwei Module mit zusammen 20 Gigawattstunden vorgesehen. Sie sollen im ersten Halbjahr 2027 die Produktion aufnehmen. Daneben betreibt Group14 seit 2021 eine kommerzielle Pilotanlage in Woodinville. Von dort hat das Unternehmen nach eigenen Angaben mehr als 150 Kunden mit SCC55 beliefert. Spanien soll europäische Lieferketten erschließen Mit Sagunto will Group14 näher an die Lieferketten europäischer Fahrzeughersteller rücken. Die regionale Verteilung seiner Werke soll nach Unternehmensangaben Lieferketten absichern und die Betreuung von Kunden erleichtern. SCC55 kommt laut Group14 bereits in Smartphones, Drohnen, Hochleistungssportwagen und elektrischen Senkrechtstartern zum Einsatz. Quelle:https://group14.technology/resources/press-releases/group14-closes-e150m-series-d-extension-to-accelerate-global-manufacturing-footprint/</p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/10/30/group14-erhaelt-150-millionen-euro-und-plant-batteriematerialwerk-in-spanien/">Group14 erhält 150 Millionen Euro und plant Batteriematerialwerk in Spanien</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Group14 Technologies hat eine Erweiterung seiner Series-D-Finanzierung um 150 Millionen Euro abgeschlossen. Das teilte der Hersteller von Silizium-Batteriematerialien am 29. Oktober 2026 mit. Das Kapital stammt von einem neuen Investor, dessen Namen das Unternehmen nicht nennt. Damit wächst die Finanzierungsrunde auf insgesamt mehr als 665 Millionen US-Dollar.</p>
-
-
-
-<p>Im Zuge der Finanzierung plant Group14 einen Produktionsstandort im spanischen Sagunto. Das Werk BAM-4 soll zunächst ein Produktionsmodul mit einer Kapazität von 10 Gigawattstunden erhalten. Produziert werden soll dort das Silizium-Batteriematerial SCC55. Einen Termin für den Produktionsbeginn in Spanien nennt das Unternehmen nicht.</p>
-
-
-
-<h2 class="wp-block-heading">Geplante Produktionskapazität steigt auf 40 Gigawattstunden</h2>
-
-
-
-<p>Mit dem spanischen Werk beziffert Group14 seine kurzfristig angestrebte Produktionskapazität auf insgesamt 40 Gigawattstunden.</p>
-
-
-
-<p>Im südkoreanischen Sangju ist ein Modul des Standorts BAM-3 mit 10 Gigawattstunden bereits in Betrieb. Die Produktion wird laut Unternehmen hochgefahren. Für BAM-2 in Moses Lake im US-Bundesstaat Washington sind zwei Module mit zusammen 20 Gigawattstunden vorgesehen. Sie sollen im ersten Halbjahr 2027 die Produktion aufnehmen.</p>
-
-
-
-<p>Daneben betreibt Group14 seit 2021 eine kommerzielle Pilotanlage in Woodinville. Von dort hat das Unternehmen nach eigenen Angaben mehr als 150 Kunden mit SCC55 beliefert.</p>
-
-
-
-<h2 class="wp-block-heading">Spanien soll europäische Lieferketten erschließen</h2>
-
-
-
-<p>Mit Sagunto will Group14 näher an die Lieferketten europäischer Fahrzeughersteller rücken. Die regionale Verteilung seiner Werke soll nach Unternehmensangaben Lieferketten absichern und die Betreuung von Kunden erleichtern. SCC55 kommt laut Group14 bereits in Smartphones, Drohnen, Hochleistungssportwagen und elektrischen Senkrechtstartern zum Einsatz.</p>
-
-
-
-<p><em>Quelle:</em><br><a href="https://group14.technology/resources/press-releases/group14-closes-e150m-series-d-extension-to-accelerate-global-manufacturing-footprint/" target="_blank" rel="noreferrer noopener">https://group14.technology/resources/press-releases/group14-closes-e150m-series-d-extension-to-accelerate-global-manufacturing-footprint/</a></p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/10/30/group14-erhaelt-150-millionen-euro-und-plant-batteriematerialwerk-in-spanien/">Group14 erhält 150 Millionen Euro und plant Batteriematerialwerk in Spanien</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pv magazine Australia</title>
+	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.pv-magazine-australia.com/</link>
+	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
+	<lastBuildDate>Thu, 12 Nov 2026 00:47:56 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.12</generator>
+
+<image>
+	<url>https://www.pv-magazine-australia.com/wp-content/uploads/2024/12/cropped-fav-australia-32x32.png</url>
+	<title>pv magazine Australia</title>
+	<link>https://www.pv-magazine-australia.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ausgrid energy mapping tool backs C&#038;I community power network trial</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/12/ausgrid-energy-mapping-tool-backs-ci-community-power-network-trial/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/12/ausgrid-energy-mapping-tool-backs-ci-community-power-network-trial/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2026 23:50:25 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18636</guid>
+
+					<description><![CDATA[Ausgrid has released a digital energy mapping tool to complement its Community Power Network trial and shows where new solar, battery and energy projects would work best, based on detailed connection and curtailment data.]]></description>
+										<content:encoded><![CDATA[
+<p>Sydney-headquartered electricity distributor Ausgrid has released a digital energy mapping tool to complement its <a href="https://www.pv-magazine.com/2026/09/18/ausgrid-trials-ci-rooftop-solar-initiative-to-share-energy-benefits-with-renters/" target="_blank" rel="noreferrer noopener">Community Power Network</a> (CPN) trial and shows where new solar, battery and energy projects would work best, based on detailed connection and curtailment data.</p>
+
+
+
+<p>The data includes information on where there is capacity in the electricity network to connect more solar and batteries, areas where network limitations may exist, and locations where future energy projects may be suitable, Ausgrid said.</p>
+
+
+
+<p>The CPN aims to turn <a href="https://www.pv-magazine-australia.com/2026/10/14/beyond-peak-shaving-are-we-selling-commercial-solar-and-batteries-short/" target="_blank" rel="noreferrer noopener">commercial and industrial</a> (C&amp;I) rooftop solar surplus into an opportunity to share energy with consumers who don’t have solar access, such as neighbourhood renters and apartment dwellers, with the new tool pinpointing optimum opportunities for businesses deploying rooftop solar or batteries.</p>
+
+
+
+<p>The spatial energy planning <a href="https://portal.spatial.nsw.gov.au/portal/apps/experiencebuilder/experience/?id=0a4390e1a1dc42719bb97bbca7d8464d" target="_blank" rel="noreferrer noopener">data tool</a> covers three locations associated with the CPN and includes the Mascot-Botany and Northern Central Coast regions, and Caringbah in south Sydney.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="510" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Image-Spatial-Energy-Plan-1024x510.png" alt="" class="wp-image-150489" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Image-Spatial-Energy-Plan-1024x510.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Image-Spatial-Energy-Plan-300x149.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Image-Spatial-Energy-Plan-768x383.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Image-Spatial-Energy-Plan-1536x765.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Image-Spatial-Energy-Plan-260x130.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Image-Spatial-Energy-Plan.png 1913w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Ausgrid Group External Affairs and Strategy Executive Tim Jarratt said the CPN trial explores how large C&amp;I rooftops can be used to generate more solar energy, supported by community batteries, while sharing the financial benefits with households and businesses across local communities.</p>
+
+
+
+<p>&#8220;As part of the trial, we&#8217;re making detailed information about the local electricity network publicly available to give businesses and energy providers a clearer picture of where new solar, battery and energy projects could work best,” Jarratt said.</p>
+
+
+
+<p>&#8220;In Caringbah, the data will help the market to explore and test its own ideas. It’s a great opportunity to see what different approaches emerge and what we can learn from them.”</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/12/ausgrid-energy-mapping-tool-backs-ci-community-power-network-trial/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>200 MWh BESS begins commercial operation in Western Australia</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/12/200-mwh-bess-begins-commercial-operation-in-western-australia/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/12/200-mwh-bess-begins-commercial-operation-in-western-australia/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2026 22:11:20 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18635</guid>
+
+					<description><![CDATA[Alinta Enery has begun commercial operation of its 100 MW / 200 MWh Wagerup battery energy storage system in Western Australia, supporting the integration of renewable energy into the SWIS.]]></description>
+										<content:encoded><![CDATA[
+<p>Singapore-headquartered gentailer Alinta Enery, a 100% owned subsidiary of Sembcorp Industries, has begun commercial operation of its 100 MW / 200 MWh Wagerup battery energy storage system (BESS) in Western Australia (WA).</p>
+
+
+
+<p>Supporting the integration of renewable energy into the South West Interconnected System (SWIS), the project is located approximately 120 kilometres south of Perth, adjacent to Alinta&#8217;s 392 MW gas-fired Wagerup Power Station.</p>
+
+
+
+<p>Alinta Energy Merchant Energy Executive Director Ken Woolley said challenging site conditions required significant redesign and remediation, including raising the battery platform and constructing substantial retaining infrastructure.</p>
+
+
+
+<p>&#8220;Despite the complexity, the team delivered an immaculate site and a critical piece of infrastructure for Western Australia,&#8221; Woolley said.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="804" height="452" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-084858.png" alt="" class="wp-image-150485" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-084858.png 804w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-084858-300x169.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-084858-768x432.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-084858-260x146.png 260w" sizes="(max-width: 804px) 100vw, 804px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/12/200-mwh-bess-begins-commercial-operation-in-western-australia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cbus completes ‘solar skin’ to help power new 48-storey office tower</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/11/cbus-completes-solar-skin-to-help-power-new-48-storey-office-tower/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/11/cbus-completes-solar-skin-to-help-power-new-48-storey-office-tower/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2026 04:07:22 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[bipv]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18599</guid>
+
+					<description><![CDATA[One of Australia’s first large-scale building-integrated solar façades is now complete with the last of almost 1,400 PV panels installed across a new $1.1 billion commercial office tower in Melbourne’s CBD.]]></description>
+										<content:encoded><![CDATA[
+<p>Australian property investor and developer Cbus Property and construction partner Multiplex have completed the installation of a 2,679 square metre building-integrated photovoltaic (BIPV) system that will help power the new 435 Bourke Street building in central Melbourne.</p>
+
+
+
+<p>The BIPV system comprises 1,391 integrated solar panels with an installed peak capacity of 375 kW installed across the 48-storey tower&#8217;s façade, crown and rooftop. Once commissioned, design modelling estimates the system will generate up to 20% of the complex’s forecast base-building electricity requirements on site, with the balance supplied through an off-site renewable energy arrangement.</p>
+
+
+
+<p>Cbus Chief Executive Officer Chris Kakoufas said the completion of the BIPV system represents “a defining moment for sustainable commercial development in Australia.”</p>
+
+
+
+<p>&#8220;Successfully installing <a href="https://www.pv-magazine-australia.com/2021/11/12/solar-skin-planned-for-1-billion-melbourne-office-tower/">435 Bourke Street&#8217;s solar skin</a> is a significant achievement for our&nbsp;project team and partners, not to mention a tangible demonstration of how innovation and&nbsp;sustainability can be embraced to enhance a building’s performance while contributing to its&nbsp;architectural identity,&#8221; he said.</p>
+
+
+
+<p>Kakoufas said the solar skin reflects an emerging approach to the use of PV technology in commercial buildings, combining on-site renewable energy generation with elements of the building&#8217;s architectural design.</p>
+
+
+
+<p>“The solar facade creates electricity but also is acting as a sunshade that stops heat coming into the building and so that also reduces the electrical demand to run cooling,” he said. “This reduces operational costs for our tenant partners and emissions from grid electricity consumption, while creating a distinctive visual identity for the tower.”</p>
+
+
+
+<p>Multiplex Victoria Manager Ross Snowball said installing the solar skin had been “one of the most challenging aspects of delivering the&nbsp;project.”</p>
+
+
+
+<p>“Integrating nearly 1,400 PV panels into the building envelope required not just&nbsp;technical smarts but also extensive coordination between the façade, structural and services&nbsp;teams to ensure no impact to quality or program,” he said, adding that the project is “a great example of how early collaboration between project partners enables innovation&nbsp;to be embedded into the delivery of a project rather than bolted on at the end.”</p>
+
+
+
+<p>Cian Davis, from architectural firm Bates Smart, acknowledged that the installation of the BIPV system required a highly complex construction process but said with the building having proven the concept, “I think you will see more like it.”</p>
+
+
+
+<p>“The role of a tower façade has always been to protect the interior from the sun,” he said. “At 435 Bourke Street, it does that while also generating the building&#8217;s power … &nbsp;with solar ‘leaves’ that shade the workplace as they produce energy.”</p>
+
+
+
+<p>“Beyond the technology itself, the building demonstrates that energy generation can be part of a tower&#8217;s architectural expression, giving form, texture and identity to the façade, rather than sitting invisibly within it.”</p>
+
+
+
+<p>Cbus said construction on 435 Bourke Street is progressing toward practical completion in late 2026. Once complete, the development will provide approximately 62,000 square metres of office accommodation.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/11/cbus-completes-solar-skin-to-help-power-new-48-storey-office-tower/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Risen rolls out new HJT module for Australian rooftop market</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/11/risen-rolls-out-new-hjt-module-for-australian-rooftop-market/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/11/risen-rolls-out-new-hjt-module-for-australian-rooftop-market/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2026 02:35:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18602</guid>
+
+					<description><![CDATA[Risen Energy has unveiled a new series of dual-glass heterojunction solar panels power outputs up to 500 W and a conversion efficiency of up to 23.5% in an all-black frame.]]></description>
+										<content:encoded><![CDATA[
+<p>China-based PV module manufacturer <a href="https://www.pv-magazine-australia.com/2026/10/13/risen-releases-23-5-efficient-anti-glare-hjt-solar-module/">Risen Energy</a> has unveiled a new dual-glass bifacial heterojunction (HJT) solar module series for Australia’s residential and commercial rooftops. </p>
+
+
+
+<p>Risen said the RisenSpace module series features the company’s heterojunction (HJT) technology and zero-busbar, stress-free interconnection technology and has been “designed for Australia&#8217;s demanding climate.”</p>
+
+
+
+<p>“Its introduction expands the options available to Australian households and businesses seeking long-term solar generation,” the company said.</p>
+
+
+
+<p>The RisenSpace series is available in nine variants, with power outputs ranging from 460 W to 500 W,  a bifacial factor of 90 ± 5%, and efficiencies from 21.6% through to 23.5%. They are made with 90 n-type HJT half-cut cells and have a maximum system voltage of 1,500 V.</p>
+
+
+
+<p>The solar modules have open-circuit voltages ranging between 68.28 V and 69.56 V, along with short-circuit currents ranging from 8.56 A to 9.07 A. All versions of the bifacial module series share dimensions of 1,952 mm × 1,090 mm × 30 mm and a weight of 24 kg. They features 2 mm anti-glare heat-strengthened glass on the front and 1.6 mm heat-strengthened glass on the rear, along with a black anodised aluminum alloy frame, and an IP68-rated junction box.</p>
+
+
+
+<p>Risen said the panels can operate within a temperature range of -40 C to 75 C and exhibit an operating temperature coefficient of -0.24% per degree Celsius, </p>
+
+
+
+<p>&#8220;This means it loses less output as panels heat up on a summer roof — a useful trait in Australian conditions,&#8221; the manufacturer said.</p>
+
+
+
+<p>Risen provides a 40-year product guarantee and a 40-year linear power output guarantee, adding the modules have a first-year degradation rate of 1%, followed by an annual degradation cap of 0.3%. After 40 years, the module is guaranteed to retain at least 87.3% of its rated output.</p>
+
+
+
+<p>The new RisenSpace was launched as part of celebrations marking Risen’s 18<sup>th </sup>year in the Australian market.</p>
+
+
+
+<p>The company also showcased the 760 Wp <a href="https://www.pv-magazine-australia.com/2025/07/03/risen-hits-740-w-average-for-mass-produced-hjt-solar-module/">Hyper-ion</a> Ultra module for utility-scale solar projects, saying the two modules address distinct project needs, extending the company&#8217;s HJT portfolio from rooftop installations to large-scale solar farms.</p>
+
+
+
+<p>Beyond solar modules, Risen&#8217;s Australian portfolio spans utility-scale projects, residential and commercial applications, and integrated <a href="https://www.pv-magazine-australia.com/2026/05/01/risen-energy-unveils-new-ci-energy-storage-system-solution/">energy storage</a> solutions.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/11/risen-rolls-out-new-hjt-module-for-australian-rooftop-market/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Regulator suspends major solar and battery installer from SRES</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/11/regulator-suspends-major-solar-and-battery-installer-from-sres/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/11/regulator-suspends-major-solar-and-battery-installer-from-sres/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2026 02:01:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18629</guid>
+
+					<description><![CDATA[Prominent solar and battery installer and retailer Solar Power Nation has been banned by the Clean Energy Regulator from participating in Australia’s small scale renewable energy rebate scheme.]]></description>
+										<content:encoded><![CDATA[
+<p>The Clean Energy Regulator (CER) announced it has permanently suspended solar retailer 1 Solar Australia Pty Ltd, trading as Solar Power Nation, as a registered person under the Small-scale Renewable Energy Scheme (SRES).</p>
+
+
+
+<p>The CER said it is no longer satisfied that the Sydney-based company meets the “fit and proper” person requirements, meaning the company can no longer operate as a registered agent under the SRES or create the small-scale technology certificates (STCs) needed to access federal government rebates.</p>
+
+
+
+<p>“If we see companies that are not operating professionally, we will not hesitate to take action to protect the integrity of the SRES,” CER Chair Tony Chappel said. “We have a zero-tolerance approach for any poor business practice that can create an adverse outcome for the customer.”</p>
+
+
+
+<p>The CER’s move comes after Solar Power Nation, which sells rooftop solar and battery systems in five states and is endorsed by sporting celebrities including former Australian cricket captain Michael Clarke, was subject to multiple investigations.</p>
+
+
+
+<p>The ABC earlier this year <a href="https://www.abc.net.au/news/2026-08-13/solar-power-nation-complaints-cheaper-home-batteries-program/107006028">reported</a> the installer and retailer was under investigation in Queensland, New South Wales (NSW) and South Australia after authorities received hundreds of complaints dating back to 2024. The complaints ranged from allegations of unfinished or defective work to unrefunded deposit payments for installs that never happened.</p>
+
+
+
+<p>NSW&#8217;s Building Commission, which regulates the building and electrical work for solar and battery installations in that state, said it had received more than 240 complaints about the company.</p>
+
+
+
+<p>The Commissioner for Consumer Affairs in South Australia has issued a <a href="https://www.cbs.sa.gov.au/documents/public-warnings/Public-Warning-Solar-Power-Nation.pdf">Public Warning Notice</a> about Solar Power Nation and late last year it was expelled as an approved seller under from the industry-run New Energy Tech Consumer Code (NETCC) for breaches relating to contract issues and safety and installation standards. The NETCC, administered by the Clean Energy Council (CEC), oversees approved sellers with standards for advertising, sales practices, installations and complaint handling.</p>
+
+
+
+<p>Chappel said the work of other industry bodies and the outcomes of their investigations had helped inform the CER decision.</p>
+
+
+
+<p>“We work closely with consumer protection agencies, industry bodies and other regulators to share intelligence and identify and address any systemic risks within the solar and battery industry,” he said.</p>
+
+
+
+<p>1 Solar Australia has 60 days to request a review of the CER&#8217;s decision.</p>
+
+
+
+<p>The company was contacted for comment but did not receive one prior to publication.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/11/regulator-suspends-major-solar-and-battery-installer-from-sres/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Delta progresses plans for 800 MWh BESS project at coal power station site</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/11/delta-progresses-plans-for-800-mwh-bess-project-at-coal-power-station-site/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/11/delta-progresses-plans-for-800-mwh-bess-project-at-coal-power-station-site/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2026 01:24:00 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18627</guid>
+
+					<description><![CDATA[The owner of one of New South Wales’ biggest coal-fired power stations has applied to build a 400 MW / 800 MWh battery energy storage system alongside the 1,320 MW generator on the state’s Central Coast.]]></description>
+										<content:encoded><![CDATA[
+<p>Delta Electricity, owned by Czech company Sev.en Global Investments,&nbsp;has lodged a development application and environmental impact statement (EIS) for a large-scale battery energy storage system (BESS) to be built at the site of the Vales Point power station in the New South Wales (NSW) Hunter region.</p>
+
+
+
+<p>Developed in partnership with South Korean industrial giant <a href="https://www.pv-magazine-australia.com/2026/10/13/samsung-ct-seeks-approval-for-800-mwh-bess-in-victoria/">Samsung C&amp;T</a>, the proposed BESS will provide up to 400 MW / 800 MWh energy storage capacity.</p>
+
+
+
+<p>Delta said once operational, the <a href="https://www.pv-magazine-australia.com/2025/03/10/delta-joins-samsung-to-explore-battery-project-at-coal-power-station-site/">Vales Point BESS</a> will operate 24/7 to help strengthen grid reliability and support renewable energy generation as part of the region’s evolving role in NSW’s energy transition</p>
+
+
+
+<p>“Australia’s energy mix and landscape is changing significantly and this project will be a key part of this change,” the company said. “The battery will support the energy transition by strengthening the grid, improving energy reliability and helping manage the significant supply volatility created by an energy system dominated by variable renewable energy.”</p>
+
+
+
+<p>The Vales Point battery will take advantage of existing grid infrastructure with Delta noting the site is “uniquely positioned” to participate in the energy transition after the coal-fired units are closed. The site is a hub for transmission infrastructure and located within the <a href="https://www.pv-magazine-australia.com/2025/12/19/1-gw-transfer-capacity-unlocked-by-existing-hunter-region-network-upgrades/">Hunter-Central Coast Renewable Energy Zone</a>, which is expected to deliver 1 GW of additional network transfer capacity by 2028.</p>
+
+
+
+<p>The State Significant Development Application (SSDA) and supporting EIS for the proposed Vales Point BESS have now been lodged with the NSW Department of Planning, Housing and Infrastructure for assessment.</p>
+
+
+
+<p>Delta said the submission follows 18 months of “extensive technical and environmental studies” and is a major step forward for the project.</p>
+
+
+
+<p>The proposed Vales Point BESS reflects a broader shift among utilities toward pairing generation assets with battery capacity as the grid transitions away from coal-fired baseload power.</p>
+
+
+
+<p>It follows other coal plant operators also choosing battery energy storage, including the nearby 850 MW / 1,680 MWh <a href="https://www.pv-magazine-australia.com/2026/09/28/waratah-super-battery-reaches-full-commercial-operations/">Waratah Super Battery</a>, the AGL Energy-owned 500 MW / 1,000 MWh Liddell BESS, and Origin Energy’s <a href="https://www.pv-magazine-australia.com/2026/10/06/origin-plans-4-9-gwh-expansion-of-eraring-battery-precinct/">Eraring</a> battery that will ultimately deliver a facility rated at 1,200 MW / 8,600 MWh. EnergyAustralia also has plans to install a 500 MW / 2,000 MWh BESS adjacent to its Mt Piper coal-fired power station in NSW’s central west.</p>
+
+
+
+<p>Other projects include the 150 MW / 150 MWh BESS built at the site of retired coal-fired <a href="https://www.pv-magazine-australia.com/2023/06/14/australia-commissions-first-big-battery-at-a-former-coal-site/">Hazelwood</a> power station in Victoria’s Latrobe Valley, and the 300 MW / 600 MWh <a href="https://www.pv-magazine-australia.com/2026/02/16/600-mwh-tarong-grid-scale-battery-kicks-off-commercial-operations/">Tarong</a> and 300 MW / 1,200 MWh Stanwell&nbsp;batteries in Queensland.</p>
+
+
+
+<p>Delta has announced it will shut down the Vales Point power station in 2033. The 1,320 MW plant&nbsp;provides about 4% of Australia&#8217;s electricity needs.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/11/delta-progresses-plans-for-800-mwh-bess-project-at-coal-power-station-site/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pylontech unveils all-in-one residential inverter and battery solution</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/11/pylontech-unveils-all-in-one-residential-inverter-and-battery-solution/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/11/pylontech-unveils-all-in-one-residential-inverter-and-battery-solution/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2026 00:11:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18600</guid>
+
+					<description><![CDATA[Chinese battery maker Pylontech has unveiled a new all-in-one home battery energy storage solution that provides up to 110 kWh of storage and supports up to 200% PV oversizing.]]></description>
+										<content:encoded><![CDATA[
+<p>Pylontech recently launched its Force Nex residential energy storage solution in the Australian market. The system integrates modular lithium iron phosphate (LFP) battery packs, inverter hardware, app-based monitoring and energy control functions into a single platform.</p>
+
+
+
+<p>Available in both single-phase and three-phase models, Force Nex offers single-phase configurations ranging from 4.6 to 9.9 kW, with 8–50 kWh of battery capacity. Three-phase models range from 5 to 15 kW, with 10–110 kWh of battery capacity. Customers can choose 8 kWh or 10 kWh battery modules.</p>
+
+
+
+<p><a href="https://www.pv-magazine.com/2">Pylontech</a> said each pack has an independent DC/DC converter, allowing compatible modules of different capacities, including new and existing Force Nex batteries, to work together.</p>
+
+
+
+<p>“Homeowners can add storage as their needs grow, while keeping the batteries they already have,” the company said.</p>
+
+
+
+<p>The Force Nex platform is built on LFP cells that Pylontech said have a specified cycle life of more than 10,000 cycles and 100% depth of discharge.</p>
+
+
+
+<p>For rooftop solar, the range supports up to 200% PV oversizing, up to four MPPTs and 20 A input per string.</p>
+
+
+
+<p>Pylontech said these features give installers more flexibility when working with different roof layouts and high-current solar panels.</p>
+
+
+
+<p>“Depending on the model and system configuration, PV-to-battery charging power can reach up to 150% of the inverter’s rated power, helping store more solar energy during available sunshine hours,” the company said. “SiC (silicon carbide) technology is used in the inverters and battery DC/DC converters to support efficient power conversion and reduce energy losses.”</p>
+
+
+
+<p>The Force Nex system has a built-in backup output and switches to backup power in less than 10 milliseconds, according to Pylontech. Grid pass-through current is 63 A for single-phase models and 50 A for three-phase models. The company said selected models also support up to 200% off-grid overload for 10 seconds, helping meet the short bursts of power needed when larger appliances start.</p>
+
+
+
+<p>The system uses fanless cooling, with a specified noise level of 30 dB or below. IP66 protection and C5-M corrosion resistance support outdoor use, while optional battery heating supports operation in colder conditions.</p>
+
+
+
+<p>Pylontech said Force Nex is designed for 10-minute installation and one-click commissioning.</p>
+
+
+
+<p>“Stackable modules, guided placement, quick connections, shared grounding and handling tools simplify the physical installation,” the company said, adding that installers can connect the system through the iPylontech app, carry out setup and review its status before handover.</p>
+
+
+
+<p>Pylontech said the app also allows homeowners to see how much solar power is being generated, whether the battery is charging or supplying the home, and how much electricity is being drawn from the grid.</p>
+
+
+
+<p>With Force Nex now unveiled in Australia, Pylontech said it plans to launch the all-in-one energy storage system in Europe and the wider global market in the first quarter of 2027.&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/11/pylontech-unveils-all-in-one-residential-inverter-and-battery-solution/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Why world must get serious about electrification</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/11/why-world-must-get-serious-about-electrification/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/11/why-world-must-get-serious-about-electrification/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2026 23:06:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18622</guid>
+
+					<description><![CDATA[To reduce climate emissions, the world needs clean electricity powering our industry, transport, homes, lighting and heating. However, much of the energy we use still comes directly from burning fossil fuels.]]></description>
+										<content:encoded><![CDATA[
+<p>Cars burn petrol, gas heats buildings and industrial processes burn coal and gas. Currently, only <a href="https://www.iea.org/reports/electrification?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">23%</a> of global final energy demand &#8211; the energy that reaches the final user, such as households or factories &#8211; comes from electricity.</p>
+
+
+
+<p>This week, at the UN climate summit COP31 in Turkey, there&#8217;s a strong focus on electrification. The <a href="https://cop31.tr/news-detail/cop31-presidency-launches-35-by-35-and-antalya-ai-pledges?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">COP presidency</a>, which includes Australia&#8217;s Climate and Energy Minister Chris Bowen and Turkey&#8217;s Environment Minister Murat Kurum, has launched a &#8220;35-by-35&#8221; electrification pledge. They want other countries to sign on. This would see 35% of global final energy use come from electrification by 2035.</p>
+
+
+
+<p>This is significant, and goes beyond switching petrol cars for electric ones. Electrification changes how we use energy, replacing the direct use of fossil fuels across transport, buildings and industry with electricity, increasingly from renewables.</p>
+
+
+
+<p>However, this pledge raises a number of questions. Is this target realistic? And where did the figure of 35% come from? My colleagues and I have published <a href="https://www.climate-resource.com/media/decarb-futures/global_electrification_15.pdf?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">analysis</a> that provides the answers.</p>
+
+
+
+<h2 class="wp-block-heading">Why 1.5°C remains crucial</h2>
+
+
+
+<p>The world has run out of time to <a href="https://wmo.int/resources/publication-series/wmo-global-annual-decadal-climate-update/global-annual-decadal-climate-update-2026-2035?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">limit global warming to 1.5°C</a> without temporarily overshooting it. The latest climate scenarios suggest that even with decisive action to cut emissions, temperatures are <a href="https://theconversation.com/a-landmark-un-report-says-the-world-will-overshoot-the-1-5-c-climate-target-what-happens-now-290818?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">likely to exceed 1.5°C</a> for at least a decade.</p>
+
+
+
+<p>The <a href="https://www.climate-resource.com/media/decarb-futures/the_path_to_15.pdf?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">latest temperature scenarios</a> show the best we can hope for is for warming to peak around 1.7°C in the 2040s, before returning to 1.5°C by 2100. This is known as &#8220;overshoot.&#8221;</p>
+
+
+
+<p>The higher and longer temperatures remain above 1.5°C, the greater the risks to people and nature. Returning to 1.5°C also requires removing large amounts of carbon dioxide from the atmosphere, something we can&#8217;t do yet at <a href="https://wedocs.unep.org/items/156d074c-ab1d-4833-acf8-6343589ede9b?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">the necessary scale</a>.</p>
+
+
+
+<p>This makes the rapid reduction of emissions crucial. Rather than hoping future technologies will be able to undo the damage, we need to rely on those already available.</p>
+
+
+
+<h2 class="wp-block-heading">Why electrification matters</h2>
+
+
+
+<p>Electric technologies are <a href="https://www.iea.org/reports/electrification?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">more efficient</a> than fossil-fuelled equivalents. An electric car converts more of its energy into movement than a petrol car. Heat pumps can deliver several units of heat for each unit of electricity consumed.</p>
+
+
+
+<p>As electricity generation shifts to wind, solar and other low-emissions sources, the benefits flow into every part of the economy that uses electricity. Renewable energy reduces the emissions used to create electricity, while electrification creates more <a href="https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/May/IRENA_OUT_TAFF_RE_electrification_grids_2026.pdf?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">demand for renewables</a>.</p>
+
+
+
+<p>The new 35-by-35 target is intended to work alongside existing global commitments made at COP28 in Dubai three years ago; to triple renewable energy capacity and double energy efficiency by 2030.</p>
+
+
+
+<h2 class="wp-block-heading">Where does 35% come from?</h2>
+
+
+
+<p>Our <a href="https://www.climate-resource.com/media/decarb-futures/global_electrification_15.pdf?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">analysis</a> of the latest global climate scenarios finds 35% is not an arbitrary political ambition. In fact, it is the median level of electrification in climate scenarios that gives us the best remaining chance to return global warming to 1.5°C by the end of the century. The median average is the middle value in the data set.</p>
+
+
+
+<p>To understand whether 35% is a credible target, we examined newly published global climate scenarios developed by the international <a href="https://doi.org/10.5194/gmd-19-2627-2026?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">climate modelling community</a>.</p>
+
+
+
+<p>Among these, we focused on 10 pathways with the lowest levels of warming. These would peak at around 1.7°C or less, and return to 1.5°C or below by 2100.</p>
+
+
+
+<p>Across all of these projections, electricity&#8217;s share of <a href="https://www.climate-resource.com/media/decarb-futures/global_electrification_15.pdf?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">global final energy</a> rises from about 23% in 2025 to a median of 28% in 2030, and 35% in 2035. This shows that to align with scenarios that limit warming to 1.5°C, electricity needs to supply about 35% of the energy we use by 2035. Our research sets out the evidence.</p>
+
+
+
+<p>However, the world is not yet on track. Under existing global climate policies, the International Energy Agency (IEA) <a href="https://www.iea.org/reports/electrification?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">projects</a> electricity will supply just under 30% of final energy by 2035.</p>
+
+
+
+<p>Of course, the climate benefit is reduced if petrol, coal and gas use is replaced with electricity generated by fossil fuels. However, the good news is that <a href="https://doi.org/10.5194/gmd-19-2627-2026?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">new climate scenarios</a> show how renewable energy and electrification can work together. As renewable electricity expands, it becomes more economically viable to switch transport, buildings and industry from fossil fuels to electricity.</p>
+
+
+
+<h3 class="wp-block-heading">We have what we need</h3>
+
+
+
+<p>Much of the necessary technology already exists. One in four new cars sold globally in 2025 was electric <a href="https://www.iea.org/reports/global-ev-outlook-2026/executive-summary?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">according to the IEA</a>, and up to three-quarters of global energy demand <a href="https://ember-energy.org/latest-insights/the-long-march-of-electrification/?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">could be electrified</a> using existing technologies.</p>
+
+
+
+<p>The challenge is getting these existing technologies &#8211; such as heat pumps and electric industrial equipment &#8211; deployed. We need greater investment in electricity grids and storage, policies that encourage households and businesses to switch from gas to electrical devices, and access to affordable finance, particularly in developing countries.</p>
+
+
+
+<p>There are compelling economic and security reasons to make the shift. Countries reliant on imported oil and gas are exposed when <a href="https://theconversation.com/why-fuel-prices-may-go-higher-still-292853?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">international prices spike</a>, as we saw this year in the US-Iran conflict. Domestic renewable electricity can reduce that dependence, while efficient electric technologies <a href="https://ember-energy.org/latest-insights/the-energy-security-fall-out-from-fossil-fuel-fragility-to-electric-independence/?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">lower overall energy demand</a>.</p>
+
+
+
+<h3 class="wp-block-heading">A collective commitment</h3>
+
+
+
+<p>Electricity must become cleaner &#8211; reducing emissions and air pollution &#8211; as demand grows. Fossil fuel use must rapidly decline.</p>
+
+
+
+<p>The 35-by-35 target is one part of a larger transformation, alongside renewable energy and energy efficiency.</p>
+
+
+
+<p>The COP31 talks provide an opportunity to turn this scientific benchmark into a collective commitment. The evidence is clear that the world needs to electrify faster. The question at COP31 this week is whether governments are prepared to put the policies, investment and cooperation in place to make it happen.</p>
+
+
+
+<p><em>Author: <a href="https://theconversation.com/profiles/anita-talberg-113846">Anita Talberg</a>, Honorary Fellow, Melbourne Climate Futures, The University of Melbourne. Dr Talberg works for Climate Resource, a research and science organisation that received funding from the Australian Government to prepare research and analysis to inform discussions on electrification as a COP31 priority.</em></p>
+
+
+
+<p><em>This article was initially published in <a href="https://theconversation.com/au" target="_blank" rel="noreferrer noopener">The Conversation</a> and is republished here under a Creative Commons Licence.</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/11/why-world-must-get-serious-about-electrification/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tongwei unveils 26.03%-efficient TOPCon solar cell with high sheet resistance</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/11/tongwei-unveils-26-03-efficient-topcon-solar-cell-with-high-sheet-resistance/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/11/tongwei-unveils-26-03-efficient-topcon-solar-cell-with-high-sheet-resistance/#respond</comments>
+		
+		<dc:creator><![CDATA[Emiliano Bellini]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2026 22:23:00 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[cells & modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18593</guid>
+
+					<description><![CDATA[The solar cell was fabricated using a low-cost photoresist-based etching process to create a selective emitter with a sheet resistance of up to 1,600 Ω/sq in non-contacted regions, reducing recombination losses while maintaining effective electrical contacts. The TOPCon device achieved a certified power conversion efficiency of 26.03% and an open-circuit voltage of 746.5 mV.]]></description>
+										<content:encoded><![CDATA[
+<p>Aresearch group led by Chinese polysilicon and solar module manufacturer <a href="https://www.pv-magazine.com/2026/07/17/tongwei-claims-record-breaking-93-07-bifaciality-factor-for-770-w-solar-module/">Tongwei</a> has developed a tunnel oxide passivated contact (TOPCon) solar cell featuring an emitter with higher sheet resistance in a bid to reduce recombination losses, improve surface passivation and increase power conversion efficiency.</p>
+
+
+
+<p>“In our work, a non-destructive photoresist-based etching process was used to form a selective emitter structure for TOPCon solar cells,” corresponding author Xiajie Meng told <strong>pv magazine</strong>. “The structure features a sheet resistance as high as 1,600 Ω/sq – to the best of our knowledge, the highest reported for TOPCon to date. This successful implementation confirms that TOPCon remains highly competitive for commercial applications.”</p>
+
+
+
+<p>The researchers explained that conventional TOPCon cells face a trade-off between low contact resistance and reduced carrier recombination in the boron-doped emitter. The proposed architecture addresses this limitation by combining heavily boron-doped regions beneath the metal contacts with lightly doped regions between the contacts.</p>
+
+
+
+<p>The scientists used a range of characterisation techniques to investigate the structural, electrical and passivation properties of the proposed cell architecture, with the aim of identifying optimal design conditions that balance surface passivation, lateral charge transport and metal shading losses.</p>
+
+
+
+<p>They used scanning electron microscopy and 3D laser microscopy to examine etching depth and surface morphology, while four-point probe measurements determined the sheet resistance of the lightly and heavily boron-doped emitter regions. They also evaluated contact resistivity using the transmission line method and characterised doping profiles and junction depths through electrochemical capacitance-voltage measurements.</p>
+
+
+
+<p>The team assessed minority carrier lifetime and emitter recombination using quasi-steady-state photoconductance measurements. Electron-beam-induced current measurements provided qualitative evidence of junction continuity, while photoluminescence imaging was used to evaluate passivation quality under different illumination levels.</p>
+
+
+
+<p>Current-voltage measurements were used to determine key cell parameters, including open-circuit voltage, short-circuit current density, fill factor, efficiency and series resistance. The researchers also conducted Quokka3 simulations to compare conventional uniform emitters, selective emitters and locally boron-doped finger structures using experimentally derived parameters.</p>
+
+
+
+<p>The analysis showed that that high-temperature oxidation reduced surface boron concentrations while increasing junction depth, helping suppress recombination and maintain effective metal contacts.</p>
+
+
+
+<p>The scientists also found that increasing the sheet resistance of non-contacted emitter regions from 800 Ω/sq to 2,000 Ω/sq significantly improved minority carrier lifetime and surface passivation, although improvements became marginal beyond 1,600 Ω/sq, while doping uniformity deteriorated, making this value preferable for cell fabrication.</p>
+
+
+
+<p>The team then compared three architectures: a conventional uniform emitter, a boron-doped selective emitter and a locally boron-doped finger structure. The selective emitter combined a sheet resistance of 450 Ω/sq beneath the metal contacts with 1,600 Ω/sq in non-contacted regions.<br>This configuration increased average cell efficiency from 25.82% to 25.98%, representing an absolute improvement of 0.16 percentage points.<br>Open-circuit voltage increased from 742.6 mV to 745.5 mV, while fill factor improved from 83.54% to 83.76%.</p>
+
+
+
+<p>The optimised selective emitter cell also achieved a certified efficiency of 26.03%, with an open-circuit voltage of 746.5 mV, with the results being confirmed by Germany’s <a href="https://www.pv-magazine.com/2026/04/28/longi-announces-world-record-efficiency-of-28-13-for-silicon-solar-cell/">Solar Energy Research Hamelin </a>(ISFH). The locally boron-doped finger structure also improved passivation but suffered greater fill factor losses, limiting its efficiency advantage. Its fill factor reached 83.34%, compared with 83.76% for the selective emitter, partly reflecting increased series resistance and potentially additional recombination.<br><br>The Quokka3 simulations examined the effects of contact width, grid pitch, finger width and wafer resistivity on cell performance and indicated that a contacted-region width of approximately 200 µm offered the highest efficiency among the investigated configurations. Reducing metal finger widths to 7 µm to 9 µm could enable a denser grid with a pitch of around 500 µm to 550 µm, potentially improving efficiency further, the scientists said.</p>
+
+
+
+<p>“For the locally boron-doped finger architecture, simulations indicate that using silicon wafers with higher bulk resistivity alongside more closely spaced front contacts could offer opportunities for further performance improvements, although experimental validation is still required,” Meng said. “More broadly, the study demonstrates the potential of photoresist-based selective etching to produce emitters with exceptionally high sheet resistance in non-contacted areas without compromising electrical contact quality.”</p>
+
+
+
+<p>The new cell concept was described in “<a href="https://www.sciencedirect.com/science/article/abs/pii/S0927024826006513">High-efficiency TOPCon solar cells featuring super-high sheet resistance emitters via low-cost photoresist etching</a>,” which was recently published in <em>Solar Energy Materials and Solar Cells</em>. The research team included scientists from the School of Optoelectronic Science and Engineering, University of Electronic Science and Technology of China (UESTC) and Chinese industrial equipment company Jiangsu Inspiray Equipment Co., Ltd.</p>
+
+
+
+<p>“The findings could help manufacturers refine emitter doping profiles and contact designs, paving the way for further efficiency gains and potential industrial adoption of the technology,” Meng concluded.</p>
+
+
+
+<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/11/tongwei-unveils-26-03-efficient-topcon-solar-cell-with-high-sheet-resistance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Recurrent wins federal approval for NSW solar and battery project</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/10/recurrent-wins-federal-approval-for-nsw-solar-and-battery-project/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/10/recurrent-wins-federal-approval-for-nsw-solar-and-battery-project/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2026 04:58:00 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18579</guid>
+
+					<description><![CDATA[Recurrent Energy’s plans to build a 350 MW solar farm and 600 MWh battery in New South Wales have cleared another regulatory hurdle with the federal government’s environmental watchdog providing the tick of approval for the project.]]></description>
+										<content:encoded><![CDATA[
+<p>Recurrent Energy’s Sundown solar and battery project planned for southwest New South Wales’ (NSW) New England region has been approved under the Australian government’s Environment Protection and Biodiversity Conservation (EPBC) Act, moving the huge project closer to construction.</p>
+
+
+
+<p>Recurrent, the utility-scale solar and energy storage development platform of solar manufacturer&nbsp;Canadian Solar, said the Sundown project combines a 360 MW solar installation comprising about 660,000 PV panels with a 150 MW / 600 MWh battery energy storage system (BESS).</p>
+
+
+
+<p>The project is being developed across a 525-hectare site about 30 kilometres east of Inverell, within the New England Renewable Energy Zone (REZ). It would connect to the National Electricity Market (NEM) via the existing 330 kV transmission line that traverses the site.</p>
+
+
+
+<p>Recurrent said once operational, the facility will be capable of generating clean energy to meet the average annual electricity needs of about 176,000 households, while enhancing grid stability by supporting peak demand periods through its integrated storage solution.</p>
+
+
+
+<p>“Sundown Solar Farm will play an important role in providing stability to the NSW electricity network,” the company said, adding that the electricity generated from the project will be sold to “one or more registered energy retailing organisations, large energy users or to the NEM.”</p>
+
+
+
+<p>The federal nod for the Sundown solar and battery project comes after the NSW Independent Planning Commission provided its&nbsp;approval in August. The project secured &nbsp;<a href="https://www.pv-magazine-australia.com/2026/05/05/rooftop-solar-surges-to-new-high-on-back-of-battery-boom/">grid connection approval</a> under clause 5.3.4 of the National Electricity Rules from the Australian Energy Market Operator (AEMO) in April.</p>
+
+
+
+<p>Recurrent has not yet provided a construction timeline but it is anticipated the project will support approximately 300 jobs during the peak construction period.</p>
+
+
+
+<p>The Sundown solar and battery project is part of Recurrent expanding renewables portfolio. The company said it has completed the development of about 11 GW of operating utility-scale solar projects and 5 GWh of energy storage projects across six continents. It also has approximately 21 GW of solar and 76 GWh of battery storage projects under development.</p>
+
+
+
+<p>Its Australia projects include the 150 MW <a href="https://www.pv-magazine-australia.com/2026/08/13/victorian-energy-park-powers-up-under-long-term-microsoft-ppa/">Carwarp Solar Farm</a> in northwest Victoria, and the 100 MW / 200 MWh <a href="https://www.pv-magazine-australia.com/2025/10/13/epic-battery-begins-full-operations-in-south-australia/">Mannum BESS</a> in South Australia. now owned by Epic Energy. Recurrent is also developing the 100 MW / 200 MW Panorama Battery project near Bathurst in western NSW.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/10/recurrent-wins-federal-approval-for-nsw-solar-and-battery-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

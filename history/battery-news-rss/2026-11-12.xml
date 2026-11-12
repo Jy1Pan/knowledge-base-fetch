@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Battery-News</title>
+	<atom:link href="https://battery-news.de/feed/" rel="self" type="application/rss+xml" />
+	<link>https://battery-news.de/</link>
+	<description>Die Newsbroker-Webseite zum Thema Lithium-Ionen-Batterien in Deutschland</description>
+	<lastBuildDate>Tue, 10 Nov 2026 16:36:21 +0000</lastBuildDate>
+	<language>de</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.11</generator>
+
+<image>
+	<url>https://battery-news.de/wp-content/uploads/2019/01/cropped-Battery-News-Logo-1-32x32.jpg</url>
+	<title>Battery-News</title>
+	<link>https://battery-news.de/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>LG Energy Solution stellt 10-Minuten-Diagnose für gebrauchte Batterien vor</title>
+		<link>https://battery-news.de/2026/11/11/lg-energy-solution-stellt-10-minuten-diagnose-fuer-gebrauchte-batterien-vor/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieentwicklung]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40247</guid>
+
+					<description><![CDATA[<p>LG Energy Solution hat eine Software entwickelt, die den Zustand gebrauchter Batterien in weniger als zehn Minuten bewerten soll. Das Tool namens Re.Pulse wurde bei den CES Innovation Awards 2027 in der Kategorie Vehicle Tech &#38; Advanced Mobility ausgezeichnet. Der südkoreanische Batteriehersteller gab die Auszeichnung am 9. November bekannt. Anhand der Ergebnisse lassen sich Batterien der Wiederverwendung, Aufbereitung oder dem Recycling zuführen. Strompulse statt kompletter Zyklen Re.Pulse sendet Strompulse durch die Batterie und analysiert die Spannungsantwort. Laut The Elec wertet ein KI-Modell die Daten aus. Herkömmliche Tests des Gesundheitszustands erfordern eine vollständige Entladung, Ladung und erneute Entladung, was laut LG Energy Solution mehr als sieben Stunden dauert. Die Software bewertet jede Zelle einzeln statt nur das gesamte Pack. So sollen sich gealterte Zellen gezielt reparieren oder austauschen lassen. Spezielle Hardware ist nicht nötig, das Tool arbeitet mit handelsüblichen Batterietestern und Ladestationen. Es lässt sich auch bei noch im Fahrzeug verbauten Batterien einsetzen. Angaben zur Diagnosegenauigkeit, zu unterstützten Zellchemien und zum Marktstart hat LG Energy Solution nicht gemacht. Die CES-Auszeichnungen beruhen auf eingereichten Unterlagen, nicht auf unabhängigen Tests. Teil der Battery-as-a-Service-Pläne Zielgruppen sind laut LG Energy Solution Werkstätten für Elektroautos, Flottenbetreiber, Gebrauchtwagenplattformen und Second-Life-Speicherprojekte. Das Unternehmen will Re.Pulse in sein Battery-as-a-Service-Geschäft integrieren. Bereits im vergangenen Jahr hatte es einen CES Innovation Award für B.artery erhalten, eine Technologie zur Verlängerung der Batterielebensdauer. Quellen:https://www.prnewswire.com/news-releases/lg-energy-solution-wins-ces-innovation-awards-2027-for-its-fast-and-precise-second-life-battery-diagnostic-system-302934043.htmlhttps://www.thelec.net/news/articleView.html?idxno=15454https://www.bestmag.co.uk/lg-cell-level-health-diagnosis/</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/11/lg-energy-solution-stellt-10-minuten-diagnose-fuer-gebrauchte-batterien-vor/">LG Energy Solution stellt 10-Minuten-Diagnose für gebrauchte Batterien vor</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>LG Energy Solution hat eine Software entwickelt, die den Zustand gebrauchter Batterien in weniger als zehn Minuten bewerten soll. Das Tool namens Re.Pulse wurde bei den CES Innovation Awards 2027 in der Kategorie Vehicle Tech &amp; Advanced Mobility ausgezeichnet. Der südkoreanische Batteriehersteller gab die Auszeichnung am 9. November bekannt. Anhand der Ergebnisse lassen sich Batterien der Wiederverwendung, Aufbereitung oder dem Recycling zuführen.</p>
+
+
+
+<p><strong>Strompulse statt kompletter Zyklen</strong></p>
+
+
+
+<p>Re.Pulse sendet Strompulse durch die Batterie und analysiert die Spannungsantwort. Laut The Elec wertet ein KI-Modell die Daten aus. Herkömmliche Tests des Gesundheitszustands erfordern eine vollständige Entladung, Ladung und erneute Entladung, was laut LG Energy Solution mehr als sieben Stunden dauert. Die Software bewertet jede Zelle einzeln statt nur das gesamte Pack. So sollen sich gealterte Zellen gezielt reparieren oder austauschen lassen.</p>
+
+
+
+<p>Spezielle Hardware ist nicht nötig, das Tool arbeitet mit handelsüblichen Batterietestern und Ladestationen. Es lässt sich auch bei noch im Fahrzeug verbauten Batterien einsetzen. Angaben zur Diagnosegenauigkeit, zu unterstützten Zellchemien und zum Marktstart hat LG Energy Solution nicht gemacht. Die CES-Auszeichnungen beruhen auf eingereichten Unterlagen, nicht auf unabhängigen Tests.</p>
+
+
+
+<p><strong>Teil der Battery-as-a-Service-Pläne</strong></p>
+
+
+
+<p>Zielgruppen sind laut LG Energy Solution Werkstätten für Elektroautos, Flottenbetreiber, Gebrauchtwagenplattformen und Second-Life-Speicherprojekte. Das Unternehmen will Re.Pulse in sein Battery-as-a-Service-Geschäft integrieren. Bereits im vergangenen Jahr hatte es einen CES Innovation Award für B.artery erhalten, eine Technologie zur Verlängerung der Batterielebensdauer.</p>
+
+
+
+<p><em>Quellen:<br><em><a href="https://www.prnewswire.com/news-releases/lg-energy-solution-wins-ces-innovation-awards-2027-for-its-fast-and-precise-second-life-battery-diagnostic-system-302934043.html" target="_blank" rel="noreferrer noopener">https://www.prnewswire.com/news-releases/lg-energy-solution-wins-ces-innovation-awards-2027-for-its-fast-and-precise-second-life-battery-diagnostic-system-302934043.html</a></em><br><a href="https://www.thelec.net/news/articleView.html?idxno=15454" target="_blank" rel="noreferrer noopener">https://www.thelec.net/news/articleView.html?idxno=15454</a><br><a href="https://www.bestmag.co.uk/lg-cell-level-health-diagnosis/" target="_blank" rel="noreferrer noopener">https://www.bestmag.co.uk/lg-cell-level-health-diagnosis/</a></em></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/11/lg-energy-solution-stellt-10-minuten-diagnose-fuer-gebrauchte-batterien-vor/">LG Energy Solution stellt 10-Minuten-Diagnose für gebrauchte Batterien vor</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>BMW holt Samsung SDI und LG Energy Solution als Zelllieferanten für Gen6</title>
+		<link>https://battery-news.de/2026/11/10/bmw-holt-samsung-sdi-und-lg-energy-solution-als-zelllieferanten-fuer-gen6/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieproduktion]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40245</guid>
+
+					<description><![CDATA[<p>BMW hat Samsung SDI und LG Energy Solution in sein Lieferantennetzwerk für Batteriezellen der sechsten Generation aufgenommen. Laut BMW werden die beiden südkoreanischen Hersteller Rundzellen aus bestehenden Werken in Europa und Nordamerika liefern. Die Lieferungen sollen gegen Ende des Jahrzehnts beginnen. Mengen, Vertragswerte und die konkreten Werke nannte BMW nicht. Regionale Beschaffung für die Neue Klasse Die Gen6-Zellen kommen in den Elektromodellen der Neuen Klasse zum Einsatz. In Europa bezieht BMW sie von CATL, EVE Energy und Samsung SDI. LG Energy Solution beliefert Nordamerika. Laut BMW verkürzt die Beschaffung in den Regionen der Fahrzeugproduktion die Transportwege und erhöht die Versorgungssicherheit. Dafür seien allerdings hohe Investitionen und stabile politische Rahmenbedingungen nötig. Die Zellen werden an fünf BMW-Standorten in der Nähe der Fahrzeugwerke zu Hochvoltbatterien montiert. Dazu gehören Irlbach-Straßkirchen in Deutschland, Debrecen in Ungarn, Shenyang in China, Woodruff in den USA und San Luis Potosí in Mexiko. LFP für einzelne Modelle geplant Welche Zellchemie die neuen Lieferanten bereitstellen, hat BMW nicht genannt. Die bisherigen Gen6-Zellen sind NMC-Rundzellen mit 46 Millimetern Durchmesser. In der Telefonkonferenz zum dritten Quartal bestätigte BMW, dass einzelne Modelle der Neuen Klasse auch LFP-Batterien erhalten. Der nur in China angebotene iX3 30L nutzt sie bereits. Zelltechnologien entwickelt BMW in eigenen Kompetenzzentren in München und Parsdorf. Quellen:https://newsroom.bmwgroup.com/global/bmw-group-localises-supply-chains/https://www.bmwblog.com/2026/11/09/bmw-adds-samsung-sdi-lg-battery-suppliers/https://www.bmwblog.com/2026/11/07/bmw-add-lfp-batteries-neue-klasse-evs/</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/10/bmw-holt-samsung-sdi-und-lg-energy-solution-als-zelllieferanten-fuer-gen6/">BMW holt Samsung SDI und LG Energy Solution als Zelllieferanten für Gen6</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>BMW hat Samsung SDI und LG Energy Solution in sein Lieferantennetzwerk für Batteriezellen der sechsten Generation aufgenommen. Laut BMW werden die beiden südkoreanischen Hersteller Rundzellen aus bestehenden Werken in Europa und Nordamerika liefern. Die Lieferungen sollen gegen Ende des Jahrzehnts beginnen. Mengen, Vertragswerte und die konkreten Werke nannte BMW nicht.</p>
+
+
+
+<p><strong>Regionale Beschaffung für die Neue Klasse</strong></p>
+
+
+
+<p>Die Gen6-Zellen kommen in den Elektromodellen der Neuen Klasse zum Einsatz. In Europa bezieht BMW sie von CATL, EVE Energy und Samsung SDI. LG Energy Solution beliefert Nordamerika. Laut BMW verkürzt die Beschaffung in den Regionen der Fahrzeugproduktion die Transportwege und erhöht die Versorgungssicherheit. Dafür seien allerdings hohe Investitionen und stabile politische Rahmenbedingungen nötig.</p>
+
+
+
+<p>Die Zellen werden an fünf BMW-Standorten in der Nähe der Fahrzeugwerke zu Hochvoltbatterien montiert. Dazu gehören Irlbach-Straßkirchen in Deutschland, Debrecen in Ungarn, Shenyang in China, Woodruff in den USA und San Luis Potosí in Mexiko.</p>
+
+
+
+<p><strong>LFP für einzelne Modelle geplant</strong></p>
+
+
+
+<p>Welche Zellchemie die neuen Lieferanten bereitstellen, hat BMW nicht genannt. Die bisherigen Gen6-Zellen sind NMC-Rundzellen mit 46 Millimetern Durchmesser. In der Telefonkonferenz zum dritten Quartal bestätigte BMW, dass einzelne Modelle der Neuen Klasse auch LFP-Batterien erhalten. Der nur in China angebotene iX3 30L nutzt sie bereits. Zelltechnologien entwickelt BMW in eigenen Kompetenzzentren in München und Parsdorf.</p>
+
+
+
+<p><em>Quellen:<br><a href="https://newsroom.bmwgroup.com/global/bmw-group-localises-supply-chains/" target="_blank" rel="noreferrer noopener">https://newsroom.bmwgroup.com/global/bmw-group-localises-supply-chains/</a><br><a href="https://www.bmwblog.com/2026/11/09/bmw-adds-samsung-sdi-lg-battery-suppliers/" target="_blank" rel="noreferrer noopener">https://www.bmwblog.com/2026/11/09/bmw-adds-samsung-sdi-lg-battery-suppliers/</a><br><a href="https://www.bmwblog.com/2026/11/07/bmw-add-lfp-batteries-neue-klasse-evs/" target="_blank" rel="noreferrer noopener">https://www.bmwblog.com/2026/11/07/bmw-add-lfp-batteries-neue-klasse-evs/</a></em></p>
+
+
+
+<p></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/10/bmw-holt-samsung-sdi-und-lg-energy-solution-als-zelllieferanten-fuer-gen6/">BMW holt Samsung SDI und LG Energy Solution als Zelllieferanten für Gen6</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lyten liefert Batteriespeicher in abgelegenes Dorf auf Fidschi</title>
+		<link>https://battery-news.de/2026/11/09/lyten-liefert-batteriespeicher-in-abgelegenes-dorf-auf-fidschi/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Mon, 09 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieproduktion]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40229</guid>
+
+					<description><![CDATA[<p>Das US-Batterieunternehmen Lyten hat ein Batteriespeichersystem in das Dorf Yasawa i Rara auf der Fidschi-Insel Yasawa geliefert. Laut Lyten ging das System am 28. Oktober in Betrieb. Gekauft hat es das fidschianische Unternehmen Energy Solutions Pacific in Zusammenarbeit mit Investment Fiji. Lyten gab das Projekt am 5. November bekannt. Speicher reduziert Generatorbetrieb Das Dorf hat keinen Netzanschluss und war bisher auf Dieselgeneratoren und etwas Solarstrom angewiesen. Nun laden Solarmodule und Generatoren den Speicher, aus dem das Dorf seinen Strom bezieht. Laut Lyten laufen die Generatoren dadurch vor allem zum Nachladen der Batterien. Das System soll bis zu 64 Haushalte, ein Kühllager für Fisch, eine Entbindungsstation und eine Leichenhalle versorgen. Zum Einsatz kommt Lytens Voltpack Mobile System, das laut Unternehmen von 290 kWh bis zu Hunderten Megawattstunden skalierbar ist. Die in Fidschi installierte Kapazität, die Zellchemie und den Zelllieferanten hat Lyten nicht genannt. Gefertigt im ehemaligen Northvolt-Werk in Polen Gebaut wird das System im polnischen Danzig. Lyten hatte das dortige Speicherwerk im Juli 2025 von Northvolt übernommen. Nach damaligen Angaben von Lyten kann der Standort auf eine Fertigungskapazität von 6 GWh für Speichersysteme hochgefahren werden. Das Unternehmen setzt auf Lithium-Schwefel-Batterien und plant auch Speichersysteme auf Basis dieser Chemie. Im August 2026 wurde Lyten zudem als bevorzugter Bieter für das Geschäft des norwegischen Zellherstellers Morrow Batteries ausgewählt. Quellen:https://lyten.com/2026/11/05/lyten-deploys-energy-storage-system-in-fiji-to-deliver-reliable-power-to-remote-islands/https://www.businesswire.com/news/home/20250701098618/en/Lyten-Acquires-Europes-Largest-Battery-Energy-Storage-Systems-Manufacturing-Operation-from-Northvolthttps://lyten.com/2026/08/26/lyten-selected-as-preferred-bidder-for-morrow-batteries-business/</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/09/lyten-liefert-batteriespeicher-in-abgelegenes-dorf-auf-fidschi/">Lyten liefert Batteriespeicher in abgelegenes Dorf auf Fidschi</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Das US-Batterieunternehmen Lyten hat ein Batteriespeichersystem in das Dorf Yasawa i Rara auf der Fidschi-Insel Yasawa geliefert. Laut Lyten ging das System am 28. Oktober in Betrieb. Gekauft hat es das fidschianische Unternehmen Energy Solutions Pacific in Zusammenarbeit mit Investment Fiji. Lyten gab das Projekt am 5. November bekannt.</p>
+
+
+
+<p><strong>Speicher reduziert Generatorbetrieb</strong></p>
+
+
+
+<p>Das Dorf hat keinen Netzanschluss und war bisher auf Dieselgeneratoren und etwas Solarstrom angewiesen. Nun laden Solarmodule und Generatoren den Speicher, aus dem das Dorf seinen Strom bezieht. Laut Lyten laufen die Generatoren dadurch vor allem zum Nachladen der Batterien. Das System soll bis zu 64 Haushalte, ein Kühllager für Fisch, eine Entbindungsstation und eine Leichenhalle versorgen.</p>
+
+
+
+<p>Zum Einsatz kommt Lytens Voltpack Mobile System, das laut Unternehmen von 290 kWh bis zu Hunderten Megawattstunden skalierbar ist. Die in Fidschi installierte Kapazität, die Zellchemie und den Zelllieferanten hat Lyten nicht genannt.</p>
+
+
+
+<p><strong>Gefertigt im ehemaligen Northvolt-Werk in Polen</strong></p>
+
+
+
+<p>Gebaut wird das System im polnischen Danzig. Lyten hatte das dortige Speicherwerk im Juli 2025 von Northvolt übernommen. Nach damaligen Angaben von Lyten kann der Standort auf eine Fertigungskapazität von 6 GWh für Speichersysteme hochgefahren werden. Das Unternehmen setzt auf Lithium-Schwefel-Batterien und plant auch Speichersysteme auf Basis dieser Chemie. Im August 2026 wurde Lyten zudem als bevorzugter Bieter für das Geschäft des norwegischen Zellherstellers Morrow Batteries ausgewählt.</p>
+
+
+
+<p><em>Quellen:</em><br><em><a href="https://lyten.com/2026/11/05/lyten-deploys-energy-storage-system-in-fiji-to-deliver-reliable-power-to-remote-islands/" target="_blank" rel="noreferrer noopener">https://lyten.com/2026/11/05/lyten-deploys-energy-storage-system-in-fiji-to-deliver-reliable-power-to-remote-islands/</a></em><br><em><a href="https://www.businesswire.com/news/home/20250701098618/en/Lyten-Acquires-Europes-Largest-Battery-Energy-Storage-Systems-Manufacturing-Operation-from-Northvolt" target="_blank" rel="noreferrer noopener">https://www.businesswire.com/news/home/20250701098618/en/Lyten-Acquires-Europes-Largest-Battery-Energy-Storage-Systems-Manufacturing-Operation-from-Northvolt</a></em><br><em><a href="https://lyten.com/2026/08/26/lyten-selected-as-preferred-bidder-for-morrow-batteries-business/" target="_blank" rel="noreferrer noopener">https://lyten.com/2026/08/26/lyten-selected-as-preferred-bidder-for-morrow-batteries-business/</a></em></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/09/lyten-liefert-batteriespeicher-in-abgelegenes-dorf-auf-fidschi/">Lyten liefert Batteriespeicher in abgelegenes Dorf auf Fidschi</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Batterierecycling in Europa</title>
+		<link>https://battery-news.de/2026/11/06/batterierecycling-in-europa-2/</link>
+		
+		<dc:creator><![CDATA[Redaktion]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2026 08:30:00 +0000</pubDate>
+				<category><![CDATA[Top Story]]></category>
+		<category><![CDATA[Top-Story]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40153</guid>
+
+					<description><![CDATA[<p>Battery-News präsentiert gemeinsam mit dem Lehrstuhl „Production Engineering of E-Mobility Components“ (PEM) der RWTH Aachen eine aktualisierte Karte zum Recycling von Lithium-Ionen-Batterien in Europa mit Stand Februar 2026. Die Übersicht wurde von Natalia Soldan, Ali Bajaber und Professor Heiner Heimes zusammengestellt. Recyclingprojekte in 15 europäischen Ländern Die Karte zeigt geplante und bereits umgesetzte Recyclingprojekte sowie deren Kapazitäten und vorgesehene Verfahren. Sie unterscheidet zwischen mechanischem, hydrometallurgischem, pyrometallurgischem und direktem Recycling. Damit veranschaulicht sie sowohl die geografische Verteilung als auch die unterschiedlichen technologischen Ansätze der europäischen Recyclinginfrastruktur. Die Übersicht umfasst Projekte in 15 europäischen Ländern. Deutschland bildet mit der größten Zahl verzeichneter Standorte einen Schwerpunkt. Weitere Recyclingaktivitäten verteilen sich unter anderem auf Großbritannien, Frankreich, Spanien, Polen und die nordischen Länder. Die Karte steht in hoher Auflösung zum kostenlosen Download bereit. Die Übersicht erhebt keinen Anspruch auf Vollständigkeit. Ergänzungen und Korrekturen nimmt die Redaktion gerne über das Kontaktformular entgegen.</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/06/batterierecycling-in-europa-2/">Batterierecycling in Europa</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Battery-News präsentiert gemeinsam mit dem Lehrstuhl „Production Engineering of E-Mobility Components“ (PEM) der RWTH Aachen eine aktualisierte Karte zum Recycling von Lithium-Ionen-Batterien in Europa mit Stand Februar 2026. Die Übersicht wurde von Natalia Soldan, Ali Bajaber und Professor Heiner Heimes zusammengestellt.</p>
+
+
+
+<h2 class="wp-block-heading">Recyclingprojekte in 15 europäischen Ländern</h2>
+
+
+
+<p>Die Karte zeigt geplante und bereits umgesetzte Recyclingprojekte sowie deren Kapazitäten und vorgesehene Verfahren. Sie unterscheidet zwischen mechanischem, hydrometallurgischem, pyrometallurgischem und direktem Recycling. Damit veranschaulicht sie sowohl die geografische Verteilung als auch die unterschiedlichen technologischen Ansätze der europäischen Recyclinginfrastruktur.</p>
+
+
+
+<p>Die Übersicht umfasst Projekte in 15 europäischen Ländern. Deutschland bildet mit der größten Zahl verzeichneter Standorte einen Schwerpunkt. Weitere Recyclingaktivitäten verteilen sich unter anderem auf Großbritannien, Frankreich, Spanien, Polen und die nordischen Länder.</p>
+
+
+
+<p>Die Karte steht in hoher Auflösung zum <a href="https://battery-news.de/downloads/">kostenlosen Download</a> bereit. Die Übersicht erhebt keinen Anspruch auf Vollständigkeit. Ergänzungen und Korrekturen nimmt die Redaktion gerne über das <a href="https://battery-news.de/kontakt/">Kontaktformular</a> entgegen.</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/06/batterierecycling-in-europa-2/">Batterierecycling in Europa</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>EDENenergy baut Gewerbespeicher aus gebrauchten E-Scooter-Akkus</title>
+		<link>https://battery-news.de/2026/11/05/edenenergy-baut-gewerbespeicher-aus-gebrauchten-e-scooter-akkus/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterierecycling]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40227</guid>
+
+					<description><![CDATA[<p>Das Freiburger Start-up EDENenergy baut stationäre Batteriespeicher für Unternehmen aus gebrauchten E-Scooter-Akkus. Laut dem Fraunhofer ISE, aus dem das Unternehmen ausgegründet wurde, ging der erste 70-kWh-Speicher Mitte Oktober an einen Kunden. Er kombiniert 112 gebrauchte E-Scooter-Akkus. Den Kunden nannte das Unternehmen nicht. Module werden im laufenden Betrieb getauscht Die Akkus werden nicht zerlegt. Stattdessen verbindet eine selbst entwickelte Leistungselektronik unterschiedliche Batterien und kommuniziert mit den verschiedenen Modulen. Einzelne Module lassen sich im laufenden Betrieb austauschen und werden aus der Ferne überwacht. Durch den Tausch soll der Speicher laut Unternehmen auch nach zehn Jahren noch 70 kWh bereitstellen. Akkus am Ende ihrer Lebensdauer gehen ins Recycling. EDENenergy war für die gebrauchten Akkus von einem Gesundheitszustand von 80 % ausgegangen. Nach Unternehmensangaben lag die Restkapazität teils deutlich über 90 %. Wie die Kapazität gemessen wurde, ist nicht bekannt. Jeder Akkutyp erfordert Anpassungen Stecker, Batteriemanagement und Kommunikation müssen für jeden neuen Akkutyp angepasst werden. Um genügend baugleiche Akkus zu erhalten, bezieht EDENenergy sie zunächst von Flottenbetreibern. Langfristig fordert das Unternehmen standardisierte Kommunikationsprotokolle und Regeln für den stationären Einsatz mobiler Batterien. Die Gründer arbeiteten zuvor in der Abteilung Leistungselektronik des Fraunhofer ISE. EDENenergy plant Speicher mit bis zu 300 kWh und richtet sich zunächst an mittelständische Unternehmen mit Photovoltaikanlage. Ein Landesprogramm kann Pilotkunden die Hälfte der Speicherkosten fördern. Quellen:https://www.ise.fraunhofer.de/de/presse-und-medien/presseinformationen/2026/start-up-edenenergy-gebrauchte-escooter-akkus-werden-industriespeicher.htmlhttps://www.solarserver.de/2026/11/02/startup-edenenergy-alte-e-scooter-akkus-fuer-neue-industriespeicher</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/05/edenenergy-baut-gewerbespeicher-aus-gebrauchten-e-scooter-akkus/">EDENenergy baut Gewerbespeicher aus gebrauchten E-Scooter-Akkus</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Das Freiburger Start-up EDENenergy baut stationäre Batteriespeicher für Unternehmen aus gebrauchten E-Scooter-Akkus. Laut dem Fraunhofer ISE, aus dem das Unternehmen ausgegründet wurde, ging der erste 70-kWh-Speicher Mitte Oktober an einen Kunden. Er kombiniert 112 gebrauchte E-Scooter-Akkus. Den Kunden nannte das Unternehmen nicht.</p>
+
+
+
+<p><strong>Module werden im laufenden Betrieb getauscht</strong></p>
+
+
+
+<p>Die Akkus werden nicht zerlegt. Stattdessen verbindet eine selbst entwickelte Leistungselektronik unterschiedliche Batterien und kommuniziert mit den verschiedenen Modulen. Einzelne Module lassen sich im laufenden Betrieb austauschen und werden aus der Ferne überwacht. Durch den Tausch soll der Speicher laut Unternehmen auch nach zehn Jahren noch 70 kWh bereitstellen. Akkus am Ende ihrer Lebensdauer gehen ins Recycling.</p>
+
+
+
+<p>EDENenergy war für die gebrauchten Akkus von einem Gesundheitszustand von 80 % ausgegangen. Nach Unternehmensangaben lag die Restkapazität teils deutlich über 90 %. Wie die Kapazität gemessen wurde, ist nicht bekannt.</p>
+
+
+
+<p><strong>Jeder Akkutyp erfordert Anpassungen</strong></p>
+
+
+
+<p>Stecker, Batteriemanagement und Kommunikation müssen für jeden neuen Akkutyp angepasst werden. Um genügend baugleiche Akkus zu erhalten, bezieht EDENenergy sie zunächst von Flottenbetreibern. Langfristig fordert das Unternehmen standardisierte Kommunikationsprotokolle und Regeln für den stationären Einsatz mobiler Batterien.</p>
+
+
+
+<p>Die Gründer arbeiteten zuvor in der Abteilung Leistungselektronik des Fraunhofer ISE. EDENenergy plant Speicher mit bis zu 300 kWh und richtet sich zunächst an mittelständische Unternehmen mit Photovoltaikanlage. Ein Landesprogramm kann Pilotkunden die Hälfte der Speicherkosten fördern.</p>
+
+
+
+<p><em>Quellen:</em><br><em><a href="https://www.ise.fraunhofer.de/de/presse-und-medien/presseinformationen/2026/start-up-edenenergy-gebrauchte-escooter-akkus-werden-industriespeicher.html" target="_blank" rel="noreferrer noopener">https://www.ise.fraunhofer.de/de/presse-und-medien/presseinformationen/2026/start-up-edenenergy-gebrauchte-escooter-akkus-werden-industriespeicher.html</a></em><br><em><a href="https://www.solarserver.de/2026/11/02/startup-edenenergy-alte-e-scooter-akkus-fuer-neue-industriespeicher" target="_blank" rel="noreferrer noopener">https://www.solarserver.de/2026/11/02/startup-edenenergy-alte-e-scooter-akkus-fuer-neue-industriespeicher</a></em></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/05/edenenergy-baut-gewerbespeicher-aus-gebrauchten-e-scooter-akkus/">EDENenergy baut Gewerbespeicher aus gebrauchten E-Scooter-Akkus</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>AMG Lithium eröffnet Testlabor für Festelektrolyte in Frankfurt</title>
+		<link>https://battery-news.de/2026/11/04/amg-lithium-eroeffnet-testlabor-fuer-festelektrolyte-in-frankfurt/</link>
+		
+		<dc:creator><![CDATA[Redaktion]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batteriekomponenten]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40206</guid>
+
+					<description><![CDATA[<p>AMG Lithium hat in Frankfurt das Performance Lab „PerLa“ in Betrieb genommen. Das Labor dient der Entwicklung und Erprobung sulfidischer Festelektrolyte für Festkörperbatterien. Mit mehr als 200 Messplätzen für Standardtests und detaillierte elektrochemische Analysen will das Unternehmen die Zusammenarbeit mit Kunden und Partnern in gemeinsamen Entwicklungsprojekten ausbauen. Eine neue Glovebox-Linie deckt den gesamten Herstellungsprozess von Labor-Batteriezellen ab: von der Herstellung der Elektrodenpasten über die Beschichtung und Zellassemblierung bis zur Verpackung in Pouch-Zellen. Sämtliche Schritte erfolgen unter kontrollierter, inerter Atmosphäre. Die Materialien können in praxisnahen Batteriezellen nach standardisierten Protokollen getestet werden. Im Zuge der Erweiterung wurde die Laborfläche um 250 auf insgesamt rund 1.100 Quadratmeter vergrößert. Nach Angaben von AMG-Lithium-CEO Stefan Scherer soll das Performance Lab den Markteintritt der Festelektrolyttechnologie unterstützen und die gezielte Zusammenarbeit mit Kunden ermöglichen. AMG Lithium gehört zu AMG Critical Materials und entwickelt neben Lithiumhydroxid in Batteriequalität auch Materialien für Festkörperbatterien. Quellen:https://www.automobil-industrie.vogel.de/amg-lithium-eroeffnet-testlabor-festelektrolyte-frankfurt-a-dad21642e7a60832712b2425926f8d2f/https://www.next-mobility.de/amg-lithium-nimmt-testlabor-fuer-festelektrolyte-in-frankfurt-in-betrieb-a-c6325a78afa35a2f16caf30e24d84210/</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/04/amg-lithium-eroeffnet-testlabor-fuer-festelektrolyte-in-frankfurt/">AMG Lithium eröffnet Testlabor für Festelektrolyte in Frankfurt</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>AMG Lithium hat in Frankfurt das Performance Lab „PerLa“ in Betrieb genommen. Das Labor dient der Entwicklung und Erprobung sulfidischer Festelektrolyte für Festkörperbatterien. Mit mehr als 200 Messplätzen für Standardtests und detaillierte elektrochemische Analysen will das Unternehmen die Zusammenarbeit mit Kunden und Partnern in gemeinsamen Entwicklungsprojekten ausbauen.</p>
+
+
+
+<p>Eine neue Glovebox-Linie deckt den gesamten Herstellungsprozess von Labor-Batteriezellen ab: von der Herstellung der Elektrodenpasten über die Beschichtung und Zellassemblierung bis zur Verpackung in Pouch-Zellen. Sämtliche Schritte erfolgen unter kontrollierter, inerter Atmosphäre. Die Materialien können in praxisnahen Batteriezellen nach standardisierten Protokollen getestet werden. Im Zuge der Erweiterung wurde die Laborfläche um 250 auf insgesamt rund 1.100 Quadratmeter vergrößert.</p>
+
+
+
+<p>Nach Angaben von AMG-Lithium-CEO Stefan Scherer soll das Performance Lab den Markteintritt der Festelektrolyttechnologie unterstützen und die gezielte Zusammenarbeit mit Kunden ermöglichen. AMG Lithium gehört zu AMG Critical Materials und entwickelt neben Lithiumhydroxid in Batteriequalität auch Materialien für Festkörperbatterien.</p>
+
+
+
+<p><em>Quellen:</em><br><em><a href="https://www.automobil-industrie.vogel.de/amg-lithium-eroeffnet-testlabor-festelektrolyte-frankfurt-a-dad21642e7a60832712b2425926f8d2f/" target="_blank" rel="noreferrer noopener">https://www.automobil-industrie.vogel.de/amg-lithium-eroeffnet-testlabor-festelektrolyte-frankfurt-a-dad21642e7a60832712b2425926f8d2f/</a></em><br><em><a href="https://www.next-mobility.de/amg-lithium-nimmt-testlabor-fuer-festelektrolyte-in-frankfurt-in-betrieb-a-c6325a78afa35a2f16caf30e24d84210/" target="_blank" rel="noreferrer noopener">https://www.next-mobility.de/amg-lithium-nimmt-testlabor-fuer-festelektrolyte-in-frankfurt-in-betrieb-a-c6325a78afa35a2f16caf30e24d84210/</a></em></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/04/amg-lithium-eroeffnet-testlabor-fuer-festelektrolyte-in-frankfurt/">AMG Lithium eröffnet Testlabor für Festelektrolyte in Frankfurt</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CATL entwickelt Batterie für Blue Vectors eVTOL Skyla V30</title>
+		<link>https://battery-news.de/2026/11/04/catl-entwickelt-batterie-fuer-blue-vectors-evtol-skyla-v30/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieentwicklung]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40214</guid>
+
+					<description><![CDATA[<p>CATL wird eine maßgeschneiderte Luftfahrtbatterie für die Skyla V30 entwickeln, ein elektrisches Senkrechtstart-Fluggerät (eVTOL) des chinesischen Herstellers Blue Vector. Laut CATL haben die Unternehmen am 2. November strategische und produktbezogene Kooperationsvereinbarungen unterzeichnet. Blue Vector hat CATL zum exklusiven Batteriepartner für das Fluggerät ernannt. Vertragswert, Batteriespezifikationen und einen Lieferzeitplan nannten beide Unternehmen nicht. Sechssitziger Kipprotor für Flüge zwischen Städten Die Skyla V30 ist ein vollelektrischer, sechssitziger Kipprotor der Zwei-Tonnen-Klasse. Blue Vector mit Sitz in Hangzhou entwickelt sie für Passagierflüge zwischen Städten. Laut den Unternehmen soll die Batterie die Anforderungen des Fluggeräts an Reichweite und Sicherheit erfüllen. Die Kooperation umfasst zudem Forschung, Standards und den operativen Einsatz. Das Fluggerät befindet sich noch in der Entwicklung. Der erste Technologiedemonstrator in Originalgröße wurde am 31. August 2026 in Harbin vorgestellt. Als Nächstes folgen Systemintegration, Bodentests und Transitionsflugtests. Bis Ende September meldete Blue Vector Vorbestellungen für mehr als 100 Fluggeräte. Zum Stand der Zulassung machte das Unternehmen keine Angaben. CATL baut Luftfahrtaktivitäten aus Mit der Vereinbarung baut CATL seine Präsenz im eVTOL-Bereich aus. Im August 2024 hatte CATL eine Beteiligung am Shanghaier Hersteller Autoflight vereinbart, um gemeinsam eVTOL-Batterien zu entwickeln. Im November 2025 stellte Autoflight einen gemeinsam mit CATL entwickelten schwimmenden Vertiport vor. Er kombiniert eine Start- und Landeplattform mit Energiespeicher und Ladeinfrastruktur. Quellen:https://cnevpost.com/2026/11/02/catl-evtol-partnership-blue-vector/https://autonews.gasgoo.com/articles/news/2117519965581893633</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/04/catl-entwickelt-batterie-fuer-blue-vectors-evtol-skyla-v30/">CATL entwickelt Batterie für Blue Vectors eVTOL Skyla V30</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>CATL wird eine maßgeschneiderte Luftfahrtbatterie für die Skyla V30 entwickeln, ein elektrisches Senkrechtstart-Fluggerät (eVTOL) des chinesischen Herstellers Blue Vector. Laut CATL haben die Unternehmen am 2. November strategische und produktbezogene Kooperationsvereinbarungen unterzeichnet. Blue Vector hat CATL zum exklusiven Batteriepartner für das Fluggerät ernannt. Vertragswert, Batteriespezifikationen und einen Lieferzeitplan nannten beide Unternehmen nicht.</p>
+
+
+
+<h3 class="wp-block-heading">Sechssitziger Kipprotor für Flüge zwischen Städten</h3>
+
+
+
+<p>Die Skyla V30 ist ein vollelektrischer, sechssitziger Kipprotor der Zwei-Tonnen-Klasse. Blue Vector mit Sitz in Hangzhou entwickelt sie für Passagierflüge zwischen Städten. Laut den Unternehmen soll die Batterie die Anforderungen des Fluggeräts an Reichweite und Sicherheit erfüllen. Die Kooperation umfasst zudem Forschung, Standards und den operativen Einsatz.</p>
+
+
+
+<p>Das Fluggerät befindet sich noch in der Entwicklung. Der erste Technologiedemonstrator in Originalgröße wurde am 31. August 2026 in Harbin vorgestellt. Als Nächstes folgen Systemintegration, Bodentests und Transitionsflugtests. Bis Ende September meldete Blue Vector Vorbestellungen für mehr als 100 Fluggeräte. Zum Stand der Zulassung machte das Unternehmen keine Angaben.</p>
+
+
+
+<h3 class="wp-block-heading">CATL baut Luftfahrtaktivitäten aus</h3>
+
+
+
+<p>Mit der Vereinbarung baut CATL seine Präsenz im eVTOL-Bereich aus. Im August 2024 hatte CATL eine Beteiligung am Shanghaier Hersteller Autoflight vereinbart, um gemeinsam eVTOL-Batterien zu entwickeln. Im November 2025 stellte Autoflight einen gemeinsam mit CATL entwickelten schwimmenden Vertiport vor. Er kombiniert eine Start- und Landeplattform mit Energiespeicher und Ladeinfrastruktur.</p>
+
+
+
+<p><em>Quellen:</em><br><a href="https://cnevpost.com/2026/11/02/catl-evtol-partnership-blue-vector/" target="_blank" rel="noreferrer noopener"><em>https://cnevpost.com/2026/11/02/catl-evtol-partnership-blue-vector/</em></a><br><a href="https://autonews.gasgoo.com/articles/news/2117519965581893633" target="_blank" rel="noreferrer noopener"><em>https://autonews.gasgoo.com/articles/news/2117519965581893633</em></a></p>
+
+
+
+<p></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/04/catl-entwickelt-batterie-fuer-blue-vectors-evtol-skyla-v30/">CATL entwickelt Batterie für Blue Vectors eVTOL Skyla V30</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sunwoda lässt polymerbasierte Feststoffzelle mit 400 Wh/kg von Autobauern testen</title>
+		<link>https://battery-news.de/2026/11/03/sunwoda-laesst-polymerbasierte-feststoffzelle-mit-400-wh-kg-von-autobauern-testen/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieentwicklung]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40201</guid>
+
+					<description><![CDATA[<p>Der chinesische Batteriehersteller Sunwoda lässt seine polymerbasierte Feststoffzelle von Autoherstellern prüfen. Laut der Tochter Sunwoda Electric Vehicle Battery (SEVB) hat die Zelle die Design- und Prozessverifizierung abgeschlossen. Das Unternehmen teilte dies am 30. Oktober über die Investorenplattform der Börse Shenzhen mit. Namen der Autobauer und Mustermengen nannte es nicht. Polymer-Elektrolyt statt Sulfid Die 20-Ah-Zelle namens Xin Bixiao soll eine Energiedichte von 400 Wh/kg erreichen. Sunwoda gibt mehr als 1.200 Zyklen bei einem äußeren Druck von unter einem Megapascal an. Die Zelle kombiniert eine 12 Mikrometer dünne Polymer-Komposit-Membran mit einer Siliziumanode. Zudem soll sie einen Hot-Box-Test bei 200 °C bestanden haben. Temperatur und Laderate der Zyklentests hat Sunwoda nicht genannt. Ergebnisse auf Zellebene sagen zudem wenig über das Verhalten einer kompletten Fahrzeugbatterie aus. Einige sulfidbasierte Feststoffdesigns benötigen dauerhaften äußeren Druck, damit ihre Komponenten in Kontakt bleiben. CATL setzt auf Sulfid-Chemie und hat sein Ziel einer Kleinserienfertigung ab 2027 kürzlich bekräftigt. Serienfertigung für 2026 bislang offen SEVB hat eine Feststoff-Pilotlinie mit einer jährlichen Auslegungskapazität von 0,2 GWh aufgebaut. Sunwoda hatte die Xin-Bixiao-Zelle im Oktober 2025 vorgestellt. Damals plante das Unternehmen für 2026 eine Serienfertigung mit einer Jahreskapazität von 1 GWh. Das aktuelle Update erwähnt einen solchen Produktionsstart nicht. Die Roadmap nennt nun eine sulfidbasierte Batterie für 2027 und eine Zelle mit mehr als 500 Wh/kg bis 2030. Quellen:https://carnewschina.com/2026/11/02/solid-state-battery-race-sunwoda-tests-polymer-cells-with-automakers-as-catl-targets-2027/https://autotechinsight.spglobal.com/news/5284714/sunwoda-unveils-polymer-based-solid-state-battery-cell-with-400-wh-kg-energy-density</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/03/sunwoda-laesst-polymerbasierte-feststoffzelle-mit-400-wh-kg-von-autobauern-testen/">Sunwoda lässt polymerbasierte Feststoffzelle mit 400 Wh/kg von Autobauern testen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Der chinesische Batteriehersteller Sunwoda lässt seine polymerbasierte Feststoffzelle von Autoherstellern prüfen. Laut der Tochter Sunwoda Electric Vehicle Battery (SEVB) hat die Zelle die Design- und Prozessverifizierung abgeschlossen. Das Unternehmen teilte dies am 30. Oktober über die Investorenplattform der Börse Shenzhen mit. Namen der Autobauer und Mustermengen nannte es nicht.</p>
+
+
+
+<p><strong>Polymer-Elektrolyt statt Sulfid</strong></p>
+
+
+
+<p>Die 20-Ah-Zelle namens Xin Bixiao soll eine Energiedichte von 400 Wh/kg erreichen. Sunwoda gibt mehr als 1.200 Zyklen bei einem äußeren Druck von unter einem Megapascal an. Die Zelle kombiniert eine 12 Mikrometer dünne Polymer-Komposit-Membran mit einer Siliziumanode. Zudem soll sie einen Hot-Box-Test bei 200 °C bestanden haben. Temperatur und Laderate der Zyklentests hat Sunwoda nicht genannt. Ergebnisse auf Zellebene sagen zudem wenig über das Verhalten einer kompletten Fahrzeugbatterie aus.</p>
+
+
+
+<p>Einige sulfidbasierte Feststoffdesigns benötigen dauerhaften äußeren Druck, damit ihre Komponenten in Kontakt bleiben. CATL setzt auf Sulfid-Chemie und hat sein Ziel einer Kleinserienfertigung ab 2027 kürzlich bekräftigt.</p>
+
+
+
+<p><strong>Serienfertigung für 2026 bislang offen</strong></p>
+
+
+
+<p>SEVB hat eine Feststoff-Pilotlinie mit einer jährlichen Auslegungskapazität von 0,2 GWh aufgebaut. Sunwoda hatte die Xin-Bixiao-Zelle im Oktober 2025 vorgestellt. Damals plante das Unternehmen für 2026 eine Serienfertigung mit einer Jahreskapazität von 1 GWh. Das aktuelle Update erwähnt einen solchen Produktionsstart nicht. Die Roadmap nennt nun eine sulfidbasierte Batterie für 2027 und eine Zelle mit mehr als 500 Wh/kg bis 2030.</p>
+
+
+
+<p><em>Quellen:</em><br><em><a href="https://carnewschina.com/2026/11/02/solid-state-battery-race-sunwoda-tests-polymer-cells-with-automakers-as-catl-targets-2027/" target="_blank" rel="noreferrer noopener">https://carnewschina.com/2026/11/02/solid-state-battery-race-sunwoda-tests-polymer-cells-with-automakers-as-catl-targets-2027/</a></em><br><em><a href="https://autotechinsight.spglobal.com/news/5284714/sunwoda-unveils-polymer-based-solid-state-battery-cell-with-400-wh-kg-energy-density" target="_blank" rel="noreferrer noopener">https://autotechinsight.spglobal.com/news/5284714/sunwoda-unveils-polymer-based-solid-state-battery-cell-with-400-wh-kg-energy-density</a></em></p>
+
+
+
+<p></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/03/sunwoda-laesst-polymerbasierte-feststoffzelle-mit-400-wh-kg-von-autobauern-testen/">Sunwoda lässt polymerbasierte Feststoffzelle mit 400 Wh/kg von Autobauern testen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>GAC-Batterietochter Inpow startet Packfertigung in Thailand</title>
+		<link>https://battery-news.de/2026/11/02/gac-batterietochter-inpow-startet-packfertigung-in-thailand/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieproduktion]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40182</guid>
+
+					<description><![CDATA[<p>Inpow Battery, die Batterietochter des chinesischen Autobauers GAC, hat die Produktion in einem Werk in Thailand aufgenommen. Am 29. Oktober lief am Standort in der Provinz Chonburi das erste Batteriepack vom Band. Es ist das erste Werk von Inpow außerhalb Chinas und GACs erste eigene Batteriepack-Fertigung im Ausland. Batteriepacks für GAC-Fahrzeuge in Südostasien Laut Inpow soll das Werk die Auslieferung von GAC-Elektroautos in Thailand und weiteren ASEAN-Märkten unterstützen. Nach eigenen Angaben hat das Unternehmen bislang mehr als 300.000 Batteriepacks ausgeliefert. Sie kommen unter anderem im Aion i60, Aion N60 und Aion UT zum Einsatz. Am thailändischen Standort werden Batteriepacks gefertigt. Ob dort auch Zellen produziert werden sollen, hat Inpow nicht mitgeteilt. Angaben zu Kapazität, Investitionssumme und Herkunft der Zellen fehlen ebenfalls. Insgesamt beläuft sich die Investition in Inpow auf 10,9 Milliarden Yuan (rund 1,62 Milliarden US-Dollar). Zudem will Inpow mit dem staatlichen thailändischen Energieversorger EGAT bei Elektrofahrzeugen, Energiespeichern und Energietechnik zusammenarbeiten. Laut Inpow strebt Thailand an, dass emissionsfreie Fahrzeuge bis 2030 30 % der Fahrzeugproduktion ausmachen. Batteriewerk folgt auf Fahrzeugwerk GAC Aion hatte im Juli 2024 in der Provinz Rayong sein erstes Fahrzeugwerk außerhalb Chinas eröffnet. Die Anfangskapazität liegt bei 50.000 Elektroautos pro Jahr, eine zweite Ausbaustufe soll sie verdoppeln. Im Jahr 2023 hatte GAC noch erklärt, in naher Zukunft keine Batterien in Thailand fertigen zu wollen. Quellen:https://cnevpost.com/2026/10/30/gac-inpow-starts-production-thailand-plant/https://asianews.network/chinas-ev-behemoth-announces-plan-to-build-factory-in-thailand/</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/02/gac-batterietochter-inpow-startet-packfertigung-in-thailand/">GAC-Batterietochter Inpow startet Packfertigung in Thailand</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Inpow Battery, die Batterietochter des chinesischen Autobauers GAC, hat die Produktion in einem Werk in Thailand aufgenommen. Am 29. Oktober lief am Standort in der Provinz Chonburi das erste Batteriepack vom Band. Es ist das erste Werk von Inpow außerhalb Chinas und GACs erste eigene Batteriepack-Fertigung im Ausland.</p>
+
+
+
+<p><strong>Batteriepacks für GAC-Fahrzeuge in Südostasien</strong></p>
+
+
+
+<p>Laut Inpow soll das Werk die Auslieferung von GAC-Elektroautos in Thailand und weiteren ASEAN-Märkten unterstützen. Nach eigenen Angaben hat das Unternehmen bislang mehr als 300.000 Batteriepacks ausgeliefert. Sie kommen unter anderem im Aion i60, Aion N60 und Aion UT zum Einsatz.</p>
+
+
+
+<p>Am thailändischen Standort werden Batteriepacks gefertigt. Ob dort auch Zellen produziert werden sollen, hat Inpow nicht mitgeteilt. Angaben zu Kapazität, Investitionssumme und Herkunft der Zellen fehlen ebenfalls. Insgesamt beläuft sich die Investition in Inpow auf 10,9 Milliarden Yuan (rund 1,62 Milliarden US-Dollar).</p>
+
+
+
+<p>Zudem will Inpow mit dem staatlichen thailändischen Energieversorger EGAT bei Elektrofahrzeugen, Energiespeichern und Energietechnik zusammenarbeiten. Laut Inpow strebt Thailand an, dass emissionsfreie Fahrzeuge bis 2030 30 % der Fahrzeugproduktion ausmachen.</p>
+
+
+
+<p><strong>Batteriewerk folgt auf Fahrzeugwerk</strong></p>
+
+
+
+<p>GAC Aion hatte im Juli 2024 in der Provinz Rayong sein erstes Fahrzeugwerk außerhalb Chinas eröffnet. Die Anfangskapazität liegt bei 50.000 Elektroautos pro Jahr, eine zweite Ausbaustufe soll sie verdoppeln. Im Jahr 2023 hatte GAC noch erklärt, in naher Zukunft keine Batterien in Thailand fertigen zu wollen.</p>
+
+
+
+<p><em>Quellen:<br><a href="https://cnevpost.com/2026/10/30/gac-inpow-starts-production-thailand-plant/" target="_blank" rel="noreferrer noopener">https://cnevpost.com/2026/10/30/gac-inpow-starts-production-thailand-plant/</a></em><br><em><a href="https://asianews.network/chinas-ev-behemoth-announces-plan-to-build-factory-in-thailand/" target="_blank" rel="noreferrer noopener">https://asianews.network/chinas-ev-behemoth-announces-plan-to-build-factory-in-thailand/</a></em></p>
+
+
+
+<p></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/02/gac-batterietochter-inpow-startet-packfertigung-in-thailand/">GAC-Batterietochter Inpow startet Packfertigung in Thailand</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Skellium entwickelt Lithium-Metall-Anoden aus der Schmelze</title>
+		<link>https://battery-news.de/2026/10/30/skellium-entwickelt-lithium-metall-anoden-aus-der-schmelze/</link>
+		
+		<dc:creator><![CDATA[Redaktion]]></dc:creator>
+		<pubDate>Fri, 30 Oct 2026 08:30:00 +0000</pubDate>
+				<category><![CDATA[Top Story]]></category>
+		<category><![CDATA[Top-Story]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40173</guid>
+
+					<description><![CDATA[<p>Skellium aus Aachen trägt Lithium flüssig direkt auf den Kupferableiter auf. Co-Gründer und CEO Gerrit Bockey über die Idee hinter dem Verfahren, die größte technische Hürde und den ersten Markt. Rund 3.860 mAh/g und das niedrigste Standardpotenzial aller Anodenmaterialien: Auf dem Papier bietet Lithium-Metall ideale Voraussetzungen als Anodenmaterial. In der Fabrik sieht das anders aus. Dünne Lithiumfolien sind teuer, empfindlich und nur mit großem Aufwand zu verarbeiten. Das Aachener Start-up Skellium, eine Ausgründung des Lehrstuhls PEM der RWTH Aachen, setzt deshalb auf flüssiges Lithium und hat es damit ins Finale der Made in Germany Awards in der Kategorie Energie geschafft. Ausschnitt aus dem Breaking-Lab-Video zu den Made in Germany Awards. Das ganze Video mit allen drei Finalisten gibt es auf YouTube. Das Interview Gerrit, wie kam dir die Idee zu Skellium? Ich komme aus der Produktionstechnik. Am PEM haben wir uns viel damit beschäftigt, wie man neue Zellkonzepte in die Serie bringt, und bei Lithium-Metall bin ich immer wieder an derselben Stelle hängen geblieben. Das Material ist da, aber die dünnen Folien, die man dafür braucht, sind teuer, schwer zu verarbeiten und kaum in großen Mengen verfügbar. Irgendwann stand die Frage im Raum: Warum walzen wir Lithium erst zu einer Folie und laminieren es dann wieder auf Kupfer, statt es direkt dort aufzutragen, wo es hingehört? Daraus ist der Schmelzprozess entstanden und am Ende Skellium. Was macht ihr anders als andere Ansätze für Lithium-Metall-Anoden? Es gibt im Wesentlichen zwei etablierte Wege. Man kann Lithium extrudieren und walzen, oder man scheidet es im Vakuum aus der Gasphase ab. Beim Walzen wird es mit sinkender Dicke immer schwieriger und teurer. Die Abscheidung aus der Gasphase liefert sehr dünne Schichten, braucht aber Vakuum und ist vergleichsweise langsam. Wir tragen Lithium flüssig auf die Kupferfolie auf, unter Schutzgas und ohne Vakuum. Damit erreichen wir Schichtdicken von 3 bis 50 Mikrometern direkt auf dem Ableiter. Unser Ziel ist, den Prozess in Bahnbreite und Geschwindigkeit weiter zu skalieren. Welche Vorteile habt ihr bereits nachgewiesen? In unseren Vergleichen wird Lithium homogener abgeschieden und wieder aufgelöst als bei den untersuchten Referenzmaterialien. Zudem erzeugen wir 3D-Strukturen direkt im Prozess. Solche Strukturen können das Dendritenwachstum hemmen. In Tests mit esterbasierten Elektrolyten konnten dadurch bis zu 200 Prozent mehr Zyklen erreicht werden. Was war die größte technische Hürde? Die Temperaturführung. Die Schicht soll genau dann erstarren, wenn sie die gewünschte Dicke hat, und das reproduzierbar über die gesamte Bahn. Wir haben viel Zeit investiert, um die Temperaturzonen in der Anlage sauber voneinander zu trennen und präzise zu regeln. Dazu kommt die Atmosphäre: Flüssiges Lithium reagiert nicht nur mit Sauerstoff und Feuchtigkeit, sondern auch mit Stickstoff. Deshalb läuft bei uns alles unter Schutzgas. Das klingt nach Details, aber genau daran entscheidet sich, ob man eine gute Schicht bekommt oder nicht. Wer braucht eure Anode zuerst? Kurzfristig sehen wir den größten Bedarf bei der Prelithiierung. Silizium- und Graphitanoden verlieren im ersten Zyklus Lithium, und eine definierte Lithiumschicht kann diesen Verlust ausgleichen. Das ist ein Markt, den es heute schon gibt. Mittelfristig geht es um echte Lithium-Metall-Anoden für Festkörper- und Lithium-Schwefel-Zellen. Dafür braucht es genau die dünnen, gleichmäßigen Schichten, an denen wir arbeiten. Wo steht ihr heute, und was ist der nächste Meilenstein? Wir beschichten heute auf unserer eigenen Anlage in Aachen und stellen Muster für Tests her. Dabei produzieren wir Anoden aus Lithium und Lithiumlegierungen mit bis zu 5 m/min unter Schutzgas und können die Oberflächenschicht anpassen. Der nächste Schritt ist die nächste Anlagengeneration, mit der wir beidseitig beschichten und größere Mengen herstellen können. Wir bauen dabei modular und erweitern die Anlage mit jedem Meilenstein, statt jedes Mal von vorne anzufangen. So können wir schnell auf das reagieren, was wir aus den Zellen lernen. Und was bedeuten euch die Made in Germany Awards? Für ein Thema wie unseres sind sie eine besondere Chance. Breaking Lab erklärt Technik so, dass sie auch Menschen außerhalb der Branche verstehen, und das passiert bei Batterieproduktion selten. So stimmen Sie ab Über Skellium Skellium ist ein Spin-off des Lehrstuhls PEM der RWTH Aachen. Das Unternehmen entwickelt Lithium-Metall-Elektroden und die zugehörige Produktionstechnik für Batteriezellen der nächsten Generation.</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/10/30/skellium-entwickelt-lithium-metall-anoden-aus-der-schmelze/">Skellium entwickelt Lithium-Metall-Anoden aus der Schmelze</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Skellium aus Aachen trägt Lithium flüssig direkt auf den Kupferableiter auf. Co-Gründer und CEO Gerrit Bockey über die Idee hinter dem Verfahren, die größte technische Hürde und den ersten Markt.</strong> <br><br>Rund 3.860 mAh/g und das niedrigste Standardpotenzial aller Anodenmaterialien: Auf dem Papier bietet Lithium-Metall ideale Voraussetzungen als Anodenmaterial. In der Fabrik sieht das anders aus. Dünne Lithiumfolien sind teuer, empfindlich und nur mit großem Aufwand zu verarbeiten. Das Aachener Start-up Skellium, eine Ausgründung des Lehrstuhls PEM der RWTH Aachen, setzt deshalb auf flüssiges Lithium und hat es damit ins Finale der Made in Germany Awards in der Kategorie Energie geschafft.</p>
+
+
+
+<div style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;">
+  <iframe
+    src="https://www.youtube.com/embed/7htQ-I8eiKg?start=223&#038;end=550&#038;cc_load_policy=1&#038;cc_lang_pref=en&#038;hl=en&#038;rel=0"
+    title="Skellium bei Breaking Lab (German audio, English subtitles)"
+    style="position:absolute;inset:0;width:100%;height:100%;border:0;"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen></iframe>
+</div>
+
+
+
+<p><em>Ausschnitt aus dem Breaking-Lab-Video zu den Made in Germany Awards. Das ganze Video mit allen drei Finalisten gibt es </em><a href="https://www.youtube.com/watch?v=7htQ-I8eiKg"><em>auf YouTube</em></a><em>.</em></p>
+
+
+
+<h2 class="wp-block-heading">Das Interview</h2>
+
+
+
+<p></p>
+
+
+
+<p><strong>Gerrit, wie kam dir die Idee zu Skellium?</strong></p>
+
+
+
+<p>Ich komme aus der Produktionstechnik. Am PEM haben wir uns viel damit beschäftigt, wie man neue Zellkonzepte in die Serie bringt, und bei Lithium-Metall bin ich immer wieder an derselben Stelle hängen geblieben. Das Material ist da, aber die dünnen Folien, die man dafür braucht, sind teuer, schwer zu verarbeiten und kaum in großen Mengen verfügbar. Irgendwann stand die Frage im Raum: Warum walzen wir Lithium erst zu einer Folie und laminieren es dann wieder auf Kupfer, statt es direkt dort aufzutragen, wo es hingehört? Daraus ist der Schmelzprozess entstanden und am Ende Skellium.</p>
+
+
+
+<p><strong>Was macht ihr anders als andere Ansätze für Lithium-Metall-Anoden?</strong></p>
+
+
+
+<p>Es gibt im Wesentlichen zwei etablierte Wege. Man kann Lithium extrudieren und walzen, oder man scheidet es im Vakuum aus der Gasphase ab. Beim Walzen wird es mit sinkender Dicke immer schwieriger und teurer. Die Abscheidung aus der Gasphase liefert sehr dünne Schichten, braucht aber Vakuum und ist vergleichsweise langsam. Wir tragen Lithium flüssig auf die Kupferfolie auf, unter Schutzgas und ohne Vakuum. Damit erreichen wir Schichtdicken von 3 bis 50 Mikrometern direkt auf dem Ableiter. Unser Ziel ist, den Prozess in Bahnbreite und Geschwindigkeit weiter zu skalieren.</p>
+
+
+
+<p><strong>Welche Vorteile habt ihr bereits nachgewiesen?</strong></p>
+
+
+
+<p>In unseren Vergleichen wird Lithium homogener abgeschieden und wieder aufgelöst als bei den untersuchten Referenzmaterialien. Zudem erzeugen wir 3D-Strukturen direkt im Prozess. Solche Strukturen können das Dendritenwachstum hemmen. In Tests mit esterbasierten Elektrolyten konnten dadurch bis zu 200 Prozent mehr Zyklen erreicht werden.</p>
+
+
+
+<p><strong>Was war die größte technische Hürde?</strong></p>
+
+
+
+<p>Die Temperaturführung. Die Schicht soll genau dann erstarren, wenn sie die gewünschte Dicke hat, und das reproduzierbar über die gesamte Bahn. Wir haben viel Zeit investiert, um die Temperaturzonen in der Anlage sauber voneinander zu trennen und präzise zu regeln. Dazu kommt die Atmosphäre: Flüssiges Lithium reagiert nicht nur mit Sauerstoff und Feuchtigkeit, sondern auch mit Stickstoff. Deshalb läuft bei uns alles unter Schutzgas. Das klingt nach Details, aber genau daran entscheidet sich, ob man eine gute Schicht bekommt oder nicht.</p>
+
+
+
+<p><strong>Wer braucht eure Anode zuerst?</strong></p>
+
+
+
+<p>Kurzfristig sehen wir den größten Bedarf bei der Prelithiierung. Silizium- und Graphitanoden verlieren im ersten Zyklus Lithium, und eine definierte Lithiumschicht kann diesen Verlust ausgleichen. Das ist ein Markt, den es heute schon gibt. Mittelfristig geht es um echte Lithium-Metall-Anoden für Festkörper- und Lithium-Schwefel-Zellen. Dafür braucht es genau die dünnen, gleichmäßigen Schichten, an denen wir arbeiten.</p>
+
+
+
+<p><strong>Wo steht ihr heute, und was ist der nächste Meilenstein?</strong></p>
+
+
+
+<p>Wir beschichten heute auf unserer eigenen Anlage in Aachen und stellen Muster für Tests her. Dabei produzieren wir Anoden aus Lithium und Lithiumlegierungen mit bis zu 5 m/min unter Schutzgas und können die Oberflächenschicht anpassen. Der nächste Schritt ist die nächste Anlagengeneration, mit der wir beidseitig beschichten und größere Mengen herstellen können. Wir bauen dabei modular und erweitern die Anlage mit jedem Meilenstein, statt jedes Mal von vorne anzufangen. So können wir schnell auf das reagieren, was wir aus den Zellen lernen.</p>
+
+
+
+<p><strong>Und was bedeuten euch die Made in Germany Awards?</strong></p>
+
+
+
+<p>Für ein Thema wie unseres sind sie eine besondere Chance. Breaking Lab erklärt Technik so, dass sie auch Menschen außerhalb der Branche verstehen, und das passiert bei Batterieproduktion selten.</p>
+
+
+
+<h2 class="wp-block-heading">So stimmen Sie ab</h2>
+
+
+
+<ul class="wp-block-list">
+<li>Link: <a href="https://www.madeingermanyawards.de/voting/energie/">madeingermanyawards.de/voting/energie</a></li>
+
+
+
+<li>Zeitraum: bis 10. November 2026, 23:59 Uhr</li>
+
+
+
+<li>Wichtig: Link in der Bestätigungsmail anklicken, sonst zählt die Stimme nicht</li>
+
+
+
+<li>Gewinner: 23. November 2026, 20 Uhr, live bei Breaking Lab auf YouTube</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Über Skellium</h2>
+
+
+
+<p>Skellium ist ein Spin-off des Lehrstuhls PEM der RWTH Aachen. Das Unternehmen entwickelt Lithium-Metall-Elektroden und die zugehörige Produktionstechnik für Batteriezellen der nächsten Generation.</p>
+
+
+
+<p><a id="_msocom_1"></a></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/10/30/skellium-entwickelt-lithium-metall-anoden-aus-der-schmelze/">Skellium entwickelt Lithium-Metall-Anoden aus der Schmelze</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
