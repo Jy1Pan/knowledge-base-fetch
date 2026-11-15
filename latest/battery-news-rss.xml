@@ -12,7 +12,7 @@
 	<atom:link href="https://battery-news.de/feed/" rel="self" type="application/rss+xml" />
 	<link>https://battery-news.de/</link>
 	<description>Die Newsbroker-Webseite zum Thema Lithium-Ionen-Batterien in Deutschland</description>
-	<lastBuildDate>Wed, 11 Nov 2026 19:17:25 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Nov 2026 21:31:40 +0000</lastBuildDate>
 	<language>de</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,119 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Elektrodenfertigung: Sensorik erkennt kleinste Schäden an Schneidwerkzeugen</title>
+		<link>https://battery-news.de/2026/11/13/elektrodenfertigung-sensorik-erkennt-kleinste-schaeden-an-schneidwerkzeugen/</link>
+		
+		<dc:creator><![CDATA[Redaktion]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2026 08:30:00 +0000</pubDate>
+				<category><![CDATA[Top Story]]></category>
+		<category><![CDATA[Top-Story]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40236</guid>
+
+					<description><![CDATA[<p>Beschädigte Schneidwerkzeuge können die Qualität von Batterieelektroden beeinträchtigen und im schlimmsten Fall Sicherheitsrisiken verursachen. Die Marposs GmbH hat eine sensorbasierte Lösung entwickelt, die Werkzeugschäden während des laufenden Schneidprozesses in Echtzeit erfasst. Das System ist nach Unternehmensangaben bereits bei einem deutschen Batteriezellhersteller in der Produktion im Einsatz. Beim Schneiden von Batterieelektroden kommt es auf hohe Präzision an. Sowohl beim Längsschneiden der beschichteten Bahnen (Slitting) als auch beim Ausschneiden der Ableiterfahnen (Notching) können selbst kleine Beschädigungen der Schneidwerkzeuge die Qualität der Elektrodenkanten beeinträchtigen. Verschlissene oder stumpfe Messer können Grate, lose Partikel oder eine Delamination verursachen, bei der sich die Aktivmaterialschicht vom metallischen Trägermaterial löst. Im ungünstigsten Fall können solche Defekte zu internen Kurzschlüssen und thermischen Zwischenfällen in der fertigen Zelle führen. Andreas Leichsenring von der Marposs GmbH erklärt, bei Einsatz der Schneidwerkzeuge über viele Kilometer Schnittlänge seien Verschleiß, leichte Beschädigungen und auch Ausbrüche unvermeidlich. Werkzeugzustand kontinuierlich überwachen Bislang werden Schneidwerkzeuge in der Elektrodenfertigung häufig nach festen Intervallen gewechselt oder durch manuelle Stichproben unter dem Mikroskop kontrolliert. Ein beschädigtes Messer kann dadurch bis zur nächsten Kontrolle unentdeckt bleiben und fehlerhafte Elektroden produzieren. Marposs setzt mit einer optischen Echtzeit-Sensorik direkt am Schneidprozess an. Die Sensoren werden im Bereich der Schneide – typischerweise im Halter oder Antrieb des Messers – installiert. Nach Angaben des Unternehmens erkennt das System Ausbrüche an den Schneidkanten ab einer Größe von zehn Mikrometern zuverlässig. Um prozessbedingte Fehlalarme zu reduzieren, berücksichtigt die Auswertung unterschiedliche Bahngeschwindigkeiten und Messerdrehzahlen durch ein Mapping. Wird ein mit dem Kunden festgelegter Grenzwert überschritten, kann das System nach Unternehmensangaben die Anlage innerhalb weniger Millisekunden stoppen oder eine Warnmeldung ausgeben. Praxiseinsatz bei einem deutschen Zellhersteller Die Lösung ist nach Angaben von Marposs serienreif und bereits in der Anoden- und Kathodenfertigung eines deutschen Batteriezellherstellers im Einsatz. Dort wurde sie in bestehende Linien integriert. Für die Nachrüstung wurden die Messerhalterungen geringfügig angepasst. Die kompakte, U-förmige Bauform der Sensoren soll die Integration in bestehende Anlagen erleichtern. Wie Michael Unterste von Marposs erläutert, wurden die zunächst in Testläufen gesammelten Daten verschiedener Werkzeuge analysiert und mit Ergebnissen manueller sowie optisch-mikroskopischer Untersuchungen verglichen. Auf dieser Grundlage wurde die Datenauswertung an den konkreten Anwendungsfall angepasst. Nach Angaben von Marposs ist außerdem eine Anbindung an bestehende Manufacturing Execution Systems (MES) möglich. Damit lassen sich die Überwachungsdaten in die Produktionssteuerung und Qualitätssicherung einbeziehen. Wirtschaftlicher Nutzen und Einsatz im Anlagenhochlauf Die zustandsabhängige Überwachung soll Werkzeugwechsel stärker am tatsächlichen Zustand der Schneidkanten ausrichten. So lässt sich vermeiden, dass Messer pauschal zu früh ausgetauscht oder trotz Beschädigungen weiterverwendet werden. Marposs berichtet aus der praktischen Anwendung von weniger Ausschuss und einem geringeren personellen Aufwand für manuelle Sichtprüfungen. Zellhersteller können die erfassten Daten außerdem nutzen, um die Standzeiten verschiedener Messer zu vergleichen und Rückschlüsse auf die Qualität der Werkzeuglieferanten zu ziehen. Ein weiteres Einsatzszenario sieht Marposs im Anlagenhochlauf: Werden die Sensoren bereits während der Erprobung beim Maschinenbauer genutzt, können die Messdaten bei der Auswahl geeigneter Schneidwerkzeuge und Schnittparameter helfen. Nach Einschätzung von Michael Unterste lässt sich damit bereits vor der Übergabe der Maschine eine Grundlage für einen sicheren Hochlauf der Fertigung schaffen.</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/13/elektrodenfertigung-sensorik-erkennt-kleinste-schaeden-an-schneidwerkzeugen/">Elektrodenfertigung: Sensorik erkennt kleinste Schäden an Schneidwerkzeugen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Beschädigte Schneidwerkzeuge können die Qualität von Batterieelektroden beeinträchtigen und im schlimmsten Fall Sicherheitsrisiken verursachen. Die Marposs GmbH hat eine sensorbasierte Lösung entwickelt, die Werkzeugschäden während des laufenden Schneidprozesses in Echtzeit erfasst. Das System ist nach Unternehmensangaben bereits bei einem deutschen Batteriezellhersteller in der Produktion im Einsatz.</p>
+
+
+
+<p>Beim Schneiden von Batterieelektroden kommt es auf hohe Präzision an. Sowohl beim Längsschneiden der beschichteten Bahnen (Slitting) als auch beim Ausschneiden der Ableiterfahnen (Notching) können selbst kleine Beschädigungen der Schneidwerkzeuge die Qualität der Elektrodenkanten beeinträchtigen. Verschlissene oder stumpfe Messer können Grate, lose Partikel oder eine Delamination verursachen, bei der sich die Aktivmaterialschicht vom metallischen Trägermaterial löst. Im ungünstigsten Fall können solche Defekte zu internen Kurzschlüssen und thermischen Zwischenfällen in der fertigen Zelle führen.</p>
+
+
+
+<p>Andreas Leichsenring von der Marposs GmbH erklärt, bei Einsatz der Schneidwerkzeuge über viele Kilometer Schnittlänge seien Verschleiß, leichte Beschädigungen und auch Ausbrüche unvermeidlich.</p>
+
+
+
+<p><strong>Werkzeugzustand kontinuierlich überwachen</strong></p>
+
+
+
+<p>Bislang werden Schneidwerkzeuge in der Elektrodenfertigung häufig nach festen Intervallen gewechselt oder durch manuelle Stichproben unter dem Mikroskop kontrolliert. Ein beschädigtes Messer kann dadurch bis zur nächsten Kontrolle unentdeckt bleiben und fehlerhafte Elektroden produzieren.</p>
+
+
+
+<p>Marposs setzt mit einer optischen Echtzeit-Sensorik direkt am Schneidprozess an. Die Sensoren werden im Bereich der Schneide – typischerweise im Halter oder Antrieb des Messers – installiert. Nach Angaben des Unternehmens erkennt das System Ausbrüche an den Schneidkanten ab einer Größe von zehn Mikrometern zuverlässig. Um prozessbedingte Fehlalarme zu reduzieren, berücksichtigt die Auswertung unterschiedliche Bahngeschwindigkeiten und Messerdrehzahlen durch ein Mapping. Wird ein mit dem Kunden festgelegter Grenzwert überschritten, kann das System nach Unternehmensangaben die Anlage innerhalb weniger Millisekunden stoppen oder eine Warnmeldung ausgeben.</p>
+
+
+
+<p><strong>Praxiseinsatz bei einem deutschen Zellhersteller</strong></p>
+
+
+
+<p>Die Lösung ist nach Angaben von Marposs serienreif und bereits in der Anoden- und Kathodenfertigung eines deutschen Batteriezellherstellers im Einsatz. Dort wurde sie in bestehende Linien integriert. Für die Nachrüstung wurden die Messerhalterungen geringfügig angepasst. Die kompakte, U-förmige Bauform der Sensoren soll die Integration in bestehende Anlagen erleichtern.</p>
+
+
+
+<p>Wie Michael Unterste von Marposs erläutert, wurden die zunächst in Testläufen gesammelten Daten verschiedener Werkzeuge analysiert und mit Ergebnissen manueller sowie optisch-mikroskopischer Untersuchungen verglichen. Auf dieser Grundlage wurde die Datenauswertung an den konkreten Anwendungsfall angepasst.</p>
+
+
+
+<p>Nach Angaben von Marposs ist außerdem eine Anbindung an bestehende Manufacturing Execution Systems (MES) möglich. Damit lassen sich die Überwachungsdaten in die Produktionssteuerung und Qualitätssicherung einbeziehen.</p>
+
+
+
+<p><strong>Wirtschaftlicher Nutzen und Einsatz im Anlagenhochlauf</strong></p>
+
+
+
+<p>Die zustandsabhängige Überwachung soll Werkzeugwechsel stärker am tatsächlichen Zustand der Schneidkanten ausrichten. So lässt sich vermeiden, dass Messer pauschal zu früh ausgetauscht oder trotz Beschädigungen weiterverwendet werden. Marposs berichtet aus der praktischen Anwendung von weniger Ausschuss und einem geringeren personellen Aufwand für manuelle Sichtprüfungen. Zellhersteller können die erfassten Daten außerdem nutzen, um die Standzeiten verschiedener Messer zu vergleichen und Rückschlüsse auf die Qualität der Werkzeuglieferanten zu ziehen.</p>
+
+
+
+<p>Ein weiteres Einsatzszenario sieht Marposs im Anlagenhochlauf: Werden die Sensoren bereits während der Erprobung beim Maschinenbauer genutzt, können die Messdaten bei der Auswahl geeigneter Schneidwerkzeuge und Schnittparameter helfen. Nach Einschätzung von Michael Unterste lässt sich damit bereits vor der Übergabe der Maschine eine Grundlage für einen sicheren Hochlauf der Fertigung schaffen.</p>
+
+
+
+<p></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/13/elektrodenfertigung-sensorik-erkennt-kleinste-schaeden-an-schneidwerkzeugen/">Elektrodenfertigung: Sensorik erkennt kleinste Schäden an Schneidwerkzeugen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DICP verbessert kostengünstige Eisen-Mangan-Kathode für Natrium-Ionen-Batterien</title>
+		<link>https://battery-news.de/2026/11/13/dicp-verbessert-kostenguenstige-eisen-mangan-kathode-fuer-natrium-ionen-batterien/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batteriekomponenten]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40258</guid>
+
+					<description><![CDATA[<p>Forschende des Dalian Institute of Chemical Physics (DICP) der Chinesischen Akademie der Wissenschaften haben eine Eisen-Mangan-Phosphat-Kathode für Natrium-Ionen-Batterien verbessert. Shanghai Metals Market berichtete am 11. November über die Ergebnisse. Das Team ging gegen strukturelle Schäden vor, die Sauerstoffleerstellen im Material verursachen. Laut dem Bericht kombinierte es dafür eine gezielte Anpassung der Orbitale mit Ladungskompensation. Höhere Effizienz und 1.000 Zyklen Die Coulomb-Effizienz im ersten Zyklus soll von 87,0 % auf 97,0 % gestiegen sein. Die Kathode erreicht eine reversible spezifische Kapazität von 125,7 mAh/g und auf Materialebene eine spezifische Energie von 421,1 Wh/kg. Pouch-Zellen mit Hartkohlenstoff-Anoden behielten nach 1.000 Zyklen bei 1C laut Bericht 93,6 % ihrer Kapazität. Eine Fachzeitschrift nennt der Bericht nicht, ebenso wenig Zellgröße, Testtemperatur oder Kosten. Werte auf Materialebene lassen sich zudem nicht direkt auf die Energiedichte der Zelle übertragen. Pilotlinie und Industriepartner Laut dem Bericht wurde eine Pilotlinie für 100 Tonnen des Kathodenmaterials aufgebaut und in Betrieb genommen. Das Team hat Industrialisierungspartnerschaften mit der China Sodium Battery Group und weiteren Unternehmen geschlossen. Im Dezember 2025 hatte das DICP ein Natrium-Ionen-Speichersystem der 100-kWh-Klasse mit Phosphat-Kathoden entwickelt und ans Netz angeschlossen. Quellen:https://news.metal.com/newscontent/QKNZAYBFOQ7GMMXSOJ3IOELMP67RAIKSQAAXJGY-sodium-ion-cas-dicp-achieves-breakthrough-in-low-cost-fe-mn-phosphate-cathodehttps://www.cas.cn/cg/zh/202512/t20251211_5092167.shtml</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/13/dicp-verbessert-kostenguenstige-eisen-mangan-kathode-fuer-natrium-ionen-batterien/">DICP verbessert kostengünstige Eisen-Mangan-Kathode für Natrium-Ionen-Batterien</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Forschende des Dalian Institute of Chemical Physics (DICP) der Chinesischen Akademie der Wissenschaften haben eine Eisen-Mangan-Phosphat-Kathode für Natrium-Ionen-Batterien verbessert. Shanghai Metals Market berichtete am 11. November über die Ergebnisse. Das Team ging gegen strukturelle Schäden vor, die Sauerstoffleerstellen im Material verursachen. Laut dem Bericht kombinierte es dafür eine gezielte Anpassung der Orbitale mit Ladungskompensation.</p>
+
+
+
+<p><strong>Höhere Effizienz und 1.000 Zyklen</strong></p>
+
+
+
+<p>Die Coulomb-Effizienz im ersten Zyklus soll von 87,0 % auf 97,0 % gestiegen sein. Die Kathode erreicht eine reversible spezifische Kapazität von 125,7 mAh/g und auf Materialebene eine spezifische Energie von 421,1 Wh/kg. Pouch-Zellen mit Hartkohlenstoff-Anoden behielten nach 1.000 Zyklen bei 1C laut Bericht 93,6 % ihrer Kapazität. Eine Fachzeitschrift nennt der Bericht nicht, ebenso wenig Zellgröße, Testtemperatur oder Kosten. Werte auf Materialebene lassen sich zudem nicht direkt auf die Energiedichte der Zelle übertragen.</p>
+
+
+
+<p><strong>Pilotlinie und Industriepartner</strong></p>
+
+
+
+<p>Laut dem Bericht wurde eine Pilotlinie für 100 Tonnen des Kathodenmaterials aufgebaut und in Betrieb genommen. Das Team hat Industrialisierungspartnerschaften mit der China Sodium Battery Group und weiteren Unternehmen geschlossen. Im Dezember 2025 hatte das DICP ein Natrium-Ionen-Speichersystem der 100-kWh-Klasse mit Phosphat-Kathoden entwickelt und ans Netz angeschlossen.</p>
+
+
+
+<p><em>Quellen:<br><a href="https://news.metal.com/newscontent/QKNZAYBFOQ7GMMXSOJ3IOELMP67RAIKSQAAXJGY-sodium-ion-cas-dicp-achieves-breakthrough-in-low-cost-fe-mn-phosphate-cathode" target="_blank" rel="noreferrer noopener">https://news.metal.com/newscontent/QKNZAYBFOQ7GMMXSOJ3IOELMP67RAIKSQAAXJGY-sodium-ion-cas-dicp-achieves-breakthrough-in-low-cost-fe-mn-phosphate-cathode</a><br><a href="https://www.cas.cn/cg/zh/202512/t20251211_5092167.shtml" target="_blank" rel="noreferrer noopener">https://www.cas.cn/cg/zh/202512/t20251211_5092167.shtml</a></em></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/13/dicp-verbessert-kostenguenstige-eisen-mangan-kathode-fuer-natrium-ionen-batterien/">DICP verbessert kostengünstige Eisen-Mangan-Kathode für Natrium-Ionen-Batterien</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Factorial erreicht 450 Wh/kg mit Feststoffzellen für die Luftfahrt</title>
 		<link>https://battery-news.de/2026/11/12/factorial-erreicht-450-wh-kg-mit-feststoffzellen-fuer-die-luftfahrt/</link>
 		
@@ -375,106 +488,6 @@
 
 <p></p>
 <p>Der Beitrag <a href="https://battery-news.de/2026/11/04/catl-entwickelt-batterie-fuer-blue-vectors-evtol-skyla-v30/">CATL entwickelt Batterie für Blue Vectors eVTOL Skyla V30</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Sunwoda lässt polymerbasierte Feststoffzelle mit 400 Wh/kg von Autobauern testen</title>
-		<link>https://battery-news.de/2026/11/03/sunwoda-laesst-polymerbasierte-feststoffzelle-mit-400-wh-kg-von-autobauern-testen/</link>
-		
-		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 07:00:00 +0000</pubDate>
-				<category><![CDATA[Batterieentwicklung]]></category>
-		<guid isPermaLink="false">https://battery-news.de/?p=40201</guid>
-
-					<description><![CDATA[<p>Der chinesische Batteriehersteller Sunwoda lässt seine polymerbasierte Feststoffzelle von Autoherstellern prüfen. Laut der Tochter Sunwoda Electric Vehicle Battery (SEVB) hat die Zelle die Design- und Prozessverifizierung abgeschlossen. Das Unternehmen teilte dies am 30. Oktober über die Investorenplattform der Börse Shenzhen mit. Namen der Autobauer und Mustermengen nannte es nicht. Polymer-Elektrolyt statt Sulfid Die 20-Ah-Zelle namens Xin Bixiao soll eine Energiedichte von 400 Wh/kg erreichen. Sunwoda gibt mehr als 1.200 Zyklen bei einem äußeren Druck von unter einem Megapascal an. Die Zelle kombiniert eine 12 Mikrometer dünne Polymer-Komposit-Membran mit einer Siliziumanode. Zudem soll sie einen Hot-Box-Test bei 200 °C bestanden haben. Temperatur und Laderate der Zyklentests hat Sunwoda nicht genannt. Ergebnisse auf Zellebene sagen zudem wenig über das Verhalten einer kompletten Fahrzeugbatterie aus. Einige sulfidbasierte Feststoffdesigns benötigen dauerhaften äußeren Druck, damit ihre Komponenten in Kontakt bleiben. CATL setzt auf Sulfid-Chemie und hat sein Ziel einer Kleinserienfertigung ab 2027 kürzlich bekräftigt. Serienfertigung für 2026 bislang offen SEVB hat eine Feststoff-Pilotlinie mit einer jährlichen Auslegungskapazität von 0,2 GWh aufgebaut. Sunwoda hatte die Xin-Bixiao-Zelle im Oktober 2025 vorgestellt. Damals plante das Unternehmen für 2026 eine Serienfertigung mit einer Jahreskapazität von 1 GWh. Das aktuelle Update erwähnt einen solchen Produktionsstart nicht. Die Roadmap nennt nun eine sulfidbasierte Batterie für 2027 und eine Zelle mit mehr als 500 Wh/kg bis 2030. Quellen:https://carnewschina.com/2026/11/02/solid-state-battery-race-sunwoda-tests-polymer-cells-with-automakers-as-catl-targets-2027/https://autotechinsight.spglobal.com/news/5284714/sunwoda-unveils-polymer-based-solid-state-battery-cell-with-400-wh-kg-energy-density</p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/11/03/sunwoda-laesst-polymerbasierte-feststoffzelle-mit-400-wh-kg-von-autobauern-testen/">Sunwoda lässt polymerbasierte Feststoffzelle mit 400 Wh/kg von Autobauern testen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Der chinesische Batteriehersteller Sunwoda lässt seine polymerbasierte Feststoffzelle von Autoherstellern prüfen. Laut der Tochter Sunwoda Electric Vehicle Battery (SEVB) hat die Zelle die Design- und Prozessverifizierung abgeschlossen. Das Unternehmen teilte dies am 30. Oktober über die Investorenplattform der Börse Shenzhen mit. Namen der Autobauer und Mustermengen nannte es nicht.</p>
-
-
-
-<p><strong>Polymer-Elektrolyt statt Sulfid</strong></p>
-
-
-
-<p>Die 20-Ah-Zelle namens Xin Bixiao soll eine Energiedichte von 400 Wh/kg erreichen. Sunwoda gibt mehr als 1.200 Zyklen bei einem äußeren Druck von unter einem Megapascal an. Die Zelle kombiniert eine 12 Mikrometer dünne Polymer-Komposit-Membran mit einer Siliziumanode. Zudem soll sie einen Hot-Box-Test bei 200 °C bestanden haben. Temperatur und Laderate der Zyklentests hat Sunwoda nicht genannt. Ergebnisse auf Zellebene sagen zudem wenig über das Verhalten einer kompletten Fahrzeugbatterie aus.</p>
-
-
-
-<p>Einige sulfidbasierte Feststoffdesigns benötigen dauerhaften äußeren Druck, damit ihre Komponenten in Kontakt bleiben. CATL setzt auf Sulfid-Chemie und hat sein Ziel einer Kleinserienfertigung ab 2027 kürzlich bekräftigt.</p>
-
-
-
-<p><strong>Serienfertigung für 2026 bislang offen</strong></p>
-
-
-
-<p>SEVB hat eine Feststoff-Pilotlinie mit einer jährlichen Auslegungskapazität von 0,2 GWh aufgebaut. Sunwoda hatte die Xin-Bixiao-Zelle im Oktober 2025 vorgestellt. Damals plante das Unternehmen für 2026 eine Serienfertigung mit einer Jahreskapazität von 1 GWh. Das aktuelle Update erwähnt einen solchen Produktionsstart nicht. Die Roadmap nennt nun eine sulfidbasierte Batterie für 2027 und eine Zelle mit mehr als 500 Wh/kg bis 2030.</p>
-
-
-
-<p><em>Quellen:</em><br><em><a href="https://carnewschina.com/2026/11/02/solid-state-battery-race-sunwoda-tests-polymer-cells-with-automakers-as-catl-targets-2027/" target="_blank" rel="noreferrer noopener">https://carnewschina.com/2026/11/02/solid-state-battery-race-sunwoda-tests-polymer-cells-with-automakers-as-catl-targets-2027/</a></em><br><em><a href="https://autotechinsight.spglobal.com/news/5284714/sunwoda-unveils-polymer-based-solid-state-battery-cell-with-400-wh-kg-energy-density" target="_blank" rel="noreferrer noopener">https://autotechinsight.spglobal.com/news/5284714/sunwoda-unveils-polymer-based-solid-state-battery-cell-with-400-wh-kg-energy-density</a></em></p>
-
-
-
-<p></p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/11/03/sunwoda-laesst-polymerbasierte-feststoffzelle-mit-400-wh-kg-von-autobauern-testen/">Sunwoda lässt polymerbasierte Feststoffzelle mit 400 Wh/kg von Autobauern testen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>GAC-Batterietochter Inpow startet Packfertigung in Thailand</title>
-		<link>https://battery-news.de/2026/11/02/gac-batterietochter-inpow-startet-packfertigung-in-thailand/</link>
-		
-		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
-		<pubDate>Mon, 02 Nov 2026 07:00:00 +0000</pubDate>
-				<category><![CDATA[Batterieproduktion]]></category>
-		<guid isPermaLink="false">https://battery-news.de/?p=40182</guid>
-
-					<description><![CDATA[<p>Inpow Battery, die Batterietochter des chinesischen Autobauers GAC, hat die Produktion in einem Werk in Thailand aufgenommen. Am 29. Oktober lief am Standort in der Provinz Chonburi das erste Batteriepack vom Band. Es ist das erste Werk von Inpow außerhalb Chinas und GACs erste eigene Batteriepack-Fertigung im Ausland. Batteriepacks für GAC-Fahrzeuge in Südostasien Laut Inpow soll das Werk die Auslieferung von GAC-Elektroautos in Thailand und weiteren ASEAN-Märkten unterstützen. Nach eigenen Angaben hat das Unternehmen bislang mehr als 300.000 Batteriepacks ausgeliefert. Sie kommen unter anderem im Aion i60, Aion N60 und Aion UT zum Einsatz. Am thailändischen Standort werden Batteriepacks gefertigt. Ob dort auch Zellen produziert werden sollen, hat Inpow nicht mitgeteilt. Angaben zu Kapazität, Investitionssumme und Herkunft der Zellen fehlen ebenfalls. Insgesamt beläuft sich die Investition in Inpow auf 10,9 Milliarden Yuan (rund 1,62 Milliarden US-Dollar). Zudem will Inpow mit dem staatlichen thailändischen Energieversorger EGAT bei Elektrofahrzeugen, Energiespeichern und Energietechnik zusammenarbeiten. Laut Inpow strebt Thailand an, dass emissionsfreie Fahrzeuge bis 2030 30 % der Fahrzeugproduktion ausmachen. Batteriewerk folgt auf Fahrzeugwerk GAC Aion hatte im Juli 2024 in der Provinz Rayong sein erstes Fahrzeugwerk außerhalb Chinas eröffnet. Die Anfangskapazität liegt bei 50.000 Elektroautos pro Jahr, eine zweite Ausbaustufe soll sie verdoppeln. Im Jahr 2023 hatte GAC noch erklärt, in naher Zukunft keine Batterien in Thailand fertigen zu wollen. Quellen:https://cnevpost.com/2026/10/30/gac-inpow-starts-production-thailand-plant/https://asianews.network/chinas-ev-behemoth-announces-plan-to-build-factory-in-thailand/</p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/11/02/gac-batterietochter-inpow-startet-packfertigung-in-thailand/">GAC-Batterietochter Inpow startet Packfertigung in Thailand</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Inpow Battery, die Batterietochter des chinesischen Autobauers GAC, hat die Produktion in einem Werk in Thailand aufgenommen. Am 29. Oktober lief am Standort in der Provinz Chonburi das erste Batteriepack vom Band. Es ist das erste Werk von Inpow außerhalb Chinas und GACs erste eigene Batteriepack-Fertigung im Ausland.</p>
-
-
-
-<p><strong>Batteriepacks für GAC-Fahrzeuge in Südostasien</strong></p>
-
-
-
-<p>Laut Inpow soll das Werk die Auslieferung von GAC-Elektroautos in Thailand und weiteren ASEAN-Märkten unterstützen. Nach eigenen Angaben hat das Unternehmen bislang mehr als 300.000 Batteriepacks ausgeliefert. Sie kommen unter anderem im Aion i60, Aion N60 und Aion UT zum Einsatz.</p>
-
-
-
-<p>Am thailändischen Standort werden Batteriepacks gefertigt. Ob dort auch Zellen produziert werden sollen, hat Inpow nicht mitgeteilt. Angaben zu Kapazität, Investitionssumme und Herkunft der Zellen fehlen ebenfalls. Insgesamt beläuft sich die Investition in Inpow auf 10,9 Milliarden Yuan (rund 1,62 Milliarden US-Dollar).</p>
-
-
-
-<p>Zudem will Inpow mit dem staatlichen thailändischen Energieversorger EGAT bei Elektrofahrzeugen, Energiespeichern und Energietechnik zusammenarbeiten. Laut Inpow strebt Thailand an, dass emissionsfreie Fahrzeuge bis 2030 30 % der Fahrzeugproduktion ausmachen.</p>
-
-
-
-<p><strong>Batteriewerk folgt auf Fahrzeugwerk</strong></p>
-
-
-
-<p>GAC Aion hatte im Juli 2024 in der Provinz Rayong sein erstes Fahrzeugwerk außerhalb Chinas eröffnet. Die Anfangskapazität liegt bei 50.000 Elektroautos pro Jahr, eine zweite Ausbaustufe soll sie verdoppeln. Im Jahr 2023 hatte GAC noch erklärt, in naher Zukunft keine Batterien in Thailand fertigen zu wollen.</p>
-
-
-
-<p><em>Quellen:<br><a href="https://cnevpost.com/2026/10/30/gac-inpow-starts-production-thailand-plant/" target="_blank" rel="noreferrer noopener">https://cnevpost.com/2026/10/30/gac-inpow-starts-production-thailand-plant/</a></em><br><em><a href="https://asianews.network/chinas-ev-behemoth-announces-plan-to-build-factory-in-thailand/" target="_blank" rel="noreferrer noopener">https://asianews.network/chinas-ev-behemoth-announces-plan-to-build-factory-in-thailand/</a></em></p>
-
-
-
-<p></p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/11/02/gac-batterietochter-inpow-startet-packfertigung-in-thailand/">GAC-Batterietochter Inpow startet Packfertigung in Thailand</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
 ]]></content:encoded>
 					
 		
