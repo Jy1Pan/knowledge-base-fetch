@@ -12,7 +12,7 @@
 	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.pv-magazine-australia.com/</link>
 	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
-	<lastBuildDate>Fri, 13 Nov 2026 06:03:34 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Nov 2026 00:03:52 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,137 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>New glass-to-glass PV module design enables rapid delamination</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/16/new-glass-to-glass-pv-module-design-enables-rapid-delamination/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/16/new-glass-to-glass-pv-module-design-enables-rapid-delamination/#respond</comments>
+		
+		<dc:creator><![CDATA[Lior Kahana]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2026 00:03:00 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[cells & modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18677</guid>
+
+					<description><![CDATA[An international research team has developed an induction heating-assisted method to separate end-of-life solar modules in seconds. The process enables the recovery of up to 99.8% of module mass, including glass, silicon cells and encapsulants.]]></description>
+										<content:encoded><![CDATA[
+<p>An international research team, including scientists from the University of New South Wales (UNSW), has developed an induction heating-assisted delamination method for end-of-life PV modules to improve recyclability and facilitate the recovery of individual components.</p>
+
+
+
+<p>“We designed a glass-glass photovoltaic module that is easier to take apart at the end of its life,” corresponding author Yonghwan Lee told <strong>pv magazine</strong>. “Using induction heating, we rapidly separated the layers of our test module and recovered 99.8% of its original mass, including the glass, the silicon cell and the polymer encapsulant.”</p>
+
+
+
+<p>Lee said the team was surprised by how quickly and cleanly the silicon cell separated using the new technique and modified module design.</p>
+
+
+
+<p>“In our fastest test, the module layers separated in just five seconds. We recovered the cell intact, with no visible polymer residue on its surface, without having to remove the entire encapsulant layer first,” he said.</p>
+
+
+
+<p>The researchers first used Comsol Multiphysics simulations to investigate induction heating in passivated emitter and rear contact (PERC) cells and heat transfer through the surrounding module layers. They examined the effects of operating frequency, coil current, coil-to-cell distance and electrode thickness on heating.</p>
+
+
+
+<p>They then produced simplified samples comprising a 2 cm × 2 cm PERC cell laminated onto tempered glass with ethylene vinyl acetate (EVA) encapsulant, leaving the rear of the cell exposed. They tested the method using a water-cooled copper induction coil operating at 270 kHz to 300 kHz to rapidly heat the cell’s metal contacts, triggering localised EVA decomposition at the cell-encapsulant interface. The samples were suspended with the cells facing downward to enable gravity-assisted separation.</p>
+
+
+
+<p>The tests showed that induction heating created a temperature difference of more than 200 C between the cell and glass at a coil current of 100 A, enabling localised EVA decomposition at the cell interface. With gravity-assisted separation, the cells detached in approximately 14 seconds.</p>
+
+
+
+<p>Microscopy revealed no significant polymer residue or structural damage on the recovered cell surfaces, while spectroscopy indicated that the remaining EVA largely retained its chemical structure.</p>
+
+
+
+<p>The researchers then fabricated modified glass-glass mini-modules incorporating a single PERC cell, EVA encapsulant and two tempered glass sheets measuring 5 cm × 8 cm and 1 mm thick. Polytetrafluoroethylene (PTFE) release films, each with a central opening measuring 1.8 cm × 1.8 cm, were inserted between the cell and EVA on both sides to allow gases generated during heating to escape. The researchers suspended the mini-modules in a custom support jig and applied induction heating at coil currents of 100 A, 150 A and 200 A.</p>
+
+
+
+<p>The modified mini-modules separated in 18.6 seconds at a coil current of 100 A, compared with 8.3 seconds at 150 A and 5.4 seconds at 200 A. The process recovered 99.8% of the total module mass, with negligible losses of glass, cells and release films.</p>
+
+
+
+<p>After delamination, the researchers mechanically scraped the EVA from the glass, resulting in less than 10% encapsulant mass loss. Analysis of the recovered cells showed no significant surface residue.</p>
+
+
+
+<p>“For us, this points to a way to recycle modules quickly and brings the goal of 100% material recovery closer,” Lee said. “Our next step is to apply the process to full-size commercial PV panels and scale it up for use in commercial recycling operations.”</p>
+
+
+
+<p>The researchers presented their findings in “<a href="https://www.nature.com/articles/s43246-026-01403-7">Inductive heating for photovoltaic module recycling and near-complete component recovery</a>,” which was published in <em>Communications Materials</em>. The research team included scientists from South Korea’s <a href="https://www.pv-magazine.com/2025/06/17/new-study-confirms-sensitivity-of-heterojunction-solar-cells-to-soldering-flux/">Korea Electronics Technology Institute (KETI)</a> and Australia’s <a href="https://www.pv-magazine.com/2026/10/28/unsw-study-finds-bushfire-risks-to-pv-assets-extend-far-beyond-direct-fire-damage/">UNSW</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/16/new-glass-to-glass-pv-module-design-enables-rapid-delamination/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DMEGC launches steel-framed solar module series</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/16/dmegc-launches-steel-framed-solar-module-series/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/16/dmegc-launches-steel-framed-solar-module-series/#respond</comments>
+		
+		<dc:creator><![CDATA[Emiliano Bellini]]></dc:creator>
+		<pubDate>Sun, 15 Nov 2026 22:40:40 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18678</guid>
+
+					<description><![CDATA[The new series of n-type bifacial solar modules features a steel frame with an S-shaped cross-section. The modules deliver 640 W to 665 W of power output and offer a bifaciality factor of up to 85%, with the new frame design reportedly reducing rear-side shading by 76%.]]></description>
+										<content:encoded><![CDATA[
+<p>Chinese solar manufacturer <a href="https://www.pv-magazine.com/2024/11/21/dmegc-solar-energizes-940-mw-solar-fishery-project/" target="_blank" rel="noreferrer noopener">DMEGC</a> has unveiled a new series of bifacial glass-glass PV modules featuring a steel frame designed to improve mechanical reliability and rear-side power generation.</p>
+
+
+
+<p>“The zinc-aluminum-magnesium (Zn-Al-Mg) coated steel used in the frames has nearly twice the tensile strength of conventional aluminum alloys, enabling the modules to withstand snow loads of up to 6,000 Pa and wind loads of up to 5,000 Pa when installed with suitable mounting systems,” a spokesperson from the company told <strong>pv magazine</strong>.</p>
+
+
+
+<p>DMEGC said the material also has a lower coefficient of thermal expansion, compared with aluminum and glass. The closer thermal expansion characteristics of steel and glass could reduce mechanical stress and the risk of cell microcracks during temperature fluctuations, the company said.</p>
+
+
+
+<p>The frame features an S-shaped cross-section that reportedly reduces vertical shading on the rear side of the module by 76% compared with conventional frame designs. DMEGC said the geometry increases the unshaded rear-side area by 3.6%, resulting in a theoretical improvement in bifaciality of approximately 2.8%.</p>
+
+
+
+<p>The new Infinity RT 3.0 series comprises six models with power outputs ranging from 640 W to 665 W and efficiencies between 23.7% and 24.6%.</p>
+
+
+
+<p>The DMxxxG12RT-B66HSW 640~665W modules are based on 132 n-type monocrystalline half-cut cells and measure 2,382 mm × 1,134 mm × 30 mm, with a weight of 33.3 kg. They feature 2 mm heat-strengthened glass on both sides and are designed for utility-scale PV applications.</p>
+
+
+
+<p>The modules achieve a bifaciality factor of up to 85%, according to the manufacturer. DMEGC’s energy yield simulations indicate annual electricity generation of 2,078 kWh/kWp, corresponding to a 0.6% increase in generation revenue compared with conventional modules under the simulated conditions.</p>
+
+
+
+<p>The modules feature a maximum system voltage of 1,500 V and an operating temperature range of -40 C to 85 C. Their temperature coefficient is -0.28%/C, while the nominal module operating temperature is 42 C.</p>
+
+
+
+<p>DMEGC said the products have undergone salt mist and ammonia corrosion testing, as well as extended stress testing.</p>
+
+
+
+<p>The manufacturer offers a 15-year product warranty and a 30-year linear power output warranty. It guarantees no more than 1% degradation in the first year and a maximum annual degradation rate of 0.35% thereafter, with a guaranteed power output of 88.85% after 30 years.</p>
+
+
+
+<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/16/dmegc-launches-steel-framed-solar-module-series/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Rural Australian communities are hosting the clean energy boom. Are they getting a fair say?</title>
 		<link>https://www.pv-magazine-australia.com/2026/11/13/rural-australian-communities-are-hosting-the-clean-energy-boom-are-they-getting-a-fair-say/</link>
 					<comments>https://www.pv-magazine-australia.com/2026/11/13/rural-australian-communities-are-hosting-the-clean-energy-boom-are-they-getting-a-fair-say/#respond</comments>
@@ -732,95 +863,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/12/ammonia-corrosion-resistance-testing-preps-panels-for-4-7-mw-agrivoltaic-project/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Ausgrid energy mapping tool backs C&#038;I community power network trial</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/12/ausgrid-energy-mapping-tool-backs-ci-community-power-network-trial/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/12/ausgrid-energy-mapping-tool-backs-ci-community-power-network-trial/#respond</comments>
-		
-		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
-		<pubDate>Wed, 11 Nov 2026 23:50:25 +0000</pubDate>
-				<category><![CDATA[Technology & Products]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<category><![CDATA[Modules]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18636</guid>
-
-					<description><![CDATA[Ausgrid has released a digital energy mapping tool to complement its Community Power Network trial and shows where new solar, battery and energy projects would work best, based on detailed connection and curtailment data.]]></description>
-										<content:encoded><![CDATA[
-<p>Sydney-headquartered electricity distributor Ausgrid has released a digital energy mapping tool to complement its <a href="https://www.pv-magazine.com/2026/09/18/ausgrid-trials-ci-rooftop-solar-initiative-to-share-energy-benefits-with-renters/" target="_blank" rel="noreferrer noopener">Community Power Network</a> (CPN) trial and shows where new solar, battery and energy projects would work best, based on detailed connection and curtailment data.</p>
-
-
-
-<p>The data includes information on where there is capacity in the electricity network to connect more solar and batteries, areas where network limitations may exist, and locations where future energy projects may be suitable, Ausgrid said.</p>
-
-
-
-<p>The CPN aims to turn <a href="https://www.pv-magazine-australia.com/2026/10/14/beyond-peak-shaving-are-we-selling-commercial-solar-and-batteries-short/" target="_blank" rel="noreferrer noopener">commercial and industrial</a> (C&amp;I) rooftop solar surplus into an opportunity to share energy with consumers who don’t have solar access, such as neighbourhood renters and apartment dwellers, with the new tool pinpointing optimum opportunities for businesses deploying rooftop solar or batteries.</p>
-
-
-
-<p>The spatial energy planning <a href="https://portal.spatial.nsw.gov.au/portal/apps/experiencebuilder/experience/?id=0a4390e1a1dc42719bb97bbca7d8464d" target="_blank" rel="noreferrer noopener">data tool</a> covers three locations associated with the CPN and includes the Mascot-Botany and Northern Central Coast regions, and Caringbah in south Sydney.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="510" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Image-Spatial-Energy-Plan-1024x510.png" alt="" class="wp-image-150489" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Image-Spatial-Energy-Plan-1024x510.png 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Image-Spatial-Energy-Plan-300x149.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Image-Spatial-Energy-Plan-768x383.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Image-Spatial-Energy-Plan-1536x765.png 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Image-Spatial-Energy-Plan-260x130.png 260w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Image-Spatial-Energy-Plan.png 1913w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Ausgrid Group External Affairs and Strategy Executive Tim Jarratt said the CPN trial explores how large C&amp;I rooftops can be used to generate more solar energy, supported by community batteries, while sharing the financial benefits with households and businesses across local communities.</p>
-
-
-
-<p>&#8220;As part of the trial, we&#8217;re making detailed information about the local electricity network publicly available to give businesses and energy providers a clearer picture of where new solar, battery and energy projects could work best,” Jarratt said.</p>
-
-
-
-<p>&#8220;In Caringbah, the data will help the market to explore and test its own ideas. It’s a great opportunity to see what different approaches emerge and what we can learn from them.”</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/12/ausgrid-energy-mapping-tool-backs-ci-community-power-network-trial/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>200 MWh BESS begins commercial operation in Western Australia</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/12/200-mwh-bess-begins-commercial-operation-in-western-australia/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/12/200-mwh-bess-begins-commercial-operation-in-western-australia/#respond</comments>
-		
-		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
-		<pubDate>Wed, 11 Nov 2026 22:11:20 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18635</guid>
-
-					<description><![CDATA[Alinta Enery has begun commercial operation of its 100 MW / 200 MWh Wagerup battery energy storage system in Western Australia, supporting the integration of renewable energy into the SWIS.]]></description>
-										<content:encoded><![CDATA[
-<p>Singapore-headquartered gentailer Alinta Enery, a 100% owned subsidiary of Sembcorp Industries, has begun commercial operation of its 100 MW / 200 MWh Wagerup battery energy storage system (BESS) in Western Australia (WA).</p>
-
-
-
-<p>Supporting the integration of renewable energy into the South West Interconnected System (SWIS), the project is located approximately 120 kilometres south of Perth, adjacent to Alinta&#8217;s 392 MW gas-fired Wagerup Power Station.</p>
-
-
-
-<p>Alinta Energy Merchant Energy Executive Director Ken Woolley said challenging site conditions required significant redesign and remediation, including raising the battery platform and constructing substantial retaining infrastructure.</p>
-
-
-
-<p>&#8220;Despite the complexity, the team delivered an immaculate site and a critical piece of infrastructure for Western Australia,&#8221; Woolley said.</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="804" height="452" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-084858.png" alt="" class="wp-image-150485" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-084858.png 804w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-084858-300x169.png 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-084858-768x432.png 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-084858-260x146.png 260w" sizes="auto, (max-width: 804px) 100vw, 804px" /></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/12/200-mwh-bess-begins-commercial-operation-in-western-australia/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
