@@ -50,17 +50,8 @@ jobs:
       - name: fetch all due sources
         run: python fetch.py
 
-      # 三方分工里 API 那一环。只对今天变了的源调模型，没变的与第一次抓到的零花费。
-      # 密钥只从仓库 Secrets 读，不进任何文件。没设密钥时它记一行 skipped_no_key 然后正常结束。
-      # continue-on-error：digest 出任何意外都不能挡住下一步把 fetch 的结果提交上去，
-      # 与 fetch.py「一个源失败不让整次运行失败」是同一条原则。
-      - name: digest changed sources with the API
-        continue-on-error: true
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          KB_MODEL: ${{ vars.KB_MODEL }}
-          KB_MAX_CALLS: ${{ vars.KB_MAX_CALLS || '25' }}
-        run: python digest.py
+      # 2026-11-16 起停用 digest（API 预读那一环），由 JyPan 当面决定。
+      # digest.py 与 digest/ 下的历史结果保留在仓库里不删，要恢复就把这一步加回来并重设 ANTHROPIC_API_KEY。
 
       - name: commit if anything changed
         run: |
@@ -84,6 +75,5 @@ jobs:
           print(r['plan_date'], f"{r['ok']}/{r['total']}", 'fetch-weekly' if w else 'fetch', 'digest/latest-weekly.json' if w else 'digest/latest.json')
           PY
           )
-          DG=$(LATEST="$LATEST" python -c "import json,os;d=json.load(open(os.environ['LATEST']));print(f\"{d['candidates_verified']}/{d['candidates']} {d['run']['status']}\")" 2>/dev/null || echo "n/a")
-          git commit -m "${PREFIX} ${PLAN}: ok ${OK}; digest ${DG}"
+          git commit -m "${PREFIX} ${PLAN}: ok ${OK}"
           git push
