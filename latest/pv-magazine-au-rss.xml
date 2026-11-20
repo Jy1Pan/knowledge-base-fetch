@@ -12,13 +12,13 @@
 	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.pv-magazine-australia.com/</link>
 	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
-	<lastBuildDate>Thu, 19 Nov 2026 01:20:12 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Nov 2026 21:43:08 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.12</generator>
+	<generator>https://wordpress.org/?v=6.8.13</generator>
 
 <image>
 	<url>https://www.pv-magazine-australia.com/wp-content/uploads/2024/12/cropped-fav-australia-32x32.png</url>
@@ -28,6 +28,465 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cutting home battery subsidy shapes as false economics</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/20/cutting-home-battery-subsidy-shapes-as-false-economics/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/20/cutting-home-battery-subsidy-shapes-as-false-economics/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2026 01:22:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18784</guid>
+
+					<description><![CDATA[Australia’s home battery boom has become a victim of its own success. More than 600,000 batteries have now been installed under the federal government’s Cheaper Home Batteries Program. This extraordinary uptake has surpassed the expectations of the government’s program modelers. With the allocated funds being utilised sooner than expected, the Cheaper Home Batteries Program is now under scrutiny as the government looks for savings.
+]]></description>
+										<content:encoded><![CDATA[
+<p>Focusing only on the cost of the subsidy misses an important part of the equation: home batteries are not simply subsidised appliances sitting in individual homes. At sufficient scale, they are part of Australia’s energy infrastructure.</p>
+
+
+
+<p>Energy Minister Chris Bowen recently said batteries are “putting downward pressure on prices for everyone, whether or not you have a battery.” The Australian Energy Market Operator’s (AEMO) data points the same way: NEM wholesale prices fell 47% year-on-year in the June 2026 quarter, with lower evening peaks a key driver. Western Australia’s wholesale prices rose over the same period as coal availability tightened, which is exactly why flexible capacity there, including more than 1,000 MWh of household storage, matters.</p>
+
+
+
+<h3 class="wp-block-heading">A battery in a home can still benefit the grid</h3>
+
+
+
+<p>Nationally, households with batteries are collectively reducing evening demand by hundreds of MW. Importantly, much of that benefit occurs without anyone actively controlling those batteries.</p>
+
+
+
+<p>Electricity networks and generators have to be capable of supplying the periods when demand is highest, even if those peaks occur for relatively short periods. If distributed batteries can reduce those peaks, they can reduce the need for additional generation, storage and network capacity over time.</p>
+
+
+
+<p>When the government subsidises a battery, it isn&#8217;t only helping a household buy an energy product. It is helping build distributed energy capacity.</p>
+
+
+
+<p>Seen through that lens, simply cutting the program because uptake has exceeded expectations risks being a false economy.</p>
+
+
+
+<p>The program faces a fair question: is it simply subsidising households that could have bought a battery anyway? The Opposition has argued as much. Rewiring Australia compared every postcode and found batteries are being installed in line with each income band’s share of households. About 81% are in postcodes with a median household income of $60,000 to $120,000, almost exactly the share of households living there. Higher-income postcodes have installed slightly more than their share, but not dramatically.</p>
+
+
+
+<p>Plico’s data fits: our busiest postcodes since 1 July 2025 are the Perth suburbs of Armadale, Cockburn and Wanneroo, outer-suburban growth corridors. About half of our customers have used the WA no-interest loan, which is only available to households with a combined income under $210,000.</p>
+
+
+
+<p>The sharper divide is housing type: postcodes dominated by owner-occupied houses have installed about 6.5 times as many batteries per household as those with mostly strata and rentals. That is an argument for widening access, not winding the program back.</p>
+
+
+
+<h3 class="wp-block-heading">The bigger opportunity is coordination</h3>
+
+
+
+<p>A battery that can respond to the needs of the electricity system is potentially much more valuable. That is the purpose of a virtual power plant (VPP).</p>
+
+
+
+<p>A VPP coordinates thousands of individual batteries so they can operate, when needed, more like a single power station responding collectively to periods of high demand, excess solar generation or other conditions in the electricity market.</p>
+
+
+
+<p>Western Australia has already recognised this. Participation in a VPP is a requirement of the WA Residential Battery Scheme, which provides rebates of up to $1,300 for Synergy customers and $3,800 for Horizon Power customers on top of the federal incentive.</p>
+
+
+
+<p>Rather than asking whether Australia can afford to keep subsidising batteries, we should be asking how we extract greater public value from the batteries taxpayers are helping households install.</p>
+
+
+
+<p>There is a reasonable argument that an open-ended subsidy cannot continue indefinitely.</p>
+
+
+
+<p>But there is a significant difference between gradually reducing support as the market matures and withdrawing support before we have captured the system-wide benefits that drove the policy in the first place.</p>
+
+
+
+<p>A better approach would be to increasingly connect the subsidy to the capability of batteries to support the grid. That doesn&#8217;t necessarily mean compelling householders to hand control of their battery to an energy company whenever it wants it.</p>
+
+
+
+<p>Customers need to understand how their battery will be used, how much capacity remains available for their own needs and what they receive in return for participating.</p>
+
+
+
+<p>The taxpayer helps a household overcome the upfront cost of a battery, the household receives lower energy costs and greater energy independence, and the electricity system gains flexible capacity that can be called on when it is most valuable.</p>
+
+
+
+<p>The next stage of the market needs to be about performance as well as installation.</p>
+
+
+
+<p>The objective should not be to maximise the number of batteries registered to a VPP, but to maximise the amount of useful, reliable and consumer-supported flexible capacity available to the energy system.</p>
+
+
+
+<p>The extraordinary response to the Cheaper Home Batteries Program suggests consumers are ready to participate. Now policy needs to move to the next phase.</p>
+
+
+
+<p>The question shouldn&#8217;t be whether the success of the program means we can afford to cut it, rather it should focus on how we turn that success into an energy resource that benefits everybody.</p>
+
+
+
+<p>That is an opportunity worth being taken seriously by those decision-makers who are now getting the wobbles.</p>
+
+
+
+<p><em>Author: Robbie Campbell, Chief Executive Officer, <a href="https://www.plicoenergy.com.au/wa">Plico</a></em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/20/cutting-home-battery-subsidy-shapes-as-false-economics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>UNSW researcher wins international award for pioneering PV work</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/20/unsw-researcher-wins-international-award-for-pioneering-pv-work/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/20/unsw-researcher-wins-international-award-for-pioneering-pv-work/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2026 00:06:00 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[cells & modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18793</guid>
+
+					<description><![CDATA[UNSW solar researcher Xiaojing Hao has received one of the world’s most prestigious awards for engineers and scientists in recognition of her research and technological contributions to solar energy conversion.]]></description>
+										<content:encoded><![CDATA[
+<p>University of New South Wales (UNSW)&nbsp;Scientia Associate Professor Xiaojing Hao, a pioneer in the field of thin-film PV, has been recognised on the international stage as the winner of the Hamakawa Award&nbsp;in recognition of her breakthroughs in developing the next generation of solar energy cells.</p>
+
+
+
+<p>The Hamakawa Award honours outstanding contributions to PV research and technological accomplishment. Hao, who has established herself as a world leader in the field of PV technology through the creation of four different thin-film technologies, was presented with the award during the World Conference on PV Energy Conversion staged in South Korea last week.</p>
+
+
+
+<p>Hao’s record-breaking research focuses on the development of low-cost, high-efficiency thin-film and tandem solar cells, with a focus on emerging PV materials and scalable device engineering.</p>
+
+
+
+<p>Since joining the field as a PhD student in 2006, Hao is credited with driving four different thin-film PV technologies to world-record status, including last month achieving a certified stabilised power conversion efficiency of 23.5% for a 30 x 30cm <a href="https://www.pv-magazine-australia.com/2026/10/07/unsw-researchers-achieve-23-5-efficiency-record-for-large-scale-perovskite-pv-submodule/">perovskite submodule</a>. Earlier this year she was part of a team that achieved a certified power conversion efficiency with solar cells made from <a href="https://www.pv-magazine-australia.com/2026/01/20/unsw-team-sets-efficiency-record-for-emerging-solar-cell-material/">antimony chalcogenide</a>, an emerging material regarded as a strong candidate for next-generation solar technology.</p>
+
+
+
+<p>Hao said she is proud of her team’s work and now hopes to see the next-generation PV technologies she is developing move from the laboratory into fabrication and real-world applications.</p>
+
+
+
+<p>“My ambition is to help advance silicon-based tandem solar cells, accelerate the transition to more efficient and sustainable energy technologies, and contribute to global net-zero goals and industrial decarbonisation,” she said.</p>
+
+
+
+<p>“This is an incredibly exciting field with the potential to reshape how the world generates and uses energy. We need curious, creative and ambitious students who want to tackle challenges that matter.”</p>
+
+
+
+<p>Hao is the first Australian PV scientist to receive the Hamakawa Award and was nominated for the honour by UNSW Scientia Professor <a href="https://www.pv-magazine-australia.com/2025/10/21/australian-solar-pioneer-wins-top-uk-engineering-prize/">Martin Green</a> who cited not only her significant research achievements but also her leadership in the field.</p>
+
+
+
+<p>“Xiaojing has greatly surpassed the award criteria by developing not one, but undoubtedly uniquely, four different thin-film PV technologies to world record status,” Green said in the submission.</p>
+
+
+
+<p>“She has demonstrated outstanding international leadership in the ongoing development of these technologies.”</p>
+
+
+
+<p>“She has made an important and internationally recognised contribution to the development of the global PV sector and helped define pathways to the future.”</p>
+
+
+
+<p>The Hamakawa award was established in 2014 as part of the World Conference on PV Energy Conversion. The award is not given every year.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/20/unsw-researcher-wins-international-award-for-pioneering-pv-work/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Indonesia could reach 96.7 GW of solar by 2029 with policy reforms</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/20/indonesia-could-reach-96-7-gw-of-solar-by-2029-with-policy-reforms/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/20/indonesia-could-reach-96-7-gw-of-solar-by-2029-with-policy-reforms/#respond</comments>
+		
+		<dc:creator><![CDATA[Patrick Jowett]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 23:21:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Residential]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18787</guid>
+
+					<description><![CDATA[IESR says Indonesia could achieve most of its 100 GW of solar by 2029 target through coordinated utility-scale procurement, rooftop PV deployment, diesel replacement and rural electrification, but warns regulatory and grid barriers need to be addressed.]]></description>
+										<content:encoded><![CDATA[
+<p>Indonesia’s cumulative installed solar capacity reached 1.59 GW as of the first quarter of 2026 (Q1 2026), according to the latest report from the Institute for Essential Services Reform (IESR), a Jakarta-based think tank. </p>
+
+
+
+<p>IESR’s <a href="https://iesr.or.id/pustaka/indonesia-solar-energy-outlook-2027/" target="_blank" rel="noreferrer noopener">Indonesia Solar Energy Outlook 2027</a> says the figure is equivalent to about 1.5% of Indonesia’s power generation capacity and 0.3% of electricity production.</p>
+
+
+
+<p>Rooftop PV currently accounts for the largest share of installed capacity, standing at 0.9 GW as of Q1 2026. Utility-scale solar accounted for 0.33 GW, captive solar for 0.3 GW and installations in remote areas for around 0.06 GW.</p>
+
+
+
+<p>With the country passing the 1 GW solar milestone <a href="https://www.pv-magazine.com/2026/02/04/indonesias-solar-capacity-reaches-1-49-gw/" target="_blank" rel="noreferrer noopener">in 2025</a>, IESR said the current growth rate is “far behind the government’s ambition to make solar power one of the backbones of the national energy system”, as set out in the country’s <a href="https://www.pv-magazine.com/2026/07/30/indonesia-signals-start-of-100-gw-solar-initiative/" target="_blank" rel="noreferrer noopener">100 GW solar power program</a> which President Prabowo Subianto has set a target of <a href="https://www.pv-magazine.com/2026/08/26/indonesia-aims-for-100-gw-solar-target-by-2029/" target="_blank" rel="noreferrer noopener">achieving by 2029</a>.</p>
+
+
+
+<p>The program officially launched in August with a first phase of 14 projects totaling about 5.2 GW, but only 526 MW of this capacity currently have targeted completion dates, IESR’s report reveals.</p>
+
+
+
+<p>The think tank adds that deployments are currently held back by regulatory gaps, procurement uncertainty and limited grid access.</p>
+
+
+
+<p>In a statement sent to <strong>pv magazine</strong>, IESR CEO Fabby Tumiwa said the 100 GW ambition needs to be reflected in updates to Indonesia’s 2025-2034 electricity supply business plan (RUPTL), with greater emphasis on utility-scale PV and battery energy storage systems (BESS), diesel replacement with solar-plus-storage and rooftop PV deployment.</p>
+
+
+
+<p>IESR’s modelling suggests Indonesia could reach 96.7 GW of solar capacity by 2029 if development proceeds through multiple channels simultaneously.&nbsp;</p>
+
+
+
+<p>The report says about 8 GW is already planned through RUPTL and <a href="https://www.pv-magazine.com/2026/05/05/indonesia-tenders-1-2-gw-of-solar/" target="_blank" rel="noreferrer noopener">Mentari GigaOne</a> procurements, while a further 56 GW could come through procurements by Indonesia’s state-owned electric utility PLN. It suggests the remaining 33 GW could be developed through rooftop PV, diesel replacement, rural electrification, captive solar and other distributed applications.</p>
+
+
+
+<p>IESR said five enablers that must move together – demand, rooftop access, procurement, grid and supply chain – will determine whether the 100 GW scales.</p>
+
+
+
+<p>Under a high-electrification scenario, Indonesia’s electricity demand could be around 160 TWh higher in 2035 than under a business-as-usual scenario, according to figures from the report. Electrification of transport, industry, cooling, cooking and data centres, alongside potential electricity exports, could help create additional demand for solar generation.</p>
+
+
+
+<p>IESR also suggests rooftop solar quotas be determined according to grid hosting capacity at the substation level, rather than through the current quota system, which it said limits deployment.</p>
+
+
+
+<p>For utility-scale projects, the report recommends more transparent procurement schedules and reverse auctions. Projects are frequently tendered individually without a clear timetable, making it harder for developers, lenders and suppliers to prepare, IESR said.</p>
+
+
+
+<p>Grid and storage investment will also need to keep pace. Indonesia’s 2025-2034 RUPTL includes 42.6 GW of renewable energy and 10.3 GW of energy storage, but some transmission infrastructure needed to integrate solar is not scheduled until 2030-2034. IESR’s report recommends regulatory changes and incentives to encourage investment in storage.</p>
+
+
+
+<p>In the report, Tumiwa notes that Indonesia’s domestic solar supply chain is rising faster than demand. Solar module production capacity reached 27 GW per year in 2026, although the report notes more than half of it needs further verification due to relabelling allegations, while cell capacity now stands at 14.3 GW.</p>
+
+
+
+<p>It said that after 98.2% of Indonesia’s solar module exports went to the United States in 2025, US preliminary duties of about 104% in February 2026 cut Indonesian exports to the US by about 98%, from a peak of 2.2 GW in November 2025 to 34 MW in April 2026. Final duties of up to 268% followed in September 2026</p>
+
+
+
+<p>IESR said the 100 GW program “could provide a market anchor [for the solar supply chain] if accompanied by consistent policy and project certainty.&#8221;</p>
+
+
+
+<p>The 100 GW target must also be explicitly incorporated into revisions of the National Electricity General Plan (RUKN) and RUPTL, IESR added, with defined procurement channels, grid requirements, distributed solar roles and legal frameworks for project ownership and financing.</p>
+
+
+
+<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/20/indonesia-could-reach-96-7-gw-of-solar-by-2029-with-policy-reforms/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Longi presents 25.2%-efficient solar module with triple-protection design</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/20/longi-presents-25-2-efficient-solar-module-with-triple-protection-design/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/20/longi-presents-25-2-efficient-solar-module-with-triple-protection-design/#respond</comments>
+		
+		<dc:creator><![CDATA[Vincent Shaw]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 22:04:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18786</guid>
+
+					<description><![CDATA[Longi’s new Hi-MO X10 module features a triple-protection design to mitigate hotspots, electrical arcing, and microcracks in C&#38;I rooftop installations. The company said it combined cell-level hotspot suppression, laser-welded junction boxes, and low-temperature welding to improve module reliability.]]></description>
+										<content:encoded><![CDATA[
+<p>Chinese PV manufacturer <a href="https://www.pv-magazine.com/2026/07/15/longi-sets-new-world-record-with-35-5-efficient-perovskite-silicon-tandem-cell/">Longi</a> launched its Hi-MO X10 Full-Screen Triple-Protection PV module on Nov. 17 at an industry event in Qingdao, China. The module features a front-side light-receiving area ratio of 98.58%, the highest the company has achieved in a commercial product.</p>
+
+
+
+<p>The module retains the standard 2,382 mm × 1,134 mm dimensions of Longi’s existing Hi-MO X10 lineup for distributed PV applications, while increasing the light-receiving area by 759.3 cm² through four structural modifications.</p>
+
+
+
+<p>Longi said it eliminated 20 white gaps between cells using a low-temperature film-welding process that bonds the cells at ambient temperature before a low-heat lamination step. The process reportedly limits the resulting height difference to 130 micrometres and recovers 178 cm² of light-receiving area.</p>
+
+
+
+<p>The company also relocated three front-side busbars to the rear of the module, adding another 294 cm². According to Longi, thinner busbar profiles and staggered positioning help mitigate the risk of microcracks associated with rear-side busbar stacking. The remaining modifications include reducing inter-string spacing from 1.48 mm to 1 mm and cutting the cell-to-frame creepage distance from 12.9 mm to less than 9 mm through the use of upgraded insulation materials.</p>
+
+
+
+<p>The module delivers a maximum front-side power output of 680 W and a conversion efficiency of 25.2%. Its standard power rating for volume production is 670 W, which Longi claims is 20 W higher than that of mainstream TOPCon modules of the same size.</p>
+
+
+
+<p>To address additional rear-side shading caused by the relocation of the busbars, Longi replaced flat ribbons with round-wire ribbons, introduced precision-insulated sub-busbar break points, and developed an alloy frame profile designed to prevent the frame’s C-shaped section from shading the cells. The company said these changes increase the rear-side light-receiving area by 2.5% and enable a maximum bifaciality of 85%.</p>
+
+
+
+<p>The module’s triple-protection design targets three reliability challenges that Longi identifies as particularly significant for commercial and industrial (C&amp;I) rooftop installations: hotspots, electrical arcing, and microcracks.</p>
+
+
+
+<p>For hotspot protection, the company integrated additional structures equivalent to bypass diodes within each <a href="https://www.pv-magazine.com/2024/12/09/longi-debuts-hpbc-2-0-modules-in-chinas-first-distributed-solar-project/">hybrid passivated back contact</a> (HPBC) 2.0 cell, which it claims can limit hotspot temperatures to below 100 C. To mitigate electrical arcing, Longi uses laser fusion welding in the junction box to eliminate metal-to-metal interface gaps that can contribute to DC arc formation.</p>
+
+
+
+<p>Microcrack resistance is addressed through the same low-temperature welding process used in the full-screen design, combined with thinner busbars to reduce mechanical stress during transportation and installation.</p>
+
+
+
+<p>The module has received TÜV SÜD and TÜV Rheinland certifications under IEC 61215 and IEC 61730. Longi also reported double-stress potential-induced degradation (PID), light-induced degradation (LID), and light- and elevated-temperature-induced degradation (LeTID) testing, along with level-six salt-mist, ammonia, and dust testing, and hail-impact qualification using 25 mm and 35 mm hailstones.</p>
+
+
+
+<p>The product comes with a 15-year materials warranty and a 30-year linear power-output warranty. Longi specifies maximum first-year degradation of 1% and annual linear degradation of no more than 0.35%.</p>
+
+
+
+<p>Longi said shipments of its Hi-MO X10 Triple-Protection modules reached 1.5 GW in China’s C&amp;I market in August 2026. The company added that triple-protection variants accounted for more than half of its distributed PV shipments in the first nine months of 2026.</p>
+
+
+
+<p>Speaking at the launch, Longi Chairman Zhong Baoshen cited internal laboratory results showing that the company’s <a href="https://www.pv-magazine.com/2024/12/09/longi-debuts-hpbc-2-0-modules-in-chinas-first-distributed-solar-project/">hybrid interdigitated back-contact </a>(HIBC) solar cell had achieved a conversion efficiency of 28.29%, approaching the theoretical crystalline silicon efficiency limit of 29.4% cited by the company. He positioned the full-screen module design as a complementary approach to improving power output through structural optimization, alongside further gains in cell conversion efficiency.</p>
+
+
+
+<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/20/longi-presents-25-2-efficient-solar-module-with-triple-protection-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>EDF Australia acquires grid forming Holloway BESS in New England REZ</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/19/edf-australia-acquires-grid-forming-holloway-bess-in-new-england-rez/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/19/edf-australia-acquires-grid-forming-holloway-bess-in-new-england-rez/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 05:21:22 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18767</guid>
+
+					<description><![CDATA[EDF power solutions Australia has acquired from SynCo Global, the proposed 250 MW Holloway Battery Energy Storage System project located in the NSW-based New England Renewable Energy Zone.]]></description>
+										<content:encoded><![CDATA[
+<p>Subsidiary of French state-owned EDF Group, EDF power solutions Australia has acquired from Australian clean energy developer SynCo Global, the <a href="https://www.pv-magazine-australia.com/2026/02/19/big-battery-capacity-jumps-globally-12-times-in-four-years/" target="_blank" rel="noreferrer noopener">proposed</a> 250 MW Holloway Battery Energy Storage System (BESS) project.</p>
+
+
+
+<p>Located near Armidale, New South Wales (NSW) 650 metres from the Armidale Substation in the <a href="https://www.pv-magazine-australia.com/2026/07/21/deal-sealed-to-unlock-3-56-gw-capacity-in-nsw-renewable-energy-zone/" target="_blank" rel="noreferrer noopener">New England</a> Renewable Energy Zone (REZ), the <a href="https://www.pv-magazine.com/2025/10/21/australia-becomes-worlds-third-largest-utility-battery-market/" target="_blank" rel="noreferrer noopener">utility-scale</a> project&#8217;s 3-hectare site is approximately 380 kilometres northwest of Sydney.</p>
+
+
+
+<p>Planning and environmental assessment activities are underway with an environmental impact statement (EIS) imminent. A final investment decision (FID) on the state significant designated development is targeted for late 2027 and operations to commence in 2029.</p>
+
+
+
+<p>EDF Australia Chief Executive Officer James Katsikas said being in close proximity to key grid infrastructure, the project is well placed to support the integration of increasing volumes of renewable energy into the market.</p>
+
+
+
+<p>“As renewable generation <a href="https://www.pv-magazine-australia.com/press-releases/deep-transition-reshapes-nsws-energy-future/" target="_blank" rel="noreferrer noopener">continues to grow </a>across NSW, projects such as the Holloway BESS are essential to capture excess renewable generation and make that electricity available when homes and businesses need it most,&#8221; Katsikas said.</p>
+
+
+
+<p>The Holloway BESS is antipated to operate for up to 30 years beyond which the site will be decommissioned, components removed and where possible recycled, EDF said.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/19/edf-australia-acquires-grid-forming-holloway-bess-in-new-england-rez/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>e-Storage to supply battery energy system for X-Elio project in NSW</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/19/e-storage-to-supply-battery-energy-system-for-x-elio-project-in-nsw/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/19/e-storage-to-supply-battery-energy-system-for-x-elio-project-in-nsw/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 04:08:43 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18762</guid>
+
+					<description><![CDATA[Spanish developer X-Elio has selected Canadian Solar subsidiary e-Storage to supply battery energy storage systems for a project in New South Wales.]]></description>
+										<content:encoded><![CDATA[
+<p>Brookfield Renewable-owned Spanish clean energy developer <a href="https://www.pv-magazine-australia.com/2026/04/16/amazon-commits-to-430-mw-of-solar-and-bess-power-purchase-agreements/" target="_blank" rel="noreferrer noopener">X-Elio</a> has selected Ontario-based Canadian Solar subsidiary e-Storage to supply an undisclosed battery energy storage system (BESS) for a project in New South Wales.</p>
+
+
+
+<p>Backed by a 22-year long-term service agreement (LTSA), the project will use e-Storage&#8217;s SolBank 3.0 battery system, power conversion systems (PCS) and plant controls manufactured at Canadian Solar facilities.</p>
+
+
+
+<p>The SolBank 3.0 has a nominal capacity of 5 MWh, and supports 2-hour and 4-hour configurations with a rated power output of between 1.2 MW and 2.35 MW.</p>
+
+
+
+<p>The project is expected to reach commercial operation in the next two years. </p>
+
+
+
+<p>Other NSW X-Elio projects include the 300 MW / 1,200 MWh solar-plus-storage project near Goulburn, located approximatley 200 kilometres southeast of Sydney, and two in the Central West Orana Renewable Energy Zone (<a href="https://www.pv-magazine-australia.com/2026/09/18/four-projects-backed-by-2023-nsw-firming-tender-achieve-3-gwh-milestone/" target="_blank" rel="noreferrer noopener">CWO REZ</a>) that includes the under-construction Forest Glen Hybrid 90 MW solar, 90 MW / 180 MWh BESS project 16 kilometres west of <a href="https://www.pv-magazine-australia.com/2024/02/27/x-elio-strikes-million-dollar-deal-with-nsw-council/" target="_blank" rel="noreferrer noopener">Dubbo</a>, and the Puggoon 264 MW solar farm and 110 MW / 440 MWh BESS near Mudgee.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="575" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-1024x575.jpg" alt="" class="wp-image-151128" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-1024x575.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-300x168.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-768x431.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-1536x862.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-2048x1150.jpg 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-260x146.jpg 260w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">e-Storage and E-Elio representatives attending US clean energy conference RE+ 2026 where the agreement was signed. | <i>Image: Canadian Solar</i></figcaption></figure>
+
+
+
+<p>Signed at RE+ 2026 in the US, the agreements follow a 6 October 2026 announcement by e-Storage, which had entered an agreement to supply and commission a 100 MW / 200 MWh BESS for OX2&#8217;s <a href="https://www.pv-magazine-australia.com/2026/11/17/developer-turns-to-back-contact-module-tech-for-nsw-solar-project/" target="_blank" rel="noreferrer noopener">Muswellbrook Solar Farm</a> and Battery, also in NSW.</p>
+
+
+
+<p>The company will deliver an integrated solution to that project built on its SolBank 3.0 battery containers paired with PCS and plant controls, plus the company&#8217;s proprietary EQ-S energy management system (EMS).</p>
+
+
+
+<p>Along with the NSW project agreementwith  X-Elio, e-Storage also signed agreements with the company to supply four battery energy storage projects in Texas, US, with the combined five projectstotalingg 590 MW / 1.43 GWhDCc.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/19/e-storage-to-supply-battery-energy-system-for-x-elio-project-in-nsw/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>SA installer flagged by regulator crackdown gets five months in the sin bin</title>
 		<link>https://www.pv-magazine-australia.com/2026/11/19/sa-installer-flagged-by-regulator-crackdown-gets-five-months-in-the-sin-bin/</link>
 					<comments>https://www.pv-magazine-australia.com/2026/11/19/sa-installer-flagged-by-regulator-crackdown-gets-five-months-in-the-sin-bin/#respond</comments>
@@ -310,583 +769,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/18/new-zealand-confirms-2028-rollout-for-battery-market-reforms/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Edify seeks federal tick for Queensland solar and battery project</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/18/edify-seeks-federal-tick-for-queensland-solar-and-battery-project/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/18/edify-seeks-federal-tick-for-queensland-solar-and-battery-project/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 01:51:00 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18723</guid>
-
-					<description><![CDATA[Australian renewable energy and storage developer Edify Energy has unveiled plans to build an 800 MW solar farm and an 800 MW / 3,200 MWh battery energy storage system in southwest Queensland.]]></description>
-										<content:encoded><![CDATA[
-<p>Edify Energy’s Glenarbon Solar Power Station project planned for Queensland’s Darling Downs region has entered the pipeline of projects seeking approval under the federal government’s Environment Protection and Biodiversity Conservation (EPBC) Act.</p>
-
-
-
-<p>The Glenarbon project, planned for a 1,500-hectare site about 65 kilometres east of Goondiwindi near the New South Wales border, combines an 800 MW solar farm with an 800 MW, four-hour capacity battery energy storage system (BESS).</p>
-
-
-
-<p>According to documents referred for assessment under the federal EPBC Act, the facility would plug into the National Electricity Market (NEM) via an existing Powerlink 330 kV transmission line that crosses the project area.</p>
-
-
-
-<p>Edify said once operational, the project could generate up to 1,555,000 MWh of dispatchable renewable energy per annum.</p>
-
-
-
-<p>“The proposed BESS component will store excess energy generated by the solar farm and support the grid by providing power to the grid in peak periods of demand or when there is a lack of energy generation,” the developer said.</p>
-
-
-
-<p>The proposed site has been largely cleared and is currently being used for grazing sheep and cattle. Ultimately, Edify expects the project will not be considered a controlled action as any potential negative impacts will be minimised through implementation of mitigation measures.</p>
-
-
-
-<p>The project is part of Edify’s expanding portfolio of renewable energy generation and storage projects.</p>
-
-
-
-<p>Now owned by Canadian investment group <a href="https://www.pv-magazine-australia.com/2025/09/23/canadian-buyer-reveals-growth-plans-after-1-1-billion-edify-takeover-deal/">La Caisse</a>, Edify was one of the early movers in the battery market in Australia, building the country’s first co-located battery at Gannawarra – adjacent to but separately connected to a solar farm.</p>
-
-
-
-<p>It now has 17 solar projects and 16 batteries, either standalone or backing up PV, in its portfolio, including the <a href="https://www.pv-magazine-australia.com/2026/05/20/edify-reaches-financial-close-on-twin-solar-and-battery-projects/">Smoky Creek and Guthrie’s Gap</a>, and <a href="https://www.pv-magazine-australia.com/2026/08/13/edify-reaches-financial-close-on-hybrid-projects-in-far-north-queensland/">Ganymirra and Majors Creek</a> projects Queensland, which in aggregate supply 1,080 MWp of solar together with 900 MW / 3,600 MWh of DC-coupled battery energy storage.</p>
-
-
-
-<p>Edify has also received <a href="https://www.pv-magazine-australia.com/2025/09/22/edify-lands-federal-go-ahead-for-2-4-gwh-solar-and-storage-project/">environmental approval</a> from the federal government for its Nowingi Solar Power Station project planned for northwest Victoria. It will combine a 300 MW solar plant with a 300 MW / 2,400 MWh BESS.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/18/edify-seeks-federal-tick-for-queensland-solar-and-battery-project/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Transmission lines emerge as election flashpoint in Victoria</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/18/transmission-lines-emerge-as-election-flashpoint-in-victoria/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/18/transmission-lines-emerge-as-election-flashpoint-in-victoria/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Wed, 18 Nov 2026 00:44:00 +0000</pubDate>
-				<category><![CDATA[Markets & Policy]]></category>
-		<category><![CDATA[Opinion]]></category>
-		<category><![CDATA[transmission]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18748</guid>
-
-					<description><![CDATA[Electricity transmission lines are a hot-button issue in the upcoming Victorian election. Following farm-gate blockades and protests outside the Victorian parliament, both the Coalition and One Nation have promised to scrap a multi-billion-dollar project in the state's northwest.]]></description>
-										<content:encoded><![CDATA[
-<p>If the <a href="https://theconversation.com/with-two-weeks-to-go-the-victorian-election-is-the-coalitions-to-lose-296248?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">polls</a> are correct and Victoria changes government, what would this mean for energy policy and regional Australia?</p>
-
-
-
-<p>For the past century, coal-fired power plants have supplied most of Victoria&#8217;s electricity. But some plants have already retired and the rest will follow. The capacity they provide urgently <a href="https://www.abc.net.au/news/2025-05-16/coal-reliability-report-outages-loy-yang-yallourn-latrobe-valley/105296552?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">needs replacing</a>. Renewables produced about <a href="https://www.energy.vic.gov.au/about-energy/news/news-stories/Victoria-powers-beyond-its-2025-renewable-energy-target?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">44%</a> of Victoria&#8217;s electricity last year.</p>
-
-
-
-<p>To shift to a system largely powered by renewables, Victoria will need new high-voltage lines. These are meant to deliver energy from new rural <a href="https://theenergy.co/articles/ideological-vni-west-axe-risks-12bn-in-projects?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">solar and wind farms</a> to cities and industrial centres, as well as stabilising the grid by making it easier to trade electricity between states.</p>
-
-
-
-<p>New transmission lines are a <a href="https://www.aemo.com.au/energy-systems/major-publications/integrated-system-plan-isp/2026-integrated-system-plan-isp?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">key component</a> of <a href="https://www.vicgrid.com.au/transmission-planning/victorian-transmission-plan?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">state</a> and <a href="https://www.dcceew.gov.au/energy/renewable/rewiring-the-nation?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">federal</a> efforts to overhaul the National Electricity Market.</p>
-
-
-
-<p>In Victoria, the two biggest projects in the works are the 190-kilometre <a href="https://www.westernrenewableslink.com.au/?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">Western Renewables Link</a> (WRL) west of Melbourne, and the Victoria to New South Wales (NSW)Interconnector (VNI) West, spanning around <a href="https://www.vicgrid.com.au/projects/victoria-to-nsw-interconnector-west?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">240 km in Victoria</a> and a <a href="https://www.transgrid.com.au/projects-innovation/vni-west/?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">similar length in NSW</a>. Both are well advanced through state planning processes, but neither has begun construction.</p>
-
-
-
-<p>A <a href="https://www.abc.net.au/news/2026-04-30/renewable-energy-transition-support-study-australia-victoria/106615850?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">recent survey</a> showed the energy transition has majority support in regional Victoria. But opponents of the two lines are vocal and organised.</p>
-
-
-
-<h3 class="wp-block-heading">Where do the parties stand?</h3>
-
-
-
-<p>Vocal opponents of transmission projects are running as regional candidates for the <a href="https://www.afr.com/policy/energy-and-climate/the-power-cable-that-could-make-or-break-victoria-20261030-p6135d?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">Nationals</a> and <a href="https://www.riverineherald.com.au/news/smith-has-runs-on-the-board/?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">One Nation</a>.</p>
-
-
-
-<p>Earlier in the election campaign, the Coalition promised to <a href="https://www.abc.net.au/news/2026-05-07/victoria-election-coalition-vows-to-pause-transmission-projects/106651434?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">pause both projects</a> pending a review of Victoria&#8217;s transmission plan. In August, it <a href="https://www.abc.net.au/news/2026-08-20/coalition-one-nation-ripon-vni-west-election-nationals/107054552?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">changed tack</a> on VNI West, promising to cancel it if elected.</p>
-
-
-
-<p>One Nation has gone further by <a href="https://vic.onenation.org.au/policies/energy#power-bills?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">pledging to scrap</a> VNI West, WRL and other major transmission projects.</p>
-
-
-
-<p>In September, Premier Ben Carroll <a href="https://www.abc.net.au/news/2026-09-15/western-renewables-link-ees-approval-ben-carroll-cost-assessment/107154342?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">ordered</a> an immediate cost assessment of WRL, but his Labor government remains committed to building VNI West.</p>
-
-
-
-<p>The Greens are supportive of new transmission lines to unlock renewables, but have <a href="https://greens.org.au/vic/news/media-release/labor-bungles-western-renewables-link-kicks-transparency-past-election?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">criticised</a> the government handling of WRL.</p>
-
-
-
-<h3 class="wp-block-heading">What&#8217;s driving this opposition?</h3>
-
-
-
-<p>Opponents <a href="https://www.vicgrid.com.au/__data/assets/pdf_file/0033/772449/vni-west-pacr-volume-2-additional-consultation-report-submissions.pdf?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">cite</a> a range of concerns, such as disruption to farming, visual impact, bushfire risk, threats to biodiversity and pressures on local services.</p>
-
-
-
-<p>A <a href="https://www.gannawarra.vic.gov.au/News-Media/Council-opposes-VNI-West-project?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">common theme</a> is that rural areas are being expected to do too much for the benefit of energy users in cities. &#8220;Our job is to feed the city not supply its electricity!&#8221; as one <a href="https://www.abc.net.au/news/2025-08-01/transmission-line-vni-west-cost-blow-out-victoria-farmers-fight/105599880?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">protest sign</a> put it.</p>
-
-
-
-<p>Most opposition doesn&#8217;t stem from a rejection of climate science, though this is a <a href="https://onenation.org.au/policies/climate?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">feature</a> of One Nation&#8217;s policies. Experts have raised concerns about <a href="https://www.aph.gov.au/DocumentStore.ashx?id=a1f1b6fb-f2a6-4697-8d40-f035da750faf&amp;subId=778173&amp;utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">misinformation and disinformation</a> amplifying opposition of transmission projects. This is a factor, but there are legitimate concerns in the mix.</p>
-
-
-
-<p>One real point of contention is the power transmission network operators have to <a href="https://www.parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-34764?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">compulsorily acquire</a> easements on private land, allowing them access to build and maintain power lines. This is quite different to <a href="https://www.theland.com.au/story/9385137/uungula-wind-farm-why-these-nsw-farmers-welcomed-69-turbines/#slide=2?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">solar or wind projects</a> where landholders remain free to choose whether or not to host them.</p>
-
-
-
-<p>The state government has <a href="https://www.vicgrid.com.au/__data/assets/pdf_file/0032/759533/Compensation-and-landholder-payments-factsheet.pdf?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">offered</a> benefit packages of $200,000 per kilometre to landholders hosting power lines on top of compensation payments. There are broader <a href="https://www.westernrenewableslink.com.au/community/benefit-sharing-program/community-fund/?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">community benefit funds</a>, too.</p>
-
-
-
-<p>Some farmers are <a href="https://www.abc.net.au/news/2026-04-13/farmer-for-vni-west-transmission-electricity-grid-power/106546732?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">keen</a> to host transmission towers, as the stable income stream can help them through leaner years. For others, the question is less about money and more about <a href="https://theconversation.com/rural-australian-communities-are-hosting-the-clean-energy-boom-are-they-getting-a-fair-say-296254?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">dissatisfaction</a> with the consultation process and <a href="https://doi.org/10.1016/j.erss.2026.104546?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">distrust</a> of project backers.</p>
-
-
-
-<h3 class="wp-block-heading">Flashpoints for rural discontent</h3>
-
-
-
-<p>For some residents, the real issue is resisting the industrialisation of rural areas, as captured in one group&#8217;s slogan: &#8220;<a href="https://www.facebook.com/groups/554040724078738/?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">No to lines, mines and turbines!</a>&#8221; Others are supportive of renewables, but <a href="https://www.energygridalliance.com.au/critical-analysis-of-the-draft-2025-victorian-transmission-plan/?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">critical</a> of proposed transmission routes.</p>
-
-
-
-<p>Recent <a href="https://doi.org/10.1016/j.erss.2026.104546?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">research</a> shows opposition to transmission lines is also a proxy for bigger debates about regional Australia&#8217;s intersecting challenges, from extreme weather and cost-of-living pressures to deteriorating roads and poor access to services.</p>
-
-
-
-<p>The two council areas in Victoria with the highest proportion of roads in <a href="https://www.abc.net.au/news/2026-09-17/vago-report-data-dive-reveals-victoria-pothole-problem/107154372?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">poor condition</a> (Gannawarra and Buloke) are both in VNI West&#8217;s path.</p>
-
-
-
-<p>Many rural residents feel their areas have <a href="https://www.abc.net.au/news/2025-09-14/why-regional-victorians-are-angry-at-state-government/105761034?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">been forgotten</a>. Saying no to transmission lines sends a message that rural communities need to be heard.</p>
-
-
-
-<h3 class="wp-block-heading">Can transmission projects be done differently?</h3>
-
-
-
-<p>It remains to be seen whether VNI West or WRL will survive the state election. But the tensions on display in Victoria have clear lessons for future projects, as our <a href="https://www.centreforenvironmentalgovernance.com/research/just-transmission%3A-advancing-coherence-in-australia%E2%80%99s-electricity-policy?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">research shows</a>:</p>
-
-
-
-<ol class="wp-block-list">
-<li>Early, sustained and respectful <a href="https://www.dcceew.gov.au/energy/renewable/community-engagement/transmission?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">community engagement</a> is vital, not only on proposed transmission projects but on regional futures more broadly.</li>
-
-
-
-<li>People in regional Australia don&#8217;t view transmission projects in isolation, but as part of the <a href="https://reneweconomy.com.au/nsw-is-about-to-find-out-the-scale-of-cumulative-impacts-in-its-renewable-energy-zones/?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">broader effects</a> of the clean energy transition and other stresses and uncertainties they face.</li>
-
-
-
-<li>Governments, businesses and communities need to <a href="https://theenergycharter.com.au/collaboration/bettertogether-initiatives/regional-energy-collaboration-framework/?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">work together</a> at regional and local levels to manage these effects and harness <a href="https://www.ngshire.vic.gov.au/files/assets/public/v/3/document-resources/council-strategies/resource-ready-final-report-16-february-2026.pdf?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">cumulative benefits</a>, such as jobs and investment in community facilities.</li>
-
-
-
-<li><a href="https://appi.org.au/report/social-licence-and-benefit-sharing-in-the-shift-to-renewable-energy-in-regional-communities/?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">Community benefit programs</a> need to be <a href="https://doi.org/10.1016/j.erss.2026.105027?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">designed with affected communities</a> rather than imposed top-down. They must be delivered as part of broader commitments by government and business to promote prosperity and wellbeing in regional communities.</li>
-</ol>
-
-
-
-<h3 class="wp-block-heading">A people-powered energy transition</h3>
-
-
-
-<p>If Victoria&#8217;s transmission projects are scrapped without a credible alternative, the state will face the <a href="https://theenergy.co/articles/vni-west-and-the-nem-tightrope?utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news" target="_blank" rel="noreferrer noopener">real risk</a> of less reliable electricity.</p>
-
-
-
-<p>It&#8217;s vital to keep the lights on while shifting to cheaper and cleaner sources of power. But that&#8217;s not the full picture.</p>
-
-
-
-<p>Rural communities have a major stake in how Australia&#8217;s energy transition pans out. It&#8217;s only fair they have a say in figuring out how the benefits to regional Australia can outweigh the costs.</p>
-
-
-
-<p><em>Authors: <a href="https://theconversation.com/profiles/jonathan-pickering-5160">Jonathan Pickering</a>, Associate Professor, Canberra School of Government, University of Canberra; <a href="https://theconversation.com/profiles/stephanie-rosestone-2777829">Stephanie Rosestone</a>, Community Fellow, University of Canberra; Australian National University; <a href="https://theconversation.com/profiles/wendy-conway-lamb-1480924">Wendy Conway-Lamb</a>, Postdoctoral Research Fellow, Centre for Deliberative Democracy and Centre for Environmental Governance, University of Canberra</em></p>
-
-
-
-<p><em>Jonathan Pickering receives funding from the Australian Research Council.</em></p>
-
-
-
-<p><em>Stephanie Rosestone receives funding from the Australian Research Council. From 2020-21, Stephanie was involved in the Save Wattle Flat community group, which raised concerns about local impacts of the Western Renewables Link.</em></p>
-
-
-
-<p><em>Wendy Conway-Lamb receives funding from the Australian Research Council.</em></p>
-
-
-
-<p><em>This article was initially published in <a href="https://theconversation.com/au" target="_blank" rel="noreferrer noopener">The Conversation</a> and is republished here under a Creative Commons Licence.</em></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/18/transmission-lines-emerge-as-election-flashpoint-in-victoria/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Tesla unveils Powercore medium-voltage power electronics platform</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/18/tesla-unveils-powercore-medium-voltage-power-electronics-platform/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/18/tesla-unveils-powercore-medium-voltage-power-electronics-platform/#respond</comments>
-		
-		<dc:creator><![CDATA[Ben Zientara]]></dc:creator>
-		<pubDate>Tue, 17 Nov 2026 23:37:00 +0000</pubDate>
-				<category><![CDATA[Technology & Products]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Commercial & industrial]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18746</guid>
-
-					<description><![CDATA[By replacing traditional transformers with a consolidated solid-state platform, the company aims to bypass supply chain bottlenecks and accelerate project timelines across utility-scale solar, battery storage, and AI data centres.]]></description>
-										<content:encoded><![CDATA[
-<p>Tesla has announced the introduction of Powercore, a consolidated medium-voltage power electronics platform that combines a solid-state transformer, switchgear, and an inverter into a single enclosure rated for a nominal DC voltage of 800 V to 2,000 V and an AC voltage of 10 kV to 34.5 kV, providing up to 7.4 MW (9 MVA) of power at 34.5 kV AC.</p>
-
-
-
-<p>Powercore will be manufactured at Tesla facilities in the United States and the company plans to have it in operation in 2027. The company said the platform is designed to operate from −40°C to 55°C and can be covered by a warranty of up to 25 years.</p>
-
-
-
-<p>The Powercore platform is aimed at numerous segments in the modern energy ecosystem, specifically targeting solar, energy storage, data centre power and EV charging. Tesla said the Powercore offers unique benefits for each of these use cases, but the overarching advantage might be the ability to bypass the supply chain for conventional transformers. Limits to the availability of key inputs to transformer manufacturing has caused <a href="https://pv-magazine-usa.com/2026/05/11/u-s-transformer-market-faces-severe-supply-constraints-as-lead-times-extend-to-four-years/">lead times of as long as four years</a>, resulting in a bottleneck in grid modernisation and renewable energy deployment.</p>
-
-
-
-<p>“We’ve done 3 TW of power converters at Tesla,” said AJ Booth, the company’s head of energy and charging, in an interview with <strong>pv magazine</strong>. “We build all of our power converters in-house, and we wanted to use that capability to provide a bankable and reliable pathway for customers to confidently adopt what is fundamentally a new technology to the industry.”</p>
-
-
-
-<p>Bringing the manufacturing of critical power infrastructure in-house could also provide a catalyst to grow the company’s high-margin energy revenue, which represents roughly 10% of the company’s overall sales. Margins for the Energy Generation and Storage division have routinely outperformed those of the company’s core automotive business, despite experiencing some quarter-to-quarter volatility in revenue.</p>
-
-
-
-<h3 class="wp-block-heading">Streamlining utility-scale solar and storage deployments</h3>
-
-
-
-<p>For solar installations, Powercore accepts high-voltage direct current directly from solar arrays, combining the transformer, inverter and switchgear into a single product. The company said the hardware natively supports existing 1,500 V DC plants as well as emerging 2,000 V DC architectures. This eliminates the need for asset owners to purchase secondary inverters and transformers.</p>
-
-
-
-<p>On the energy storage side, the platform is designed to integrate with Tesla Megapack batteries via DC bus connectors. The company said the two solutions can be delivered to a site pre-assembled, speeding up deployment and reducing manual on-site wiring. By simplifying site design and lowering labor costs, the integrated architecture can lead to improved project economics for developers while maintaining Tesla’s high equipment margins.</p>
-
-
-
-<h3 class="wp-block-heading">Advanced safety and grid-forming capabilities</h3>
-
-
-
-<p>Tesla said Powercore features the industry’s first built-in solid-state circuit breaker. The system can clear electrical faults in 100 microseconds — far faster than conventional transformer-fed protection.</p>
-
-
-
-<p>“We think we’re safer because we can interrupt faults a thousand times faster than traditional equipment, which is extremely safe for personnel and for equipment due to our integrated solid-state circuit breaker design,” Booth said.</p>
-
-
-
-<p>The platform also targets the power requirements of artificial intelligence computing. Tesla said Powercore is designed to sidestep the complicated method of stepping down grid voltage through multiple stages to power data centre racks by reducing the conversion to a single step that takes grid power from the feeder and outputs 800 V DC power to the servers.</p>
-
-
-
-<p>The company said it is working with NVIDIA to certify Powercore into the DSX Ready Program, which validates equipment that meets standards for integration with next-generation data centres. As of September, Tesla’s Megapack 2XL was one of only three battery energy storage system (BESS) offerings qualified under the DSX Ready program.</p>
-
-
-
-<p>When paired with Megapack battery storage on the grid, Powercore uses Tesla’s grid-forming controls to provide synthetic inertia and reactive power support. Booth stated that managing a data centre’s dynamic loads with this paired system can smooth local voltage oscillations and stabilise the broader grid network.</p>
-
-
-
-<p>“By adding a data centre with Powercore and Megapack, we can provide a stiffer local grid and provide a more stable grid,” Booth said. “It’s actually better than if you didn’t put a data centre there at all, which is the amazing thing that batteries can do for the grid.”</p>
-
-
-
-<p>Tesla is presenting the new Powercore product this week at RE+ 2026 in Las Vegas.</p>
-
-
-
-<p><strong><a href="https://pv-magazine-usa.com/">From pv magazine USA</a></strong></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/18/tesla-unveils-powercore-medium-voltage-power-electronics-platform/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Helping homeowners understand practicalities of battery backup</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/18/helping-homeowners-understand-practicalities-of-battery-backup/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/18/helping-homeowners-understand-practicalities-of-battery-backup/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Tue, 17 Nov 2026 22:49:00 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Opinion]]></category>
-		<category><![CDATA[Residential]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18747</guid>
-
-					<description><![CDATA[Home battery uptake continues to surge with more than 600,000 batteries installed across Australia in the past 18 months, but many consumers remain in the dark about energy storage system’s capabilities, including when it comes to backup, outages, and changeover switching.]]></description>
-										<content:encoded><![CDATA[
-<p>Australia’s growing fleet of small-scale batteries is changing the dynamics of electricity generation and demand but some confusion about just what individual energy storage systems provide for consumers remains.</p>
-
-
-
-<p>One homeowner messaged us in August to ask whether the 42 kWh battery we had quoted came with blackout backup. When we said it did not, the next message was: &#8220;I thought having a larger battery installed would cover the entire house during a black out?&#8221;</p>
-
-
-
-<p>It was a fair assumption. Battery offers are sold almost entirely on kWh, and backup is usually a separate line, or a footnote. We wanted to know how often our own enquiries started from the same place.</p>
-
-
-
-<p>We went back through 192 Facebook Messenger conversations with South East Queensland homeowners from mid-June to early November 2026. We re-read every conversation that mentioned backup, blackouts, outages, whole-home supply or changeover switching. After removing supplier spam, off-grid enquiries and keyword false matches, 30 remained: 29 before a sale and one from an existing customer after installation. This is one installer&#8217;s enquiries, so the numbers show direction rather than market share. A conversation can also fall into more than one group.</p>
-
-
-
-<p>The most common question was simply whether backup was in the price. Thirteen of the 30 asked it in some form. One said the system &#8220;should include blackout backup without extra fee.&#8221;</p>
-
-
-
-<p>In Sunny Energy quotes, and in the one competitor quote a homeowner shared with us in detail, backup was a separate optional item, priced after an electrician had looked at the switchboard. So two quotes for &#8220;28 kWh installed&#8221; could describe two different jobs, and the homeowner had no easy way to tell.</p>
-
-
-
-<p>Three people gave us a budget ceiling that included backup, for example a fixed figure &#8220;including blackout points X2&#8221;. That is a sensible way to buy, but it only works if every installer prices backup the same way.</p>
-
-
-
-<h3 class="wp-block-heading">Two groups, one word</h3>
-
-
-
-<p>The rest of the conversations fell into two groups that used the same words.</p>
-
-
-
-<p>Nine people wanted a short list. Freezers, the internet, TV, or, lights, the fridge and the internet. &#8220;A minimum of one light and one power circuit.&#8221; For them, backing up two or three chosen circuits was the right answer.</p>
-
-
-
-<p>Eight wanted the whole house, or assumed that was what backup meant. Six asked for it directly. One, quoted above, linked it to battery size. The eighth was an existing customer who contacted us after a power cut, surprised that only one room was getting battery power.</p>
-
-
-
-<h3 class="wp-block-heading">Capacity is not the limit people think it is</h3>
-
-
-
-<p>Battery capacity, in kWh, decides how long backup lasts. The inverter&#8217;s backup output, in kW, and the circuits wired to it decide what can run at the same time. Start-up current from air conditioners, pumps and ovens is often what trips the system first.</p>
-
-
-
-<p>A 42kWh battery behind a backup output of a few kW can keep a fridge, lights and the NBN going for a long time. It will not run ducted air conditioning, an oven and a pool pump together. We had one request to back up air conditioning, a pool pump, a fridge and a stove at the same house. Another homeowner wanted every power point except the oven, air conditioning and EV charger. Neither request is unreasonable, but both need an answer in kW, not kWh.</p>
-
-
-
-<p>Three people asked whether their solar would keep running in an outage. One said that was the main reason they wanted backup. The honest answer depends on the design. In many AC-coupled retrofits the existing solar inverter stays off during an outage unless the system is built to let it run. Panels connected to a hybrid inverter can usually keep charging the battery while the house is off the grid. For someone worried about a three-day outage after a storm, this matters more than another 10 kWh of storage.</p>
-
-
-
-<h3 class="wp-block-heading">What automatic switching looks like</h3>
-
-
-
-<p>Two homeowners asked whether changeover was automatic or needed a manual switch. Both answers exist, so it is a fair question.</p>
-
-
-
-<p>Our installer recorded a <a href="https://www.sunnyenergy.com.au/home-battery-blackout-backup/">short demonstration</a> of a whole-home backup gateway at a switchboard. He turns the grid supply off, and within a few seconds the house is running on the battery. When he turns the grid back on, the gateway waits to confirm the supply is stable before switching back. He counts 13 seconds on camera. Counting from a slightly different point in the footage, it is closer to 18. The manufacturer quotes about 20.</p>
-
-
-
-<p>Two practical points come out of that. Automatic changeover is not the same as an uninterruptible power supply, so a desktop computer or some modems may still restart. And the wait on the way back is deliberate. A homeowner who has been told the switchover is &#8220;seamless&#8221; may think something is wrong when the lights stay on battery for another 20 seconds.</p>
-
-
-
-<h3 class="wp-block-heading">Five things a backup quote should say</h3>
-
-
-
-<p>Whole-home gateways from several battery manufacturers now make whole-house backup a practical, separately priced option. That makes it more important, not less, for a quote to say which kind of backup is being sold. From these conversations, I think a quote that mentions blackout protection should state five things in writing before anyone signs:</p>
-
-
-
-<ol start="1" class="wp-block-list">
-<li>Whether backup is included, and if not, its price or a capped range.</li>
-
-
-
-<li>Whether it covers selected circuits or the whole home, with any selected circuits named in plain language, such as &#8220;kitchen power&#8221; or &#8220;upstairs lights&#8221;.</li>
-
-
-
-<li>The continuous backup output in kW, and which appliances should not run together during an outage.</li>
-
-
-
-<li>Whether changeover is automatic or manual, and roughly how long it takes in each direction.</li>
-
-
-
-<li>Whether the solar keeps generating and recharging the battery while the grid is down.</li>
-</ol>
-
-
-
-<p>None of this needs new technology. It needs the backup scope to be decided, or at least capped, before the contract is signed, rather than discovered at handover. The homeowners in our sample were already asking these questions.</p>
-
-
-
-<p><em>Author: Richard Liu, owner, <a href="https://www.sunnyenergy.com.au/about/">SUNNY Energy</a></em></p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/18/helping-homeowners-understand-practicalities-of-battery-backup/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Sungrow launches C&#038;I storage solution with modular scenario dock and full SiC PCS</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/18/sungrow-launches-ci-storage-solution-with-modular-scenario-dock-and-full-sic-pcs/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/18/sungrow-launches-ci-storage-solution-with-modular-scenario-dock-and-full-sic-pcs/#respond</comments>
-		
-		<dc:creator><![CDATA[Vincent Shaw]]></dc:creator>
-		<pubDate>Tue, 17 Nov 2026 21:56:00 +0000</pubDate>
-				<category><![CDATA[Technology & Products]]></category>
-		<category><![CDATA[Commercial & industrial]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18745</guid>
-
-					<description><![CDATA[Sungrow has unveiled its third-generation commercial and industrial storage system, built around a modular expansion-dock architecture for multiple use cases.]]></description>
-										<content:encoded><![CDATA[
-<p>Sungrow launched the PowerStack 3.0 series, its latest commercial and industrial (C&amp;I) energy storage platform, positioning the product as a shift from standardised physical integration toward what the company calls “scene-in-one” architecture designed to serve pure storage, solar-plus-storage, solar-storage-charging, and microgrid applications from a single hardware base.</p>
-
-
-
-<p>The core of the launch is a “1+N=S” design — a standardised main cabinet paired with interchangeable expansion docks — which Sungrow describes as an industry-first approach to C&amp;I storage. In the solar-plus-storage configuration, the company said a single power conversion system can absorb PV power conversion, eliminating the need for a separate PV inverter and supporting twice the rated PV capacity on the DC side. For the microgrid dock, Sungrow claims seamless grid-to-island transition without an external static transfer switch. These specific performance claims come from the manufacturer and have not been independently verified.</p>
-
-
-
-<p>On the hardware side, PowerStack 3.0 uses 684 Ah laminated LFP cells, a full silicon carbide power conversion system rated at up to 99.2% peak efficiency, and a stated system round-trip efficiency of at least 92%. Energy density is listed at 256 kWh per square metre, which Sungrow said reduces footprint by 43% compared to conventional solutions. The system carries IP55 enclosure protection and C5 corrosion resistance, operates from −30 C to 50 C, and tolerates up to 30% grid harmonic content — specifications aimed at harsh industrial environments and weak-grid sites. Liquid cooling with AI-driven thermal management is said to cut auxiliary power consumption by 33% versus the previous generation.</p>
-
-
-
-<p>The control architecture consolidates what Sungrow previously handled across four layers — energy management, cluster management, and local control — into a two-layer fusion controller. Each cabinet retains independent dispatch capability, with automatic host failover designed to keep the station running if a single unit drops offline. Units can be paralleled from one to 20 to scale from small commercial sites to campus-level installations.</p>
-
-
-
-<p>Sungrow has also embedded an AI assistant, branded Bubbly, across the product lifecycle. The company claims the system can generate a site-specific design and revenue forecast in 30 seconds, complete complex scenario commissioning in three minutes, and lift operating revenue by 12% versus a self-consumption baseline through forecast-driven dispatch optimization. These figures are manufacturer projections based on internal modeling rather than field-validated results.</p>
-
-
-
-<p>PowerStack 3.0 succeeds the company’s 255CS and 510CS C&amp;I lines, and Sungrow said it is targeting Europe, Asia-Pacific, and the Middle East — regions where C&amp;I storage demand is growing as electricity price volatility, demand-charge management, and behind-the-meter renewable integration drive more complex use cases. The underlying technology — large-format laminated cells, SiC conversion, and liquid cooling — has migrated from Sungrow’s utility-scale PowerTitan platform, reflecting a broader industry pattern of utility-grade hardware moving downstream into distributed applications.</p>
-
-
-
-<p><strong><a href="https://www.ess-news.com/">From ESS News</a></strong></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/18/sungrow-launches-ci-storage-solution-with-modular-scenario-dock-and-full-sic-pcs/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Community opposition sends solar and storage project to IPC for review</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/17/community-opposition-sends-solar-and-storage-project-to-ipc-for-review/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/17/community-opposition-sends-solar-and-storage-project-to-ipc-for-review/#respond</comments>
-		
-		<dc:creator><![CDATA[David Carroll]]></dc:creator>
-		<pubDate>Tue, 17 Nov 2026 05:04:00 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18719</guid>
-
-					<description><![CDATA[Metis Energy’s plans to build a 200 MW solar farm and 300 MWh battery in northern New South Wales are in the hands of the state’s Independent Planning Commission after the project attracted more than 100 qualifying objections.]]></description>
-										<content:encoded><![CDATA[
-<p>The Bendemeer Solar Farm and battery energy storage project, being developed Singapore-based <a href="https://www.pv-magazine-australia.com/2024/04/02/metris-inks-power-purchase-deal-for-first-australian-solar-project/" target="_blank" rel="noreferrer noopener">Metis Energy</a> through subsidiary Athena Energy, near Tamworth in the New South Wales (NSW) New England region, has been referred to the state’s Independent Planning Commission (IPC) for assessment.</p>
-
-
-
-<p>The project, while deemed “approvable” by the NSW Department of Planning, Housing and Infrastructure (DPHI), has been referred to the IPC as required under state planning laws after attracting 119 objections – 19 more than the new 100 threshold that triggers an assessment by the Commission.</p>
-
-
-
-<p>The project, being developed near the township of Bendemeer, about 35 kilometres northeast of Tamworth, is to include a 200 MW solar farm and 150 MW / 300 MWh battery energy storage system. The solar and storage project is part of the proposed Bendemeer Renewable Energy Hub that could also include the development of a separately assessed&nbsp;360 MW wind farm.</p>
-
-
-
-<p>In its letter referring the <a href="https://www.pv-magazine-australia.com/2025/10/09/hybrid-developments-make-clean-sweep-of-capacity-investment-scheme-tender-4/">Bendemeer solar and battery project</a>, the NSW DPHI said it had visited the site, consulted with local residents, council and relevant government agencies, and had found the project “approvable subject to conditions.”</p>
-
-
-
-<p>It is however now up to the IPC to make a call, based on the information provided by the department and any new information gathered through its own process.</p>
-
-
-
-<p>The Bendemeer project, planned for a 369-hectare site that is currently used for sheep and cattle grazing, received 232 unique submissions during the public exhibition of its Environmental Impact Statement (EIS), including 109 that supported it, and four that provided comments.&nbsp;</p>
-
-
-
-<p>Key issues raised by those objecting to the project include site suitability, impacts on water quality and hydrology, biodiversity, and amenity. The submissions also raised concerns about the project’s impact on property values and on how benefits would be shared with community.</p>
-
-
-
-<p>According to documents published by the NSW DPHI, the project has been progressively “<a href="https://www.pv-magazine-australia.com/2025/04/23/community-response-triggers-redesign-of-solar-and-storage-project/">designed and refined</a>” by Athena to avoid and minimise negative impacts.</p>
-
-
-
-<p>The Department said since first launching the project, Athena has reduced the development footprint by approximately 107 hectares, progressively refined the design to reduce native vegetation clearing, and developed a proposed conservation area within the site.</p>
-
-
-
-<p>Athena has also reached an in-principle agreement with Tamworth Regional Council to enter into a Voluntary Planning Agreement, with a developer contribution of approximately $4.4 million.</p>
-
-
-
-<p>In its referral documents, the NSW DPHI said the project would make a meaningful contribution to the state’s renewable energy transition and would not result in any significant impacts on the local community or the environment.</p>
-
-
-
-<p>“Overall, the Department’s assessment concludes that the project would result in benefits to the state of NSW and considers the project is in the public interest,” it said,</p>
-
-
-
-<p>The IPC will host a public meeting at the Bendemeer Town Hall on 5 December 2026 to help inform its decision, while written submissions will be accepted until 13 December 2026.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/17/community-opposition-sends-solar-and-storage-project-to-ipc-for-review/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

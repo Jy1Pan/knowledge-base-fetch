@@ -12,7 +12,7 @@
 	<atom:link href="https://battery-news.de/feed/" rel="self" type="application/rss+xml" />
 	<link>https://battery-news.de/</link>
 	<description>Die Newsbroker-Webseite zum Thema Lithium-Ionen-Batterien in Deutschland</description>
-	<lastBuildDate>Tue, 17 Nov 2026 16:50:28 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Nov 2026 21:58:24 +0000</lastBuildDate>
 	<language>de</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,54 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>BMZ integriert digitale Batteriepässe in die EU-Serienfertigung</title>
+		<link>https://battery-news.de/2026/11/19/bmz-integriert-digitale-batteriepaesse-in-die-eu-serienfertigung/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieproduktion]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40298</guid>
+
+					<description><![CDATA[<p>Der Batteriesystemhersteller BMZ mit Sitz in Karlstein am Main führt digitale Batteriepässe für seine EU-Produktion in Deutschland und Polen ein. Laut einer Pressemitteilung vom 17. November hat das Unternehmen dafür den Berliner Softwareanbieter Minespider ausgewählt. Die Pässe sollen direkt aus den Produktionsdaten entstehen, statt in einem separaten Verwaltungsprozess erstellt zu werden. Ein Passansatz für alle Batterietypen Wie es in der Mitteilung heißt, sollen die Pässe die E-Auto-Batterien von BMZ, Batterien für leichte Verkehrsmittel wie E-Bikes sowie Industriebatterien abdecken. Produkt- und Herstellerdaten, Konformitätsunterlagen, Angaben zur Kreislauffähigkeit und Betriebsdaten werden demnach einer eindeutigen Batteriekennung zugeordnet und per QR-Code über öffentliche und berechtigungsbasierte Bereiche zugänglich gemacht. Minespider übernimmt Berichten zufolge Datenmapping, Gap-Analyse, Plattformeinrichtung und die Anbindung an die internen Fertigungssysteme von BMZ. Start bis Mitte Dezember Nach Angaben der Unternehmen soll das System bis Mitte Dezember 2026 bereitstehen. Zum Start sind manuelle Passerstellung und Chargen-Importe vorgesehen, ein API-basierter Datenaustausch für höhere Stückzahlen soll erst später folgen. Welche Produktionsvolumen das System abdeckt, wurde nicht genannt. Gemäß der EU-Batterieverordnung müssen E-Auto-Batterien, Batterien für leichte Verkehrsmittel sowie Industriebatterien mit mehr als 2 kWh ab dem 18. Februar 2027 beim Inverkehrbringen in der EU einen digitalen Batteriepass haben. Quellen:https://www.minespider.com/press/bmz-selects-minespider-to-integrate-digital-battery-passports-into-eu-battery-production</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/19/bmz-integriert-digitale-batteriepaesse-in-die-eu-serienfertigung/">BMZ integriert digitale Batteriepässe in die EU-Serienfertigung</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Der Batteriesystemhersteller BMZ mit Sitz in Karlstein am Main führt digitale Batteriepässe für seine EU-Produktion in Deutschland und Polen ein. Laut einer Pressemitteilung vom 17. November hat das Unternehmen dafür den Berliner Softwareanbieter Minespider ausgewählt. Die Pässe sollen direkt aus den Produktionsdaten entstehen, statt in einem separaten Verwaltungsprozess erstellt zu werden.</p>
+
+
+
+<p><strong>Ein Passansatz für alle Batterietypen</strong></p>
+
+
+
+<p>Wie es in der Mitteilung heißt, sollen die Pässe die E-Auto-Batterien von BMZ, Batterien für leichte Verkehrsmittel wie E-Bikes sowie Industriebatterien abdecken. Produkt- und Herstellerdaten, Konformitätsunterlagen, Angaben zur Kreislauffähigkeit und Betriebsdaten werden demnach einer eindeutigen Batteriekennung zugeordnet und per QR-Code über öffentliche und berechtigungsbasierte Bereiche zugänglich gemacht. Minespider übernimmt Berichten zufolge Datenmapping, Gap-Analyse, Plattformeinrichtung und die Anbindung an die internen Fertigungssysteme von BMZ.</p>
+
+
+
+<p><strong>Start bis Mitte Dezember</strong></p>
+
+
+
+<p>Nach Angaben der Unternehmen soll das System bis Mitte Dezember 2026 bereitstehen. Zum Start sind manuelle Passerstellung und Chargen-Importe vorgesehen, ein API-basierter Datenaustausch für höhere Stückzahlen soll erst später folgen. Welche Produktionsvolumen das System abdeckt, wurde nicht genannt.</p>
+
+
+
+<p>Gemäß der EU-Batterieverordnung müssen E-Auto-Batterien, Batterien für leichte Verkehrsmittel sowie Industriebatterien mit mehr als 2 kWh ab dem 18. Februar 2027 beim Inverkehrbringen in der EU einen digitalen Batteriepass haben.</p>
+
+
+
+<p><em>Quellen:<br><a href="https://www.minespider.com/press/bmz-selects-minespider-to-integrate-digital-battery-passports-into-eu-battery-production" target="_blank" rel="noreferrer noopener">https://www.minespider.com/press/bmz-selects-minespider-to-integrate-digital-battery-passports-into-eu-battery-production</a><br></em></p>
+
+
+
+<p></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/19/bmz-integriert-digitale-batteriepaesse-in-die-eu-serienfertigung/">BMZ integriert digitale Batteriepässe in die EU-Serienfertigung</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Moment Energy stellt UL-9540-zertifizierten Speicher aus gebrauchten E-Auto-Batterien vor</title>
 		<link>https://battery-news.de/2026/11/18/moment-energy-stellt-ul-9540-zertifizierten-speicher-aus-gebrauchten-e-auto-batterien-vor/</link>
 		
@@ -627,50 +675,6 @@
 
 <p></p>
 <p>Der Beitrag <a href="https://battery-news.de/2026/11/10/bmw-holt-samsung-sdi-und-lg-energy-solution-als-zelllieferanten-fuer-gen6/">BMW holt Samsung SDI und LG Energy Solution als Zelllieferanten für Gen6</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Lyten liefert Batteriespeicher in abgelegenes Dorf auf Fidschi</title>
-		<link>https://battery-news.de/2026/11/09/lyten-liefert-batteriespeicher-in-abgelegenes-dorf-auf-fidschi/</link>
-		
-		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
-		<pubDate>Mon, 09 Nov 2026 07:00:00 +0000</pubDate>
-				<category><![CDATA[Batterieproduktion]]></category>
-		<guid isPermaLink="false">https://battery-news.de/?p=40229</guid>
-
-					<description><![CDATA[<p>Das US-Batterieunternehmen Lyten hat ein Batteriespeichersystem in das Dorf Yasawa i Rara auf der Fidschi-Insel Yasawa geliefert. Laut Lyten ging das System am 28. Oktober in Betrieb. Gekauft hat es das fidschianische Unternehmen Energy Solutions Pacific in Zusammenarbeit mit Investment Fiji. Lyten gab das Projekt am 5. November bekannt. Speicher reduziert Generatorbetrieb Das Dorf hat keinen Netzanschluss und war bisher auf Dieselgeneratoren und etwas Solarstrom angewiesen. Nun laden Solarmodule und Generatoren den Speicher, aus dem das Dorf seinen Strom bezieht. Laut Lyten laufen die Generatoren dadurch vor allem zum Nachladen der Batterien. Das System soll bis zu 64 Haushalte, ein Kühllager für Fisch, eine Entbindungsstation und eine Leichenhalle versorgen. Zum Einsatz kommt Lytens Voltpack Mobile System, das laut Unternehmen von 290 kWh bis zu Hunderten Megawattstunden skalierbar ist. Die in Fidschi installierte Kapazität, die Zellchemie und den Zelllieferanten hat Lyten nicht genannt. Gefertigt im ehemaligen Northvolt-Werk in Polen Gebaut wird das System im polnischen Danzig. Lyten hatte das dortige Speicherwerk im Juli 2025 von Northvolt übernommen. Nach damaligen Angaben von Lyten kann der Standort auf eine Fertigungskapazität von 6 GWh für Speichersysteme hochgefahren werden. Das Unternehmen setzt auf Lithium-Schwefel-Batterien und plant auch Speichersysteme auf Basis dieser Chemie. Im August 2026 wurde Lyten zudem als bevorzugter Bieter für das Geschäft des norwegischen Zellherstellers Morrow Batteries ausgewählt. Quellen:https://lyten.com/2026/11/05/lyten-deploys-energy-storage-system-in-fiji-to-deliver-reliable-power-to-remote-islands/https://www.businesswire.com/news/home/20250701098618/en/Lyten-Acquires-Europes-Largest-Battery-Energy-Storage-Systems-Manufacturing-Operation-from-Northvolthttps://lyten.com/2026/08/26/lyten-selected-as-preferred-bidder-for-morrow-batteries-business/</p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/11/09/lyten-liefert-batteriespeicher-in-abgelegenes-dorf-auf-fidschi/">Lyten liefert Batteriespeicher in abgelegenes Dorf auf Fidschi</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Das US-Batterieunternehmen Lyten hat ein Batteriespeichersystem in das Dorf Yasawa i Rara auf der Fidschi-Insel Yasawa geliefert. Laut Lyten ging das System am 28. Oktober in Betrieb. Gekauft hat es das fidschianische Unternehmen Energy Solutions Pacific in Zusammenarbeit mit Investment Fiji. Lyten gab das Projekt am 5. November bekannt.</p>
-
-
-
-<p><strong>Speicher reduziert Generatorbetrieb</strong></p>
-
-
-
-<p>Das Dorf hat keinen Netzanschluss und war bisher auf Dieselgeneratoren und etwas Solarstrom angewiesen. Nun laden Solarmodule und Generatoren den Speicher, aus dem das Dorf seinen Strom bezieht. Laut Lyten laufen die Generatoren dadurch vor allem zum Nachladen der Batterien. Das System soll bis zu 64 Haushalte, ein Kühllager für Fisch, eine Entbindungsstation und eine Leichenhalle versorgen.</p>
-
-
-
-<p>Zum Einsatz kommt Lytens Voltpack Mobile System, das laut Unternehmen von 290 kWh bis zu Hunderten Megawattstunden skalierbar ist. Die in Fidschi installierte Kapazität, die Zellchemie und den Zelllieferanten hat Lyten nicht genannt.</p>
-
-
-
-<p><strong>Gefertigt im ehemaligen Northvolt-Werk in Polen</strong></p>
-
-
-
-<p>Gebaut wird das System im polnischen Danzig. Lyten hatte das dortige Speicherwerk im Juli 2025 von Northvolt übernommen. Nach damaligen Angaben von Lyten kann der Standort auf eine Fertigungskapazität von 6 GWh für Speichersysteme hochgefahren werden. Das Unternehmen setzt auf Lithium-Schwefel-Batterien und plant auch Speichersysteme auf Basis dieser Chemie. Im August 2026 wurde Lyten zudem als bevorzugter Bieter für das Geschäft des norwegischen Zellherstellers Morrow Batteries ausgewählt.</p>
-
-
-
-<p><em>Quellen:</em><br><em><a href="https://lyten.com/2026/11/05/lyten-deploys-energy-storage-system-in-fiji-to-deliver-reliable-power-to-remote-islands/" target="_blank" rel="noreferrer noopener">https://lyten.com/2026/11/05/lyten-deploys-energy-storage-system-in-fiji-to-deliver-reliable-power-to-remote-islands/</a></em><br><em><a href="https://www.businesswire.com/news/home/20250701098618/en/Lyten-Acquires-Europes-Largest-Battery-Energy-Storage-Systems-Manufacturing-Operation-from-Northvolt" target="_blank" rel="noreferrer noopener">https://www.businesswire.com/news/home/20250701098618/en/Lyten-Acquires-Europes-Largest-Battery-Energy-Storage-Systems-Manufacturing-Operation-from-Northvolt</a></em><br><em><a href="https://lyten.com/2026/08/26/lyten-selected-as-preferred-bidder-for-morrow-batteries-business/" target="_blank" rel="noreferrer noopener">https://lyten.com/2026/08/26/lyten-selected-as-preferred-bidder-for-morrow-batteries-business/</a></em></p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/11/09/lyten-liefert-batteriespeicher-in-abgelegenes-dorf-auf-fidschi/">Lyten liefert Batteriespeicher in abgelegenes Dorf auf Fidschi</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
 ]]></content:encoded>
 					
 		

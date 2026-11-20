@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pv magazine Australia</title>
+	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.pv-magazine-australia.com/</link>
+	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
+	<lastBuildDate>Thu, 19 Nov 2026 21:43:08 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.13</generator>
+
+<image>
+	<url>https://www.pv-magazine-australia.com/wp-content/uploads/2024/12/cropped-fav-australia-32x32.png</url>
+	<title>pv magazine Australia</title>
+	<link>https://www.pv-magazine-australia.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cutting home battery subsidy shapes as false economics</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/20/cutting-home-battery-subsidy-shapes-as-false-economics/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/20/cutting-home-battery-subsidy-shapes-as-false-economics/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2026 01:22:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18784</guid>
+
+					<description><![CDATA[Australia’s home battery boom has become a victim of its own success. More than 600,000 batteries have now been installed under the federal government’s Cheaper Home Batteries Program. This extraordinary uptake has surpassed the expectations of the government’s program modelers. With the allocated funds being utilised sooner than expected, the Cheaper Home Batteries Program is now under scrutiny as the government looks for savings.
+]]></description>
+										<content:encoded><![CDATA[
+<p>Focusing only on the cost of the subsidy misses an important part of the equation: home batteries are not simply subsidised appliances sitting in individual homes. At sufficient scale, they are part of Australia’s energy infrastructure.</p>
+
+
+
+<p>Energy Minister Chris Bowen recently said batteries are “putting downward pressure on prices for everyone, whether or not you have a battery.” The Australian Energy Market Operator’s (AEMO) data points the same way: NEM wholesale prices fell 47% year-on-year in the June 2026 quarter, with lower evening peaks a key driver. Western Australia’s wholesale prices rose over the same period as coal availability tightened, which is exactly why flexible capacity there, including more than 1,000 MWh of household storage, matters.</p>
+
+
+
+<h3 class="wp-block-heading">A battery in a home can still benefit the grid</h3>
+
+
+
+<p>Nationally, households with batteries are collectively reducing evening demand by hundreds of MW. Importantly, much of that benefit occurs without anyone actively controlling those batteries.</p>
+
+
+
+<p>Electricity networks and generators have to be capable of supplying the periods when demand is highest, even if those peaks occur for relatively short periods. If distributed batteries can reduce those peaks, they can reduce the need for additional generation, storage and network capacity over time.</p>
+
+
+
+<p>When the government subsidises a battery, it isn&#8217;t only helping a household buy an energy product. It is helping build distributed energy capacity.</p>
+
+
+
+<p>Seen through that lens, simply cutting the program because uptake has exceeded expectations risks being a false economy.</p>
+
+
+
+<p>The program faces a fair question: is it simply subsidising households that could have bought a battery anyway? The Opposition has argued as much. Rewiring Australia compared every postcode and found batteries are being installed in line with each income band’s share of households. About 81% are in postcodes with a median household income of $60,000 to $120,000, almost exactly the share of households living there. Higher-income postcodes have installed slightly more than their share, but not dramatically.</p>
+
+
+
+<p>Plico’s data fits: our busiest postcodes since 1 July 2025 are the Perth suburbs of Armadale, Cockburn and Wanneroo, outer-suburban growth corridors. About half of our customers have used the WA no-interest loan, which is only available to households with a combined income under $210,000.</p>
+
+
+
+<p>The sharper divide is housing type: postcodes dominated by owner-occupied houses have installed about 6.5 times as many batteries per household as those with mostly strata and rentals. That is an argument for widening access, not winding the program back.</p>
+
+
+
+<h3 class="wp-block-heading">The bigger opportunity is coordination</h3>
+
+
+
+<p>A battery that can respond to the needs of the electricity system is potentially much more valuable. That is the purpose of a virtual power plant (VPP).</p>
+
+
+
+<p>A VPP coordinates thousands of individual batteries so they can operate, when needed, more like a single power station responding collectively to periods of high demand, excess solar generation or other conditions in the electricity market.</p>
+
+
+
+<p>Western Australia has already recognised this. Participation in a VPP is a requirement of the WA Residential Battery Scheme, which provides rebates of up to $1,300 for Synergy customers and $3,800 for Horizon Power customers on top of the federal incentive.</p>
+
+
+
+<p>Rather than asking whether Australia can afford to keep subsidising batteries, we should be asking how we extract greater public value from the batteries taxpayers are helping households install.</p>
+
+
+
+<p>There is a reasonable argument that an open-ended subsidy cannot continue indefinitely.</p>
+
+
+
+<p>But there is a significant difference between gradually reducing support as the market matures and withdrawing support before we have captured the system-wide benefits that drove the policy in the first place.</p>
+
+
+
+<p>A better approach would be to increasingly connect the subsidy to the capability of batteries to support the grid. That doesn&#8217;t necessarily mean compelling householders to hand control of their battery to an energy company whenever it wants it.</p>
+
+
+
+<p>Customers need to understand how their battery will be used, how much capacity remains available for their own needs and what they receive in return for participating.</p>
+
+
+
+<p>The taxpayer helps a household overcome the upfront cost of a battery, the household receives lower energy costs and greater energy independence, and the electricity system gains flexible capacity that can be called on when it is most valuable.</p>
+
+
+
+<p>The next stage of the market needs to be about performance as well as installation.</p>
+
+
+
+<p>The objective should not be to maximise the number of batteries registered to a VPP, but to maximise the amount of useful, reliable and consumer-supported flexible capacity available to the energy system.</p>
+
+
+
+<p>The extraordinary response to the Cheaper Home Batteries Program suggests consumers are ready to participate. Now policy needs to move to the next phase.</p>
+
+
+
+<p>The question shouldn&#8217;t be whether the success of the program means we can afford to cut it, rather it should focus on how we turn that success into an energy resource that benefits everybody.</p>
+
+
+
+<p>That is an opportunity worth being taken seriously by those decision-makers who are now getting the wobbles.</p>
+
+
+
+<p><em>Author: Robbie Campbell, Chief Executive Officer, <a href="https://www.plicoenergy.com.au/wa">Plico</a></em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/20/cutting-home-battery-subsidy-shapes-as-false-economics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>UNSW researcher wins international award for pioneering PV work</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/20/unsw-researcher-wins-international-award-for-pioneering-pv-work/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/20/unsw-researcher-wins-international-award-for-pioneering-pv-work/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2026 00:06:00 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[cells & modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18793</guid>
+
+					<description><![CDATA[UNSW solar researcher Xiaojing Hao has received one of the world’s most prestigious awards for engineers and scientists in recognition of her research and technological contributions to solar energy conversion.]]></description>
+										<content:encoded><![CDATA[
+<p>University of New South Wales (UNSW)&nbsp;Scientia Associate Professor Xiaojing Hao, a pioneer in the field of thin-film PV, has been recognised on the international stage as the winner of the Hamakawa Award&nbsp;in recognition of her breakthroughs in developing the next generation of solar energy cells.</p>
+
+
+
+<p>The Hamakawa Award honours outstanding contributions to PV research and technological accomplishment. Hao, who has established herself as a world leader in the field of PV technology through the creation of four different thin-film technologies, was presented with the award during the World Conference on PV Energy Conversion staged in South Korea last week.</p>
+
+
+
+<p>Hao’s record-breaking research focuses on the development of low-cost, high-efficiency thin-film and tandem solar cells, with a focus on emerging PV materials and scalable device engineering.</p>
+
+
+
+<p>Since joining the field as a PhD student in 2006, Hao is credited with driving four different thin-film PV technologies to world-record status, including last month achieving a certified stabilised power conversion efficiency of 23.5% for a 30 x 30cm <a href="https://www.pv-magazine-australia.com/2026/10/07/unsw-researchers-achieve-23-5-efficiency-record-for-large-scale-perovskite-pv-submodule/">perovskite submodule</a>. Earlier this year she was part of a team that achieved a certified power conversion efficiency with solar cells made from <a href="https://www.pv-magazine-australia.com/2026/01/20/unsw-team-sets-efficiency-record-for-emerging-solar-cell-material/">antimony chalcogenide</a>, an emerging material regarded as a strong candidate for next-generation solar technology.</p>
+
+
+
+<p>Hao said she is proud of her team’s work and now hopes to see the next-generation PV technologies she is developing move from the laboratory into fabrication and real-world applications.</p>
+
+
+
+<p>“My ambition is to help advance silicon-based tandem solar cells, accelerate the transition to more efficient and sustainable energy technologies, and contribute to global net-zero goals and industrial decarbonisation,” she said.</p>
+
+
+
+<p>“This is an incredibly exciting field with the potential to reshape how the world generates and uses energy. We need curious, creative and ambitious students who want to tackle challenges that matter.”</p>
+
+
+
+<p>Hao is the first Australian PV scientist to receive the Hamakawa Award and was nominated for the honour by UNSW Scientia Professor <a href="https://www.pv-magazine-australia.com/2025/10/21/australian-solar-pioneer-wins-top-uk-engineering-prize/">Martin Green</a> who cited not only her significant research achievements but also her leadership in the field.</p>
+
+
+
+<p>“Xiaojing has greatly surpassed the award criteria by developing not one, but undoubtedly uniquely, four different thin-film PV technologies to world record status,” Green said in the submission.</p>
+
+
+
+<p>“She has demonstrated outstanding international leadership in the ongoing development of these technologies.”</p>
+
+
+
+<p>“She has made an important and internationally recognised contribution to the development of the global PV sector and helped define pathways to the future.”</p>
+
+
+
+<p>The Hamakawa award was established in 2014 as part of the World Conference on PV Energy Conversion. The award is not given every year.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/20/unsw-researcher-wins-international-award-for-pioneering-pv-work/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Indonesia could reach 96.7 GW of solar by 2029 with policy reforms</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/20/indonesia-could-reach-96-7-gw-of-solar-by-2029-with-policy-reforms/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/20/indonesia-could-reach-96-7-gw-of-solar-by-2029-with-policy-reforms/#respond</comments>
+		
+		<dc:creator><![CDATA[Patrick Jowett]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 23:21:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Residential]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18787</guid>
+
+					<description><![CDATA[IESR says Indonesia could achieve most of its 100 GW of solar by 2029 target through coordinated utility-scale procurement, rooftop PV deployment, diesel replacement and rural electrification, but warns regulatory and grid barriers need to be addressed.]]></description>
+										<content:encoded><![CDATA[
+<p>Indonesia’s cumulative installed solar capacity reached 1.59 GW as of the first quarter of 2026 (Q1 2026), according to the latest report from the Institute for Essential Services Reform (IESR), a Jakarta-based think tank. </p>
+
+
+
+<p>IESR’s <a href="https://iesr.or.id/pustaka/indonesia-solar-energy-outlook-2027/" target="_blank" rel="noreferrer noopener">Indonesia Solar Energy Outlook 2027</a> says the figure is equivalent to about 1.5% of Indonesia’s power generation capacity and 0.3% of electricity production.</p>
+
+
+
+<p>Rooftop PV currently accounts for the largest share of installed capacity, standing at 0.9 GW as of Q1 2026. Utility-scale solar accounted for 0.33 GW, captive solar for 0.3 GW and installations in remote areas for around 0.06 GW.</p>
+
+
+
+<p>With the country passing the 1 GW solar milestone <a href="https://www.pv-magazine.com/2026/02/04/indonesias-solar-capacity-reaches-1-49-gw/" target="_blank" rel="noreferrer noopener">in 2025</a>, IESR said the current growth rate is “far behind the government’s ambition to make solar power one of the backbones of the national energy system”, as set out in the country’s <a href="https://www.pv-magazine.com/2026/07/30/indonesia-signals-start-of-100-gw-solar-initiative/" target="_blank" rel="noreferrer noopener">100 GW solar power program</a> which President Prabowo Subianto has set a target of <a href="https://www.pv-magazine.com/2026/08/26/indonesia-aims-for-100-gw-solar-target-by-2029/" target="_blank" rel="noreferrer noopener">achieving by 2029</a>.</p>
+
+
+
+<p>The program officially launched in August with a first phase of 14 projects totaling about 5.2 GW, but only 526 MW of this capacity currently have targeted completion dates, IESR’s report reveals.</p>
+
+
+
+<p>The think tank adds that deployments are currently held back by regulatory gaps, procurement uncertainty and limited grid access.</p>
+
+
+
+<p>In a statement sent to <strong>pv magazine</strong>, IESR CEO Fabby Tumiwa said the 100 GW ambition needs to be reflected in updates to Indonesia’s 2025-2034 electricity supply business plan (RUPTL), with greater emphasis on utility-scale PV and battery energy storage systems (BESS), diesel replacement with solar-plus-storage and rooftop PV deployment.</p>
+
+
+
+<p>IESR’s modelling suggests Indonesia could reach 96.7 GW of solar capacity by 2029 if development proceeds through multiple channels simultaneously.&nbsp;</p>
+
+
+
+<p>The report says about 8 GW is already planned through RUPTL and <a href="https://www.pv-magazine.com/2026/05/05/indonesia-tenders-1-2-gw-of-solar/" target="_blank" rel="noreferrer noopener">Mentari GigaOne</a> procurements, while a further 56 GW could come through procurements by Indonesia’s state-owned electric utility PLN. It suggests the remaining 33 GW could be developed through rooftop PV, diesel replacement, rural electrification, captive solar and other distributed applications.</p>
+
+
+
+<p>IESR said five enablers that must move together – demand, rooftop access, procurement, grid and supply chain – will determine whether the 100 GW scales.</p>
+
+
+
+<p>Under a high-electrification scenario, Indonesia’s electricity demand could be around 160 TWh higher in 2035 than under a business-as-usual scenario, according to figures from the report. Electrification of transport, industry, cooling, cooking and data centres, alongside potential electricity exports, could help create additional demand for solar generation.</p>
+
+
+
+<p>IESR also suggests rooftop solar quotas be determined according to grid hosting capacity at the substation level, rather than through the current quota system, which it said limits deployment.</p>
+
+
+
+<p>For utility-scale projects, the report recommends more transparent procurement schedules and reverse auctions. Projects are frequently tendered individually without a clear timetable, making it harder for developers, lenders and suppliers to prepare, IESR said.</p>
+
+
+
+<p>Grid and storage investment will also need to keep pace. Indonesia’s 2025-2034 RUPTL includes 42.6 GW of renewable energy and 10.3 GW of energy storage, but some transmission infrastructure needed to integrate solar is not scheduled until 2030-2034. IESR’s report recommends regulatory changes and incentives to encourage investment in storage.</p>
+
+
+
+<p>In the report, Tumiwa notes that Indonesia’s domestic solar supply chain is rising faster than demand. Solar module production capacity reached 27 GW per year in 2026, although the report notes more than half of it needs further verification due to relabelling allegations, while cell capacity now stands at 14.3 GW.</p>
+
+
+
+<p>It said that after 98.2% of Indonesia’s solar module exports went to the United States in 2025, US preliminary duties of about 104% in February 2026 cut Indonesian exports to the US by about 98%, from a peak of 2.2 GW in November 2025 to 34 MW in April 2026. Final duties of up to 268% followed in September 2026</p>
+
+
+
+<p>IESR said the 100 GW program “could provide a market anchor [for the solar supply chain] if accompanied by consistent policy and project certainty.&#8221;</p>
+
+
+
+<p>The 100 GW target must also be explicitly incorporated into revisions of the National Electricity General Plan (RUKN) and RUPTL, IESR added, with defined procurement channels, grid requirements, distributed solar roles and legal frameworks for project ownership and financing.</p>
+
+
+
+<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/20/indonesia-could-reach-96-7-gw-of-solar-by-2029-with-policy-reforms/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Longi presents 25.2%-efficient solar module with triple-protection design</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/20/longi-presents-25-2-efficient-solar-module-with-triple-protection-design/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/20/longi-presents-25-2-efficient-solar-module-with-triple-protection-design/#respond</comments>
+		
+		<dc:creator><![CDATA[Vincent Shaw]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 22:04:00 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18786</guid>
+
+					<description><![CDATA[Longi’s new Hi-MO X10 module features a triple-protection design to mitigate hotspots, electrical arcing, and microcracks in C&#38;I rooftop installations. The company said it combined cell-level hotspot suppression, laser-welded junction boxes, and low-temperature welding to improve module reliability.]]></description>
+										<content:encoded><![CDATA[
+<p>Chinese PV manufacturer <a href="https://www.pv-magazine.com/2026/07/15/longi-sets-new-world-record-with-35-5-efficient-perovskite-silicon-tandem-cell/">Longi</a> launched its Hi-MO X10 Full-Screen Triple-Protection PV module on Nov. 17 at an industry event in Qingdao, China. The module features a front-side light-receiving area ratio of 98.58%, the highest the company has achieved in a commercial product.</p>
+
+
+
+<p>The module retains the standard 2,382 mm × 1,134 mm dimensions of Longi’s existing Hi-MO X10 lineup for distributed PV applications, while increasing the light-receiving area by 759.3 cm² through four structural modifications.</p>
+
+
+
+<p>Longi said it eliminated 20 white gaps between cells using a low-temperature film-welding process that bonds the cells at ambient temperature before a low-heat lamination step. The process reportedly limits the resulting height difference to 130 micrometres and recovers 178 cm² of light-receiving area.</p>
+
+
+
+<p>The company also relocated three front-side busbars to the rear of the module, adding another 294 cm². According to Longi, thinner busbar profiles and staggered positioning help mitigate the risk of microcracks associated with rear-side busbar stacking. The remaining modifications include reducing inter-string spacing from 1.48 mm to 1 mm and cutting the cell-to-frame creepage distance from 12.9 mm to less than 9 mm through the use of upgraded insulation materials.</p>
+
+
+
+<p>The module delivers a maximum front-side power output of 680 W and a conversion efficiency of 25.2%. Its standard power rating for volume production is 670 W, which Longi claims is 20 W higher than that of mainstream TOPCon modules of the same size.</p>
+
+
+
+<p>To address additional rear-side shading caused by the relocation of the busbars, Longi replaced flat ribbons with round-wire ribbons, introduced precision-insulated sub-busbar break points, and developed an alloy frame profile designed to prevent the frame’s C-shaped section from shading the cells. The company said these changes increase the rear-side light-receiving area by 2.5% and enable a maximum bifaciality of 85%.</p>
+
+
+
+<p>The module’s triple-protection design targets three reliability challenges that Longi identifies as particularly significant for commercial and industrial (C&amp;I) rooftop installations: hotspots, electrical arcing, and microcracks.</p>
+
+
+
+<p>For hotspot protection, the company integrated additional structures equivalent to bypass diodes within each <a href="https://www.pv-magazine.com/2024/12/09/longi-debuts-hpbc-2-0-modules-in-chinas-first-distributed-solar-project/">hybrid passivated back contact</a> (HPBC) 2.0 cell, which it claims can limit hotspot temperatures to below 100 C. To mitigate electrical arcing, Longi uses laser fusion welding in the junction box to eliminate metal-to-metal interface gaps that can contribute to DC arc formation.</p>
+
+
+
+<p>Microcrack resistance is addressed through the same low-temperature welding process used in the full-screen design, combined with thinner busbars to reduce mechanical stress during transportation and installation.</p>
+
+
+
+<p>The module has received TÜV SÜD and TÜV Rheinland certifications under IEC 61215 and IEC 61730. Longi also reported double-stress potential-induced degradation (PID), light-induced degradation (LID), and light- and elevated-temperature-induced degradation (LeTID) testing, along with level-six salt-mist, ammonia, and dust testing, and hail-impact qualification using 25 mm and 35 mm hailstones.</p>
+
+
+
+<p>The product comes with a 15-year materials warranty and a 30-year linear power-output warranty. Longi specifies maximum first-year degradation of 1% and annual linear degradation of no more than 0.35%.</p>
+
+
+
+<p>Longi said shipments of its Hi-MO X10 Triple-Protection modules reached 1.5 GW in China’s C&amp;I market in August 2026. The company added that triple-protection variants accounted for more than half of its distributed PV shipments in the first nine months of 2026.</p>
+
+
+
+<p>Speaking at the launch, Longi Chairman Zhong Baoshen cited internal laboratory results showing that the company’s <a href="https://www.pv-magazine.com/2024/12/09/longi-debuts-hpbc-2-0-modules-in-chinas-first-distributed-solar-project/">hybrid interdigitated back-contact </a>(HIBC) solar cell had achieved a conversion efficiency of 28.29%, approaching the theoretical crystalline silicon efficiency limit of 29.4% cited by the company. He positioned the full-screen module design as a complementary approach to improving power output through structural optimization, alongside further gains in cell conversion efficiency.</p>
+
+
+
+<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/20/longi-presents-25-2-efficient-solar-module-with-triple-protection-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>EDF Australia acquires grid forming Holloway BESS in New England REZ</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/19/edf-australia-acquires-grid-forming-holloway-bess-in-new-england-rez/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/19/edf-australia-acquires-grid-forming-holloway-bess-in-new-england-rez/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 05:21:22 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18767</guid>
+
+					<description><![CDATA[EDF power solutions Australia has acquired from SynCo Global, the proposed 250 MW Holloway Battery Energy Storage System project located in the NSW-based New England Renewable Energy Zone.]]></description>
+										<content:encoded><![CDATA[
+<p>Subsidiary of French state-owned EDF Group, EDF power solutions Australia has acquired from Australian clean energy developer SynCo Global, the <a href="https://www.pv-magazine-australia.com/2026/02/19/big-battery-capacity-jumps-globally-12-times-in-four-years/" target="_blank" rel="noreferrer noopener">proposed</a> 250 MW Holloway Battery Energy Storage System (BESS) project.</p>
+
+
+
+<p>Located near Armidale, New South Wales (NSW) 650 metres from the Armidale Substation in the <a href="https://www.pv-magazine-australia.com/2026/07/21/deal-sealed-to-unlock-3-56-gw-capacity-in-nsw-renewable-energy-zone/" target="_blank" rel="noreferrer noopener">New England</a> Renewable Energy Zone (REZ), the <a href="https://www.pv-magazine.com/2025/10/21/australia-becomes-worlds-third-largest-utility-battery-market/" target="_blank" rel="noreferrer noopener">utility-scale</a> project&#8217;s 3-hectare site is approximately 380 kilometres northwest of Sydney.</p>
+
+
+
+<p>Planning and environmental assessment activities are underway with an environmental impact statement (EIS) imminent. A final investment decision (FID) on the state significant designated development is targeted for late 2027 and operations to commence in 2029.</p>
+
+
+
+<p>EDF Australia Chief Executive Officer James Katsikas said being in close proximity to key grid infrastructure, the project is well placed to support the integration of increasing volumes of renewable energy into the market.</p>
+
+
+
+<p>“As renewable generation <a href="https://www.pv-magazine-australia.com/press-releases/deep-transition-reshapes-nsws-energy-future/" target="_blank" rel="noreferrer noopener">continues to grow </a>across NSW, projects such as the Holloway BESS are essential to capture excess renewable generation and make that electricity available when homes and businesses need it most,&#8221; Katsikas said.</p>
+
+
+
+<p>The Holloway BESS is antipated to operate for up to 30 years beyond which the site will be decommissioned, components removed and where possible recycled, EDF said.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/19/edf-australia-acquires-grid-forming-holloway-bess-in-new-england-rez/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>e-Storage to supply battery energy system for X-Elio project in NSW</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/19/e-storage-to-supply-battery-energy-system-for-x-elio-project-in-nsw/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/19/e-storage-to-supply-battery-energy-system-for-x-elio-project-in-nsw/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 04:08:43 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Modules]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18762</guid>
+
+					<description><![CDATA[Spanish developer X-Elio has selected Canadian Solar subsidiary e-Storage to supply battery energy storage systems for a project in New South Wales.]]></description>
+										<content:encoded><![CDATA[
+<p>Brookfield Renewable-owned Spanish clean energy developer <a href="https://www.pv-magazine-australia.com/2026/04/16/amazon-commits-to-430-mw-of-solar-and-bess-power-purchase-agreements/" target="_blank" rel="noreferrer noopener">X-Elio</a> has selected Ontario-based Canadian Solar subsidiary e-Storage to supply an undisclosed battery energy storage system (BESS) for a project in New South Wales.</p>
+
+
+
+<p>Backed by a 22-year long-term service agreement (LTSA), the project will use e-Storage&#8217;s SolBank 3.0 battery system, power conversion systems (PCS) and plant controls manufactured at Canadian Solar facilities.</p>
+
+
+
+<p>The SolBank 3.0 has a nominal capacity of 5 MWh, and supports 2-hour and 4-hour configurations with a rated power output of between 1.2 MW and 2.35 MW.</p>
+
+
+
+<p>The project is expected to reach commercial operation in the next two years. </p>
+
+
+
+<p>Other NSW X-Elio projects include the 300 MW / 1,200 MWh solar-plus-storage project near Goulburn, located approximatley 200 kilometres southeast of Sydney, and two in the Central West Orana Renewable Energy Zone (<a href="https://www.pv-magazine-australia.com/2026/09/18/four-projects-backed-by-2023-nsw-firming-tender-achieve-3-gwh-milestone/" target="_blank" rel="noreferrer noopener">CWO REZ</a>) that includes the under-construction Forest Glen Hybrid 90 MW solar, 90 MW / 180 MWh BESS project 16 kilometres west of <a href="https://www.pv-magazine-australia.com/2024/02/27/x-elio-strikes-million-dollar-deal-with-nsw-council/" target="_blank" rel="noreferrer noopener">Dubbo</a>, and the Puggoon 264 MW solar farm and 110 MW / 440 MWh BESS near Mudgee.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="575" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-1024x575.jpg" alt="" class="wp-image-151128" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-1024x575.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-300x168.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-768x431.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-1536x862.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-2048x1150.jpg 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-260x146.jpg 260w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">e-Storage and E-Elio representatives attending US clean energy conference RE+ 2026 where the agreement was signed. | <i>Image: Canadian Solar</i></figcaption></figure>
+
+
+
+<p>Signed at RE+ 2026 in the US, the agreements follow a 6 October 2026 announcement by e-Storage, which had entered an agreement to supply and commission a 100 MW / 200 MWh BESS for OX2&#8217;s <a href="https://www.pv-magazine-australia.com/2026/11/17/developer-turns-to-back-contact-module-tech-for-nsw-solar-project/" target="_blank" rel="noreferrer noopener">Muswellbrook Solar Farm</a> and Battery, also in NSW.</p>
+
+
+
+<p>The company will deliver an integrated solution to that project built on its SolBank 3.0 battery containers paired with PCS and plant controls, plus the company&#8217;s proprietary EQ-S energy management system (EMS).</p>
+
+
+
+<p>Along with the NSW project agreementwith  X-Elio, e-Storage also signed agreements with the company to supply four battery energy storage projects in Texas, US, with the combined five projectstotalingg 590 MW / 1.43 GWhDCc.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/19/e-storage-to-supply-battery-energy-system-for-x-elio-project-in-nsw/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SA installer flagged by regulator crackdown gets five months in the sin bin</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/19/sa-installer-flagged-by-regulator-crackdown-gets-five-months-in-the-sin-bin/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/19/sa-installer-flagged-by-regulator-crackdown-gets-five-months-in-the-sin-bin/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 01:20:10 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Residential]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18759</guid>
+
+					<description><![CDATA[A South Australian installer has been identified by the Clean Energy Regulator's three-strikes rule crackdown on solar retailers and installers who demonstrate poor workmanship, declaring him ineligible to install systems for five months.]]></description>
+										<content:encoded><![CDATA[
+<p>The Clean Energy Regulator (CER) has reiterated its call on solar retailers and installers to ‘do it once and do it well’ as it progresses a a three-strikes rule <a href="https://www.pv-magazine-australia.com/2026/11/11/regulator-suspends-major-solar-and-battery-installer-from-sres/" target="_blank" rel="noreferrer noopener">crackdown</a> on poor workmanship, and most recently has flagged a South Australian (SA) accredited installer.</p>
+
+
+
+<p>Under the directive, the CER declares David Mogg ineligible for five months to install <a href="https://www.pv-magazine-australia.com/2026/11/06/rooftop-solar-installations-year-on-year-to-october-up-41/" target="_blank" rel="noreferrer noopener">solar</a> or battery systems under the Small-scale Renewable Energy Scheme (SRES) or to receive small-scale technology certificates (STCs).</p>
+
+
+
+<p>Inspections of Mogg&#8217;s work identified aspects of an installation that did not meet <a href="https://www.pv-magazine-australia.com/2026/11/16/60-of-home-battery-installs-rated-substandard-by-regulator/">Australian standards</a> or scheme requirements, the CER said.</p>
+
+
+
+<p>CER Chair Tony Chappel said the organisation has been warning installers it won’t hesitate to act when unsafe and non-compliant work is identified.</p>
+
+
+
+<p>&#8220;Our inspection reports and letters clearly set out what needs to improve and warn that further compliance action may follow,&#8221; Chappel said.</p>
+
+
+
+<p>&#8220;If that advice is not taken seriously and issues continue, we will act.&#8221;</p>
+
+
+
+<p>Under Regulation 47 of the Renewable Energy (Electricity) Regulations 2001, the CER may declare a person ineligible to participate in the SRES if they are subject to an adverse finding in an inspection report on three separate occasions. </p>
+
+
+
+<p>Action under the regulation operates separately, and in addition to, any compliance actions that can be taken by accreditation bodies or states and territories.</p>
+
+
+
+<p>A CER statement said its approach is to support installers in complying with their obligations, while taking firmer action when ongoing non-compliance is identified.</p>
+
+
+
+<p>Since 1 July 2025, the CER has communicated with over 830 installers regarding adverse inspection outcomes and their obligations under the scheme. </p>
+
+
+
+<p>This includes 718 initial advisory letters to installers for first-time non-compliance, and 121 warning letters to installers with repeated non-compliance. </p>
+
+
+
+<p>&#8220;The message to installers continues to be, to do it once and do it well,&#8221; Chappel said.</p>
+
+
+
+<p>&#8220;Poor and unsafe work will be found out, and installers will be required to return to site and rectify any issues or face the consequences.&#8221;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/19/sa-installer-flagged-by-regulator-crackdown-gets-five-months-in-the-sin-bin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>EcoFlow expands Ocean 2 range with new 8 kWh home battery</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/19/ecoflow-expands-ocean-2-range-with-new-8-kwh-home-battery/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/19/ecoflow-expands-ocean-2-range-with-new-8-kwh-home-battery/#respond</comments>
+		
+		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
+		<pubDate>Wed, 18 Nov 2026 23:41:46 +0000</pubDate>
+				<category><![CDATA[Technology & Products]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18757</guid>
+
+					<description><![CDATA[EcoFlow has introduced a new product to its Ocean 2 residential energy range, with an 8 kWh battery delivering up to 32 kWh capacity to help meet demand, where 1 GWh of small-scale battery energy storage was installed in Australia just October 2026.]]></description>
+										<content:encoded><![CDATA[
+<p>China-headquartered clean energy company <a href="https://www.google.com/search?q=ecoflow+pv+magaizne+Austlria&amp;rlz=1C1CHBF_en-GBAU1055AU1055&amp;oq=ecoflow+pv+magaizne+Austlria&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM1MTBqMGo3qAIIsAIB&amp;sourceid=chrome&amp;source=chrome.ob&amp;ie=UTF-8" target="_blank" rel="noreferrer noopener">EcoFlow</a> has expanded it&#8217;s home energy portfolio in Australia with the introduction of the Ocean 2, 8 kWh residential battery offering a higher-capacity storage solution that deliveres more storage within each module, reducing the number required for larger installations.</p>
+
+
+
+<p>Ocean 2 supports up to three wall-mounted 8 kWh batteries, delivering 24 kWh of storage capacity, or four floor-mounted offering up to 32 kWh capacity. </p>
+
+
+
+<p>The system supports configurations from 5 kWh to 96 kWh per inverter, weighs 67.5kg per battery and comes with a standard ten-year warranty, with an optional paid five-year extension available through participating installers.</p>
+
+
+
+<p>EcoFlow Head of Residential UK &amp; ANZ Craig Bilboe said Australia is already leading the way in rooftop solar, but generating electricity is only part of the picture. </p>
+
+
+
+<p>&#8220;The next step is helping households store and use more of that energy effectively. Our new 8 kWh battery makes it easier for installers to deliver higher-capacity storage without adding unnecessary complexity,&#8221; Bilboe said.</p>
+
+
+
+<p>&#8220;With fewer modules, flexible configurations and intelligent energy management, we&#8217;re helping make home energy storage more practical for Australian households.&#8221;</p>
+
+
+
+<p>The new 8 kWh battery joins EcoFlow&#8217;s OCEAN 2 <a href="https://www.pv-magazine-australia.com/2026/11/18/helping-homeowners-understand-practicalities-of-battery-backup/" target="_blank" rel="noreferrer noopener">residential energy </a>portfolio, including OCEAN 2 Three-Phase and OCEAN 2 Plus <a href="https://www.pv-magazine-australia.com/press-releases/ecoflow-unveils-ocean-2-plus-single-phase-at-smart-energy-2026/" target="_blank" rel="noreferrer noopener">Single-Phase</a> solutions.</p>
+
+
+
+<p><strong>Energy management systems</strong></p>
+
+
+
+<p>The solution is supported by energy management systems, including the remote monitoring system, the EcoFlow App and the in-home 11-inch PowerInsight 2 home energy monitor.</p>
+
+
+
+<p>The EcoFlow app brings solar generation, <a href="https://www.pv-magazine-australia.com/2026/11/10/home-battery-volumes-on-rise-as-rebate-tally-reaches-600000/" target="_blank" rel="noreferrer noopener">battery storage</a> and household electricity consumption together in one interface, and transforms complex energy data into clear, accessible insights, allowing homeowners to monitor system performance and understand how their electricity is being used.</p>
+
+
+
+<p>The PowerInsight 2 provides a dedicated touchscreen in-home display showing how much solar energy is being generated, tracking battery levels and monitoring household consumption.<a href="https://www.pv-magazine-australia.com/people-companies/david-carroll/"></a></p>
+
+
+
+<p>Australia&#8217;s installation of residential battery systems has exceeded 600,000, with a recent report from <a href="https://www.pv-magazine-australia.com/2026/11/06/rooftop-solar-installations-year-on-year-to-october-up-41/">SunWiz</a> showing Australian households and businesses installed an estimated 1,043 MWh of battery energy storage (5-100 kWh) capacity in October 2026, up 18% more than the 885 MWh registered in the same month in 2025, up 9.7% on the 966.5 MWh registered in <a href="https://www.pv-magazine-australia.com/2026/10/07/rooftop-installs-rise-on-back-of-battery-rebate-scheme/">September</a> 2026, and the strongest month since April 2026’s 3,262 MWh peak. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/19/ecoflow-expands-ocean-2-range-with-new-8-kwh-home-battery/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hybrid monofacial-bifacial PV arrays boost power output under shading</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/19/hybrid-monofacial-bifacial-pv-arrays-boost-power-output-under-shading/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/19/hybrid-monofacial-bifacial-pv-arrays-boost-power-output-under-shading/#respond</comments>
+		
+		<dc:creator><![CDATA[Lior Kahana]]></dc:creator>
+		<pubDate>Wed, 18 Nov 2026 21:45:00 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[cells & modules]]></category>
+		<category><![CDATA[Modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18756</guid>
+
+					<description><![CDATA[Researchers tested a nine-module array combining six monofacial and three bifacial panels under 12 illumination patterns. The experiments assessed how module placement and electrical reconfiguration influence power output.]]></description>
+										<content:encoded><![CDATA[
+<p>A research team in India has experimentally investigated the performance of a photovoltaic array combining monofacial and <a href="https://www.pv-magazine-australia.com/2026/11/17/developer-turns-to-back-contact-module-tech-for-nsw-solar-project/" target="_blank" rel="noreferrer noopener">bifacial</a> solar modules.</p>
+
+
+
+<p>“To mitigate power increase and cost, a hybrid PV array arrangement incorporates a small number of bifacial modules within a traditional monofacial array,” the researchers said. </p>
+
+
+
+<p>“Employing a switching matrix-based reconfiguration approach, the most effective hybrid configuration was dynamically selected.”</p>
+
+
+
+<p>The researchers tested different configurations of a 3 × 3 PV array to determine how to increase power output while limiting costs.</p>
+
+
+
+<p>They assembled a 3 × 3 PV array with nine modules electrically connected in a total-cross-tied configuration. They first measured the voltage, current, and power output of a reference array comprising nine 10 W monofacial modules. They then replaced three of the modules with 12 W bifacial modules to create a hybrid array.</p>
+
+
+
+<p>The team tested six configurations, placing the three bifacial modules in different positions: diagonally in the top-left, center, and bottom-right positions; across the top row; down the leftmost column; in the center and the two bottom corners; in the top-right and two bottom corners; and in the top-middle, top-right, and bottom-right positions. The remaining six positions in each configuration were occupied by monofacial modules.</p>
+
+
+
+<p>The researchers conducted rooftop experiments at Kamaraj College of Engineering and Technology in southern India under 12 irradiance conditions: no shading, uneven column shading, uneven row shading, diagonal shading, plus-shaped shading, center shading, corner shading, outer shading, short-and-wide shading, long-and-wide shading, left-corner shading, and random shading.</p>
+
+
+
+<p>They compared the electrical performance of each hybrid configuration with that of the all-monofacial reference array. They also investigated whether switching between different configurations could improve power output under changing shading conditions.</p>
+
+
+
+<p>In the “double-hybrid” analysis, the researchers compared pairs of configurations, while the “triple-hybrid” analysis considered groups of three. For each shading pattern, they selected the configuration delivering the highest power output within each pair or group.</p>
+
+
+
+<p>“In the double-hybrid analysis, bifacial placements in the first column and grouped configurations ((2 × 2), (3 × 1), and (3 × 3)) consistently delivered superior performance, with power output ranging from 95 W under no-shading conditions to 26 W under severe <a href="https://www.pv-magazine-australia.com/2026/10/23/no-roof-left-behind-how-advanced-solar-technology-can-bring-difficult-commercial-buildings-into-australias-energy-transition/" target="_blank" rel="noreferrer noopener">shading</a>, outperforming other configurations in nine shading scenarios,” the researchers said. </p>
+
+
+
+<p>“Similarly, the triple-hybrid comparison showed that first-row and first-column placements, along with grouped configurations, achieved maximum power in a greater number of shading cases.”</p>
+
+
+
+<p>The researchers presented their findings in “<a href="https://www.nature.com/articles/s41598-026-75433-z#rightslink" target="_blank" rel="noreferrer noopener">An experimental investigation of photovoltaic array with mixed mono-facial and bi-facial modules</a>,” published in <em>Scientific Reports</em>. The research team included scientists from India’s <a href="https://www.pv-magazine.com/2025/10/16/novel-swapping-technique-for-partially-shaded-pv-systems/" target="_blank" rel="noreferrer noopener">M. Kumarasamy College of Engineering</a>, <a href="https://www.pv-magazine.com/2024/09/12/optimizing-bifacial-solar-panels-for-floating-pv-applications-in-tropical-freshwater/">Kamaraj College of Engineering and Technology</a>, Sri Vidya College of Engineering &amp; Technology, Vardhaman College of Engineering, and <a href="https://www.pv-magazine.com/2024/05/14/indian-scientists-design-lead-free-perovskite-solar-cell-with-23-61-efficiency/" target="_blank" rel="noreferrer noopener">Chitkara University</a>.</p>
+
+
+
+<p></p>
+
+
+
+<p>From pv magazine <a href="https://www.pv-magazine.com/" target="_blank" rel="noreferrer noopener">Global</a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/19/hybrid-monofacial-bifacial-pv-arrays-boost-power-output-under-shading/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Zealand confirms 2028 rollout for battery market reforms</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/18/new-zealand-confirms-2028-rollout-for-battery-market-reforms/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/18/new-zealand-confirms-2028-rollout-for-battery-market-reforms/#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Publicover]]></dc:creator>
+		<pubDate>Wed, 18 Nov 2026 03:23:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18744</guid>
+
+					<description><![CDATA[Battery owners in New Zealand will be able to trade their full capacity and submit offers with up to 10 price bands, compared with five for other generators, from March 2028, while consultation on rules for battery-hybrid plants has slipped into next year, according to the country’s electricity regulator.]]></description>
+										<content:encoded><![CDATA[
+<p>New Zealand’s electricity market regulator, the Electricity Authority Te Mana Hiko, said it has corrected the effective date of a battery market rule to March 31, 2028, and moved consultation on market arrangements for battery-hybrid plants to early 2027.</p>
+
+
+
+<p>The corrected rule allows battery owners to submit offers with up to 10 price bands. Its effective date was wrong in both the decision paper and the amendment to the Electricity Industry Participation Code the regulator published in September.</p>
+
+
+
+<p>The consultation on wholesale market and common quality arrangements for battery-hybrid stations had been planned for late 2026. The authority said it will shortly issue guidance on how prospective hybrid plant owners can operate and trade in the market in the interim.</p>
+
+
+
+<p>The rules, set out in a Sept. 29 decision, are being introduced in two phases because the required software upgrades will take time. Since Oct. 30, utility-scale batteries have had to be dispatchable when charging from the grid, not just when discharging.</p>
+
+
+
+<p>“We consider they should be dispatchable across their full operational range as they are highly controllable assets,” the authority said in its decision paper.</p>
+
+
+
+<p>As an interim measure, battery owners can trade on their expected capability and update offer and bid quantities after gate closure, the point at which bids and offers must be locked in before dispatch, if that capability changes.</p>
+
+
+
+<p>The regulator said the existing arrangements may lead to conservative trading, because a battery’s ability to charge or discharge can change quickly as its stored energy changes.</p>
+
+
+
+<p><strong>Full capacity</strong></p>
+
+
+
+<p>From March 31, 2028, battery owners will be able to trade their full capacity, with state-of-charge constraints in the dispatch software limiting charging and discharging to feasible levels based on stored energy.</p>
+
+
+
+<p>They will submit charging bids and discharging offers on a single trade form and receive a single dispatch instruction. They will also have 10 price bands each for bids and offers, compared with a maximum of five for offers from other generators.</p>
+
+
+
+<p>Gate closure for offers from batteries connected to local distribution networks will move from 30 minutes to one hour, aligning them with batteries connected directly to the transmission grid. The authority deferred the change after industry feedback and pushed the final phase back three months to upgrade the System Operator’s software for multiple frequency keeping, an ancillary service that maintains grid frequency.</p>
+
+
+
+<p>The September decision paper said four utility-scale batteries were connected to New Zealand’s power system, with many more planned.</p>
+
+
+
+<p>New Zealand’s grid-scale battery fleet has grown as its <a href="https://www.ess-news.com/2025/08/08/spotlight-on-new-zealand-battery-storage-capacity-expands-as-hydro-faces-climate-challenges/" target="_blank" rel="noreferrer noopener">hydro-dominated power system faces climate pressures</a>. Contact Energy <a href="https://www.pv-magazine-australia.com/2026/06/02/contact-opens-glenbrook-battery-to-boost-nz-energy-security/" target="_blank" rel="noreferrer noopener">opened its Glenbrook battery south of Auckland</a> in June, and French manufacturer Saft was <a href="https://www.ess-news.com/2024/09/19/saft-to-supply-200-mwh-battery-storage-project-in-new-zealand/" target="_blank" rel="noreferrer noopener">selected to supply a 200 MWh battery project in the country</a> in 2024.</p>
+
+
+
+<p><strong><a href="https://www.ess-news.com/">From ESS News</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/18/new-zealand-confirms-2028-rollout-for-battery-market-reforms/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
