@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Battery-News</title>
+	<atom:link href="https://battery-news.de/feed/" rel="self" type="application/rss+xml" />
+	<link>https://battery-news.de/</link>
+	<description>Die Newsbroker-Webseite zum Thema Lithium-Ionen-Batterien in Deutschland</description>
+	<lastBuildDate>Fri, 20 Nov 2026 15:03:23 +0000</lastBuildDate>
+	<language>de</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.12</generator>
+
+<image>
+	<url>https://battery-news.de/wp-content/uploads/2019/01/cropped-Battery-News-Logo-1-32x32.jpg</url>
+	<title>Battery-News</title>
+	<link>https://battery-news.de/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mehr Kapazität, mehr Aufgaben, mehr Herausforderung</title>
+		<link>https://battery-news.de/2026/11/20/mehr-kapazitaet-mehr-aufgaben-mehr-herausforderung/</link>
+		
+		<dc:creator><![CDATA[Redaktion]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2026 08:30:00 +0000</pubDate>
+				<category><![CDATA[Top Story]]></category>
+		<category><![CDATA[Top-Story]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40319</guid>
+
+					<description><![CDATA[<p>Während die Leistungsfähigkeit großer Batteriespeicher stetig zunimmt, wachsen auch die Aufgaben – und damit steigt die Herausforderung für alle Beteiligten. Planer, Betreiber und Investoren müssen neben der technischen Umsetzung auch die regulatorischen Anforderungen und individuelle Gegebenheiten berücksichtigen. Unabhängige Sachverständige von TÜV SÜD unterstützen bei der Aufgabe, alle Rahmenbedingungen miteinander in Einklang zu bringen. Großbatteriespeicher wachsen immer mehr aus der Rolle des reinen „Puffers“ heraus, der überschüssige Energie aus zum Beispiel Wind oder Sonne vorübergehend speichert. Sie übernehmen Aufgaben konventioneller Kraftwerke, unter anderem deren netzstabilisierende Funktionen. Das macht Großbatteriespeicher zu anspruchsvollen Systemen, bei denen sowohl die rechtlichen Bedingungen für die Standortwahl und die Aufstellung als auch betriebstechnische Anforderungen aus Elektrotechnik und Brandschutz berücksichtigt werden müssen. Hauptsächlich bestimmen die geplante Kapazität, die Art der Nutzung, das vorgesehene System und der Aufstellort die Anforderungen an Planung, Genehmigung, Bau und Betrieb. Je größer Leistung und Kapazität sind, desto stärker trägt ein Speicher zur Stabilisierung des Stromnetzes bei, und desto komplexer wird die Aufgabe der Fachplaner, wenn die Funktionen über das reine Speichern und Abgeben hinausgehen. Ab einer gewissen Größe können Großbatteriespeicher auch als kritische Infrastruktur (KRITIS) eingestuft werden müssen folglich gesetzliche Anforderungen und Vorgaben z. B. aus dem KRITIS-Dachgesetz erfüllen. Wenn ein Ausfall die Versorgungssicherheit gefährdet, müssen Verfügbarkeit, Resilienz, Betriebssicherheit, Notfallvorsorge und Wiederanlaufkonzepte gewährleistet und klar beschrieben sein. Jede Planung wird in besonderem Maße von den spezifischen Bedingungen am Aufstellort bestimmt. Da es vorkommen kann, dass sich Anforderungen aus unterschiedlichen Bereichen widersprechen, ist die unabhängige Unterstützung durch Sachverständige mit Erfahrung aus umgesetzten Prüf- und Genehmigungsverfahren besonders wertvoll. Die enge Zusammenarbeit aller Projektbeteiligten über den gesamten Planungs- Bau, und Inbetriebnahmeprozess bis hin zum Betrieb verringert das Risiko aufwändiger Nachbesserungen und verzögerter Genehmigungen. Häufige Fragestellungen betreffen etwa bestehende Risikoanalysen, Brandschutz- und Sicherheitskonzepte oder auch typische Situationen, in denen Nachforderungen an die Planung gestellt werden. Ein Projekt, viele Interessen In die erfolgreiche Planung eines Großbatteriespeichers fließen Interessen und Sichtweisen der künftigen Betreiber, der Investoren und der Hersteller ein. Betreiber: Für Betreiber bestehender oder geplanter Großspeicher sind vor allem ein sicherer und nachhaltiger Betrieb sowie der Betriebskosten relevant. Die Verfügbarkeit muss gewährleistet sein, umso mehr, wenn der Speicher netzstabilisierende Funktionen übernimmt und unter KRITIS gehört. Kosten entstehen u. a. durch Wartungen, Serviceeinsätze, die Bevorratung und Beschaffung von Ersatzteilen sowie durch mögliche Verluste bei Betriebsausfällen. Nicht zuletzt müssen die verpflichtenden wiederkehrenden Prüfungen und deren Dokumentation in die Betriebskosten einbezogen werden. Zusätzlich müssen Betriebsanweisungen und Notfallpläne für Störfälle jederzeit aktuell vorgehalten werden und zugänglich sein. Gleichzeitig fließen Prüf- und Wartungsnachweise häufig in die Versicherungskonditionen mit ein und vergünstigen diese. Mit standardisierten Konzepten und akzeptierten Nachweisen werden Genehmigungsprozesse vereinfacht und der Projektablauf lässt sich sicherer und effizienter planen. Investoren: Technische und wirtschaftliche Risiken bei Planung und Betrieb eines Großbatteriespeichers sind für Investoren von zentralem Interesse. Sie sind vor allem an einer möglichst umfassenden Risikoabsicherung interessiert. Prüfzertifikate und technische Nachweise fließen daher regelmäßig in Due-Diligence-Prozesse ein und können Finanzierungsentscheidungen maßgeblich beeinflussen. Hersteller: Während für Planung und Betrieb höchst individuelle Rahmenbedingungen zu berücksichtigen sind, suchen Hersteller nach möglichst standardisierten Lösungen für den vielseitigen Einsatz. Globale Lieferketten und regulatorische Anforderungen der Aufstellorte bilden ein Spannungsfeld, zu dem auch die Klärung der geltenden Konformitätsanforderungen zählt. Hersteller von Batteriesystemen müssen u. a. belastbare risikoorientierte Brandschutzstrategien vorlegen, um dem Risiko des thermischen Durchgehens (unkontrollierte Überhitzung) zu begegnen. Neben der Frage, welche harmonisierten Normen und andere Vorschriften zu berücksichtigen sind, kann auch die Einbindung einer Benannten Stelle, eines „Notified Body“ wie TÜV SÜD nötig sein. Das Brandschutzkonzept wird nicht zuletzt vom Baurecht gefordert. Es ist eine Voraussetzung für die Bau- und Betriebsgenehmigung. Die Erfahrung von Sachverständigen zum Beispiel bei der Ermittlung von Brandschutzmaßnahmen, der Auslegung von Brandschutzsystemen sowie der Festlegung von Sicherheitsabständen trägt zur Planungssicherheit bei und verringert das Risiko aufwändiger und teurer Anpassungen aufgrund behördlicher Auflagen. Schnittstelle Planungsbüro Wie viel Kapazität ein Großbatteriespeicher zur Verfügung stellen kann, ist nur ein Teil der Projektplanung. Der Kontext und die Rahmenbedingungen des Standorts machen jedes Projekt zu einem Einzelfall, bei dem unterschiedliche Verfahren erforderlich sind. Dies können Risikoanalysen sein, Nachweise zur Objektsicherheit oder der Resilienz. Auch Anforderungen der Investoren unterscheiden sich von Projekt zu Projekt. Je frühzeitiger und enger alle Beteiligten hier zusammenarbeiten, desto effizienter lassen sich anspruchsvolle Großspeicherprojekte planen und umsetzen. Fachplaner und Prüfdienstleister agieren hier gemeinsam als Schnittstelle, die Produktinformationen und Auslegungsdokumente der Hersteller in Planungs- und Genehmigungsunterlagen einbindet, Betreiberanforderungen in technische Konzepte sowie Prüf- und Betriebsanweisungen überführt. Autor Manuel ObertSenior Projekt und Business Development ManagerEnergie und SystemeSystemtechnik, Sicherheit und Risiko Kontakt TÜV SÜD Industrie Service GmbHWestendstraße 19980686 München / MunichGermany manuel.obert@tuvsud.comhttp://www.tuvsud.com/de-is</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/20/mehr-kapazitaet-mehr-aufgaben-mehr-herausforderung/">Mehr Kapazität, mehr Aufgaben, mehr Herausforderung</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Während die Leistungsfähigkeit großer Batteriespeicher stetig zunimmt, wachsen auch die Aufgaben – und damit steigt die Herausforderung für alle Beteiligten. Planer, Betreiber und Investoren müssen neben der technischen Umsetzung auch die regulatorischen Anforderungen und individuelle Gegebenheiten berücksichtigen. Unabhängige Sachverständige von TÜV SÜD unterstützen bei der Aufgabe, alle Rahmenbedingungen miteinander in Einklang zu bringen.</p>
+
+
+
+<p>Großbatteriespeicher wachsen immer mehr aus der Rolle des reinen „Puffers“ heraus, der überschüssige Energie aus zum Beispiel Wind oder Sonne vorübergehend speichert. Sie übernehmen Aufgaben konventioneller Kraftwerke, unter anderem deren netzstabilisierende Funktionen. Das macht Großbatteriespeicher zu anspruchsvollen Systemen, bei denen sowohl die rechtlichen Bedingungen für die Standortwahl und die Aufstellung als auch betriebstechnische Anforderungen aus Elektrotechnik und Brandschutz berücksichtigt werden müssen.</p>
+
+
+
+<p>Hauptsächlich bestimmen die geplante Kapazität, die Art der Nutzung, das vorgesehene System und der Aufstellort die Anforderungen an Planung, Genehmigung, Bau und Betrieb. Je größer Leistung und Kapazität sind, desto stärker trägt ein Speicher zur Stabilisierung des Stromnetzes bei, und desto komplexer wird die Aufgabe der Fachplaner, wenn die Funktionen über das reine Speichern und Abgeben hinausgehen. Ab einer gewissen Größe können Großbatteriespeicher auch als kritische Infrastruktur (KRITIS) eingestuft werden müssen folglich gesetzliche Anforderungen und Vorgaben z. B. aus dem KRITIS-Dachgesetz erfüllen. Wenn ein Ausfall die Versorgungssicherheit gefährdet, müssen Verfügbarkeit, Resilienz, Betriebssicherheit, Notfallvorsorge und Wiederanlaufkonzepte gewährleistet und klar beschrieben sein.</p>
+
+
+
+<p>Jede Planung wird in besonderem Maße von den spezifischen Bedingungen am Aufstellort bestimmt. Da es vorkommen kann, dass sich Anforderungen aus unterschiedlichen Bereichen widersprechen, ist die unabhängige Unterstützung durch Sachverständige mit Erfahrung aus umgesetzten Prüf- und Genehmigungsverfahren besonders wertvoll. Die enge Zusammenarbeit aller Projektbeteiligten über den gesamten Planungs- Bau, und Inbetriebnahmeprozess bis hin zum Betrieb verringert das Risiko aufwändiger Nachbesserungen und verzögerter Genehmigungen. Häufige Fragestellungen betreffen etwa bestehende Risikoanalysen, Brandschutz- und Sicherheitskonzepte oder auch typische Situationen, in denen Nachforderungen an die Planung gestellt werden.</p>
+
+
+
+<p>Ein Projekt, viele Interessen</p>
+
+
+
+<p>In die erfolgreiche Planung eines Großbatteriespeichers fließen Interessen und Sichtweisen der künftigen Betreiber, der Investoren und der Hersteller ein.</p>
+
+
+
+<p>Betreiber: Für Betreiber bestehender oder geplanter Großspeicher sind vor allem ein sicherer und nachhaltiger Betrieb sowie der Betriebskosten relevant. Die Verfügbarkeit muss gewährleistet sein, umso mehr, wenn der Speicher netzstabilisierende Funktionen übernimmt und unter KRITIS gehört. Kosten entstehen u. a. durch Wartungen, Serviceeinsätze, die Bevorratung und Beschaffung von Ersatzteilen sowie durch mögliche Verluste bei Betriebsausfällen. Nicht zuletzt müssen die verpflichtenden wiederkehrenden Prüfungen und deren Dokumentation in die Betriebskosten einbezogen werden. Zusätzlich müssen Betriebsanweisungen und Notfallpläne für Störfälle jederzeit aktuell vorgehalten werden und zugänglich sein. Gleichzeitig fließen Prüf- und Wartungsnachweise häufig in die Versicherungskonditionen mit ein und vergünstigen diese. Mit standardisierten Konzepten und akzeptierten Nachweisen werden Genehmigungsprozesse vereinfacht und der Projektablauf lässt sich sicherer und effizienter planen.</p>
+
+
+
+<p>Investoren: Technische und wirtschaftliche Risiken bei Planung und Betrieb eines Großbatteriespeichers sind für Investoren von zentralem Interesse. Sie sind vor allem an einer möglichst umfassenden Risikoabsicherung interessiert. Prüfzertifikate und technische Nachweise fließen daher regelmäßig in Due-Diligence-Prozesse ein und können Finanzierungsentscheidungen maßgeblich beeinflussen.</p>
+
+
+
+<p>Hersteller: Während für Planung und Betrieb höchst individuelle Rahmenbedingungen zu berücksichtigen sind, suchen Hersteller nach möglichst standardisierten Lösungen für den vielseitigen Einsatz. Globale Lieferketten und regulatorische Anforderungen der Aufstellorte bilden ein Spannungsfeld, zu dem auch die Klärung der geltenden Konformitätsanforderungen zählt. Hersteller von Batteriesystemen müssen u. a. belastbare risikoorientierte Brandschutzstrategien vorlegen, um dem Risiko des thermischen Durchgehens (unkontrollierte Überhitzung) zu begegnen. Neben der Frage, welche harmonisierten Normen und andere Vorschriften zu berücksichtigen sind, kann auch die Einbindung einer Benannten Stelle, eines „Notified Body“ wie TÜV SÜD nötig sein. Das Brandschutzkonzept wird nicht zuletzt vom Baurecht gefordert. Es ist eine Voraussetzung für die Bau- und Betriebsgenehmigung. Die Erfahrung von Sachverständigen zum Beispiel bei der Ermittlung von Brandschutzmaßnahmen, der Auslegung von Brandschutzsystemen sowie der Festlegung von Sicherheitsabständen trägt zur Planungssicherheit bei und verringert das Risiko aufwändiger und teurer Anpassungen aufgrund behördlicher Auflagen.</p>
+
+
+
+<h2 class="wp-block-heading">Schnittstelle Planungsbüro</h2>
+
+
+
+<p>Wie viel Kapazität ein Großbatteriespeicher zur Verfügung stellen kann, ist nur ein Teil der Projektplanung. Der Kontext und die Rahmenbedingungen des Standorts machen jedes Projekt zu einem Einzelfall, bei dem unterschiedliche Verfahren erforderlich sind. Dies können Risikoanalysen sein, Nachweise zur Objektsicherheit oder der Resilienz. Auch Anforderungen der Investoren unterscheiden sich von Projekt zu Projekt. Je frühzeitiger und enger alle Beteiligten hier zusammenarbeiten, desto effizienter lassen sich anspruchsvolle Großspeicherprojekte planen und umsetzen.</p>
+
+
+
+<p>Fachplaner und Prüfdienstleister agieren hier gemeinsam als Schnittstelle, die Produktinformationen und Auslegungsdokumente der Hersteller in Planungs- und Genehmigungsunterlagen einbindet, Betreiberanforderungen in technische Konzepte sowie Prüf- und Betriebsanweisungen überführt.</p>
+
+
+
+<h3 class="wp-block-heading">Autor</h3>
+
+
+
+<p>Manuel Obert<br>Senior Projekt und Business Development Manager<br>Energie und Systeme<br>Systemtechnik, Sicherheit und Risiko</p>
+
+
+
+<h3 class="wp-block-heading">Kontakt</h3>
+
+
+
+<p>TÜV SÜD Industrie Service GmbH<br>Westendstraße 199<br>80686 München / Munich<br>Germany</p>
+
+
+
+<p><em><a href="mailto:manuel.obert@tuvsud.com" target="_blank" rel="noreferrer noopener">manuel.obert@tuvsud.com</a><br><a href="http://www.tuvsud.com/de-is" target="_blank" rel="noreferrer noopener">http://www.tuvsud.com/de-is</a></em></p>
+
+
+
+<p></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/20/mehr-kapazitaet-mehr-aufgaben-mehr-herausforderung/">Mehr Kapazität, mehr Aufgaben, mehr Herausforderung</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>GMG lässt Graphen-Batteriezellen im britischen UKBIC fertigen</title>
+		<link>https://battery-news.de/2026/11/20/gmg-laesst-graphen-batteriezellen-im-britischen-ukbic-fertigen/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieentwicklung]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40323</guid>
+
+					<description><![CDATA[<p>Der australische Graphenhersteller Graphene Manufacturing Group (GMG) hat eine erste Dienstleistungsvereinbarung mit dem UK Battery Industrialisation Centre (UKBIC) in Coventry unterzeichnet, wie das Unternehmen am 19. November mitteilte. Laut GMG soll das UKBIC die schnellladefähigen Graphen-Batteriezellen des Unternehmens fertigen und formieren, zunächst im Pouch-Format. Größere Formate sollen folgen. Material aus Brisbane, Zellen aus Coventry Wie es in der Mitteilung heißt, entwickelt und liefert GMG die Batteriematerialien weiterhin aus seinem Battery Development Centre in Brisbane, während das UKBIC die Zellfertigung übernimmt. GMG bezahlt die Leistungen und behält sämtliche Rechte am geistigen Eigentum. Nach Angaben des Unternehmens kann es so Investitionen in ein eigenes Werk für großformatige Zellen aufschieben, bis die Technologie weiter abgesichert ist. Berichten zufolge arbeitet GMG zudem weiterhin mit BIC Indiana in den USA zusammen. Frühes Entwicklungsstadium Produktionsmengen und einen Zeitplan nennt die Mitteilung nicht. Im Dezember 2025 hatte GMG seine Zellen als Graphen-Aluminium-Ionen-Batterien auf Technologiereifegrad 4 beschrieben und eine Energiedichte von 58 Wh/kg bei einstündiger Ladung sowie 26 Wh/kg bei sechsminütiger Ladung angegeben. Eine kleine kommerzielle Produktion war damals für 2027 geplant. Das UKBIC wurde im Juli 2021 als nationale Anlage für die Industrialisierung der Batteriefertigung eröffnet. Laut electrive wurde das 130 Millionen GBP (etwa 170 Millionen USD) teure Zentrum von der Faraday Battery Challenge der britischen Regierung und der West Midlands Combined Authority kofinanziert. Quellen:https://www.financialcontent.com/article/newsfile-2026-11-19-gmg-signs-service-agreement-with-the-uk-battery-industrialisation-centre-to-manufacture-grcells-in-the-united-kingdomhttps://www.nasdaq.com/press-release/gmg-unveils-graphene-aluminium-ion-battery-fully-charges-6-minutes-2025-12-15</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/20/gmg-laesst-graphen-batteriezellen-im-britischen-ukbic-fertigen/">GMG lässt Graphen-Batteriezellen im britischen UKBIC fertigen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Der australische Graphenhersteller Graphene Manufacturing Group (GMG) hat eine erste Dienstleistungsvereinbarung mit dem UK Battery Industrialisation Centre (UKBIC) in Coventry unterzeichnet, wie das Unternehmen am 19. November mitteilte. Laut GMG soll das UKBIC die schnellladefähigen Graphen-Batteriezellen des Unternehmens fertigen und formieren, zunächst im Pouch-Format. Größere Formate sollen folgen.</p>
+
+
+
+<p><strong>Material aus Brisbane, Zellen aus Coventry</strong></p>
+
+
+
+<p>Wie es in der Mitteilung heißt, entwickelt und liefert GMG die Batteriematerialien weiterhin aus seinem Battery Development Centre in Brisbane, während das UKBIC die Zellfertigung übernimmt. GMG bezahlt die Leistungen und behält sämtliche Rechte am geistigen Eigentum. Nach Angaben des Unternehmens kann es so Investitionen in ein eigenes Werk für großformatige Zellen aufschieben, bis die Technologie weiter abgesichert ist. Berichten zufolge arbeitet GMG zudem weiterhin mit BIC Indiana in den USA zusammen.</p>
+
+
+
+<p><strong>Frühes Entwicklungsstadium</strong></p>
+
+
+
+<p>Produktionsmengen und einen Zeitplan nennt die Mitteilung nicht. Im Dezember 2025 hatte GMG seine Zellen als Graphen-Aluminium-Ionen-Batterien auf Technologiereifegrad 4 beschrieben und eine Energiedichte von 58 Wh/kg bei einstündiger Ladung sowie 26 Wh/kg bei sechsminütiger Ladung angegeben. Eine kleine kommerzielle Produktion war damals für 2027 geplant.</p>
+
+
+
+<p>Das UKBIC wurde im Juli 2021 als nationale Anlage für die Industrialisierung der Batteriefertigung eröffnet. Laut electrive wurde das 130 Millionen GBP (etwa 170 Millionen USD) teure Zentrum von der Faraday Battery Challenge der britischen Regierung und der West Midlands Combined Authority kofinanziert.</p>
+
+
+
+<p><em>Quellen:<br><a href="https://www.financialcontent.com/article/newsfile-2026-11-19-gmg-signs-service-agreement-with-the-uk-battery-industrialisation-centre-to-manufacture-grcells-in-the-united-kingdom" target="_blank" rel="noreferrer noopener">https://www.financialcontent.com/article/newsfile-2026-11-19-gmg-signs-service-agreement-with-the-uk-battery-industrialisation-centre-to-manufacture-grcells-in-the-united-kingdom</a><br><a href="https://www.nasdaq.com/press-release/gmg-unveils-graphene-aluminium-ion-battery-fully-charges-6-minutes-2025-12-15" target="_blank" rel="noreferrer noopener">https://www.nasdaq.com/press-release/gmg-unveils-graphene-aluminium-ion-battery-fully-charges-6-minutes-2025-12-15</a></em><br></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/20/gmg-laesst-graphen-batteriezellen-im-britischen-ukbic-fertigen/">GMG lässt Graphen-Batteriezellen im britischen UKBIC fertigen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>BMZ integriert digitale Batteriepässe in die EU-Serienfertigung</title>
+		<link>https://battery-news.de/2026/11/19/bmz-integriert-digitale-batteriepaesse-in-die-eu-serienfertigung/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieproduktion]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40298</guid>
+
+					<description><![CDATA[<p>Der Batteriesystemhersteller BMZ mit Sitz in Karlstein am Main führt digitale Batteriepässe für seine EU-Produktion in Deutschland und Polen ein. Laut einer Pressemitteilung vom 17. November hat das Unternehmen dafür den Berliner Softwareanbieter Minespider ausgewählt. Die Pässe sollen direkt aus den Produktionsdaten entstehen, statt in einem separaten Verwaltungsprozess erstellt zu werden. Ein Passansatz für alle Batterietypen Wie es in der Mitteilung heißt, sollen die Pässe die E-Auto-Batterien von BMZ, Batterien für leichte Verkehrsmittel wie E-Bikes sowie Industriebatterien abdecken. Produkt- und Herstellerdaten, Konformitätsunterlagen, Angaben zur Kreislauffähigkeit und Betriebsdaten werden demnach einer eindeutigen Batteriekennung zugeordnet und per QR-Code über öffentliche und berechtigungsbasierte Bereiche zugänglich gemacht. Minespider übernimmt Berichten zufolge Datenmapping, Gap-Analyse, Plattformeinrichtung und die Anbindung an die internen Fertigungssysteme von BMZ. Start bis Mitte Dezember Nach Angaben der Unternehmen soll das System bis Mitte Dezember 2026 bereitstehen. Zum Start sind manuelle Passerstellung und Chargen-Importe vorgesehen, ein API-basierter Datenaustausch für höhere Stückzahlen soll erst später folgen. Welche Produktionsvolumen das System abdeckt, wurde nicht genannt. Gemäß der EU-Batterieverordnung müssen E-Auto-Batterien, Batterien für leichte Verkehrsmittel sowie Industriebatterien mit mehr als 2 kWh ab dem 18. Februar 2027 beim Inverkehrbringen in der EU einen digitalen Batteriepass haben. Quellen:https://www.minespider.com/press/bmz-selects-minespider-to-integrate-digital-battery-passports-into-eu-battery-production</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/19/bmz-integriert-digitale-batteriepaesse-in-die-eu-serienfertigung/">BMZ integriert digitale Batteriepässe in die EU-Serienfertigung</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Der Batteriesystemhersteller BMZ mit Sitz in Karlstein am Main führt digitale Batteriepässe für seine EU-Produktion in Deutschland und Polen ein. Laut einer Pressemitteilung vom 17. November hat das Unternehmen dafür den Berliner Softwareanbieter Minespider ausgewählt. Die Pässe sollen direkt aus den Produktionsdaten entstehen, statt in einem separaten Verwaltungsprozess erstellt zu werden.</p>
+
+
+
+<p><strong>Ein Passansatz für alle Batterietypen</strong></p>
+
+
+
+<p>Wie es in der Mitteilung heißt, sollen die Pässe die E-Auto-Batterien von BMZ, Batterien für leichte Verkehrsmittel wie E-Bikes sowie Industriebatterien abdecken. Produkt- und Herstellerdaten, Konformitätsunterlagen, Angaben zur Kreislauffähigkeit und Betriebsdaten werden demnach einer eindeutigen Batteriekennung zugeordnet und per QR-Code über öffentliche und berechtigungsbasierte Bereiche zugänglich gemacht. Minespider übernimmt Berichten zufolge Datenmapping, Gap-Analyse, Plattformeinrichtung und die Anbindung an die internen Fertigungssysteme von BMZ.</p>
+
+
+
+<p><strong>Start bis Mitte Dezember</strong></p>
+
+
+
+<p>Nach Angaben der Unternehmen soll das System bis Mitte Dezember 2026 bereitstehen. Zum Start sind manuelle Passerstellung und Chargen-Importe vorgesehen, ein API-basierter Datenaustausch für höhere Stückzahlen soll erst später folgen. Welche Produktionsvolumen das System abdeckt, wurde nicht genannt.</p>
+
+
+
+<p>Gemäß der EU-Batterieverordnung müssen E-Auto-Batterien, Batterien für leichte Verkehrsmittel sowie Industriebatterien mit mehr als 2 kWh ab dem 18. Februar 2027 beim Inverkehrbringen in der EU einen digitalen Batteriepass haben.</p>
+
+
+
+<p><em>Quellen:<br><a href="https://www.minespider.com/press/bmz-selects-minespider-to-integrate-digital-battery-passports-into-eu-battery-production" target="_blank" rel="noreferrer noopener">https://www.minespider.com/press/bmz-selects-minespider-to-integrate-digital-battery-passports-into-eu-battery-production</a><br></em></p>
+
+
+
+<p></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/19/bmz-integriert-digitale-batteriepaesse-in-die-eu-serienfertigung/">BMZ integriert digitale Batteriepässe in die EU-Serienfertigung</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Moment Energy stellt UL-9540-zertifizierten Speicher aus gebrauchten E-Auto-Batterien vor</title>
+		<link>https://battery-news.de/2026/11/18/moment-energy-stellt-ul-9540-zertifizierten-speicher-aus-gebrauchten-e-auto-batterien-vor/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Wed, 18 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterierecycling]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40287</guid>
+
+					<description><![CDATA[<p>Das nordamerikanische Speicherunternehmen Moment Energy hat mit Nova ein Batteriespeichersystem aus wiederverwendeten E-Auto-Batterien vorgestellt. Laut dem Unternehmen ist Nova das erste System dieser Art, das sowohl nach UL 1973 als auch nach UL 9540 zertifiziert ist. Die Premiere fand am 17. November auf der RE+ in Las Vegas statt. 500 kWh pro Block Nach Angaben von Moment Energy liefert jeder Nova-Block 200 kW Leistung und 500 kWh Energie auf einer Grundfläche von 2,94 mal 1,80 Metern. Die Blöcke sollen sich zu Anlagen im zweistelligen Megawattstunden-Bereich kombinieren lassen. Ein KI-gestütztes Batteriemanagementsystem gleicht dem Unternehmen zufolge Packs mit unterschiedlichem Gesundheitszustand aus, während austauschbare Packs die Lebensdauer auf über 20 Jahre verlängern sollen. Zudem sei das System nach UL 9540A auf die Ausbreitung eines thermischen Durchgehens geprüft worden, so der Hersteller. Preise wurden nicht genannt, die angegebene Lebensdauer muss sich im Feld erst noch bestätigen. Auslieferung ab 2027 Gefertigt wird Nova demnach in der Megafactory 1 des Unternehmens, die nach UL 1974 für das Sortieren und Bewerten gebrauchter E-Auto-Batterien zertifiziert ist. Erste Auslieferungen sind für das erste Quartal 2027 geplant. Moment Energy gibt außerdem an, dass Nova unabhängig als konform mit den US-Vorgaben zu „Foreign Entities of Concern“ verifiziert wurde und damit für die bundesweite Investitionssteuergutschrift infrage kommt. Laut Battery Design ist UL 9540 in den USA der Sicherheitsstandard für stationäre Speichersysteme auf Systemebene und dient etwa im Brandschutzregelwerk NFPA 855 als grundlegende Voraussetzung. Quellen:https://www.globenewswire.com/news-release/2026/11/17/3404673/0/en/moment-energy-unveils-nova-the-next-generation-battery-energy-storage-system-made-from-ev-batteries.htmlhttps://www.batterydesign.net/legislation-rules-and-regulations/ul-9540/</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/18/moment-energy-stellt-ul-9540-zertifizierten-speicher-aus-gebrauchten-e-auto-batterien-vor/">Moment Energy stellt UL-9540-zertifizierten Speicher aus gebrauchten E-Auto-Batterien vor</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Das nordamerikanische Speicherunternehmen Moment Energy hat mit Nova ein Batteriespeichersystem aus wiederverwendeten E-Auto-Batterien vorgestellt. Laut dem Unternehmen ist Nova das erste System dieser Art, das sowohl nach UL 1973 als auch nach UL 9540 zertifiziert ist. Die Premiere fand am 17. November auf der RE+ in Las Vegas statt.</p>
+
+
+
+<p><strong>500 kWh pro Block</strong></p>
+
+
+
+<p>Nach Angaben von Moment Energy liefert jeder Nova-Block 200 kW Leistung und 500 kWh Energie auf einer Grundfläche von 2,94 mal 1,80 Metern. Die Blöcke sollen sich zu Anlagen im zweistelligen Megawattstunden-Bereich kombinieren lassen. Ein KI-gestütztes Batteriemanagementsystem gleicht dem Unternehmen zufolge Packs mit unterschiedlichem Gesundheitszustand aus, während austauschbare Packs die Lebensdauer auf über 20 Jahre verlängern sollen. Zudem sei das System nach UL 9540A auf die Ausbreitung eines thermischen Durchgehens geprüft worden, so der Hersteller. Preise wurden nicht genannt, die angegebene Lebensdauer muss sich im Feld erst noch bestätigen.</p>
+
+
+
+<p><strong>Auslieferung ab 2027</strong></p>
+
+
+
+<p>Gefertigt wird Nova demnach in der Megafactory 1 des Unternehmens, die nach UL 1974 für das Sortieren und Bewerten gebrauchter E-Auto-Batterien zertifiziert ist. Erste Auslieferungen sind für das erste Quartal 2027 geplant. Moment Energy gibt außerdem an, dass Nova unabhängig als konform mit den US-Vorgaben zu „Foreign Entities of Concern“ verifiziert wurde und damit für die bundesweite Investitionssteuergutschrift infrage kommt.</p>
+
+
+
+<p>Laut Battery Design ist UL 9540 in den USA der Sicherheitsstandard für stationäre Speichersysteme auf Systemebene und dient etwa im Brandschutzregelwerk NFPA 855 als grundlegende Voraussetzung.</p>
+
+
+
+<p><em>Quellen:<br><a href="https://www.globenewswire.com/news-release/2026/11/17/3404673/0/en/moment-energy-unveils-nova-the-next-generation-battery-energy-storage-system-made-from-ev-batteries.html" target="_blank" rel="noreferrer noopener">https://www.globenewswire.com/news-release/2026/11/17/3404673/0/en/moment-energy-unveils-nova-the-next-generation-battery-energy-storage-system-made-from-ev-batteries.html</a><br><a href="https://www.batterydesign.net/legislation-rules-and-regulations/ul-9540/" target="_blank" rel="noreferrer noopener">https://www.batterydesign.net/legislation-rules-and-regulations/ul-9540/</a></em></p>
+
+
+
+<p></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/18/moment-energy-stellt-ul-9540-zertifizierten-speicher-aus-gebrauchten-e-auto-batterien-vor/">Moment Energy stellt UL-9540-zertifizierten Speicher aus gebrauchten E-Auto-Batterien vor</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Prof. Heiner Heimes Kommentar (Oktober): Produktionskompetenz entsteht nur dort, wo produziert wird</title>
+		<link>https://battery-news.de/2026/11/17/prof-heiner-heimes-kommentar-oktober-produktionskompetenz-entsteht-nur-dort-wo-produziert-wird/</link>
+		
+		<dc:creator><![CDATA[Chris Lienemann]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 15:04:43 +0000</pubDate>
+				<category><![CDATA[Batterieproduktion]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40282</guid>
+
+					<description><![CDATA[<p>Prof. Heimes kommentiert die neuesten Entwicklungen der Batterieindustrie: Europa braucht nicht nur neue Batteriefabriken, sondern vor allem echte Produktionskompetenz. Drei Meldungen aus dem Oktober zeigen, wie sie entsteht: ACC und JRES wollen bestehende Kapazitäten besser nutzen, BMW skaliert Produktionswissen über ein globales Netzwerk, und QuantumScape macht mit Mühlbauer den nächsten Schritt bei der Industrialisierung von Feststoffbatterien. Europa muss Produktionskompetenz nutzen und skalieren ACC prüft eine Kooperation mit dem südkoreanischen Auftragsfertiger JRES bei der Elektrodenproduktion in Frankreich, BMW erweitert sein globales Gen-6-Produktionsnetzwerk und QuantumScape geht gemeinsam mit einem deutschen Anlagenbauer den nächsten Skalierungsschritt bei Feststoffbatterien. Die wichtigsten Produktionsmeldungen des Oktobers zeigen: Europa braucht nicht nur neue Batteriefabriken. Entscheidend ist, vorhandene Produktionskompetenz zu nutzen, weiterzuentwickeln und neue Technologien konsequent in industrielle Prozesse zu überführen. In der Batterieindustrie reicht technologisches Know-how allein nicht aus. Wettbewerbsfähigkeit entsteht dort, wo Produktentwicklung, Prozesse, Anlagen und Produktionserfahrung zusammenkommen. Genau diese Verbindung muss Europa stärken. Drei Entwicklungen aus dem Oktober zeigen unterschiedliche Wege dorthin. ACC und JRES: Vorhandene Produktionskapazität ist ein strategischer Wert JRES und ACC prüfen Elektrodenfertigung in Frankreich Battery-News-Artikel öffnen Der südkoreanische Batterie-Auftragsfertiger JR Energy Solution und der europäische Zellhersteller ACC prüfen eine Zusammenarbeit bei der Elektrodenfertigung. JRES könnte künftig Kapazitäten am französischen ACC-Standort Nersac für Kundenaufträge nutzen. Der Standort verbindet Produkt- und Prozessentwicklung mit industrieller Fertigung und hat bereits Elektroden hergestellt, die den Qualitätsanforderungen der Automobilindustrie entsprechen. Diese Meldung ist wichtiger, als sie auf den ersten Blick erscheint. Europa diskutiert häufig darüber, wo zusätzliche Batteriekapazitäten aufgebaut werden müssen. Gleichzeitig stellt sich aber mindestens ebenso dringend die Frage, wie bestehende Anlagen sinnvoll genutzt und industrielle Kompetenzen erhalten werden können. Gerade die Elektrodenfertigung ist dafür entscheidend. Beschichtung, Trocknung, Kalandrierung und die zugehörige Qualitätssicherung bestimmen wesentliche Eigenschaften der späteren Zelle. Prozesswissen in diesem Bereich entsteht über lange Lernkurven und lässt sich nicht kurzfristig aufbauen. Wenn vorhandene europäische Anlagen zusätzliche Kunden und Produkte fertigen können, bleibt nicht nur Produktionskapazität erhalten. Auch Mitarbeiter, Prozesswissen und Anlagenkompetenz bleiben im industriellen Einsatz. Eine Kooperation mit einem erfahrenen asiatischen Auftragsfertiger kann dabei sinnvoll sein. Europa muss nicht jeden Lernschritt allein wiederholen. Kooperationen können helfen, Erfahrung schneller in bestehende Produktionsstrukturen zu übertragen. Entscheidend ist aber, dass dieses Wissen langfristig auch in Europa verankert wird. Wir brauchen deshalb nicht ausschließlich neue Fabriken. Wir müssen vorhandene Produktionsstandorte so nutzen, dass aus installierter Kapazität dauerhaft industrielle Kompetenz entsteht. BMW: Batterieproduktion wird zur globalen Systemkompetenz BMW startet Gen-6-Batterieproduktion in China Battery-News-Artikel öffnen BMW hat im Oktober in Shenyang die Serienproduktion seiner Gen-6-Hochvoltbatterien gestartet. Nach den Standorten in Ungarn und Deutschland ist Shenyang der dritte Baustein des weltweiten Gen-6-Produktionsnetzwerks. Batterie, elektrische Antriebstechnik und die zentrale Steuerung des Energiesystems werden dabei eng miteinander verzahnt. Daran zeigt sich, wie stark sich Batterieproduktion von der einzelnen Fabrik zum Produktionssystem entwickelt. Die Zelle bleibt eine zentrale Komponente. Für den Fahrzeughersteller entsteht Wettbewerbsfähigkeit aber im Zusammenspiel von Zellformat, Batteriesystem, Leistungselektronik, Software, Fahrzeugarchitektur und Produktion. Wer diese Schnittstellen beherrscht, kann Produkt und Produktionsprozess besser aufeinander abstimmen. Besonders relevant ist dabei die globale Produktionsstruktur. Batterien werden in den großen Fahrzeugregionen gefertigt und eng mit den jeweiligen Werken verbunden. Das reduziert Transportwege und Lieferkettenrisiken. Noch wichtiger ist der Transfer von Produktionswissen zwischen mehreren Standorten. Eine einzelne Fabrik kann lernen. Ein Produktionsnetzwerk kann schneller lernen. Erkenntnisse über Prozessabweichungen, Qualitätsprobleme oder Anlagenoptimierungen können auf weitere Werke übertragen werden. Jeder zusätzliche Ramp-up startet damit auf einem höheren Erfahrungsniveau. Genau diese Lernfähigkeit brauchen wir auch in Europa. Einzelne Leuchtturmprojekte reichen nicht aus. Es müssen Strukturen entstehen, in denen Produktentwicklung, Produktion, Anlagenbau und Qualitätssicherung kontinuierlich gemeinsam weiterentwickelt werden. Industrielle Kompetenz entsteht nicht allein durch installierte Gigawattstunden. Sie entsteht durch wiederholte Produktion, Verbesserung und Skalierung. QuantumScape und Mühlbauer: Feststoffbatterien müssen den Produktionsnachweis liefern QuantumScape plant 100-MWh-Linie für Feststoffbatterien Battery-News-Artikel öffnen QuantumScape plant für 2028 eine Produktionslinie für Feststoffbatterien mit einer Kapazität von 100 MWh. Die Linie soll auf den Erfahrungen der bestehenden Pilotanlage in San Jose aufbauen. Die deutsche Mühlbauer Group soll Anlagen für die Zellmontage liefern und hat dafür bereits bestehende Prozesse analysiert und Anpassungen für größere Produktionsmengen entwickelt. Damit erreicht die Feststoffbatterie einen entscheidenden Punkt. Hohe Energiedichten und neue Materialsysteme sind technologisch interessant. Für den Markterfolg zählt aber, ob sich diese Eigenschaften reproduzierbar und wirtschaftlich in größeren Stückzahlen herstellen lassen. 100 MWh sind noch keine Gigafactory. Aber genau solche Skalierungsschritte sind notwendig. Zwischen Pilotanlage und Großserie liegt eine erhebliche produktionstechnische Lernkurve. Anlagen müssen höhere Durchsätze erreichen, ohne an Präzision zu verlieren. Prozesse müssen robuster werden. Qualitätssicherung muss direkt in die Produktion integriert werden. Gleichzeitig darf der Yield beim Hochskalieren nicht einbrechen. Dass ein deutscher Anlagenbauer früh in diesen Prozess eingebunden ist, ist deshalb besonders relevant. Europa darf neue Batterietechnologien nicht entwickeln und die anschließende Industrialisierung anderen Regionen überlassen. Der Maschinen- und Anlagenbau muss bereits während Pilotierung und Vorserie eingebunden werden. Nur so entsteht eigenes Prozesswissen. Die Feststoffbatterie ist dabei kein vollständiger Neustart der Industrie. Viele Kompetenzen der heutigen Lithium-Ionen-Produktion bleiben relevant. Beschichtung, Handling, Automatisierung, Qualitätssicherung und Prozessintegration werden auch bei neuen Zelltechnologien benötigt. Neue Zelltechnologien bieten Europa deshalb Chancen – aber nur, wenn wir nicht bei Forschung und Prototypen stehen bleiben. Fazit: Europa braucht Produktion, nicht nur Kapazität Die Entwicklungen im Oktober zeigen drei Bausteine einer wettbewerbsfähigen Batterieindustrie. ACC und JRES zeigen, wie bestehende Produktionsstrukturen genutzt und weiterentwickelt werden können. BMW demonstriert, wie Produktionswissen in einem globalen Netzwerk skaliert wird. QuantumScape und Mühlbauer zeigen, wie neue Zelltechnologien schrittweise in industrielle Prozesse überführt werden. Die gemeinsame Botschaft ist klar: Produktionskompetenz entsteht nur dort, wo tatsächlich produziert wird. Europa braucht deshalb nicht nur weitere Kapazitätsankündigungen. Bestehende Anlagen müssen ausgelastet, Prozesse verbessert und neue Technologien vom Pilotmaßstab in die industrielle Fertigung überführt werden. Dabei muss der europäische Maschinen- und Anlagenbau Teil dieser Lernkurve sein. Wer Anlagen entwickelt und Prozesse optimiert, baut gleichzeitig das Wissen auf, das für die nächste Generation von Batteriefabriken benötigt wird. Europas Ziel darf deshalb nicht allein mehr Batteriekapazität sein. Entscheidend ist, die Fähigkeit zur industriellen Batterieproduktion dauerhaft in Europa zu verankern.</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/17/prof-heiner-heimes-kommentar-oktober-produktionskompetenz-entsteht-nur-dort-wo-produziert-wird/">Prof. Heiner Heimes Kommentar (Oktober): Produktionskompetenz entsteht nur dort, wo produziert wird</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Prof. Heimes kommentiert die neuesten Entwicklungen der Batterieindustrie: Europa braucht nicht nur neue Batteriefabriken, sondern vor allem echte Produktionskompetenz. Drei Meldungen aus dem Oktober zeigen, wie sie entsteht: ACC und JRES wollen bestehende Kapazitäten besser nutzen, BMW skaliert Produktionswissen über ein globales Netzwerk, und QuantumScape macht mit Mühlbauer den nächsten Schritt bei der Industrialisierung von Feststoffbatterien.</p>
+
+
+
+<h1 class="wp-block-heading">Europa muss Produktionskompetenz nutzen und skalieren</h1>
+
+
+
+<p>ACC prüft eine Kooperation mit dem südkoreanischen Auftragsfertiger JRES bei der Elektrodenproduktion in Frankreich, BMW erweitert sein globales Gen-6-Produktionsnetzwerk und QuantumScape geht gemeinsam mit einem deutschen Anlagenbauer den nächsten Skalierungsschritt bei Feststoffbatterien. Die wichtigsten Produktionsmeldungen des Oktobers zeigen: Europa braucht nicht nur neue Batteriefabriken. Entscheidend ist, vorhandene Produktionskompetenz zu nutzen, weiterzuentwickeln und neue Technologien konsequent in industrielle Prozesse zu überführen.</p>
+
+
+
+<p>In der Batterieindustrie reicht technologisches Know-how allein nicht aus. Wettbewerbsfähigkeit entsteht dort, wo Produktentwicklung, Prozesse, Anlagen und Produktionserfahrung zusammenkommen. Genau diese Verbindung muss Europa stärken.</p>
+
+
+
+<p>Drei Entwicklungen aus dem Oktober zeigen unterschiedliche Wege dorthin.</p>
+
+
+
+<h1 class="wp-block-heading">ACC und JRES: Vorhandene Produktionskapazität ist ein strategischer Wert</h1>
+
+
+
+<p><strong>JRES und ACC prüfen Elektrodenfertigung in Frankreich</strong></p>
+
+
+
+<p><a href="https://battery-news.de/2026/10/19/jres-und-acc-pruefen-elektrodenfertigung-in-frankreich/">Battery-News-Artikel öffnen</a></p>
+
+
+
+<p>Der südkoreanische Batterie-Auftragsfertiger JR Energy Solution und der europäische Zellhersteller ACC prüfen eine Zusammenarbeit bei der Elektrodenfertigung. JRES könnte künftig Kapazitäten am französischen ACC-Standort Nersac für Kundenaufträge nutzen. Der Standort verbindet Produkt- und Prozessentwicklung mit industrieller Fertigung und hat bereits Elektroden hergestellt, die den Qualitätsanforderungen der Automobilindustrie entsprechen.</p>
+
+
+
+<p>Diese Meldung ist wichtiger, als sie auf den ersten Blick erscheint.</p>
+
+
+
+<p>Europa diskutiert häufig darüber, wo zusätzliche Batteriekapazitäten aufgebaut werden müssen. Gleichzeitig stellt sich aber mindestens ebenso dringend die Frage, wie bestehende Anlagen sinnvoll genutzt und industrielle Kompetenzen erhalten werden können.</p>
+
+
+
+<p>Gerade die Elektrodenfertigung ist dafür entscheidend. Beschichtung, Trocknung, Kalandrierung und die zugehörige Qualitätssicherung bestimmen wesentliche Eigenschaften der späteren Zelle. Prozesswissen in diesem Bereich entsteht über lange Lernkurven und lässt sich nicht kurzfristig aufbauen.</p>
+
+
+
+<p>Wenn vorhandene europäische Anlagen zusätzliche Kunden und Produkte fertigen können, bleibt nicht nur Produktionskapazität erhalten. Auch Mitarbeiter, Prozesswissen und Anlagenkompetenz bleiben im industriellen Einsatz.</p>
+
+
+
+<p>Eine Kooperation mit einem erfahrenen asiatischen Auftragsfertiger kann dabei sinnvoll sein. Europa muss nicht jeden Lernschritt allein wiederholen. Kooperationen können helfen, Erfahrung schneller in bestehende Produktionsstrukturen zu übertragen.</p>
+
+
+
+<p>Entscheidend ist aber, dass dieses Wissen langfristig auch in Europa verankert wird.</p>
+
+
+
+<p><strong>Wir brauchen deshalb nicht ausschließlich neue Fabriken. Wir müssen vorhandene Produktionsstandorte so nutzen, dass aus installierter Kapazität dauerhaft industrielle Kompetenz entsteht.</strong></p>
+
+
+
+<h1 class="wp-block-heading">BMW: Batterieproduktion wird zur globalen Systemkompetenz</h1>
+
+
+
+<p><strong>BMW startet Gen-6-Batterieproduktion in China</strong></p>
+
+
+
+<p><a href="https://battery-news.de/2026/10/16/bmw-startet-gen-6-batterieproduktion-in-china/">Battery-News-Artikel öffnen</a></p>
+
+
+
+<p>BMW hat im Oktober in Shenyang die Serienproduktion seiner Gen-6-Hochvoltbatterien gestartet. Nach den Standorten in Ungarn und Deutschland ist Shenyang der dritte Baustein des weltweiten Gen-6-Produktionsnetzwerks. Batterie, elektrische Antriebstechnik und die zentrale Steuerung des Energiesystems werden dabei eng miteinander verzahnt.</p>
+
+
+
+<p>Daran zeigt sich, wie stark sich Batterieproduktion von der einzelnen Fabrik zum Produktionssystem entwickelt.</p>
+
+
+
+<p>Die Zelle bleibt eine zentrale Komponente. Für den Fahrzeughersteller entsteht Wettbewerbsfähigkeit aber im Zusammenspiel von Zellformat, Batteriesystem, Leistungselektronik, Software, Fahrzeugarchitektur und Produktion.</p>
+
+
+
+<p>Wer diese Schnittstellen beherrscht, kann Produkt und Produktionsprozess besser aufeinander abstimmen.</p>
+
+
+
+<p>Besonders relevant ist dabei die globale Produktionsstruktur. Batterien werden in den großen Fahrzeugregionen gefertigt und eng mit den jeweiligen Werken verbunden. Das reduziert Transportwege und Lieferkettenrisiken. Noch wichtiger ist der Transfer von Produktionswissen zwischen mehreren Standorten.</p>
+
+
+
+<p><strong>Eine einzelne Fabrik kann lernen. Ein Produktionsnetzwerk kann schneller lernen.</strong></p>
+
+
+
+<p>Erkenntnisse über Prozessabweichungen, Qualitätsprobleme oder Anlagenoptimierungen können auf weitere Werke übertragen werden. Jeder zusätzliche Ramp-up startet damit auf einem höheren Erfahrungsniveau.</p>
+
+
+
+<p>Genau diese Lernfähigkeit brauchen wir auch in Europa. Einzelne Leuchtturmprojekte reichen nicht aus. Es müssen Strukturen entstehen, in denen Produktentwicklung, Produktion, Anlagenbau und Qualitätssicherung kontinuierlich gemeinsam weiterentwickelt werden.</p>
+
+
+
+<p>Industrielle Kompetenz entsteht nicht allein durch installierte Gigawattstunden. Sie entsteht durch wiederholte Produktion, Verbesserung und Skalierung.</p>
+
+
+
+<h1 class="wp-block-heading">QuantumScape und Mühlbauer: Feststoffbatterien müssen den Produktionsnachweis liefern</h1>
+
+
+
+<p><strong>QuantumScape plant 100-MWh-Linie für Feststoffbatterien</strong></p>
+
+
+
+<p><a href="https://battery-news.de/2026/10/23/quantumscape-plant-100-mwh-linie-fuer-feststoffbatterien/">Battery-News-Artikel öffnen</a></p>
+
+
+
+<p>QuantumScape plant für 2028 eine Produktionslinie für Feststoffbatterien mit einer Kapazität von 100 MWh. Die Linie soll auf den Erfahrungen der bestehenden Pilotanlage in San Jose aufbauen. Die deutsche Mühlbauer Group soll Anlagen für die Zellmontage liefern und hat dafür bereits bestehende Prozesse analysiert und Anpassungen für größere Produktionsmengen entwickelt.</p>
+
+
+
+<p>Damit erreicht die Feststoffbatterie einen entscheidenden Punkt.</p>
+
+
+
+<p>Hohe Energiedichten und neue Materialsysteme sind technologisch interessant. Für den Markterfolg zählt aber, ob sich diese Eigenschaften reproduzierbar und wirtschaftlich in größeren Stückzahlen herstellen lassen.</p>
+
+
+
+<p>100 MWh sind noch keine Gigafactory. Aber genau solche Skalierungsschritte sind notwendig.</p>
+
+
+
+<p>Zwischen Pilotanlage und Großserie liegt eine erhebliche produktionstechnische Lernkurve. Anlagen müssen höhere Durchsätze erreichen, ohne an Präzision zu verlieren. Prozesse müssen robuster werden. Qualitätssicherung muss direkt in die Produktion integriert werden. Gleichzeitig darf der Yield beim Hochskalieren nicht einbrechen.</p>
+
+
+
+<p>Dass ein deutscher Anlagenbauer früh in diesen Prozess eingebunden ist, ist deshalb besonders relevant.</p>
+
+
+
+<p>Europa darf neue Batterietechnologien nicht entwickeln und die anschließende Industrialisierung anderen Regionen überlassen. Der Maschinen- und Anlagenbau muss bereits während Pilotierung und Vorserie eingebunden werden.</p>
+
+
+
+<p><strong>Nur so entsteht eigenes Prozesswissen.</strong></p>
+
+
+
+<p>Die Feststoffbatterie ist dabei kein vollständiger Neustart der Industrie. Viele Kompetenzen der heutigen Lithium-Ionen-Produktion bleiben relevant. Beschichtung, Handling, Automatisierung, Qualitätssicherung und Prozessintegration werden auch bei neuen Zelltechnologien benötigt.</p>
+
+
+
+<p>Neue Zelltechnologien bieten Europa deshalb Chancen – aber nur, wenn wir nicht bei Forschung und Prototypen stehen bleiben.</p>
+
+
+
+<h1 class="wp-block-heading">Fazit: Europa braucht Produktion, nicht nur Kapazität</h1>
+
+
+
+<p>Die Entwicklungen im Oktober zeigen drei Bausteine einer wettbewerbsfähigen Batterieindustrie.</p>
+
+
+
+<p>ACC und JRES zeigen, wie bestehende Produktionsstrukturen genutzt und weiterentwickelt werden können. BMW demonstriert, wie Produktionswissen in einem globalen Netzwerk skaliert wird. QuantumScape und Mühlbauer zeigen, wie neue Zelltechnologien schrittweise in industrielle Prozesse überführt werden.</p>
+
+
+
+<p>Die gemeinsame Botschaft ist klar:</p>
+
+
+
+<p><strong>Produktionskompetenz entsteht nur dort, wo tatsächlich produziert wird.</strong></p>
+
+
+
+<p>Europa braucht deshalb nicht nur weitere Kapazitätsankündigungen. Bestehende Anlagen müssen ausgelastet, Prozesse verbessert und neue Technologien vom Pilotmaßstab in die industrielle Fertigung überführt werden. Dabei muss der europäische Maschinen- und Anlagenbau Teil dieser Lernkurve sein. Wer Anlagen entwickelt und Prozesse optimiert, baut gleichzeitig das Wissen auf, das für die nächste Generation von Batteriefabriken benötigt wird.</p>
+
+
+
+<p><strong>Europas Ziel darf deshalb nicht allein mehr Batteriekapazität sein. Entscheidend ist, die Fähigkeit zur industriellen Batterieproduktion dauerhaft in Europa zu verankern.</strong></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/17/prof-heiner-heimes-kommentar-oktober-produktionskompetenz-entsteht-nur-dort-wo-produziert-wird/">Prof. Heiner Heimes Kommentar (Oktober): Produktionskompetenz entsteht nur dort, wo produziert wird</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Samsung SDI liefert 16 GWh LFP-Batterien an Jupiter Power</title>
+		<link>https://battery-news.de/2026/11/17/samsung-sdi-liefert-16-gwh-lfp-batterien-an-jupiter-power/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieproduktion]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40273</guid>
+
+					<description><![CDATA[<p>Samsung SDI soll Lithium-Eisenphosphat-Batterien (LFP) mit einer Gesamtkapazität von 16 GWh an den US-Speicherentwickler Jupiter Power liefern, wie der südkoreanische Batteriehersteller am 16. November mitteilte. Laut dem Unternehmen sind die Lieferungen über drei Jahre ab 2029 geplant. Unterzeichnet wurde der Vertrag Berichten zufolge von der US-Tochter Samsung SDI America. Produktion in Indiana Nach Angaben von Samsung SDI werden die Zellen im Werk von StarPlus Energy (SPE) in Indiana gefertigt, wo die Serienproduktion prismatischer LFP-Batterien für stationäre Speicher demnach im Oktober angelaufen ist. Das Unternehmen erklärte, sich das große Volumen kurz nach dem Produktionsstart gesichert zu haben. Jupiter Power, das zu BlackRock gehört, will die Batterien in großen Speicherprojekten in den USA einsetzen. Einschließlich früherer Vereinbarungen sollen sich die Aufträge zwischen beiden Unternehmen auf rund 27 GWh summieren. Auftragswert nicht genannt Den Vertragswert gab Samsung SDI nicht bekannt. Koreanische Medien nennen Branchenschätzungen von rund 3 Billionen Won (etwa 2,2 Milliarden USD), die das Unternehmen nicht bestätigt hat. Samsung SDI bezeichnet sich zudem als einzigen nicht-chinesischen Hersteller prismatischer ESS-Batterien in Nordamerika. Bereits im Dezember 2025 hatte Samsung SDI America laut einem damaligen Reuters-Bericht einen LFP-Liefervertrag im Wert von mehr als 2 Billionen Won (etwa 1,36 Milliarden USD) mit einem nicht genannten US-Energieinfrastrukturunternehmen abgeschlossen. Quellen:https://www.koreajoongangdaily.com/business/samsung-sdi-lands-lfp-battery-deal-withnbspjupiter-power/12974407https://en.sedaily.com/business/2026/11/16/samsung-sdi-to-supply-16-gwh-of-lfp-batteries-to-blackrockhttps://finance.yahoo.com/news/samsung-sdis-us-unit-signs-234304485.html</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/17/samsung-sdi-liefert-16-gwh-lfp-batterien-an-jupiter-power/">Samsung SDI liefert 16 GWh LFP-Batterien an Jupiter Power</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Samsung SDI soll Lithium-Eisenphosphat-Batterien (LFP) mit einer Gesamtkapazität von 16 GWh an den US-Speicherentwickler Jupiter Power liefern, wie der südkoreanische Batteriehersteller am 16. November mitteilte. Laut dem Unternehmen sind die Lieferungen über drei Jahre ab 2029 geplant. Unterzeichnet wurde der Vertrag Berichten zufolge von der US-Tochter Samsung SDI America.</p>
+
+
+
+<p><strong>Produktion in Indiana</strong></p>
+
+
+
+<p>Nach Angaben von Samsung SDI werden die Zellen im Werk von StarPlus Energy (SPE) in Indiana gefertigt, wo die Serienproduktion prismatischer LFP-Batterien für stationäre Speicher demnach im Oktober angelaufen ist. Das Unternehmen erklärte, sich das große Volumen kurz nach dem Produktionsstart gesichert zu haben. Jupiter Power, das zu BlackRock gehört, will die Batterien in großen Speicherprojekten in den USA einsetzen. Einschließlich früherer Vereinbarungen sollen sich die Aufträge zwischen beiden Unternehmen auf rund 27 GWh summieren.</p>
+
+
+
+<p><strong>Auftragswert nicht genannt</strong></p>
+
+
+
+<p>Den Vertragswert gab Samsung SDI nicht bekannt. Koreanische Medien nennen Branchenschätzungen von rund 3 Billionen Won (etwa 2,2 Milliarden USD), die das Unternehmen nicht bestätigt hat. Samsung SDI bezeichnet sich zudem als einzigen nicht-chinesischen Hersteller prismatischer ESS-Batterien in Nordamerika.</p>
+
+
+
+<p>Bereits im Dezember 2025 hatte Samsung SDI America laut einem damaligen Reuters-Bericht einen LFP-Liefervertrag im Wert von mehr als 2 Billionen Won (etwa 1,36 Milliarden USD) mit einem nicht genannten US-Energieinfrastrukturunternehmen abgeschlossen.</p>
+
+
+
+<p><em>Quellen:</em><br><em><a href="https://www.koreajoongangdaily.com/business/samsung-sdi-lands-lfp-battery-deal-withnbspjupiter-power/12974407" target="_blank" rel="noreferrer noopener">https://www.koreajoongangdaily.com/business/samsung-sdi-lands-lfp-battery-deal-withnbspjupiter-power/12974407</a><br><a href="https://en.sedaily.com/business/2026/11/16/samsung-sdi-to-supply-16-gwh-of-lfp-batteries-to-blackrock" target="_blank" rel="noreferrer noopener">https://en.sedaily.com/business/2026/11/16/samsung-sdi-to-supply-16-gwh-of-lfp-batteries-to-blackrock</a><br><a href="https://finance.yahoo.com/news/samsung-sdis-us-unit-signs-234304485.html" target="_blank" rel="noreferrer noopener">https://finance.yahoo.com/news/samsung-sdis-us-unit-signs-234304485.html</a></em></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/17/samsung-sdi-liefert-16-gwh-lfp-batterien-an-jupiter-power/">Samsung SDI liefert 16 GWh LFP-Batterien an Jupiter Power</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>UNSW entwickelt Drei-Minuten-Gesundheitstest für gebrauchte Batteriezellen</title>
+		<link>https://battery-news.de/2026/11/16/unsw-entwickelt-drei-minuten-gesundheitstest-fuer-gebrauchte-batteriezellen/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterierecycling]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40265</guid>
+
+					<description><![CDATA[<p>Forschende der University of New South Wales (UNSW) in Sydney haben Berichten zufolge einen Prototyp-Test entwickelt, der den Gesundheitszustand von Lithium-Ionen-Zellen in weniger als drei Minuten bestimmen soll. Laut dem Team ist das Verfahren 95,5 % schneller als herkömmliche Methoden, die meist einen rund zehnstündigen Lade-Entlade-Zyklus erfordern. Wie ESS News berichtet, ist der malaysische Batterierecycler DY New Energy Entwicklungspartner. Pulsmessung statt Vollzyklus Den Forschenden zufolge schickt der Test kurze elektrische Pulse durch jede Zelle, misst die Reaktion und leitet daraus mithilfe statistischer Modelle den Zustand ab. Das Verfahren soll die Chemien LFP, NCA und NMC abdecken und sich in Managementsysteme integrieren lassen, die Recycler und Speicherbetreiber bereits nutzen. In Labortests habe die Methode eine Genauigkeit von über 90 % erreicht, heißt es. Die Testkosten könnten nach Angaben des Teams von rund 120 AUD (etwa 85 USD) pro E-Auto-Batteriepack auf unter 25 AUD (etwa 18 USD) sinken. Die bisherigen Ergebnisse stammen aus Laborbedingungen, eine begutachtete Veröffentlichung wurde nicht genannt. Feldversuch mit 500 Batterien Laut dem Bericht sollen in einem Feldversuch mit einem Budget von 1,3 Millionen AUD (etwa 920.000 USD) mehr als 500 Batterien unter realen Bedingungen geprüft werden. Zudem planen die Partner demnach eine Entscheidungslogik auf Basis von maschinellem Lernen, die empfehlen soll, ob ausgediente Batterien weiterverwendet oder recycelt werden, sowie ein BMS-Modul namens iBMS für die Echtzeitüberwachung. Gemäß der EU-Batterieverordnung müssen Daten zum Gesundheitszustand von E-Auto- und stationären Batterien zugänglich sein, etwa für eine mögliche Umnutzung. Quellen:https://www.ess-news.com/2026/11/13/unsw-develops-three-minute-battery-health-test-in-australia/</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/16/unsw-entwickelt-drei-minuten-gesundheitstest-fuer-gebrauchte-batteriezellen/">UNSW entwickelt Drei-Minuten-Gesundheitstest für gebrauchte Batteriezellen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Forschende der University of New South Wales (UNSW) in Sydney haben Berichten zufolge einen Prototyp-Test entwickelt, der den Gesundheitszustand von Lithium-Ionen-Zellen in weniger als drei Minuten bestimmen soll. Laut dem Team ist das Verfahren 95,5 % schneller als herkömmliche Methoden, die meist einen rund zehnstündigen Lade-Entlade-Zyklus erfordern. Wie ESS News berichtet, ist der malaysische Batterierecycler DY New Energy Entwicklungspartner.</p>
+
+
+
+<p><strong>Pulsmessung statt Vollzyklus</strong></p>
+
+
+
+<p>Den Forschenden zufolge schickt der Test kurze elektrische Pulse durch jede Zelle, misst die Reaktion und leitet daraus mithilfe statistischer Modelle den Zustand ab. Das Verfahren soll die Chemien LFP, NCA und NMC abdecken und sich in Managementsysteme integrieren lassen, die Recycler und Speicherbetreiber bereits nutzen. In Labortests habe die Methode eine Genauigkeit von über 90 % erreicht, heißt es. Die Testkosten könnten nach Angaben des Teams von rund 120 AUD (etwa 85 USD) pro E-Auto-Batteriepack auf unter 25 AUD (etwa 18 USD) sinken. Die bisherigen Ergebnisse stammen aus Laborbedingungen, eine begutachtete Veröffentlichung wurde nicht genannt.</p>
+
+
+
+<p><strong>Feldversuch mit 500 Batterien</strong></p>
+
+
+
+<p>Laut dem Bericht sollen in einem Feldversuch mit einem Budget von 1,3 Millionen AUD (etwa 920.000 USD) mehr als 500 Batterien unter realen Bedingungen geprüft werden. Zudem planen die Partner demnach eine Entscheidungslogik auf Basis von maschinellem Lernen, die empfehlen soll, ob ausgediente Batterien weiterverwendet oder recycelt werden, sowie ein BMS-Modul namens iBMS für die Echtzeitüberwachung.</p>
+
+
+
+<p>Gemäß der EU-Batterieverordnung müssen Daten zum Gesundheitszustand von E-Auto- und stationären Batterien zugänglich sein, etwa für eine mögliche Umnutzung.</p>
+
+
+
+<p><em>Quellen:<br><a href="https://www.ess-news.com/2026/11/13/unsw-develops-three-minute-battery-health-test-in-australia/" target="_blank" rel="noreferrer noopener">https://www.ess-news.com/2026/11/13/unsw-develops-three-minute-battery-health-test-in-australia/</a><br></em></p>
+
+
+
+<p></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/16/unsw-entwickelt-drei-minuten-gesundheitstest-fuer-gebrauchte-batteriezellen/">UNSW entwickelt Drei-Minuten-Gesundheitstest für gebrauchte Batteriezellen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Elektrodenfertigung: Sensorik erkennt kleinste Schäden an Schneidwerkzeugen</title>
+		<link>https://battery-news.de/2026/11/13/elektrodenfertigung-sensorik-erkennt-kleinste-schaeden-an-schneidwerkzeugen/</link>
+		
+		<dc:creator><![CDATA[Redaktion]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2026 08:30:00 +0000</pubDate>
+				<category><![CDATA[Top Story]]></category>
+		<category><![CDATA[Top-Story]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40236</guid>
+
+					<description><![CDATA[<p>Beschädigte Schneidwerkzeuge können die Qualität von Batterieelektroden beeinträchtigen und im schlimmsten Fall Sicherheitsrisiken verursachen. Die Marposs GmbH hat eine sensorbasierte Lösung entwickelt, die Werkzeugschäden während des laufenden Schneidprozesses in Echtzeit erfasst. Das System ist nach Unternehmensangaben bereits bei einem deutschen Batteriezellhersteller in der Produktion im Einsatz. Beim Schneiden von Batterieelektroden kommt es auf hohe Präzision an. Sowohl beim Längsschneiden der beschichteten Bahnen (Slitting) als auch beim Ausschneiden der Ableiterfahnen (Notching) können selbst kleine Beschädigungen der Schneidwerkzeuge die Qualität der Elektrodenkanten beeinträchtigen. Verschlissene oder stumpfe Messer können Grate, lose Partikel oder eine Delamination verursachen, bei der sich die Aktivmaterialschicht vom metallischen Trägermaterial löst. Im ungünstigsten Fall können solche Defekte zu internen Kurzschlüssen und thermischen Zwischenfällen in der fertigen Zelle führen. Andreas Leichsenring von der Marposs GmbH erklärt, bei Einsatz der Schneidwerkzeuge über viele Kilometer Schnittlänge seien Verschleiß, leichte Beschädigungen und auch Ausbrüche unvermeidlich. Werkzeugzustand kontinuierlich überwachen Bislang werden Schneidwerkzeuge in der Elektrodenfertigung häufig nach festen Intervallen gewechselt oder durch manuelle Stichproben unter dem Mikroskop kontrolliert. Ein beschädigtes Messer kann dadurch bis zur nächsten Kontrolle unentdeckt bleiben und fehlerhafte Elektroden produzieren. Marposs setzt mit einer optischen Echtzeit-Sensorik direkt am Schneidprozess an. Die Sensoren werden im Bereich der Schneide – typischerweise im Halter oder Antrieb des Messers – installiert. Nach Angaben des Unternehmens erkennt das System Ausbrüche an den Schneidkanten ab einer Größe von zehn Mikrometern zuverlässig. Um prozessbedingte Fehlalarme zu reduzieren, berücksichtigt die Auswertung unterschiedliche Bahngeschwindigkeiten und Messerdrehzahlen durch ein Mapping. Wird ein mit dem Kunden festgelegter Grenzwert überschritten, kann das System nach Unternehmensangaben die Anlage innerhalb weniger Millisekunden stoppen oder eine Warnmeldung ausgeben. Praxiseinsatz bei einem deutschen Zellhersteller Die Lösung ist nach Angaben von Marposs serienreif und bereits in der Anoden- und Kathodenfertigung eines deutschen Batteriezellherstellers im Einsatz. Dort wurde sie in bestehende Linien integriert. Für die Nachrüstung wurden die Messerhalterungen geringfügig angepasst. Die kompakte, U-förmige Bauform der Sensoren soll die Integration in bestehende Anlagen erleichtern. Wie Michael Unterste von Marposs erläutert, wurden die zunächst in Testläufen gesammelten Daten verschiedener Werkzeuge analysiert und mit Ergebnissen manueller sowie optisch-mikroskopischer Untersuchungen verglichen. Auf dieser Grundlage wurde die Datenauswertung an den konkreten Anwendungsfall angepasst. Nach Angaben von Marposs ist außerdem eine Anbindung an bestehende Manufacturing Execution Systems (MES) möglich. Damit lassen sich die Überwachungsdaten in die Produktionssteuerung und Qualitätssicherung einbeziehen. Wirtschaftlicher Nutzen und Einsatz im Anlagenhochlauf Die zustandsabhängige Überwachung soll Werkzeugwechsel stärker am tatsächlichen Zustand der Schneidkanten ausrichten. So lässt sich vermeiden, dass Messer pauschal zu früh ausgetauscht oder trotz Beschädigungen weiterverwendet werden. Marposs berichtet aus der praktischen Anwendung von weniger Ausschuss und einem geringeren personellen Aufwand für manuelle Sichtprüfungen. Zellhersteller können die erfassten Daten außerdem nutzen, um die Standzeiten verschiedener Messer zu vergleichen und Rückschlüsse auf die Qualität der Werkzeuglieferanten zu ziehen. Ein weiteres Einsatzszenario sieht Marposs im Anlagenhochlauf: Werden die Sensoren bereits während der Erprobung beim Maschinenbauer genutzt, können die Messdaten bei der Auswahl geeigneter Schneidwerkzeuge und Schnittparameter helfen. Nach Einschätzung von Michael Unterste lässt sich damit bereits vor der Übergabe der Maschine eine Grundlage für einen sicheren Hochlauf der Fertigung schaffen.</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/13/elektrodenfertigung-sensorik-erkennt-kleinste-schaeden-an-schneidwerkzeugen/">Elektrodenfertigung: Sensorik erkennt kleinste Schäden an Schneidwerkzeugen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Beschädigte Schneidwerkzeuge können die Qualität von Batterieelektroden beeinträchtigen und im schlimmsten Fall Sicherheitsrisiken verursachen. Die Marposs GmbH hat eine sensorbasierte Lösung entwickelt, die Werkzeugschäden während des laufenden Schneidprozesses in Echtzeit erfasst. Das System ist nach Unternehmensangaben bereits bei einem deutschen Batteriezellhersteller in der Produktion im Einsatz.</p>
+
+
+
+<p>Beim Schneiden von Batterieelektroden kommt es auf hohe Präzision an. Sowohl beim Längsschneiden der beschichteten Bahnen (Slitting) als auch beim Ausschneiden der Ableiterfahnen (Notching) können selbst kleine Beschädigungen der Schneidwerkzeuge die Qualität der Elektrodenkanten beeinträchtigen. Verschlissene oder stumpfe Messer können Grate, lose Partikel oder eine Delamination verursachen, bei der sich die Aktivmaterialschicht vom metallischen Trägermaterial löst. Im ungünstigsten Fall können solche Defekte zu internen Kurzschlüssen und thermischen Zwischenfällen in der fertigen Zelle führen.</p>
+
+
+
+<p>Andreas Leichsenring von der Marposs GmbH erklärt, bei Einsatz der Schneidwerkzeuge über viele Kilometer Schnittlänge seien Verschleiß, leichte Beschädigungen und auch Ausbrüche unvermeidlich.</p>
+
+
+
+<p><strong>Werkzeugzustand kontinuierlich überwachen</strong></p>
+
+
+
+<p>Bislang werden Schneidwerkzeuge in der Elektrodenfertigung häufig nach festen Intervallen gewechselt oder durch manuelle Stichproben unter dem Mikroskop kontrolliert. Ein beschädigtes Messer kann dadurch bis zur nächsten Kontrolle unentdeckt bleiben und fehlerhafte Elektroden produzieren.</p>
+
+
+
+<p>Marposs setzt mit einer optischen Echtzeit-Sensorik direkt am Schneidprozess an. Die Sensoren werden im Bereich der Schneide – typischerweise im Halter oder Antrieb des Messers – installiert. Nach Angaben des Unternehmens erkennt das System Ausbrüche an den Schneidkanten ab einer Größe von zehn Mikrometern zuverlässig. Um prozessbedingte Fehlalarme zu reduzieren, berücksichtigt die Auswertung unterschiedliche Bahngeschwindigkeiten und Messerdrehzahlen durch ein Mapping. Wird ein mit dem Kunden festgelegter Grenzwert überschritten, kann das System nach Unternehmensangaben die Anlage innerhalb weniger Millisekunden stoppen oder eine Warnmeldung ausgeben.</p>
+
+
+
+<p><strong>Praxiseinsatz bei einem deutschen Zellhersteller</strong></p>
+
+
+
+<p>Die Lösung ist nach Angaben von Marposs serienreif und bereits in der Anoden- und Kathodenfertigung eines deutschen Batteriezellherstellers im Einsatz. Dort wurde sie in bestehende Linien integriert. Für die Nachrüstung wurden die Messerhalterungen geringfügig angepasst. Die kompakte, U-förmige Bauform der Sensoren soll die Integration in bestehende Anlagen erleichtern.</p>
+
+
+
+<p>Wie Michael Unterste von Marposs erläutert, wurden die zunächst in Testläufen gesammelten Daten verschiedener Werkzeuge analysiert und mit Ergebnissen manueller sowie optisch-mikroskopischer Untersuchungen verglichen. Auf dieser Grundlage wurde die Datenauswertung an den konkreten Anwendungsfall angepasst.</p>
+
+
+
+<p>Nach Angaben von Marposs ist außerdem eine Anbindung an bestehende Manufacturing Execution Systems (MES) möglich. Damit lassen sich die Überwachungsdaten in die Produktionssteuerung und Qualitätssicherung einbeziehen.</p>
+
+
+
+<p><strong>Wirtschaftlicher Nutzen und Einsatz im Anlagenhochlauf</strong></p>
+
+
+
+<p>Die zustandsabhängige Überwachung soll Werkzeugwechsel stärker am tatsächlichen Zustand der Schneidkanten ausrichten. So lässt sich vermeiden, dass Messer pauschal zu früh ausgetauscht oder trotz Beschädigungen weiterverwendet werden. Marposs berichtet aus der praktischen Anwendung von weniger Ausschuss und einem geringeren personellen Aufwand für manuelle Sichtprüfungen. Zellhersteller können die erfassten Daten außerdem nutzen, um die Standzeiten verschiedener Messer zu vergleichen und Rückschlüsse auf die Qualität der Werkzeuglieferanten zu ziehen.</p>
+
+
+
+<p>Ein weiteres Einsatzszenario sieht Marposs im Anlagenhochlauf: Werden die Sensoren bereits während der Erprobung beim Maschinenbauer genutzt, können die Messdaten bei der Auswahl geeigneter Schneidwerkzeuge und Schnittparameter helfen. Nach Einschätzung von Michael Unterste lässt sich damit bereits vor der Übergabe der Maschine eine Grundlage für einen sicheren Hochlauf der Fertigung schaffen.</p>
+
+
+
+<p></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/13/elektrodenfertigung-sensorik-erkennt-kleinste-schaeden-an-schneidwerkzeugen/">Elektrodenfertigung: Sensorik erkennt kleinste Schäden an Schneidwerkzeugen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DICP verbessert kostengünstige Eisen-Mangan-Kathode für Natrium-Ionen-Batterien</title>
+		<link>https://battery-news.de/2026/11/13/dicp-verbessert-kostenguenstige-eisen-mangan-kathode-fuer-natrium-ionen-batterien/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Fri, 13 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batteriekomponenten]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40258</guid>
+
+					<description><![CDATA[<p>Forschende des Dalian Institute of Chemical Physics (DICP) der Chinesischen Akademie der Wissenschaften haben eine Eisen-Mangan-Phosphat-Kathode für Natrium-Ionen-Batterien verbessert. Shanghai Metals Market berichtete am 11. November über die Ergebnisse. Das Team ging gegen strukturelle Schäden vor, die Sauerstoffleerstellen im Material verursachen. Laut dem Bericht kombinierte es dafür eine gezielte Anpassung der Orbitale mit Ladungskompensation. Höhere Effizienz und 1.000 Zyklen Die Coulomb-Effizienz im ersten Zyklus soll von 87,0 % auf 97,0 % gestiegen sein. Die Kathode erreicht eine reversible spezifische Kapazität von 125,7 mAh/g und auf Materialebene eine spezifische Energie von 421,1 Wh/kg. Pouch-Zellen mit Hartkohlenstoff-Anoden behielten nach 1.000 Zyklen bei 1C laut Bericht 93,6 % ihrer Kapazität. Eine Fachzeitschrift nennt der Bericht nicht, ebenso wenig Zellgröße, Testtemperatur oder Kosten. Werte auf Materialebene lassen sich zudem nicht direkt auf die Energiedichte der Zelle übertragen. Pilotlinie und Industriepartner Laut dem Bericht wurde eine Pilotlinie für 100 Tonnen des Kathodenmaterials aufgebaut und in Betrieb genommen. Das Team hat Industrialisierungspartnerschaften mit der China Sodium Battery Group und weiteren Unternehmen geschlossen. Im Dezember 2025 hatte das DICP ein Natrium-Ionen-Speichersystem der 100-kWh-Klasse mit Phosphat-Kathoden entwickelt und ans Netz angeschlossen. Quellen:https://news.metal.com/newscontent/QKNZAYBFOQ7GMMXSOJ3IOELMP67RAIKSQAAXJGY-sodium-ion-cas-dicp-achieves-breakthrough-in-low-cost-fe-mn-phosphate-cathodehttps://www.cas.cn/cg/zh/202512/t20251211_5092167.shtml</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/13/dicp-verbessert-kostenguenstige-eisen-mangan-kathode-fuer-natrium-ionen-batterien/">DICP verbessert kostengünstige Eisen-Mangan-Kathode für Natrium-Ionen-Batterien</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Forschende des Dalian Institute of Chemical Physics (DICP) der Chinesischen Akademie der Wissenschaften haben eine Eisen-Mangan-Phosphat-Kathode für Natrium-Ionen-Batterien verbessert. Shanghai Metals Market berichtete am 11. November über die Ergebnisse. Das Team ging gegen strukturelle Schäden vor, die Sauerstoffleerstellen im Material verursachen. Laut dem Bericht kombinierte es dafür eine gezielte Anpassung der Orbitale mit Ladungskompensation.</p>
+
+
+
+<p><strong>Höhere Effizienz und 1.000 Zyklen</strong></p>
+
+
+
+<p>Die Coulomb-Effizienz im ersten Zyklus soll von 87,0 % auf 97,0 % gestiegen sein. Die Kathode erreicht eine reversible spezifische Kapazität von 125,7 mAh/g und auf Materialebene eine spezifische Energie von 421,1 Wh/kg. Pouch-Zellen mit Hartkohlenstoff-Anoden behielten nach 1.000 Zyklen bei 1C laut Bericht 93,6 % ihrer Kapazität. Eine Fachzeitschrift nennt der Bericht nicht, ebenso wenig Zellgröße, Testtemperatur oder Kosten. Werte auf Materialebene lassen sich zudem nicht direkt auf die Energiedichte der Zelle übertragen.</p>
+
+
+
+<p><strong>Pilotlinie und Industriepartner</strong></p>
+
+
+
+<p>Laut dem Bericht wurde eine Pilotlinie für 100 Tonnen des Kathodenmaterials aufgebaut und in Betrieb genommen. Das Team hat Industrialisierungspartnerschaften mit der China Sodium Battery Group und weiteren Unternehmen geschlossen. Im Dezember 2025 hatte das DICP ein Natrium-Ionen-Speichersystem der 100-kWh-Klasse mit Phosphat-Kathoden entwickelt und ans Netz angeschlossen.</p>
+
+
+
+<p><em>Quellen:<br><a href="https://news.metal.com/newscontent/QKNZAYBFOQ7GMMXSOJ3IOELMP67RAIKSQAAXJGY-sodium-ion-cas-dicp-achieves-breakthrough-in-low-cost-fe-mn-phosphate-cathode" target="_blank" rel="noreferrer noopener">https://news.metal.com/newscontent/QKNZAYBFOQ7GMMXSOJ3IOELMP67RAIKSQAAXJGY-sodium-ion-cas-dicp-achieves-breakthrough-in-low-cost-fe-mn-phosphate-cathode</a><br><a href="https://www.cas.cn/cg/zh/202512/t20251211_5092167.shtml" target="_blank" rel="noreferrer noopener">https://www.cas.cn/cg/zh/202512/t20251211_5092167.shtml</a></em></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/13/dicp-verbessert-kostenguenstige-eisen-mangan-kathode-fuer-natrium-ionen-batterien/">DICP verbessert kostengünstige Eisen-Mangan-Kathode für Natrium-Ionen-Batterien</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Factorial erreicht 450 Wh/kg mit Feststoffzellen für die Luftfahrt</title>
+		<link>https://battery-news.de/2026/11/12/factorial-erreicht-450-wh-kg-mit-feststoffzellen-fuer-die-luftfahrt/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterieentwicklung]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40251</guid>
+
+					<description><![CDATA[<p>Der US-Feststoffbatterie-Entwickler Factorial hat nach eigenen Angaben mit Zellen aus seinem Luftfahrtprogramm eine Energiedichte von 450 Wh/kg erreicht. Dieses Ziel hatte sich das Unternehmen für Ende 2026 gesetzt. Factorial meldete den Meilenstein am 10. November mit seinen Ergebnissen für das dritte Quartal. Zudem erzielte es erste kommerzielle Umsätze, früher als bisher für 2027 geplant. Wenige Details zu Zellen und Umsatz Kapazität, Chemie und Testbedingungen der Zellen hat Factorial nicht genannt. Unklar ist auch, ob der Wert von 450 Wh/kg unabhängig bestätigt wurde. Höhe des Umsatzes und Kunde nennt die Pressemitteilung nicht. Laut Factorial stellte eine mit seiner Technologie betriebene Drohne der Gruppe I im Jahr 2026 mit 521 Minuten Flugzeit einen Rekord auf und legte dabei rund 483 Kilometer zurück. Im Automobilbereich hat laut Factorial ein leicht modifiziertes Testfahrzeug von Mercedes-Benz mit einer Ladung mehr als 1.200 Kilometer zurückgelegt. Stellantis hat die Technologie in ein Demonstrationsfahrzeug auf Basis des Dodge Charger Daytona integriert. Zu den Geldgebern von Factorial gehören Mercedes-Benz, Stellantis, Hyundai und Kia. Produktion über Partner Für die Skalierung der Produktion setzt Factorial auf Partner. Im September 2026 vereinbarte das Unternehmen mit dem japanischen Konzern Mitsui Kinzoku, die Fertigung seiner Solstice-Feststoffzellen hochzuskalieren. Mitsui Kinzoku bringt seine Erfahrung in der Herstellung von Festelektrolyten ein. Kapazitäten und einen Zeitplan nannten beide Unternehmen nicht. Quellen:https://www.globenewswire.com/news-release/2026/11/10/3400213/0/en/factorial-announces-third-quarter-2026-results-begins-generating-commercial-revenue-and-achieves-450-wh-kg-energy-density-target-for-aerospace-cells-ahead-of-plan.htmlhttps://ir.factorialenergy.com/news-releases/news-release-details/mitsui-kinzoku-partners-factorial-scale-all-solid-state-battery</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/12/factorial-erreicht-450-wh-kg-mit-feststoffzellen-fuer-die-luftfahrt/">Factorial erreicht 450 Wh/kg mit Feststoffzellen für die Luftfahrt</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Der US-Feststoffbatterie-Entwickler Factorial hat nach eigenen Angaben mit Zellen aus seinem Luftfahrtprogramm eine Energiedichte von 450 Wh/kg erreicht. Dieses Ziel hatte sich das Unternehmen für Ende 2026 gesetzt. Factorial meldete den Meilenstein am 10. November mit seinen Ergebnissen für das dritte Quartal. Zudem erzielte es erste kommerzielle Umsätze, früher als bisher für 2027 geplant.</p>
+
+
+
+<p><strong>Wenige Details zu Zellen und Umsatz</strong></p>
+
+
+
+<p>Kapazität, Chemie und Testbedingungen der Zellen hat Factorial nicht genannt. Unklar ist auch, ob der Wert von 450 Wh/kg unabhängig bestätigt wurde. Höhe des Umsatzes und Kunde nennt die Pressemitteilung nicht. Laut Factorial stellte eine mit seiner Technologie betriebene Drohne der Gruppe I im Jahr 2026 mit 521 Minuten Flugzeit einen Rekord auf und legte dabei rund 483 Kilometer zurück.</p>
+
+
+
+<p>Im Automobilbereich hat laut Factorial ein leicht modifiziertes Testfahrzeug von Mercedes-Benz mit einer Ladung mehr als 1.200 Kilometer zurückgelegt. Stellantis hat die Technologie in ein Demonstrationsfahrzeug auf Basis des Dodge Charger Daytona integriert. Zu den Geldgebern von Factorial gehören Mercedes-Benz, Stellantis, Hyundai und Kia.</p>
+
+
+
+<p><strong>Produktion über Partner</strong></p>
+
+
+
+<p>Für die Skalierung der Produktion setzt Factorial auf Partner. Im September 2026 vereinbarte das Unternehmen mit dem japanischen Konzern Mitsui Kinzoku, die Fertigung seiner Solstice-Feststoffzellen hochzuskalieren. Mitsui Kinzoku bringt seine Erfahrung in der Herstellung von Festelektrolyten ein. Kapazitäten und einen Zeitplan nannten beide Unternehmen nicht.</p>
+
+
+
+<p><em>Quellen:</em><br><em><a href="https://www.globenewswire.com/news-release/2026/11/10/3400213/0/en/factorial-announces-third-quarter-2026-results-begins-generating-commercial-revenue-and-achieves-450-wh-kg-energy-density-target-for-aerospace-cells-ahead-of-plan.html" target="_blank" rel="noreferrer noopener">https://www.globenewswire.com/news-release/2026/11/10/3400213/0/en/factorial-announces-third-quarter-2026-results-begins-generating-commercial-revenue-and-achieves-450-wh-kg-energy-density-target-for-aerospace-cells-ahead-of-plan.html</a><br><a href="https://ir.factorialenergy.com/news-releases/news-release-details/mitsui-kinzoku-partners-factorial-scale-all-solid-state-battery" target="_blank" rel="noreferrer noopener">https://ir.factorialenergy.com/news-releases/news-release-details/mitsui-kinzoku-partners-factorial-scale-all-solid-state-battery</a></em></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/12/factorial-erreicht-450-wh-kg-mit-feststoffzellen-fuer-die-luftfahrt/">Factorial erreicht 450 Wh/kg mit Feststoffzellen für die Luftfahrt</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
