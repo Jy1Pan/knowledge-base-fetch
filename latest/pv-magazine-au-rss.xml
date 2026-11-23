@@ -12,7 +12,7 @@
 	<atom:link href="https://www.pv-magazine-australia.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.pv-magazine-australia.com/</link>
 	<description>pv magazine Australia, the leading solar and energy storage trade media platform. Industry news covering market trends, technological advancements, expert commentary, and more.</description>
-	<lastBuildDate>Fri, 20 Nov 2026 05:41:04 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Nov 2026 23:25:48 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,206 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Australia&#8217;s energy transition should reward flexibility, not just generation</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/23/australias-energy-transition-should-reward-flexibility-not-just-generation/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/23/australias-energy-transition-should-reward-flexibility-not-just-generation/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2026 00:32:00 +0000</pubDate>
+				<category><![CDATA[Markets & Policy]]></category>
+		<category><![CDATA[Commercial & industrial]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18785</guid>
+
+					<description><![CDATA[Most of the debate about Australia's electricity transition is about what to build: more wind and solar, more transmission, more storage. All of it is needed, but a grid that runs largely on weather-dependent generation also needs something less visible: the ability to adjust at short notice when electricity is scarce or abundant.]]></description>
+										<content:encoded><![CDATA[
+<p>Flexibility means temporarily reducing or shifting electricity use, or dispatching stored or generated energy, when the system needs it.</p>
+
+
+
+<p>A manufacturer might slow part of a process without impacting production, a water plant might shift a pumping schedule while still meeting reservoir targets. A site with a battery might draw on it instead of the grid. Large electricity users, in other words, can help stabilise the grid rather than simply adding to demand.</p>
+
+
+
+<p>The Australian Energy Market Operator’s (AEMO) 2026 Integrated System Plan shows why this matters. Under its optimal development path, most of the remaining coal fleet would withdraw by 2038. By 2050 the plan has nearly 50 GW of dispatchable storage and hydro, including existing hydro, and 17 GW of flexible gas. It also describes demand-side flexibility as a valuable way to support reliability.</p>
+
+
+
+<p>This model doesn’t replace new generation, transmission or storage. Flexible demand is a complement: capacity that already sits inside connected businesses and can respond quickly without necessarily building anything new.</p>
+
+
+
+<p>There are several ways flexibility can be paid for, and they are not interchangeable. The Wholesale Demand Response Mechanism lets large electricity users, through a registered provider, be paid for reducing consumption against a baseline.</p>
+
+
+
+<p>Frequency control ancillary services (FCAS) are 10 separate markets that pay enabled providers to help hold system frequency steady, with the fastest responding within a second. Emergency reserves, contracted by AEMO under the Reliability and Emergency Reserve Trader, are a backstop, used when a shortfall is forecast and the market has not resolved it.</p>
+
+
+
+<p>At state level, South Australia’s Firm Energy Reliability Mechanism has begun contracting long-duration firm capacity under its own criteria.</p>
+
+
+
+<p>Each of these mechanisms has distinct eligibility and operating requirements, so a site that suits one may not qualify for another. Even a site that is technically able to respond may not be eligible under the rules, or may be eligible but have no commercial route to take part.</p>
+
+
+
+<p>For an eligible business, participation can add a revenue stream from assets it already owns. But not every load can be interrupted, and some processes cannot be paused without consequences for safety, product quality or output.</p>
+
+
+
+<p>Those limits have to come first. Technology&#8217;s role is to make participation practical within them: monitoring the site, responding to dispatch, demonstrating compliance and reconciling settlement.</p>
+
+
+
+<p>The gap between what a site can technically do and what the rules allow is where useful flexibility gets lost. Complex industrial sites are a clear example.</p>
+
+
+
+<p>Under the National Electricity Rules, only sites with a single connection point can take part in the Wholesale Demand Response Mechanism. The restriction exists for a reason: a site could cut demand at one connection point while raising it at another, showing a reduction that never happened. However, it also excludes multi-connection sites whether or not that risk could be measured and managed.</p>
+
+
+
+<p>Regulators are testing an alternative. In June, the Australian Energy Regulator granted trial waivers of up to five years to two demand response providers, VIOTAS Australia (now PowerSync) and one other, each allowing up to 10 multi-connection sites into the mechanism, with response measured across every connection point and regular public reporting.</p>
+
+
+
+<p>The trials are meant to inform the Australian Energy Market Commission, which recommended last year that a rule change request to widen eligibility be assessed.</p>
+
+
+
+<p>Wider participation will not fix reliability or lower bills on its own, and it should not be sold that way. What it can do is give the market operator more options to balance the system, and give businesses a way to diversify revenue from assets they have already paid for.</p>
+
+
+
+<p>Three principles would help energy market bodies and policymakers get this right. Rules should be proportionate: where a risk can be measured and managed, manage it rather than exclude the site. Performance should be measurable: flexibility should be paid for what it verifiably delivers. And market access should be fair: eligible flexible capacity should be able to compete across wholesale demand response, frequency control and emerging state capacity schemes, with clear pathways for complex sites.</p>
+
+
+
+<p>Businesses have a part to play too. The first step is to find out whether existing loads, batteries and on-site assets can safely take part.</p>
+
+
+
+<p>While Australia keeps building new supply, it should also reward the capacity it already has for responding when it counts.</p>
+
+
+
+<p><em>Author: David Naismith, founder and Chief Executive Officer, P<a href="https://www.powersync.com.au/">owerSync Technologies</a></em></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/23/australias-energy-transition-should-reward-flexibility-not-just-generation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>APA begins solar and battery build in Queensland’s northwest</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/23/apa-begins-solar-and-battery-build-in-queenslands-northwest/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/23/apa-begins-solar-and-battery-build-in-queenslands-northwest/#respond</comments>
+		
+		<dc:creator><![CDATA[David Carroll]]></dc:creator>
+		<pubDate>Sun, 22 Nov 2026 23:19:35 +0000</pubDate>
+				<category><![CDATA[Applications & Installations]]></category>
+		<category><![CDATA[Batteries]]></category>
+		<category><![CDATA[Energy Storage]]></category>
+		<category><![CDATA[Utility-scale]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18805</guid>
+
+					<description><![CDATA[Gas pipeline giant APA Group has launched construction of its Sybella Creek solar and battery project in northwest Queensland with full operation targeted for mid-2028.]]></description>
+										<content:encoded><![CDATA[
+<p>APA Group, Australia’s largest listed gas infrastructure owner and operator, announced that construction has officially commenced on the $259 million (USD 171.6 million) <a href="https://www.pv-magazine-australia.com/2026/08/20/apa-to-develop-solar-battery-storage-projects-in-queensland/">Sybella Creek solar farm and battery</a> project being built near Mount Isa in Queensland’s northwest.</p>
+
+
+
+<p>The project comprises 72 MW of solar generation alongside a 52 MW / 104 MWh battery energy storage system (BESS) and will connect to the North West Power System, the APA-operated electricity network that services the towns of Mount Isa and Cloncurry, along with surrounding mining operations and communities.</p>
+
+
+
+<p>“As the first large-scale battery energy storage system in the North West Power System, the project will strengthen energy security and support the region&#8217;s transition to lower-emission energy sources,” APA has said.</p>
+
+
+
+<p>The Sybella Creek project is being built on land alongside APA’s operating 88 MW <a href="https://www.pv-magazine-australia.com/2024/03/22/apa-powers-up-australias-largest-remote-grid-solar-farm/">Dugald River Solar Farm</a> which means facilities such as the switchyard, ancillary buildings, and maintenance facility can be shared.</p>
+
+
+
+<p>APA is developing the project under a long-term Energy Supply Agreement with Ernest Henry Mining, a wholly owned subsidiary of Evolution Mining, that operates a copper-gold-silver mine in northwest Queensland.</p>
+
+
+
+<p>Engineering group UGL has been <a href="https://www.pv-magazine-australia.com/2026/09/14/ugl-bags-epc-job-on-apas-sybella-solar-and-battery-project-for-mount-isa/?utm_source=dlvr.it&amp;utm_medium=linkedin">awarded</a> the engineering design, procurement, construction and commissioning contract for the project.</p>
+
+
+
+<p>For Sydney-based APA, which owns and operates more than 15,000 kilometres of gas pipelines, the Sybella Creek project is part of a shift towards renewable energy, with Sydney-based company building a portfolio of contracted power generation including 340 MW of solar, 342 MW of wind, and <a href="https://www.pv-magazine-australia.com/2024/12/04/apa-begins-commissioning-solar-farm-built-for-cyclonic-conditions/">35 MW of BESS</a>.</p>
+
+
+
+<p>Construction of the Sybella Creek solar and battery project is expected to wrap up in early 2028 with APA targeting energy supply from about the middle of that year.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/23/apa-begins-solar-and-battery-build-in-queenslands-northwest/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JinkoSolar claims 35.24% efficiency for perovskite-silicon tandem solar cell</title>
+		<link>https://www.pv-magazine-australia.com/2026/11/23/jinkosolar-claims-35-24-efficiency-for-perovskite-silicon-tandem-solar-cell/</link>
+					<comments>https://www.pv-magazine-australia.com/2026/11/23/jinkosolar-claims-35-24-efficiency-for-perovskite-silicon-tandem-solar-cell/#respond</comments>
+		
+		<dc:creator><![CDATA[Emiliano Bellini]]></dc:creator>
+		<pubDate>Sun, 22 Nov 2026 22:00:00 +0000</pubDate>
+				<category><![CDATA[Research & Development]]></category>
+		<category><![CDATA[cells & modules]]></category>
+		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18802</guid>
+
+					<description><![CDATA[The result was confirmed by the Shanghai Institute of Microsystem and Information Technology of the Chinese Academy of Sciences.]]></description>
+										<content:encoded><![CDATA[
+<p>Chinese solar module manufacturer <a href="https://www.pv-magazine.com/2025/06/25/jinkosolar-achieves-world-record-efficiency-of-27-02-for-topcon-solar-cell/">JinkoSolar</a> has announced that it has achieved a power conversion efficiency of 35.24% for a perovskite-silicon tandem solar cell.</p>
+
+
+
+<p>The company said the result was certified by the Shanghai Institute of Microsystem and Information Technology of the Chinese Academy of Sciences (CAS). JinkoSolar previously achieved an <a href="https://www.pv-magazine.com/2026/06/19/jinkosolar-achieves-34-82-efficiency-for-perovskite-silicon-tandem-solar-cell/">efficiency of 34.82% with the same cell configuration</a>.</p>
+
+
+
+<p>“This efficiency breakthrough was made possible by multiple core technological innovations, including selective passivation technology for textured silicon surfaces in N-type TOPCon, a perovskite multi-component crystallisation synchronisation control strategy, and nanoscale interface passivation materials and light-management enhancement technologies,” the company said in a statement, adding that the efficiency improvement was achieved over five months.</p>
+
+
+
+<p>The company did not disclose further technical details about the cell or the efficiency improvement.</p>
+
+
+
+<p>The current world record for perovskite-silicon tandem solar cell efficiency is held by Chinese manufacturer Longi, which <a href="https://www.pv-magazine.com/2026/07/15/longi-sets-new-world-record-with-35-5-efficient-perovskite-silicon-tandem-cell/">achieved 35.5% efficiency</a> in July 2026. The result, obtained with a two-terminal tandem cell, was independently certified by the European Solar Test Installation (ESTI). It surpassed Longi’s previous certified record of 34.85%, announced in April 2025.</p>
+
+
+
+<p>Longi also recently <a href="https://www.pv-magazine.com/2026/11/06/longi-achieves-35-31-efficiency-in-perovskite-silicon-tandem-solar-cell-based-on-self-assembled-molecules/">reported an efficiency of 35.31%</a> for a tandem cell incorporating specially designed self-assembled molecules. Longi previously achieved a certified efficiency of 34.85% in April 2025 and an <a href="http://the%20company%20also%20recently%20reported%20an%20efficiency%20of%2035.31%25%20for%20a%20tandem%20cell%20incorporating%20specially%20designed%20self-assembled%20molecules.%20longi%20previously%20achieved%20a%20certified%20efficiency%20of%2034.85%25%20in%20april%202025%20and%20an%20efficiency%20of%2034.3%25%20for%20a%20large-area%20tandem%20cell%20measuring%20261%20cm2./">efficiency of 34.3% for a large-area tandem cell measuring 261 cm²</a>.</p>
+
+
+
+<p>In January 2026, Chinese module maker Trinasolar <a href="https://www.trinasolar.com/us/resources/newsroom/Trinasolar-Sets-Tandem-Cell-Efficiency-and-Module-Power-Output-Records/">achieved 32.6% efficiency</a> for a large-area tandem cell developed with Huairou Laboratory, with the result certified by Germany’s Fraunhofer Institute for Solar Energy Systems (Fraunhofer ISE).</p>
+
+
+
+<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/23/jinkosolar-claims-35-24-efficiency-for-perovskite-silicon-tandem-solar-cell/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>South Australia cuts rooftop solar after storm sparks power outages</title>
 		<link>https://www.pv-magazine-australia.com/2026/11/20/south-australia-orders-rooftop-solar-switch-off-after-storm-sparks-power-outages/</link>
 					<comments>https://www.pv-magazine-australia.com/2026/11/20/south-australia-orders-rooftop-solar-switch-off-after-storm-sparks-power-outages/#respond</comments>
@@ -593,179 +793,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/20/indonesia-could-reach-96-7-gw-of-solar-by-2029-with-policy-reforms/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Longi presents 25.2%-efficient solar module with triple-protection design</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/20/longi-presents-25-2-efficient-solar-module-with-triple-protection-design/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/20/longi-presents-25-2-efficient-solar-module-with-triple-protection-design/#respond</comments>
-		
-		<dc:creator><![CDATA[Vincent Shaw]]></dc:creator>
-		<pubDate>Thu, 19 Nov 2026 22:04:00 +0000</pubDate>
-				<category><![CDATA[Technology & Products]]></category>
-		<category><![CDATA[Commercial & industrial]]></category>
-		<category><![CDATA[Modules]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18786</guid>
-
-					<description><![CDATA[Longi’s new Hi-MO X10 module features a triple-protection design to mitigate hotspots, electrical arcing, and microcracks in C&#38;I rooftop installations. The company said it combined cell-level hotspot suppression, laser-welded junction boxes, and low-temperature welding to improve module reliability.]]></description>
-										<content:encoded><![CDATA[
-<p>Chinese PV manufacturer <a href="https://www.pv-magazine.com/2026/07/15/longi-sets-new-world-record-with-35-5-efficient-perovskite-silicon-tandem-cell/">Longi</a> launched its Hi-MO X10 Full-Screen Triple-Protection PV module on Nov. 17 at an industry event in Qingdao, China. The module features a front-side light-receiving area ratio of 98.58%, the highest the company has achieved in a commercial product.</p>
-
-
-
-<p>The module retains the standard 2,382 mm × 1,134 mm dimensions of Longi’s existing Hi-MO X10 lineup for distributed PV applications, while increasing the light-receiving area by 759.3 cm² through four structural modifications.</p>
-
-
-
-<p>Longi said it eliminated 20 white gaps between cells using a low-temperature film-welding process that bonds the cells at ambient temperature before a low-heat lamination step. The process reportedly limits the resulting height difference to 130 micrometres and recovers 178 cm² of light-receiving area.</p>
-
-
-
-<p>The company also relocated three front-side busbars to the rear of the module, adding another 294 cm². According to Longi, thinner busbar profiles and staggered positioning help mitigate the risk of microcracks associated with rear-side busbar stacking. The remaining modifications include reducing inter-string spacing from 1.48 mm to 1 mm and cutting the cell-to-frame creepage distance from 12.9 mm to less than 9 mm through the use of upgraded insulation materials.</p>
-
-
-
-<p>The module delivers a maximum front-side power output of 680 W and a conversion efficiency of 25.2%. Its standard power rating for volume production is 670 W, which Longi claims is 20 W higher than that of mainstream TOPCon modules of the same size.</p>
-
-
-
-<p>To address additional rear-side shading caused by the relocation of the busbars, Longi replaced flat ribbons with round-wire ribbons, introduced precision-insulated sub-busbar break points, and developed an alloy frame profile designed to prevent the frame’s C-shaped section from shading the cells. The company said these changes increase the rear-side light-receiving area by 2.5% and enable a maximum bifaciality of 85%.</p>
-
-
-
-<p>The module’s triple-protection design targets three reliability challenges that Longi identifies as particularly significant for commercial and industrial (C&amp;I) rooftop installations: hotspots, electrical arcing, and microcracks.</p>
-
-
-
-<p>For hotspot protection, the company integrated additional structures equivalent to bypass diodes within each <a href="https://www.pv-magazine.com/2024/12/09/longi-debuts-hpbc-2-0-modules-in-chinas-first-distributed-solar-project/">hybrid passivated back contact</a> (HPBC) 2.0 cell, which it claims can limit hotspot temperatures to below 100 C. To mitigate electrical arcing, Longi uses laser fusion welding in the junction box to eliminate metal-to-metal interface gaps that can contribute to DC arc formation.</p>
-
-
-
-<p>Microcrack resistance is addressed through the same low-temperature welding process used in the full-screen design, combined with thinner busbars to reduce mechanical stress during transportation and installation.</p>
-
-
-
-<p>The module has received TÜV SÜD and TÜV Rheinland certifications under IEC 61215 and IEC 61730. Longi also reported double-stress potential-induced degradation (PID), light-induced degradation (LID), and light- and elevated-temperature-induced degradation (LeTID) testing, along with level-six salt-mist, ammonia, and dust testing, and hail-impact qualification using 25 mm and 35 mm hailstones.</p>
-
-
-
-<p>The product comes with a 15-year materials warranty and a 30-year linear power-output warranty. Longi specifies maximum first-year degradation of 1% and annual linear degradation of no more than 0.35%.</p>
-
-
-
-<p>Longi said shipments of its Hi-MO X10 Triple-Protection modules reached 1.5 GW in China’s C&amp;I market in August 2026. The company added that triple-protection variants accounted for more than half of its distributed PV shipments in the first nine months of 2026.</p>
-
-
-
-<p>Speaking at the launch, Longi Chairman Zhong Baoshen cited internal laboratory results showing that the company’s <a href="https://www.pv-magazine.com/2024/12/09/longi-debuts-hpbc-2-0-modules-in-chinas-first-distributed-solar-project/">hybrid interdigitated back-contact </a>(HIBC) solar cell had achieved a conversion efficiency of 28.29%, approaching the theoretical crystalline silicon efficiency limit of 29.4% cited by the company. He positioned the full-screen module design as a complementary approach to improving power output through structural optimization, alongside further gains in cell conversion efficiency.</p>
-
-
-
-<p><strong><a href="https://www.pv-magazine.com/">From pv magazine Global</a></strong></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/20/longi-presents-25-2-efficient-solar-module-with-triple-protection-design/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>EDF Australia acquires grid forming Holloway BESS in New England REZ</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/19/edf-australia-acquires-grid-forming-holloway-bess-in-new-england-rez/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/19/edf-australia-acquires-grid-forming-holloway-bess-in-new-england-rez/#respond</comments>
-		
-		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
-		<pubDate>Thu, 19 Nov 2026 05:21:22 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18767</guid>
-
-					<description><![CDATA[EDF power solutions Australia has acquired from SynCo Global, the proposed 250 MW Holloway Battery Energy Storage System project located in the NSW-based New England Renewable Energy Zone.]]></description>
-										<content:encoded><![CDATA[
-<p>Subsidiary of French state-owned EDF Group, EDF power solutions Australia has acquired from Australian clean energy developer SynCo Global, the <a href="https://www.pv-magazine-australia.com/2026/02/19/big-battery-capacity-jumps-globally-12-times-in-four-years/" target="_blank" rel="noreferrer noopener">proposed</a> 250 MW Holloway Battery Energy Storage System (BESS) project.</p>
-
-
-
-<p>Located near Armidale, New South Wales (NSW) 650 metres from the Armidale Substation in the <a href="https://www.pv-magazine-australia.com/2026/07/21/deal-sealed-to-unlock-3-56-gw-capacity-in-nsw-renewable-energy-zone/" target="_blank" rel="noreferrer noopener">New England</a> Renewable Energy Zone (REZ), the <a href="https://www.pv-magazine.com/2025/10/21/australia-becomes-worlds-third-largest-utility-battery-market/" target="_blank" rel="noreferrer noopener">utility-scale</a> project&#8217;s 3-hectare site is approximately 380 kilometres northwest of Sydney.</p>
-
-
-
-<p>Planning and environmental assessment activities are underway with an environmental impact statement (EIS) imminent. A final investment decision (FID) on the state significant designated development is targeted for late 2027 and operations to commence in 2029.</p>
-
-
-
-<p>EDF Australia Chief Executive Officer James Katsikas said being in close proximity to key grid infrastructure, the project is well placed to support the integration of increasing volumes of renewable energy into the market.</p>
-
-
-
-<p>“As renewable generation <a href="https://www.pv-magazine-australia.com/press-releases/deep-transition-reshapes-nsws-energy-future/" target="_blank" rel="noreferrer noopener">continues to grow </a>across NSW, projects such as the Holloway BESS are essential to capture excess renewable generation and make that electricity available when homes and businesses need it most,&#8221; Katsikas said.</p>
-
-
-
-<p>The Holloway BESS is antipated to operate for up to 30 years beyond which the site will be decommissioned, components removed and where possible recycled, EDF said.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/19/edf-australia-acquires-grid-forming-holloway-bess-in-new-england-rez/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>e-Storage to supply battery energy system for X-Elio project in NSW</title>
-		<link>https://www.pv-magazine-australia.com/2026/11/19/e-storage-to-supply-battery-energy-system-for-x-elio-project-in-nsw/</link>
-					<comments>https://www.pv-magazine-australia.com/2026/11/19/e-storage-to-supply-battery-energy-system-for-x-elio-project-in-nsw/#respond</comments>
-		
-		<dc:creator><![CDATA[Ev Foley]]></dc:creator>
-		<pubDate>Thu, 19 Nov 2026 04:08:43 +0000</pubDate>
-				<category><![CDATA[Applications & Installations]]></category>
-		<category><![CDATA[Batteries]]></category>
-		<category><![CDATA[Energy Storage]]></category>
-		<category><![CDATA[Modules]]></category>
-		<category><![CDATA[Utility-scale]]></category>
-		<guid isPermaLink="false">https://www.pv-magazine-australia.com/?p=18762</guid>
-
-					<description><![CDATA[Spanish developer X-Elio has selected Canadian Solar subsidiary e-Storage to supply battery energy storage systems for a project in New South Wales.]]></description>
-										<content:encoded><![CDATA[
-<p>Brookfield Renewable-owned Spanish clean energy developer <a href="https://www.pv-magazine-australia.com/2026/04/16/amazon-commits-to-430-mw-of-solar-and-bess-power-purchase-agreements/" target="_blank" rel="noreferrer noopener">X-Elio</a> has selected Ontario-based Canadian Solar subsidiary e-Storage to supply an undisclosed battery energy storage system (BESS) for a project in New South Wales.</p>
-
-
-
-<p>Backed by a 22-year long-term service agreement (LTSA), the project will use e-Storage&#8217;s SolBank 3.0 battery system, power conversion systems (PCS) and plant controls manufactured at Canadian Solar facilities.</p>
-
-
-
-<p>The SolBank 3.0 has a nominal capacity of 5 MWh, and supports 2-hour and 4-hour configurations with a rated power output of between 1.2 MW and 2.35 MW.</p>
-
-
-
-<p>The project is expected to reach commercial operation in the next two years. </p>
-
-
-
-<p>Other NSW X-Elio projects include the 300 MW / 1,200 MWh solar-plus-storage project near Goulburn, located approximatley 200 kilometres southeast of Sydney, and two in the Central West Orana Renewable Energy Zone (<a href="https://www.pv-magazine-australia.com/2026/09/18/four-projects-backed-by-2023-nsw-firming-tender-achieve-3-gwh-milestone/" target="_blank" rel="noreferrer noopener">CWO REZ</a>) that includes the under-construction Forest Glen Hybrid 90 MW solar, 90 MW / 180 MWh BESS project 16 kilometres west of <a href="https://www.pv-magazine-australia.com/2024/02/27/x-elio-strikes-million-dollar-deal-with-nsw-council/" target="_blank" rel="noreferrer noopener">Dubbo</a>, and the Puggoon 264 MW solar farm and 110 MW / 440 MWh BESS near Mudgee.</p>
-
-
-
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="575" src="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-1024x575.jpg" alt="" class="wp-image-151128" srcset="https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-1024x575.jpg 1024w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-300x168.jpg 300w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-768x431.jpg 768w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-1536x862.jpg 1536w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-2048x1150.jpg 2048w, https://www.pv-magazine-australia.com/wp-content/uploads/2026/11/s-scaled-1-260x146.jpg 260w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">e-Storage and E-Elio representatives attending US clean energy conference RE+ 2026 where the agreement was signed. | <i>Image: Canadian Solar</i></figcaption></figure>
-
-
-
-<p>Signed at RE+ 2026 in the US, the agreements follow a 6 October 2026 announcement by e-Storage, which had entered an agreement to supply and commission a 100 MW / 200 MWh BESS for OX2&#8217;s <a href="https://www.pv-magazine-australia.com/2026/11/17/developer-turns-to-back-contact-module-tech-for-nsw-solar-project/" target="_blank" rel="noreferrer noopener">Muswellbrook Solar Farm</a> and Battery, also in NSW.</p>
-
-
-
-<p>The company will deliver an integrated solution to that project built on its SolBank 3.0 battery containers paired with PCS and plant controls, plus the company&#8217;s proprietary EQ-S energy management system (EMS).</p>
-
-
-
-<p>Along with the NSW project agreementwith  X-Elio, e-Storage also signed agreements with the company to supply four battery energy storage projects in Texas, US, with the combined five projectstotalingg 590 MW / 1.43 GWhDCc.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://www.pv-magazine-australia.com/2026/11/19/e-storage-to-supply-battery-energy-system-for-x-elio-project-in-nsw/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
