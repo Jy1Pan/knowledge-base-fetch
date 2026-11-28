@@ -12,7 +12,7 @@
 	<atom:link href="https://battery-news.de/feed/" rel="self" type="application/rss+xml" />
 	<link>https://battery-news.de/</link>
 	<description>Die Newsbroker-Webseite zum Thema Lithium-Ionen-Batterien in Deutschland</description>
-	<lastBuildDate>Thu, 26 Nov 2026 07:21:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Nov 2026 19:00:04 +0000</lastBuildDate>
 	<language>de</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,83 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Übersicht zu Komponenten von Lithium-Ionen-Batterien auf Zellebene in Europa</title>
+		<link>https://battery-news.de/2026/11/27/uebersicht-zu-komponenten-von-lithium-ionen-batterien-auf-zellebene-in-europa-2/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2026 08:30:00 +0000</pubDate>
+				<category><![CDATA[Top Story]]></category>
+		<category><![CDATA[Top-Story]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40447</guid>
+
+					<description><![CDATA[<p>Battery-News präsentiert in Zusammenarbeit mit dem Lehrstuhl „Production Engineering of E-Mobility Components“ (PEM) der RWTH Aachen eine aktualisierte Karte der Hersteller passiver Batteriezellkomponenten in Europa (Stand: Februar 2026). Erstellt wurde die Übersicht von Benedikt Späth und Prof. Dr. Heiner Heimes (PEM, RWTH Aachen). Über 50 Unternehmen in Europa Die Karte umfasst 58 Unternehmen: 53 mit ausgewiesenen Standorten in 14 Ländern sowie fünf europaweit aufgestellte Anbieter. Deutschland dominiert die Landschaft mit 27 Standorten und damit fast der Hälfte aller Einträge; weitere Cluster liegen in Österreich, Frankreich, Großbritannien und Ungarn. Zu den passiven Zellkomponenten zählen unter anderem Zellgehäuse, Aluminium- und Kupferfolien, Separatormaterialien, Dichtungen, Kleb- und Isolationsmaterialien sowie funktionale Beschichtungen – also jene Bestandteile einer Lithium-Ionen-Zelle, die nicht an der elektrochemischen Reaktion beteiligt sind. Die Karte steht in hoher Auflösung kostenfrei zum Download bereit. Die Übersicht erhebt keinen Anspruch auf Vollständigkeit – Hinweise und Ergänzungen nimmt die Redaktion gern über das Kontaktformular entgegen.</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/27/uebersicht-zu-komponenten-von-lithium-ionen-batterien-auf-zellebene-in-europa-2/">Übersicht zu Komponenten von Lithium-Ionen-Batterien auf Zellebene in Europa</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Battery-News präsentiert in Zusammenarbeit mit dem Lehrstuhl „Production Engineering of E-Mobility Components“ (PEM) der RWTH Aachen eine aktualisierte Karte der Hersteller passiver Batteriezellkomponenten in Europa (Stand: Februar 2026). Erstellt wurde die Übersicht von Benedikt Späth und Prof. Dr. Heiner Heimes (PEM, RWTH Aachen).</p>
+
+
+
+<h2 class="wp-block-heading">Über 50 Unternehmen in Europa</h2>
+
+
+
+<p>Die Karte umfasst 58 Unternehmen: 53 mit ausgewiesenen Standorten in 14 Ländern sowie fünf europaweit aufgestellte Anbieter. Deutschland dominiert die Landschaft mit 27 Standorten und damit fast der Hälfte aller Einträge; weitere Cluster liegen in Österreich, Frankreich, Großbritannien und Ungarn. Zu den passiven Zellkomponenten zählen unter anderem Zellgehäuse, Aluminium- und Kupferfolien, Separatormaterialien, Dichtungen, Kleb- und Isolationsmaterialien sowie funktionale Beschichtungen – also jene Bestandteile einer Lithium-Ionen-Zelle, die nicht an der elektrochemischen Reaktion beteiligt sind.</p>
+
+
+
+<p>Die Karte steht in hoher Auflösung <a href="https://battery-news.de/download-2/" target="_blank" rel="noreferrer noopener">kostenfrei zum Download </a>bereit. Die Übersicht erhebt keinen Anspruch auf Vollständigkeit – Hinweise und Ergänzungen nimmt die Redaktion gern über das Kontaktformular entgegen.</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/27/uebersicht-zu-komponenten-von-lithium-ionen-batterien-auf-zellebene-in-europa-2/">Übersicht zu Komponenten von Lithium-Ionen-Batterien auf Zellebene in Europa</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fortum stellt erste batterietaugliche Recyclingmuster aus Nickel, Kobalt und Lithium her</title>
+		<link>https://battery-news.de/2026/11/27/fortum-stellt-erste-batterietaugliche-recyclingmuster-aus-nickel-kobalt-und-lithium-her/</link>
+		
+		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Batterierecycling]]></category>
+		<guid isPermaLink="false">https://battery-news.de/?p=40441</guid>
+
+					<description><![CDATA[<p>Der finnische Energiekonzern Fortum hat erste Kundenmuster von batterietauglichem Nickelsulfat, Kobaltsulfat und Lithiumhydroxid aus recycelten Batterien hergestellt, wie das Unternehmen mitteilte. Laut Fortum stammen die Materialien aus einer Pilotkampagne seines Recyclingverfahrens der nächsten Generation am Standort Harjavalta in Finnland. Reagenzien im Kreislauf Nach Angaben von Fortum liegt der Kern des Verfahrens in der internen Kreislaufführung wichtiger Reagenzien, was Chemikalienverbrauch, Abfall und CO₂-Emissionen senkt. Statt externer Chemikalien nutzt der Prozess demnach sauberen Strom. Anssi Airas, Leiter von Fortum Battery Recycling, bezeichnete die Fähigkeit, diese Materialien an Kunden zu liefern, als wichtigen Schritt hin zu einer stärkeren regionalen Batterieversorgung in Europa. Anlagenkapazität, Produktionsmengen, Rückgewinnungsquoten und Kunden wurden nicht genannt, die bisherigen Ergebnisse stammen aus einer Pilotkampagne. Gefördert von EU und Finnland Der geplante Ausbau in Harjavalta wurde 2025 als strategisches Projekt im Rahmen des EU-Gesetzes über kritische Rohstoffe eingestuft. Zudem erhielt Fortum eine Förderzusage von Business Finland über 84,6 Millionen Euro (etwa 98 Millionen USD) und unterzeichnete eine Fördervereinbarung über bis zu 40 Millionen Euro (etwa 46 Millionen USD) aus dem EU-Innovationsfonds. Laut Fortum soll die geplante Anlage NEXT HYDROMET jährlich 3.000 Tonnen Schwarzmasse verarbeiten und dabei chromatografische Trennung sowie die elektrochemische Herstellung wichtiger Prozesschemikalien vor Ort nutzen. Quellen:https://batteriesnews.com/fortum-oyj-battery-recycling-reaches-key-milestone-with-battery-grade-recycled-nickel-cobalt-and-lithium-materials-produced-in-harjavalta/https://www.fortum.com/services/battery-recycling/next-hydromethttps://www.fortum.com/services/battery-recycling/news-and-releases/fortum-battery-recycling-receive-grant-business-finland</p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/27/fortum-stellt-erste-batterietaugliche-recyclingmuster-aus-nickel-kobalt-und-lithium-her/">Fortum stellt erste batterietaugliche Recyclingmuster aus Nickel, Kobalt und Lithium her</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Der finnische Energiekonzern Fortum hat erste Kundenmuster von batterietauglichem Nickelsulfat, Kobaltsulfat und Lithiumhydroxid aus recycelten Batterien hergestellt, wie das Unternehmen mitteilte. Laut Fortum stammen die Materialien aus einer Pilotkampagne seines Recyclingverfahrens der nächsten Generation am Standort Harjavalta in Finnland.</p>
+
+
+
+<h3 class="wp-block-heading">Reagenzien im Kreislauf</h3>
+
+
+
+<p>Nach Angaben von Fortum liegt der Kern des Verfahrens in der internen Kreislaufführung wichtiger Reagenzien, was Chemikalienverbrauch, Abfall und CO₂-Emissionen senkt. Statt externer Chemikalien nutzt der Prozess demnach sauberen Strom. Anssi Airas, Leiter von Fortum Battery Recycling, bezeichnete die Fähigkeit, diese Materialien an Kunden zu liefern, als wichtigen Schritt hin zu einer stärkeren regionalen Batterieversorgung in Europa. Anlagenkapazität, Produktionsmengen, Rückgewinnungsquoten und Kunden wurden nicht genannt, die bisherigen Ergebnisse stammen aus einer Pilotkampagne.</p>
+
+
+
+<h3 class="wp-block-heading">Gefördert von EU und Finnland</h3>
+
+
+
+<p>Der geplante Ausbau in Harjavalta wurde 2025 als strategisches Projekt im Rahmen des EU-Gesetzes über kritische Rohstoffe eingestuft. Zudem erhielt Fortum eine Förderzusage von Business Finland über 84,6 Millionen Euro (etwa 98 Millionen USD) und unterzeichnete eine Fördervereinbarung über bis zu 40 Millionen Euro (etwa 46 Millionen USD) aus dem EU-Innovationsfonds.</p>
+
+
+
+<p>Laut Fortum soll die geplante Anlage NEXT HYDROMET jährlich 3.000 Tonnen Schwarzmasse verarbeiten und dabei chromatografische Trennung sowie die elektrochemische Herstellung wichtiger Prozesschemikalien vor Ort nutzen.</p>
+
+
+
+<p><em>Quellen:<br><a href="https://batteriesnews.com/fortum-oyj-battery-recycling-reaches-key-milestone-with-battery-grade-recycled-nickel-cobalt-and-lithium-materials-produced-in-harjavalta/" target="_blank" rel="noreferrer noopener">https://batteriesnews.com/fortum-oyj-battery-recycling-reaches-key-milestone-with-battery-grade-recycled-nickel-cobalt-and-lithium-materials-produced-in-harjavalta/</a><br><a href="https://www.fortum.com/services/battery-recycling/next-hydromet" target="_blank" rel="noreferrer noopener">https://www.fortum.com/services/battery-recycling/next-hydromet</a><br><a href="https://www.fortum.com/services/battery-recycling/news-and-releases/fortum-battery-recycling-receive-grant-business-finland" target="_blank" rel="noreferrer noopener">https://www.fortum.com/services/battery-recycling/news-and-releases/fortum-battery-recycling-receive-grant-business-finland</a></em></p>
+<p>Der Beitrag <a href="https://battery-news.de/2026/11/27/fortum-stellt-erste-batterietaugliche-recyclingmuster-aus-nickel-kobalt-und-lithium-her/">Fortum stellt erste batterietaugliche Recyclingmuster aus Nickel, Kobalt und Lithium her</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>BASF startet Lieferung von Kathodenmaterial an CATL aus Schwarzheide</title>
 		<link>https://battery-news.de/2026/11/26/basf-startet-lieferung-von-kathodenmaterial-an-catl-aus-schwarzheide/</link>
 		
@@ -437,98 +514,6 @@ https://www.basf.com/global/en/media/news-releases/2026/11/p-26-192" target="_bl
 
 <p></p>
 <p>Der Beitrag <a href="https://battery-news.de/2026/11/20/mehr-kapazitaet-mehr-aufgaben-mehr-herausforderung/">Mehr Kapazität, mehr Aufgaben, mehr Herausforderung</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>GMG lässt Graphen-Batteriezellen im britischen UKBIC fertigen</title>
-		<link>https://battery-news.de/2026/11/20/gmg-laesst-graphen-batteriezellen-im-britischen-ukbic-fertigen/</link>
-		
-		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
-		<pubDate>Fri, 20 Nov 2026 07:00:00 +0000</pubDate>
-				<category><![CDATA[Batterieentwicklung]]></category>
-		<guid isPermaLink="false">https://battery-news.de/?p=40323</guid>
-
-					<description><![CDATA[<p>Der australische Graphenhersteller Graphene Manufacturing Group (GMG) hat eine erste Dienstleistungsvereinbarung mit dem UK Battery Industrialisation Centre (UKBIC) in Coventry unterzeichnet, wie das Unternehmen am 19. November mitteilte. Laut GMG soll das UKBIC die schnellladefähigen Graphen-Batteriezellen des Unternehmens fertigen und formieren, zunächst im Pouch-Format. Größere Formate sollen folgen. Material aus Brisbane, Zellen aus Coventry Wie es in der Mitteilung heißt, entwickelt und liefert GMG die Batteriematerialien weiterhin aus seinem Battery Development Centre in Brisbane, während das UKBIC die Zellfertigung übernimmt. GMG bezahlt die Leistungen und behält sämtliche Rechte am geistigen Eigentum. Nach Angaben des Unternehmens kann es so Investitionen in ein eigenes Werk für großformatige Zellen aufschieben, bis die Technologie weiter abgesichert ist. Berichten zufolge arbeitet GMG zudem weiterhin mit BIC Indiana in den USA zusammen. Frühes Entwicklungsstadium Produktionsmengen und einen Zeitplan nennt die Mitteilung nicht. Im Dezember 2025 hatte GMG seine Zellen als Graphen-Aluminium-Ionen-Batterien auf Technologiereifegrad 4 beschrieben und eine Energiedichte von 58 Wh/kg bei einstündiger Ladung sowie 26 Wh/kg bei sechsminütiger Ladung angegeben. Eine kleine kommerzielle Produktion war damals für 2027 geplant. Das UKBIC wurde im Juli 2021 als nationale Anlage für die Industrialisierung der Batteriefertigung eröffnet. Laut electrive wurde das 130 Millionen GBP (etwa 170 Millionen USD) teure Zentrum von der Faraday Battery Challenge der britischen Regierung und der West Midlands Combined Authority kofinanziert. Quellen:https://www.financialcontent.com/article/newsfile-2026-11-19-gmg-signs-service-agreement-with-the-uk-battery-industrialisation-centre-to-manufacture-grcells-in-the-united-kingdomhttps://www.nasdaq.com/press-release/gmg-unveils-graphene-aluminium-ion-battery-fully-charges-6-minutes-2025-12-15</p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/11/20/gmg-laesst-graphen-batteriezellen-im-britischen-ukbic-fertigen/">GMG lässt Graphen-Batteriezellen im britischen UKBIC fertigen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Der australische Graphenhersteller Graphene Manufacturing Group (GMG) hat eine erste Dienstleistungsvereinbarung mit dem UK Battery Industrialisation Centre (UKBIC) in Coventry unterzeichnet, wie das Unternehmen am 19. November mitteilte. Laut GMG soll das UKBIC die schnellladefähigen Graphen-Batteriezellen des Unternehmens fertigen und formieren, zunächst im Pouch-Format. Größere Formate sollen folgen.</p>
-
-
-
-<p><strong>Material aus Brisbane, Zellen aus Coventry</strong></p>
-
-
-
-<p>Wie es in der Mitteilung heißt, entwickelt und liefert GMG die Batteriematerialien weiterhin aus seinem Battery Development Centre in Brisbane, während das UKBIC die Zellfertigung übernimmt. GMG bezahlt die Leistungen und behält sämtliche Rechte am geistigen Eigentum. Nach Angaben des Unternehmens kann es so Investitionen in ein eigenes Werk für großformatige Zellen aufschieben, bis die Technologie weiter abgesichert ist. Berichten zufolge arbeitet GMG zudem weiterhin mit BIC Indiana in den USA zusammen.</p>
-
-
-
-<p><strong>Frühes Entwicklungsstadium</strong></p>
-
-
-
-<p>Produktionsmengen und einen Zeitplan nennt die Mitteilung nicht. Im Dezember 2025 hatte GMG seine Zellen als Graphen-Aluminium-Ionen-Batterien auf Technologiereifegrad 4 beschrieben und eine Energiedichte von 58 Wh/kg bei einstündiger Ladung sowie 26 Wh/kg bei sechsminütiger Ladung angegeben. Eine kleine kommerzielle Produktion war damals für 2027 geplant.</p>
-
-
-
-<p>Das UKBIC wurde im Juli 2021 als nationale Anlage für die Industrialisierung der Batteriefertigung eröffnet. Laut electrive wurde das 130 Millionen GBP (etwa 170 Millionen USD) teure Zentrum von der Faraday Battery Challenge der britischen Regierung und der West Midlands Combined Authority kofinanziert.</p>
-
-
-
-<p><em>Quellen:<br><a href="https://www.financialcontent.com/article/newsfile-2026-11-19-gmg-signs-service-agreement-with-the-uk-battery-industrialisation-centre-to-manufacture-grcells-in-the-united-kingdom" target="_blank" rel="noreferrer noopener">https://www.financialcontent.com/article/newsfile-2026-11-19-gmg-signs-service-agreement-with-the-uk-battery-industrialisation-centre-to-manufacture-grcells-in-the-united-kingdom</a><br><a href="https://www.nasdaq.com/press-release/gmg-unveils-graphene-aluminium-ion-battery-fully-charges-6-minutes-2025-12-15" target="_blank" rel="noreferrer noopener">https://www.nasdaq.com/press-release/gmg-unveils-graphene-aluminium-ion-battery-fully-charges-6-minutes-2025-12-15</a></em><br></p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/11/20/gmg-laesst-graphen-batteriezellen-im-britischen-ukbic-fertigen/">GMG lässt Graphen-Batteriezellen im britischen UKBIC fertigen</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>BMZ integriert digitale Batteriepässe in die EU-Serienfertigung</title>
-		<link>https://battery-news.de/2026/11/19/bmz-integriert-digitale-batteriepaesse-in-die-eu-serienfertigung/</link>
-		
-		<dc:creator><![CDATA[Gift Orwa]]></dc:creator>
-		<pubDate>Thu, 19 Nov 2026 07:00:00 +0000</pubDate>
-				<category><![CDATA[Batterieproduktion]]></category>
-		<guid isPermaLink="false">https://battery-news.de/?p=40298</guid>
-
-					<description><![CDATA[<p>Der Batteriesystemhersteller BMZ mit Sitz in Karlstein am Main führt digitale Batteriepässe für seine EU-Produktion in Deutschland und Polen ein. Laut einer Pressemitteilung vom 17. November hat das Unternehmen dafür den Berliner Softwareanbieter Minespider ausgewählt. Die Pässe sollen direkt aus den Produktionsdaten entstehen, statt in einem separaten Verwaltungsprozess erstellt zu werden. Ein Passansatz für alle Batterietypen Wie es in der Mitteilung heißt, sollen die Pässe die E-Auto-Batterien von BMZ, Batterien für leichte Verkehrsmittel wie E-Bikes sowie Industriebatterien abdecken. Produkt- und Herstellerdaten, Konformitätsunterlagen, Angaben zur Kreislauffähigkeit und Betriebsdaten werden demnach einer eindeutigen Batteriekennung zugeordnet und per QR-Code über öffentliche und berechtigungsbasierte Bereiche zugänglich gemacht. Minespider übernimmt Berichten zufolge Datenmapping, Gap-Analyse, Plattformeinrichtung und die Anbindung an die internen Fertigungssysteme von BMZ. Start bis Mitte Dezember Nach Angaben der Unternehmen soll das System bis Mitte Dezember 2026 bereitstehen. Zum Start sind manuelle Passerstellung und Chargen-Importe vorgesehen, ein API-basierter Datenaustausch für höhere Stückzahlen soll erst später folgen. Welche Produktionsvolumen das System abdeckt, wurde nicht genannt. Gemäß der EU-Batterieverordnung müssen E-Auto-Batterien, Batterien für leichte Verkehrsmittel sowie Industriebatterien mit mehr als 2 kWh ab dem 18. Februar 2027 beim Inverkehrbringen in der EU einen digitalen Batteriepass haben. Quellen:https://www.minespider.com/press/bmz-selects-minespider-to-integrate-digital-battery-passports-into-eu-battery-production</p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/11/19/bmz-integriert-digitale-batteriepaesse-in-die-eu-serienfertigung/">BMZ integriert digitale Batteriepässe in die EU-Serienfertigung</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Der Batteriesystemhersteller BMZ mit Sitz in Karlstein am Main führt digitale Batteriepässe für seine EU-Produktion in Deutschland und Polen ein. Laut einer Pressemitteilung vom 17. November hat das Unternehmen dafür den Berliner Softwareanbieter Minespider ausgewählt. Die Pässe sollen direkt aus den Produktionsdaten entstehen, statt in einem separaten Verwaltungsprozess erstellt zu werden.</p>
-
-
-
-<p><strong>Ein Passansatz für alle Batterietypen</strong></p>
-
-
-
-<p>Wie es in der Mitteilung heißt, sollen die Pässe die E-Auto-Batterien von BMZ, Batterien für leichte Verkehrsmittel wie E-Bikes sowie Industriebatterien abdecken. Produkt- und Herstellerdaten, Konformitätsunterlagen, Angaben zur Kreislauffähigkeit und Betriebsdaten werden demnach einer eindeutigen Batteriekennung zugeordnet und per QR-Code über öffentliche und berechtigungsbasierte Bereiche zugänglich gemacht. Minespider übernimmt Berichten zufolge Datenmapping, Gap-Analyse, Plattformeinrichtung und die Anbindung an die internen Fertigungssysteme von BMZ.</p>
-
-
-
-<p><strong>Start bis Mitte Dezember</strong></p>
-
-
-
-<p>Nach Angaben der Unternehmen soll das System bis Mitte Dezember 2026 bereitstehen. Zum Start sind manuelle Passerstellung und Chargen-Importe vorgesehen, ein API-basierter Datenaustausch für höhere Stückzahlen soll erst später folgen. Welche Produktionsvolumen das System abdeckt, wurde nicht genannt.</p>
-
-
-
-<p>Gemäß der EU-Batterieverordnung müssen E-Auto-Batterien, Batterien für leichte Verkehrsmittel sowie Industriebatterien mit mehr als 2 kWh ab dem 18. Februar 2027 beim Inverkehrbringen in der EU einen digitalen Batteriepass haben.</p>
-
-
-
-<p><em>Quellen:<br><a href="https://www.minespider.com/press/bmz-selects-minespider-to-integrate-digital-battery-passports-into-eu-battery-production" target="_blank" rel="noreferrer noopener">https://www.minespider.com/press/bmz-selects-minespider-to-integrate-digital-battery-passports-into-eu-battery-production</a><br></em></p>
-
-
-
-<p></p>
-<p>Der Beitrag <a href="https://battery-news.de/2026/11/19/bmz-integriert-digitale-batteriepaesse-in-die-eu-serienfertigung/">BMZ integriert digitale Batteriepässe in die EU-Serienfertigung</a> erschien zuerst auf <a href="https://battery-news.de">Battery-News</a>.</p>
 ]]></content:encoded>
 					
 		
